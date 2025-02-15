@@ -38,7 +38,7 @@ Los mapas requieren información dentro del meta.xml para que el servidor obteng
 
 Anteriormente, las etiquetas de mapas (*R/DD/TW/MG/SR*) se incluían directamente en el nombre del mapa. Ahora, por favor, inclúyelas como un atributo separado, de esta manera:
 ```xml
-<info gamemodes="race" type="map" name="Name" author="You" version="1.0" racetype="DD"></info>
+<info gamemodes="race" type="map" name="Nombre" author="Tú" version="1.0" racetype="DD"></info>
 ```
 
 
