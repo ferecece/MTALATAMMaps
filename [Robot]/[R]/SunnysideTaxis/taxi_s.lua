@@ -215,7 +215,10 @@ addEventHandler("pollFinished", resourceRoot, function(pollResult)
 	
 	-- The default top times manager does not respond to the above. So send it an event so it does
 	-- It appears that the leguaan server has their own thing for this, idk what. Strip this out for them
-	local timesManager = getResourceRootElement(getResourceFromName("race_toptimes2"))
+	local timesManager = getResourceRootElement(getResourceFromName("race_toptimes"))
+	if not timesManager then
+		timesManager = getResourceRootElement(getResourceFromName("race_toptimes2"))
+	end
 	local raceResRoot = getResourceRootElement(getResourceFromName("race"))
 	local raceInfo = raceResRoot and getElementData(raceResRoot, "info")
 	

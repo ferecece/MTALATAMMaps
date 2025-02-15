@@ -1,0 +1,12 @@
+<meta>
+    <info type="map" gamemodes="race" racetype="R" name="Bandito" author="Unknown" description="Bandito - first MTA map ever" version="1.1" team="SAM" />
+    <map src="R-Bandito.map" />
+    <settings>
+        <setting name="#weather" value="5"></setting>
+        <setting name="#respawn" value="timelimit"></setting>
+        <setting name="#duration" value="180"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server" validate="false"></script>
+</meta>

@@ -88,15 +88,15 @@ function drawStats()
 	for i = 1, 33 do
 		if statsPage < 4 then 
 			dxDrawText((i+statsPage*33).. ".", screenX*st_offsets[1], screenY*0.27 + offset, screenX*st_offsets[1]*1.105, screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic", "right")
-			dxDrawText(tostring(displayedRecords[i+statsPage*32]["vehiclename"]), screenX*(st_offsets[1]*1.12), screenY*0.27 + offset, screenX*st_offsets[1], screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic")
-			dxDrawText(tostring(displayedRecords[i+statsPage*32]["playername"]):gsub("#%x%x%x%x%x%x", ""), screenX*(st_offsets[1]*1.8), screenY*0.27 + offset, screenX*st_offsets[1], screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic")
-			dxDrawText(convertToRaceTime(displayedRecords[i+statsPage*32]["time"]), screenX*(st_offsets[1]+0.04), screenY*0.27 + offset, screenX*(st_offsets[1]+st_offsets[3]), screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic", "right")
+			dxDrawText(tostring(displayedRecords[i+statsPage*33]["vehiclename"]), screenX*(st_offsets[1]*1.12), screenY*0.27 + offset, screenX*st_offsets[1], screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic")
+			dxDrawText(tostring(displayedRecords[i+statsPage*33]["playername"]):gsub("#%x%x%x%x%x%x", ""), screenX*(st_offsets[1]*1.8), screenY*0.27 + offset, screenX*st_offsets[1], screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic")
+			dxDrawText(convertToRaceTime(displayedRecords[i+statsPage*33]["time"]), screenX*(st_offsets[1]+0.04), screenY*0.27 + offset, screenX*(st_offsets[1]+st_offsets[3]), screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic", "right")
 		else
-			if i < 32 then
+			if i < 33 then
 				dxDrawText((i+statsPage*33).. ".", screenX*st_offsets[1], screenY*0.27 + offset, screenX*st_offsets[1]*1.105, screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic", "right")
-				dxDrawText(tostring(displayedRecords[i+statsPage*32]["vehiclename"]), screenX*(st_offsets[1]*1.12), screenY*0.27 + offset, screenX*st_offsets[1], screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic")
-				dxDrawText(tostring(displayedRecords[i+statsPage*32]["playername"]):gsub("#%x%x%x%x%x%x", ""), screenX*(st_offsets[1]*1.8), screenY*0.27 + offset, screenX*st_offsets[1], screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic")
-				dxDrawText(convertToRaceTime(displayedRecords[i+statsPage*32]["time"]), screenX*(st_offsets[1]+0.04), screenY*0.27 + offset, screenX*(st_offsets[1]+st_offsets[3]), screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic", "right")
+				dxDrawText(tostring(displayedRecords[i+statsPage*33]["vehiclename"]), screenX*(st_offsets[1]*1.12), screenY*0.27 + offset, screenX*st_offsets[1], screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic")
+				dxDrawText(tostring(displayedRecords[i+statsPage*33]["playername"]):gsub("#%x%x%x%x%x%x", ""), screenX*(st_offsets[1]*1.8), screenY*0.27 + offset, screenX*st_offsets[1], screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic")
+				dxDrawText(convertToRaceTime(displayedRecords[i+statsPage*33]["time"]), screenX*(st_offsets[1]+0.04), screenY*0.27 + offset, screenX*(st_offsets[1]+st_offsets[3]), screenY, tocolor(175, 202, 230, statsAlpha), textSize, textSize, "bankgothic", "right")
 			end
 		end
 		

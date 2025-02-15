@@ -1,10 +1,7 @@
 <meta>
     <min_mta_version server="1.5.8-9.20957" client="1.6.0-9.22676"></min_mta_version>
-    <script src="newMapEditorScriptingExtension_s.lua" type="server"></script>
-    <script src="vehiclechange_c.lua" type="client"></script>
-    <script src="vehiclechange_s.lua" type="server"></script>
     <info gamemodes="race" type="map" racetype="R" name="Twenty Five Laps Of Nonsense" author="Discoordination" version="1.0.0" description="25 laps of this nonsense, yeah"></info>
-    <map src="TwentyFiveLapsOfNonsense.map" dimension="0"></map>
+    <map src="R-TwentyFiveLapsOfNonsense.map" dimension="0"></map>
     <settings>
         <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
         <setting name="#shufflespawns" value='[ &quot;false&quot; ]'></setting>
@@ -27,4 +24,7 @@
         <setting name="#classicchangez" value='[ &quot;false&quot; ]'></setting>
         <setting name="#duration" value="[ 1800 ]"></setting>
     </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server" validate="false"></script>
+    <script src="vehiclechange_s.lua" type="server" validate="false"></script>
+    <script src="vehiclechange_c.lua" type="client" validate="true"></script>
 </meta>

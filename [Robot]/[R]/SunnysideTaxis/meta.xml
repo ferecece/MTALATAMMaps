@@ -1,21 +1,5 @@
 <meta>
     <min_mta_version server="1.6.0-9.22596" client="1.6.0-9.22596"></min_mta_version>
-    <script src="taxi_c.lua" type="client" validate="true"></script>
-    <script src="taxi_s.lua" type="server"></script>
-
-    <file src="models/savanna.dff"></file>
-    <file src="models/savanna.txd"></file>
-    <file src="models/sultan.txd"></file>
-    <file src="models/sultan.dff"></file>
-    <file src="models/zebra.txd"></file>
-    <file src="models/zebra.dff"></file>
-    <file src="music/crazy.mp3"></file>
-    <file src="music/sultan.mp3"></file>
-    <file src="music/zebra.mp3"></file>
-    <file src="models/melrose08_lawn.txd"></file>
-    <file src="models/melrosetr_lawn.txd"></file>
-    <file src="models/cj_base5.txd"></file>
-
     <info gamemodes="race" type="map" racetype="R" name="Sunnyside Taxis" author="Discoordination" version="1.5" description="You are now working for Sunnyside Taxis. Complete all fares to finish your shift!"></info>
     <map src="R-SunnysideTaxis.map" dimension="0"></map>
     <settings>
@@ -39,6 +23,19 @@
         <setting name="#respawntime" value="[ 1 ]"></setting>
         <setting name="#disableraceghosts" value='[ true ]'></setting>
     </settings>
-    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
-    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <script src="mapEditorScriptingExtension_s.lua" type="server" validate="false"></script>
+    <script src="taxi_s.lua" type="server" validate="false"></script>
+    <script src="taxi_c.lua" type="client" validate="true"></script>
+    <file src="models/savanna.dff"></file>
+    <file src="models/savanna.txd"></file>
+    <file src="models/sultan.txd"></file>
+    <file src="models/sultan.dff"></file>
+    <file src="models/zebra.txd"></file>
+    <file src="models/zebra.dff"></file>
+    <file src="music/crazy.mp3"></file>
+    <file src="music/sultan.mp3"></file>
+    <file src="music/zebra.mp3"></file>
+    <file src="models/melrose08_lawn.txd"></file>
+    <file src="models/melrosetr_lawn.txd"></file>
+    <file src="models/cj_base5.txd"></file>
 </meta>

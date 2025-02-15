@@ -1,0 +1,11 @@
+<meta>
+    <info type="map" gamemodes="race" racetype="R" name="Hydra Race" author="Ransom" description="1st ever hydra race" version="0" />
+    <map src="R-HydraRace.map" />
+    <settings>
+        <setting name="#respawn" value="timelimit" />
+        <setting name="#duration" value="600" />
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]' />
+        <setting name="#respawntime" value="[ 1 ]" />
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]' />
+    </settings>
+</meta>
