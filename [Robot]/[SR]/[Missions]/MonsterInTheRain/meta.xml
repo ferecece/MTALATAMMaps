@@ -1,25 +1,22 @@
 <meta>
-    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
-    <info gamemodes="race" type="map" racetype="R" name="Treasure Island" author="loopqool" version="1.0.0"></info>
-    <map src="R-TreasureIsland.map" dimension="0"></map>
+    <info gamemodes="race" type="map" racetype="SR" name="Monster (in the Rain)" author="R*, ported by 123robot" description="Mike Toreno's first mission, but you got bad timecycle RNG" version="1.0.0"></info>
+    <map src="sr-monster.map" dimension="0"></map>
     <settings>
-        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
         <setting name="#maxplayers" value="[ 128 ]"></setting>
         <setting name="#useLODs" value="[ true ]"></setting>
         <setting name="#gamespeed" value="[ 1 ]"></setting>
         <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
-        <setting name="#time" value="12:0"></setting>
+        <setting name="#time" value="6:0"></setting>
         <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
         <setting name="#minplayers" value="[ 0 ]"></setting>
         <setting name="#respawntime" value="[ 1 ]"></setting>
         <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
         <setting name="#waveheight" value="[ 0 ]"></setting>
-        <setting name="#weather" value="[ 0 ]"></setting>
-        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#weather" value="[ 8 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
         <setting name="#duration" value="[ 1800 ]"></setting>
         <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
     </settings>
     <script src="mapEditorScriptingExtension_s.lua" type="server" validate="false"></script>
-    <file src="music.mp3"></file>
-    <script src="music.lua" type="client" validate="true"></script>
 </meta>

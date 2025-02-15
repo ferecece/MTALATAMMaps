@@ -221,7 +221,10 @@ addEventHandler("pollFinished", resourceRoot, function(pollResult)
 		customMapName = customMapName .. " (Full Experience)"
 		setMapName(customMapName)
 	
-		local timesManager = getResourceRootElement(getResourceFromName("race_toptimes2"))
+		local timesManager = getResourceRootElement(getResourceFromName("race_toptimes"))
+		if not (timesManager) then
+			timesManager = getResourceRootElement(getResourceFromName("race_toptimes2"))
+		end
 		local raceResRoot = getResourceRootElement(getResourceFromName("race"))
 		local raceInfo = raceResRoot and getElementData(raceResRoot, "info")
 		

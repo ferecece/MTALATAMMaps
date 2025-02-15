@@ -1,0 +1,30 @@
+<meta>
+    <info gamemodes="race" type="map" racetype="R" name="Qhapaq Ñan" author="LotsOfS" version="1.0.0" description="
+	Historical reenactment of part of the journey along the ancient Inca trading route. Factual information: This road system spanned almost the entire American continent, running from modern day San Andreas all the way down to what is now known as Villa Las Estrellas, Chile. It was commonly traversed by Mule (as in this reenactment), but also often on foot and sometimes on camelback.
+	
+	The Mule isn't fast, but you won't need speed on this race. Its sturdiness and difficulty at flipping will prove far more useful on this mostly off-road track.
+
+    MULE (414/611) edition of an &quot;a map for every vehicle&quot; challenge."></info>
+    <map src="aveh-414mule-new.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#time" value="6:15"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#timeafterfirstfinish" value="[ -1 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#countdownduration" value="[ -1 ]"></setting>
+        <setting name="#respawntime" value="[ 0 ]"></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

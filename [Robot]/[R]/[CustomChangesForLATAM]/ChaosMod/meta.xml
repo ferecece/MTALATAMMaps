@@ -1,0 +1,66 @@
+<meta>
+    <min_mta_version server="1.6.0-9.21765" client="1.6.0-9.22420"></min_mta_version>
+    <info gamemodes="race" type="map" racetype="R" name="Chaos Mod" author="Discoordination" version="0.69" description="Enjoy a random effect every 10 seconds! Current number of effects is 210."></info>
+    <map src="R-ChaosMod.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value="[ 83 ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#timeafterfirstfinish" value="[ -1 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#hunterminigun" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#countdownduration" value="[ -1 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server" validate="false"></script>
+    <script src="chaos_s.lua" type="server" validate="false"></script>
+    <script src="chaos_c.lua" type="client" validate="true"></script>
+    <script src="snowy_c.lua" type="client" validate="true"></script>
+    <script src="scoreboard_s.lua" type="server" validate="false"></script>
+    <script src="scoreboard_c.lua" type="client" validate="true"></script>
+    <file src="s.mp3"></file>
+    <file src="bin/rageitalic.ttf"></file>
+    <file src="bin/image.png"></file>
+    <file src="bin/peppa.png"></file>
+    <file src="bin/shader.fx"></file>
+    <file src="bin/blackwhite.fx"></file>
+    <file src="bin/mta-helper.fx"></file>
+    <file src="bin/smallnoise3d.dds"></file>
+    <file src="bin/snow_ground.fx"></file>
+    <file src="bin/snow_naughty_trees.fx"></file>
+    <file src="bin/snow_trees.fx"></file>
+    <file src="bin/texRep.fx"></file>
+    <file src="bin/flakes/cartoon_tile.png"></file>
+    <file src="bin/flakes/real_tile.png"></file>
+    <file src="bin/textures/bush.png"></file>
+    <file src="bin/textures/CTP_tire_style1.png"></file>
+    <file src="bin/textures/CTP_tire_style2.png"></file>
+    <file src="bin/textures/grass.png"></file>
+    <file src="bin/textures/ground.png"></file>
+    <file src="bin/textures/kb_ivy2_256.png"></file>
+    <file src="bin/textures/lowground.png"></file>
+    <file src="bin/textures/newhedgea.png"></file>
+    <file src="bin/textures/Newtreed256.png"></file>
+    <file src="bin/textures/newtreeleaves128.png"></file>
+    <file src="bin/textures/newtreeleavesb128.png"></file>
+    <file src="bin/textures/rails.png"></file>
+    <file src="bin/textures/road.png"></file>
+    <file src="bin/textures/road2.png"></file>
+    <file src="bin/textures/snowflake.png"></file>
+    <file src="bin/textures/snowflakes.png"></file>
+    <file src="bin/textures/thread.png"></file>
+    <file src="bin/textures/tire_CTP.png"></file>
+    <file src="bin/textures/tiretrack.png"></file>
+    <file src="bin/textures/vehicletyres128.png"></file>
+    <file src="bin/textures/wheel_tire_SS.png"></file>
+</meta>
