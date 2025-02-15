@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="Random Race" author="Kasha666. Script by Crazy" />
+  <map src="R-RandomRace.map" />
+  <script src="server.lua" type="server" />
+  <settings>
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#ghostmode" value='[ &quot;true&quot; ]' />
+    <setting name="#respawntime" value="[ 1 ]" />
+  </settings>
+</meta>

@@ -1,0 +1,29 @@
+<map edf:definitions="race,editor_main">
+    <marker id="marker_tanker_commander" type="cylinder" color="#FE000080" size="3" interior="0" dimension="1" alpha="255" posX="651.7002" posY="-559.7998" posZ="15.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker_against_all_odds" type="cylinder" color="#FE000080" size="3" interior="0" dimension="1" alpha="255" posX="1292.7998" posY="269.2998" posZ="18.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker_small_town_bank" type="cylinder" color="#FF000080" size="3" interior="0" dimension="1" alpha="255" posX="2299" posY="-12.6" posZ="25.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker_liquor_store" type="cylinder" color="#FF000080" size="3" interior="0" dimension="1" alpha="255" posX="248.8" posY="-66.6" posZ="0.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <vehicle id="tanker_commander_tanker" sirens="false" paintjob="3" interior="0" alpha="255" model="514" plate="LRH2E62" dimension="1" color="39,47,75,245,245,245,0,0,0,0,0,0" posX="659" posY="-583.90002" posZ="17" rotX="0" rotY="0" rotZ="180"></vehicle>
+    <vehicle id="tanker_commander_trailer" sirens="false" paintjob="3" interior="0" alpha="255" model="584" plate="UTQOZRY" dimension="1" color="245,245,245,245,245,245,0,0,0,0,0,0" posX="659.09998" posY="-573.40002" posZ="17.5" rotX="0" rotY="0" rotZ="180"></vehicle>
+    <marker id="marker_tanker_commander_finish" type="cylinder" color="#FE000080" size="5" interior="0" dimension="1" alpha="255" posX="-45.7" posY="-1143.7" posZ="0" rotX="0" rotY="0" rotZ="0"></marker>
+    <vehicle id="against_all_odds_buffalo" sirens="false" paintjob="3" interior="0" alpha="255" model="402" plate="Z5MYA9N" dimension="1" color="127,105,86,127,105,86,0,0,0,0,0,0" posX="1296.3" posY="276.89999" posZ="19.5" rotX="0" rotY="0" rotZ="156"></vehicle>
+    <pickup id="against_all_odds_bribe_1" type="health" interior="0" amount="100" respawn="30000" dimension="1" alpha="255" posX="859.29999" posY="347.89999" posZ="19.9" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="against_all_odds_bribe_2" type="health" interior="0" amount="100" respawn="30000" dimension="1" alpha="255" posX="292.29999" posY="110.7" posZ="4.3" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="against_all_odds_bribe_3" type="health" interior="0" amount="100" respawn="30000" dimension="1" alpha="255" posX="85.1" posY="-127.8" posZ="1.2" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="against_all_odds_bribe_4" type="health" interior="0" amount="100" respawn="30000" dimension="1" alpha="255" posX="261.7002" posY="-149.2998" posZ="1.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <marker id="marker_next_mission" type="cylinder" color="#FF000080" size="3" interior="0" dimension="1" alpha="255" posX="867" posY="-32.09961" posZ="62.1" rotX="0" rotY="0" rotZ="0"></marker>
+    <object id="object (cr_door_03) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="2946" doublesided="false" scale="1" dimension="0" posX="2303.991" posY="-14.6" posZ="25.76" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (cr_door_03) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="2946" doublesided="false" scale="1" dimension="0" posX="2303.98" posY="-17.8" posZ="25.76" rotX="0" rotY="0" rotZ="0"></object>
+    <vehicle id="small_town_bank_hpv" sirens="false" paintjob="3" interior="0" alpha="255" model="523" plate="8BTUBR4" dimension="1" color="0,0,0,0,0,0,0,0,0,0,0,0" posX="2321.7" posY="67.6" posZ="26.1" rotX="0" rotY="0" rotZ="346"></vehicle>
+    <marker id="small_town_bank_catalina" type="cylinder" color="#FF000080" size="7" interior="0" dimension="1" alpha="255" posX="1296.5" posY="246.09961" posZ="16.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <vehicle id="tanker_commander_bobcat" sirens="false" paintjob="3" interior="0" alpha="255" model="422" plate="MYHY9Z0" dimension="1" color="31,37,59,63,62,69,0,0,0,0,0,0" posX="-92.9" posY="-1129.3" posZ="1.2" rotX="0" rotY="0" rotZ="336"></vehicle>
+    <vehicle id="liquor_store_quadbike" sirens="false" paintjob="3" interior="0" alpha="255" model="471" plate="64T2BGH" dimension="1" color="96,26,35,54,65,85,0,0,0,0,0,0" posX="248.7" posY="-75.7" posZ="1" rotX="0" rotY="0" rotZ="270"></vehicle>
+    <pickup id="liquor_store_briefcase_1" type="health" interior="0" amount="100" respawn="30000" dimension="1" alpha="255" posX="500.5" posY="50.4" posZ="18.9" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="liquor_store_briefcase_3" type="health" interior="0" amount="100" respawn="30000" dimension="1" alpha="255" posX="1216.5" posY="113" posZ="22.1" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="liquor_store_briefcase_2" type="health" interior="0" amount="100" respawn="30000" dimension="1" alpha="255" posX="924.40002" posY="194.5" posZ="34.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <spawnpoint id="spawnpoint (Wayfarer) (1)" vehicle="586" posX="681.7002" posY="-482.2998" posZ="15.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <checkpoint id="pseudo_checkpoint" type="corona" color="#00F9" size="1" posX="872" posY="-21" posZ="180" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <vehicle id="buffalo_catalina" sirens="false" paintjob="3" interior="0" alpha="255" model="402" plate="YKS181B" dimension="1" color="66,31,33,66,31,33,0,0,0,0,0,0" posX="888.70001" posY="-25" posZ="63.2" rotX="0" rotY="0" rotZ="159.25"></vehicle>
+	<removeWorldObject id="removeWorldObject (petrolpumpnew) (1)" radius="3.5507746" interior="-1" model="1686" lodModel="0" posX="655.66406" posY="-571.21094" posZ="15.35938" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (2)" radius="3.5507746" interior="-1" model="1686" lodModel="0" posX="655.66406" posY="-560.54687" posZ="15.35938" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

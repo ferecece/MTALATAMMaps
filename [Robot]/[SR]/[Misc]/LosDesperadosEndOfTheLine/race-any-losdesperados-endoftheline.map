@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Blade) (1)" vehicle="536" posX="1772.096" posY="-2125.103" posZ="13.5469" rotX="0" rotY="0" rotZ="0.344"></spawnpoint>
+    <object id="object (arrow) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="1928.5" posY="-2081.5" posZ="29" rotX="90" rotY="0" rotZ="0"></object>
+    <object id="object (arrow) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="1966.7" posY="-1733.8" posZ="21.5" rotX="90" rotY="0" rotZ="270"></object>
+    <object id="object (arrow) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="2499.5" posY="-1735.7" posZ="27.1" rotX="90" rotY="0" rotZ="0"></object>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#19437199" size="2.25" posX="2514.5" posY="-1676.7" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

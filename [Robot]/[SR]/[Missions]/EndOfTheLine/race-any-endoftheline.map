@@ -1,0 +1,18 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Greenwood) (1)" vehicle="492" posX="2507.823" posY="-1671.88" posZ="13.1678" rotX="0" rotY="0" rotZ="347.15"></spawnpoint>
+    <object id="object (la_fuckcar1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3594" doublesided="false" scale="1" dimension="0" posX="2342.5" posY="-1547.1" posZ="23.5" rotX="0" rotY="0" rotZ="270"></object>
+    <ped id="ped (1)" dimension="0" model="102" interior="0" rotZ="170.003" frozen="false" alpha="255" posX="2345" posY="-1545.4" posZ="23.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="102" interior="0" rotZ="160.003" frozen="false" alpha="255" posX="2341" posY="-1545.2" posZ="23.8" rotX="0" rotY="0"></ped>
+    <object id="object (la_fuckcar1) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3594" doublesided="false" scale="1" dimension="0" posX="2511.7" posY="-1432" posZ="28" rotX="0" rotY="0" rotZ="274"></object>
+    <ped id="ped (3)" dimension="0" model="103" interior="0" rotZ="180.003" frozen="false" alpha="255" posX="2509.4" posY="-1430.3" posZ="28.4" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" dimension="0" model="103" interior="0" rotZ="176.003" frozen="false" alpha="255" posX="2513.4" posY="-1430.3" posZ="28.4" rotX="0" rotY="0"></ped>
+    <object id="object (la_fuckcar1) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3594" doublesided="false" scale="1" dimension="0" posX="2464" posY="-1444.8" posZ="24" rotX="0" rotY="0" rotZ="181.999"></object>
+    <ped id="ped (5)" dimension="0" model="104" interior="0" rotZ="90.003" frozen="false" alpha="255" posX="2466.1" posY="-1442.6" posZ="24.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" dimension="0" model="104" interior="0" rotZ="90.003" frozen="false" alpha="255" posX="2466.1" posY="-1446.8" posZ="24.8" rotX="0" rotY="0"></ped>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#80FE2699" size="4" posX="2507.82" posY="-1309.226" posZ="33.6726" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (arrow) (1)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="2422.2" posY="-1733.2" posZ="24" rotX="90" rotY="0" rotZ="0"></object>
+    <object id="object (arrow) (2)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="2324.9" posY="-1661" posZ="24" rotX="90" rotY="0" rotZ="0"></object>
+    <object id="object (arrow) (3)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="2342.4" posY="-1454.2" posZ="38.9" rotX="90" rotY="0" rotZ="270"></object>
+    <object id="object (arrow) (4)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="2428.8" posY="-1424.8" posZ="38.9" rotX="90" rotY="0" rotZ="270"></object>
+    <object id="object (arrow) (5)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="2529.3" posY="-1446.8" posZ="43.2" rotX="90" rotY="0" rotZ="0"></object>
+</map>

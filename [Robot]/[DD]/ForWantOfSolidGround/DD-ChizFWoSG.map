@@ -1,0 +1,498 @@
+<map edf:definitions="race,editor_main">
+    <!-- Note concerning billboards
+         The following billboards are basically the same model, but use different textures.
+         Change the IDs and use custom textures as desired.
+         
+         vgwestbillbrd1       7900
+         vgwestbillbrd02      7901
+         vgwestbillbrd07      7906
+         vgwestbillbrd08      7907
+         vgwestbillbrd09      7908
+         vgwestbillbrd10      7909
+         vgwestbillbrd11      7910
+         vgwestbillbrd12      7911
+         vgwestbillbrd13      7912
+         vgwestbillbrd14      7913
+         vgwestbillbrd15      7914
+         vgwestbillbrd16      7915
+         vgEastbillbrd02      9188
+         vgEastbillbrd01      9190
+         vgEastbillbrd03      9191
+    -->
+    <-- The centre point is 3867,-1837.5 -->
+         
+    
+    <!-- centre platform -->
+    <object id="object (towerlan2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="4585" scale="1" dimension="0" posX="3867" posY="-1837.5" posZ="39" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (waterjump1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3867" posY="-1847.5" posZ="140" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (waterjump1) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3877" posY="-1837.5" posZ="140" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (waterjump1) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3867" posY="-1827.5" posZ="140" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (waterjump1) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3857" posY="-1837.5" posZ="140" rotX="0" rotY="0" rotZ="270"></object>
+    <racepickup id="racepickup (nitro)(1)" type="nitro" vehicle="522" respawn="0" posX="3867" posY="-1837.5" posZ="144.2" rotX="0" rotY="0" rotZ="348.66"></racepickup>
+    
+    <!-- south platform -->
+    <object id="platform (stadiumroof_SFS)(s)" interior="0" collisions="true" alpha="255" doublesided="true" model="10955" scale="1" dimension="0" posX="3867" posY="-1957.75" posZ="122.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="platwall (stadiumroof_SFS)(sw)" interior="0" collisions="true" alpha="255" doublesided="true" model="10955" scale="1" dimension="0" posX="3867" posY="-1990" posZ="154.7" rotX="270" rotY="179.995" rotZ="179.995"></object>
+    <object id="billboard (vgwestbillbrd15)(s)" interior="0" alpha="255" doublesided="false" model="7914" scale="3" dimension="0" posX="3867" posY="-1972" posZ="163.5" rotX="0" rotY="0" rotZ="180"></object>
+    
+    <object id="ramp 2-hay (carter-stairs01)(s1)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3876.5" posY="-1937" posZ="135.75" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="ramp 2-hay (carter-stairs01)(s2)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3876.5" posY="-1933" posZ="135.75" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="ramp 2-3 (roofstuff15)(se1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3896.25" posY="-1957.75" posZ="138" rotX="4.5" rotY="0" rotZ="90"></object>
+    <object id="ramp 2-3 (roofstuff15)(se2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3891.4" posY="-1940.5" posZ="138" rotX="4.5" rotY="0" rotZ="125"></object>
+    <object id="ramp 1-2 (roofstuff15)(se3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3932.75" posY="-1957.75" posZ="130" rotX="12" rotY="0" rotZ="90"></object>
+    <object id="ramp 1-2 (roofstuff15)(se4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3920.5" posY="-1917" posZ="130" rotX="12" rotY="0" rotZ="125"></object>
+    <object id="ramp 2-hay (carter-stairs01)(s3)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3857.5" posY="-1937" posZ="135.75" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="ramp 2-hay (carter-stairs01)(s4)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3857.5" posY="-1933" posZ="135.75" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="ramp 2-3 (roofstuff15)(sw1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3837.75" posY="-1957.75" posZ="138" rotX="4.5" rotY="0" rotZ="270"></object>
+    <object id="ramp 2-3 (roofstuff15)(sw2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3842.6" posY="-1940.5" posZ="138" rotX="4.5" rotY="0" rotZ="235"></object>
+    <object id="ramp 1-2 (roofstuff15)(se3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3801.25" posY="-1957.75" posZ="130" rotX="12" rotY="0" rotZ="270"></object>
+    <object id="ramp 1-2 (roofstuff15)(se4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3813.5" posY="-1917" posZ="130" rotX="12" rotY="0" rotZ="235"></object>
+    <object id="object (LAroakt1_30_LAs) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="5013" scale="1" dimension="0" posX="3959" posY="-1929.5" posZ="126.3" rotX="0" rotY="0" rotZ="225"></object>
+    <object id="object (fukxroad07) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="5436" scale="1" dimension="0" posX="3900.25" posY="-1870.75" posZ="130.75" rotX="0" rotY="0" rotZ="45"></object>
+    <object id="object (landjump2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3890" posY="-1860.5" posZ="135.5" rotX="10" rotY="0" rotZ="45"></object>
+    
+    <object id="object (SW_haybreak02)(s101)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1938" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s102)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1934" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s103)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1930" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s104)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1926" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s105)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1922" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s106)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1918" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s107)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1914" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s108)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1910" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s109)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1906" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s110)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1902" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s111)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1898" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s112)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1894" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s113)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1890" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s114)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1886" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s115)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1882" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s116)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1878" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s117)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1874" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s118)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1870" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s119)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1866" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s120)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1862" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s121)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1858" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s201)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1938" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s202)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1934" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s203)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1930" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s204)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1926" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s205)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1922" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s206)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1918" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s207)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1914" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s208)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1910" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s209)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1906" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s210)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1902" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s211)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1898" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s212)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1894" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s213)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1890" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s214)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1886" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s215)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1882" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s216)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1878" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s217)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1874" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s218)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1870" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s219)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1866" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s220)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1862" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s221)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1858" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s301)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1938" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s302)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1934" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s303)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1930" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s304)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1926" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s305)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1922" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s306)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1918" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s307)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1914" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s308)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1910" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s309)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1906" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s310)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1902" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s311)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1898" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s312)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1894" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s313)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1890" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s314)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1886" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s315)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1882" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s316)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1878" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s317)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1874" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s318)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1870" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s319)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1866" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s320)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1862" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+    <object id="object (SW_haybreak02)(s321)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1858" posZ="137.25" rotX="0" rotY="0" rotZ="90" ></object>
+
+    <spawnpoint id="spawnpoint (DmgGlendale)(s101)" vehicle="604" alpha="255" interior="0" posX="3922" posY="-1960" posZ="133.5" rotX="0" rotY="9.998" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s102)" vehicle="604" alpha="255" interior="0" posX="3917" posY="-1960" posZ="134.5" rotX="0" rotY="10" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s103)" vehicle="604" alpha="255" interior="0" posX="3912" posY="-1960" posZ="135.25" rotX="0" rotY="9.998" rotZ="0"></spawnpoint>
+
+    <spawnpoint id="spawnpoint (DmgGlendale)(s201)" vehicle="604" alpha="255" interior="0" posX="3882" posY="-1960" posZ="142.25" rotX="0" rotY="4.999" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s202)" vehicle="604" alpha="255" interior="0" posX="3877" posY="-1960" posZ="142.5" rotX="0" rotY="5" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s203)" vehicle="604" alpha="255" interior="0" posX="3872" posY="-1960" posZ="142.85" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s203)" vehicle="604" alpha="255" interior="0" posX="3872" posY="-1952" posZ="142.85001" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s204)" vehicle="604" alpha="255" interior="0" posX="3867" posY="-1960" posZ="143" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s204)" vehicle="604" alpha="255" interior="0" posX="3867" posY="-1952" posZ="143" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s205)" vehicle="604" alpha="255" interior="0" posX="3862" posY="-1960" posZ="142.85" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s205)" vehicle="604" alpha="255" interior="0" posX="3862" posY="-1952" posZ="142.85001" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s206)" vehicle="604" alpha="255" interior="0" posX="3857" posY="-1960" posZ="142.5" rotX="0" rotY="355" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s207)" vehicle="604" alpha="255" interior="0" posX="3852" posY="-1960" posZ="142.25" rotX="0" rotY="354.996" rotZ="0"></spawnpoint>
+
+    <spawnpoint id="spawnpoint (DmgGlendale)(s301)" vehicle="604" alpha="255" interior="0" posX="3822" posY="-1960" posZ="135.25" rotX="0" rotY="349.997" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s302)" vehicle="604" alpha="255" interior="0" posX="3817" posY="-1960" posZ="134.5" rotX="0" rotY="350" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s303)" vehicle="604" alpha="255" interior="0" posX="3812" posY="-1960" posZ="133.5" rotX="0" rotY="349.997" rotZ="0"></spawnpoint>
+
+    <!-- west platform -->
+    <object id="platform (stadiumroof_SFS)(s)" interior="0" collisions="true" alpha="255" doublesided="true" model="10955" scale="1" dimension="0" posX="3986.75" posY="-1838" posZ="122.4" rotX="0" rotY="0" rotZ="90" ></object> 
+    <object id="platwall (stadiumroof_SFS)(sw)" interior="0" collisions="true" alpha="255" doublesided="true" model="10955" scale="1" dimension="0" posX="4019" posY="-1838" posZ="154.7" rotX="270" rotY="179.995" rotZ="269.995" ></object> 
+    <object id="billboard (vgwestbillbrd15)(s)" interior="0" alpha="255" doublesided="false" model="7914" scale="3" dimension="0" posX="4001" posY="-1838" posZ="163.5" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s1)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3966" posY="-1828.5" posZ="135.75" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s2)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3962" posY="-1828.5" posZ="135.75" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(se1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3986.75" posY="-1808.75" posZ="138" rotX="4.5" rotY="0" rotZ="180" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(se2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3969.5" posY="-1813.6" posZ="138" rotX="4.5" rotY="0" rotZ="215" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3986.75" posY="-1772.25" posZ="130" rotX="12" rotY="0" rotZ="180" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3946" posY="-1784.5" posZ="130" rotX="12" rotY="0" rotZ="215" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s3)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3966" posY="-1847.5" posZ="135.75" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s4)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3962" posY="-1847.5" posZ="135.75" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(sw1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3986.75" posY="-1867.25" posZ="138" rotX="4.5" rotY="0" rotZ="360" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(sw2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3969.5" posY="-1862.4" posZ="138" rotX="4.5" rotY="0" rotZ="325" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3986.75" posY="-1903.75" posZ="130" rotX="12" rotY="0" rotZ="360" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3946" posY="-1891.5" posZ="130" rotX="12" rotY="0" rotZ="325" ></object> 
+    <object id="object (LAroakt1_30_LAs) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="5013" scale="1" dimension="0" posX="3958.5" posY="-1746" posZ="126.3" rotX="0" rotY="0" rotZ="315" ></object> 
+    <object id="object (fukxroad07) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="5436" scale="1" dimension="0" posX="3899.75" posY="-1804.75" posZ="130.75" rotX="0" rotY="0" rotZ="135" ></object> 
+    <object id="object (landjump2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3889.5" posY="-1815" posZ="135.5" rotX="10" rotY="0" rotZ="135" ></object> 
+    <object id="object (SW_haybreak02)(s101)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3967" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s102)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3963" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s103)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3959" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s104)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3955" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s105)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3951" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s106)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3947" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s107)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3943" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s108)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3939" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s109)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3935" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s110)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3931" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s111)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3927" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s112)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3923" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s113)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3919" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s114)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3915" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s115)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3911" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s116)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3907" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s117)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3903" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s118)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3899" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s119)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3895" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s120)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3891" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s121)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3887" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s201)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3967" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s202)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3963" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s203)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3959" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s204)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3955" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s205)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3951" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s206)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3947" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s207)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3943" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s208)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3939" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s209)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3935" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s210)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3931" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s211)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3927" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s212)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3923" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s213)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3919" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s214)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3915" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s215)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3911" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s216)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3907" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s217)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3903" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s218)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3899" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s219)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3895" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s220)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3891" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s221)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3887" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s301)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3967" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s302)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3963" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s303)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3959" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s304)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3955" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s305)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3951" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s306)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3947" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s307)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3943" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s308)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3939" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s309)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3935" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s310)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3931" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s311)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3927" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s312)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3923" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s313)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3919" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s314)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3915" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s315)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3911" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s316)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3907" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s317)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3903" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s318)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3899" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s319)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3895" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s320)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3891" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="object (SW_haybreak02)(s321)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3887" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="180" ></object> 
+    <spawnpoint id="spawnpoint (DmgGlendale)(s101)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1783" posZ="133.5" rotX="0" rotY="10" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s102)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1788" posZ="134.5" rotX="0" rotY="9.998" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s103)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1793" posZ="135.25" rotX="0" rotY="10" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s201)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1823" posZ="142.25" rotX="0" rotY="4.999" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s202)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1828" posZ="142.5" rotX="0" rotY="5" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s203)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1833" posZ="142.85" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s203b)" vehicle="604" alpha="255" interior="0" posX="3981" posY="-1833" posZ="142.85001" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s204)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1838" posZ="143" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s204b)" vehicle="604" alpha="255" interior="0" posX="3981" posY="-1838" posZ="143" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s205)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1843" posZ="142.85" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s205b)" vehicle="604" alpha="255" interior="0" posX="3981" posY="-1843" posZ="142.85001" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s206)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1848" posZ="142.5" rotX="0" rotY="355" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s207)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1853" posZ="142.25" rotX="0" rotY="354.996" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s301)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1883" posZ="135.25" rotX="0" rotY="350" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s302)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1888" posZ="134.5" rotX="0" rotY="349.997" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s303)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1893" posZ="133.5" rotX="0" rotY="350" rotZ="90"></spawnpoint>
+
+    <!-- north platform -->
+        <object id="platform (stadiumroof_SFS)(s)" interior="0" collisions="true" alpha="255" doublesided="true" model="10955" scale="1" dimension="0" posX="3867" posY="-1718.25" posZ="122.4" rotX="0" rotY="0" rotZ="180" ></object> 
+    <object id="platwall (stadiumroof_SFS)(sw)" interior="0" collisions="true" alpha="255" doublesided="true" model="10955" scale="1" dimension="0" posX="3867" posY="-1686" posZ="154.7" rotX="270" rotY="179.995" rotZ="359.995" ></object> 
+    <object id="billboard (vgwestbillbrd15)(s)" interior="0" alpha="255" doublesided="false" model="7914" scale="3" dimension="0" posX="3867" posY="-1704" posZ="163.5" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s1)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3857.5" posY="-1739" posZ="135.75" rotX="0" rotY="0" rotZ="450" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s2)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3857.5" posY="-1743" posZ="135.75" rotX="0" rotY="0" rotZ="450" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(se1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3837.75" posY="-1718.25" posZ="138" rotX="4.5" rotY="0" rotZ="270" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(se2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3842.6" posY="-1735.5" posZ="138" rotX="4.5" rotY="0" rotZ="305" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3801.25" posY="-1718.25" posZ="130" rotX="12" rotY="0" rotZ="270" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3813.5" posY="-1759" posZ="130" rotX="12" rotY="0" rotZ="305" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s3)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3876.5" posY="-1739" posZ="135.75" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s4)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3876.5" posY="-1743" posZ="135.75" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(sw1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3896.25" posY="-1718.25" posZ="138" rotX="4.5" rotY="0" rotZ="450" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(sw2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3891.4" posY="-1735.5" posZ="138" rotX="4.5" rotY="0" rotZ="415" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3932.75" posY="-1718.25" posZ="130" rotX="12" rotY="0" rotZ="450" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3920.5" posY="-1759" posZ="130" rotX="12" rotY="0" rotZ="415" ></object> 
+    <object id="object (LAroakt1_30_LAs) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="5013" scale="1" dimension="0" posX="3775" posY="-1746.5" posZ="126.3" rotX="0" rotY="0" rotZ="405" ></object> 
+    <object id="object (fukxroad07) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="5436" scale="1" dimension="0" posX="3833.75" posY="-1805.25" posZ="130.75" rotX="0" rotY="0" rotZ="225" ></object> 
+    <object id="object (landjump2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3844" posY="-1815.5" posZ="135.5" rotX="10" rotY="0" rotZ="225" ></object> 
+    <object id="object (SW_haybreak02)(s101)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1738" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s102)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1742" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s103)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1746" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s104)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1750" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s105)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1754" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s106)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1758" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s107)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1762" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s108)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1766" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s109)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1770" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s110)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1774" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s111)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1778" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s112)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1782" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s113)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1786" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s114)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1790" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s115)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1794" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s116)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1798" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s117)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1802" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s118)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1806" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s119)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1810" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s120)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1814" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s121)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3871.25" posY="-1820" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s201)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1738" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s202)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1742" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s203)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1746" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s204)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1750" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s205)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1754" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s206)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1758" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s207)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1762" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s208)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1766" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s209)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1770" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s210)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1774" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s211)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1778" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s212)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1782" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s213)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1786" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s214)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1790" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s215)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1794" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s216)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1798" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s217)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1802" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s218)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1806" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s219)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1810" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s220)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1814" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s221)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3867" posY="-1820" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s301)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1738" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s302)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1742" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s303)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1746" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s304)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1750" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s305)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1754" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s306)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1758" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s307)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1762" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s308)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1766" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s309)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1770" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s310)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1774" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s311)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1778" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s312)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1782" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s313)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1786" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s314)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1790" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s315)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1794" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s316)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1798" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s317)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1802" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s318)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1806" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s319)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1810" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s320)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1814" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="object (SW_haybreak02)(s321)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3862.75" posY="-1820" posZ="137.25" rotX="0" rotY="0" rotZ="270" ></object> 
+    <spawnpoint id="spawnpoint (DmgGlendale)(s101)" vehicle="604" alpha="255" interior="0" posX="3812" posY="-1716" posZ="133.5" rotX="0" rotY="9.998" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s102)" vehicle="604" alpha="255" interior="0" posX="3817" posY="-1716" posZ="134.5" rotX="0" rotY="10" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s103)" vehicle="604" alpha="255" interior="0" posX="3822" posY="-1716" posZ="135.25" rotX="0" rotY="9.998" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s201)" vehicle="604" alpha="255" interior="0" posX="3852" posY="-1716" posZ="142.25" rotX="0" rotY="4.999" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s202)" vehicle="604" alpha="255" interior="0" posX="3857" posY="-1716" posZ="142.5" rotX="0" rotY="5" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s203)" vehicle="604" alpha="255" interior="0" posX="3862" posY="-1716" posZ="142.85" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s203b)" vehicle="604" alpha="255" interior="0" posX="3862" posY="-1724" posZ="142.85001" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s204)" vehicle="604" alpha="255" interior="0" posX="3867" posY="-1716" posZ="143" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s204b)" vehicle="604" alpha="255" interior="0" posX="3867" posY="-1724" posZ="143" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s205)" vehicle="604" alpha="255" interior="0" posX="3872" posY="-1716" posZ="142.85" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s205b)" vehicle="604" alpha="255" interior="0" posX="3872" posY="-1724" posZ="142.85001" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s206)" vehicle="604" alpha="255" interior="0" posX="3877" posY="-1716" posZ="142.5" rotX="0" rotY="355" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s207)" vehicle="604" alpha="255" interior="0" posX="3882" posY="-1716" posZ="142.25" rotX="0" rotY="354.996" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s301)" vehicle="604" alpha="255" interior="0" posX="3912" posY="-1716" posZ="135.25" rotX="0" rotY="349.997" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s302)" vehicle="604" alpha="255" interior="0" posX="3917" posY="-1716" posZ="134.5" rotX="0" rotY="350" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s303)" vehicle="604" alpha="255" interior="0" posX="3922" posY="-1716" posZ="133.5" rotX="0" rotY="349.997" rotZ="179.995"></spawnpoint>
+
+    <!-- east platform -->
+    <object id="platform (stadiumroof_SFS)(s)" interior="0" collisions="true" alpha="255" doublesided="true" model="10955" scale="1" dimension="0" posX="3747.25" posY="-1838" posZ="122.4" rotX="0" rotY="0" rotZ="270" ></object> 
+    <object id="platwall (stadiumroof_SFS)(sw)" interior="0" collisions="true" alpha="255" doublesided="true" model="10955" scale="1" dimension="0" posX="3715" posY="-1838" posZ="154.7" rotX="270" rotY="179.995" rotZ="449.995" ></object> 
+    <object id="billboard (vgwestbillbrd15)(s)" interior="0" alpha="255" doublesided="false" model="7914" scale="3" dimension="0" posX="3733" posY="-1838" posZ="163.5" rotX="0" rotY="0" rotZ="450" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s1)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3768" posY="-1847.5" posZ="135.75" rotX="0" rotY="0" rotZ="540" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s2)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3772" posY="-1847.5" posZ="135.75" rotX="0" rotY="0" rotZ="540" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(se1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3747.25" posY="-1867.25" posZ="138" rotX="4.5" rotY="0" rotZ="360" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(se2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3764.5" posY="-1862.4" posZ="138" rotX="4.5" rotY="0" rotZ="395" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3747.25" posY="-1903.75" posZ="130" rotX="12" rotY="0" rotZ="360" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3788" posY="-1891.5" posZ="130" rotX="12" rotY="0" rotZ="395" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s3)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3768" posY="-1828.5" posZ="135.75" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="ramp 2-hay (carter-stairs01)(s4)" interior="0" collisions="true" alpha="255" doublesided="true" model="14407" scale="1" dimension="0" posX="3772" posY="-1828.5" posZ="135.75" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(sw1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3747.25" posY="-1808.75" posZ="138" rotX="4.5" rotY="0" rotZ="540" ></object> 
+    <object id="ramp 2-3 (roofstuff15)(sw2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3764.5" posY="-1813.6" posZ="138" rotX="4.5" rotY="0" rotZ="505" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3747.25" posY="-1772.25" posZ="130" rotX="12" rotY="0" rotZ="540" ></object> 
+    <object id="ramp 1-2 (roofstuff15)(se4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="3788" posY="-1784.5" posZ="130" rotX="12" rotY="0" rotZ="505" ></object> 
+    <object id="object (LAroakt1_30_LAs) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="5013" scale="1" dimension="0" posX="3775.5" posY="-1930" posZ="126.3" rotX="0" rotY="0" rotZ="495" ></object> 
+    <object id="object (fukxroad07) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="5436" scale="1" dimension="0" posX="3834.25" posY="-1871.25" posZ="130.75" rotX="0" rotY="0" rotZ="315" ></object> 
+    <object id="object (landjump2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3844.5" posY="-1861" posZ="135.5" rotX="10" rotY="0" rotZ="315" ></object> 
+    <object id="object (SW_haybreak02)(s101)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3767" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s102)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3771" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s103)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3775" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s104)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3779" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s105)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3783" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s106)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3787" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s107)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3791" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s108)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3795" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s109)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3799" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s110)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3803" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s111)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3807" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s112)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3811" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s113)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3815" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s114)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3819" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s115)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3823" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s116)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3827" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s117)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3831" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s118)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3835" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s119)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3839" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s120)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3843" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s121)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3847" posY="-1833.75" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s201)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3767" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s202)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3771" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s203)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3775" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s204)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3779" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s205)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3783" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s206)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3787" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s207)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3791" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s208)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3795" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s209)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3799" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s210)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3803" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s211)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3807" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s212)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3811" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s213)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3815" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s214)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3819" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s215)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3823" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s216)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3827" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s217)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3831" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s218)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3835" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s219)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3839" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s220)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3843" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s221)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3847" posY="-1838" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s301)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3767" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s302)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3771" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s303)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3775" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s304)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3779" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s305)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3783" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s306)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3787" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s307)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3791" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s308)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3795" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s309)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3799" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s310)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3803" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s311)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3807" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s312)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3811" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s313)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3815" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s314)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3819" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s315)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3823" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s316)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3827" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s317)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3831" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s318)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3835" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s319)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3839" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s320)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3843" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <object id="object (SW_haybreak02)(s321)" interior="0" collisions="true" alpha="255" doublesided="false" model="3374" scale="1" dimension="0" posX="3847" posY="-1842.25" posZ="137.25" rotX="0" rotY="0" rotZ="360" ></object> 
+    <spawnpoint id="spawnpoint (DmgGlendale)(s101)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1893" posZ="133.5" rotX="0" rotY="10" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s102)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1888" posZ="134.5" rotX="0" rotY="9.998" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s103)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1883" posZ="135.25" rotX="0" rotY="10" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s201)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1853" posZ="142.25" rotX="0" rotY="5" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s202)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1848" posZ="142.5" rotX="0" rotY="5" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s203)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1843" posZ="142.85" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s203b)" vehicle="604" alpha="255" interior="0" posX="3753" posY="-1843" posZ="142.85001" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s204)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1838" posZ="143" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s204b)" vehicle="604" alpha="255" interior="0" posX="3753" posY="-1838" posZ="143" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s205)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1833" posZ="142.85" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s205b)" vehicle="604" alpha="255" interior="0" posX="3753" posY="-1833" posZ="142.85001" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s206)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1828" posZ="142.5" rotX="0" rotY="355" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s207)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1823" posZ="142.25" rotX="0" rotY="354.996" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s301)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1793" posZ="135.25" rotX="0" rotY="349.997" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s302)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1788" posZ="134.5" rotX="0" rotY="350" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (DmgGlendale)(s303)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1783" posZ="133.5" rotX="0" rotY="349.997" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (1)" vehicle="604" alpha="255" interior="0" posX="3885.7" posY="-1960.1" posZ="142.2" rotX="0" rotY="4.999" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (2)" vehicle="604" alpha="255" interior="0" posX="3848" posY="-1959.9" posZ="142.2" rotX="0" rotY="354.996" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (3)" vehicle="604" alpha="255" interior="0" posX="3876.5" posY="-1951.9" posZ="142.89999" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (4)" vehicle="604" alpha="255" interior="0" posX="3881.2" posY="-1951.8" posZ="141.89999" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (5)" vehicle="604" alpha="255" interior="0" posX="3885.3999" posY="-1951.7" posZ="141.89999" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (6)" vehicle="604" alpha="255" interior="0" posX="3857.3" posY="-1952.1" posZ="142.09999" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (7)" vehicle="604" alpha="255" interior="0" posX="3852" posY="-1951.4" posZ="141.89999" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (8)" vehicle="604" alpha="255" interior="0" posX="3847" posY="-1951.5" posZ="141.89999" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (9)" vehicle="604" alpha="255" interior="0" posX="3825.5" posY="-1960.3" posZ="135.7" rotX="0" rotY="349.997" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (10)" vehicle="604" alpha="255" interior="0" posX="3808" posY="-1959.5" posZ="133" rotX="0" rotY="349.997" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (11)" vehicle="604" alpha="255" interior="0" posX="3829.5" posY="-1960.8" posZ="136.3" rotX="0" rotY="349.997" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (12)" vehicle="604" alpha="255" interior="0" posX="3745.1001" posY="-1897.6" posZ="133" rotX="0" rotY="9.998" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (13)" vehicle="604" alpha="255" interior="0" posX="3744.8" posY="-1878.8" posZ="135.7" rotX="0" rotY="10" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (14)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1857" posZ="141.2" rotX="0" rotY="4.999" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (15)" vehicle="604" alpha="255" interior="0" posX="3745.3999" posY="-1818.5" posZ="141.3" rotX="0" rotY="354.996" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (16)" vehicle="604" alpha="255" interior="0" posX="3752.8999" posY="-1828.3" posZ="142.89999" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (17)" vehicle="604" alpha="255" interior="0" posX="3753.3" posY="-1823.1" posZ="141.89999" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (18)" vehicle="604" alpha="255" interior="0" posX="3753.7" posY="-1818.1" posZ="141.59999" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (19)" vehicle="604" alpha="255" interior="0" posX="3753.1001" posY="-1848" posZ="142.89999" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (20)" vehicle="604" alpha="255" interior="0" posX="3753.2" posY="-1852.5" posZ="141.89999" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (21)" vehicle="604" alpha="255" interior="0" posX="3753.3" posY="-1857.5" posZ="141.59999" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (22)" vehicle="604" alpha="255" interior="0" posX="3745.1001" posY="-1778" posZ="133" rotX="0" rotY="349.997" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (23)" vehicle="604" alpha="255" interior="0" posX="3745" posY="-1798.7" posZ="136.2" rotX="0" rotY="349.997" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (24)" vehicle="604" alpha="255" interior="0" posX="3988.8" posY="-1897.7" posZ="133" rotX="0" rotY="349.997" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (25)" vehicle="604" alpha="255" interior="0" posX="3988.8999" posY="-1878" posZ="135.89999" rotX="0" rotY="350" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (26)" vehicle="604" alpha="255" interior="0" posX="3989" posY="-1778.5" posZ="133" rotX="0" rotY="9.998" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (27)" vehicle="604" alpha="255" interior="0" posX="3989.3999" posY="-1799.2" posZ="136.2" rotX="0" rotY="9.998" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (28)" vehicle="604" alpha="255" interior="0" posX="3988.7" posY="-1818.3" posZ="141.2" rotX="0" rotY="4.999" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (29)" vehicle="604" alpha="255" interior="0" posX="3989.1001" posY="-1857.7" posZ="141.2" rotX="0" rotY="354.996" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (30)" vehicle="604" alpha="255" interior="0" posX="3980.8999" posY="-1828.3" posZ="142.89999" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (31)" vehicle="604" alpha="255" interior="0" posX="3980.8999" posY="-1824.1" posZ="142.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (32)" vehicle="604" alpha="255" interior="0" posX="3980.8" posY="-1818.8" posZ="141.09999" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (33)" vehicle="604" alpha="255" interior="0" posX="3981.1001" posY="-1848" posZ="142.89999" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (34)" vehicle="604" alpha="255" interior="0" posX="3981.2" posY="-1852.5" posZ="141.89999" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (36)" vehicle="604" alpha="255" interior="0" posX="3981.2998" posY="-1857.5" posZ="141.09999" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (37)" vehicle="604" alpha="255" interior="0" posX="3927.2" posY="-1960.1" posZ="133" rotX="0" rotY="9.998" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (38)" vehicle="604" alpha="255" interior="0" posX="3906.3" posY="-1959.7" posZ="136.2" rotX="0" rotY="9.998" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (39)" vehicle="604" alpha="255" interior="0" posX="3807.3" posY="-1716.2" posZ="133" rotX="0" rotY="9.998" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (40)" vehicle="604" alpha="255" interior="0" posX="3827.5" posY="-1716.3" posZ="136.2" rotX="0" rotY="9.998" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (41)" vehicle="604" alpha="255" interior="0" posX="3927" posY="-1716.6" posZ="133" rotX="0" rotY="349.997" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (42)" vehicle="604" alpha="255" interior="0" posX="3905.8" posY="-1715.2" posZ="136.2" rotX="0" rotY="349.997" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (43)" vehicle="604" alpha="255" interior="0" posX="3847" posY="-1715.9" posZ="141.2" rotX="0" rotY="4.999" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (44)" vehicle="604" alpha="255" interior="0" posX="3887.7" posY="-1716.2" posZ="141.2" rotX="0" rotY="354.996" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (45)" vehicle="604" alpha="255" interior="0" posX="3856.8" posY="-1723.9" posZ="142.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (46)" vehicle="604" alpha="255" interior="0" posX="3852.3" posY="-1723.8" posZ="141.89999" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (47)" vehicle="604" alpha="255" interior="0" posX="3847.1001" posY="-1723.7" posZ="141.09999" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (48)" vehicle="604" alpha="255" interior="0" posX="3877.2" posY="-1723.7" posZ="142.09995" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (49)" vehicle="604" alpha="255" interior="0" posX="3882" posY="-1724.2" posZ="141.89999" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (50)" vehicle="604" alpha="255" interior="0" posX="3887.2" posY="-1723.9" posZ="141.09999" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (51)" vehicle="604" alpha="255" interior="0" posX="3999.5" posY="-1778.8" posZ="133" rotX="0" rotY="9.998" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (52)" vehicle="604" alpha="255" interior="0" posX="3999.5" posY="-1782.9" posZ="133.5" rotX="0" rotY="9.998" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (53)" vehicle="604" alpha="255" interior="0" posX="3998.8999" posY="-1789" posZ="134.5" rotX="0" rotY="9.998" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (54)" vehicle="604" alpha="255" interior="0" posX="3999.1001" posY="-1794.6" posZ="135.2" rotX="0" rotY="9.998" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (55)" vehicle="604" alpha="255" interior="0" posX="3998.1001" posY="-1800.7" posZ="136.2" rotX="0" rotY="9.998" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (56)" vehicle="604" alpha="255" interior="0" posX="3999.8999" posY="-1897.8" posZ="133" rotX="0" rotY="349.997" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (57)" vehicle="604" alpha="255" interior="0" posX="4000.1001" posY="-1891.2" posZ="133.5" rotX="0" rotY="349.997" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (58)" vehicle="604" alpha="255" interior="0" posX="3999.6001" posY="-1885.3" posZ="134.5" rotX="0" rotY="349.997" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (59)" vehicle="604" alpha="255" interior="0" posX="4000" posY="-1879.1" posZ="135.2" rotX="0" rotY="349.997" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (61)" vehicle="604" alpha="255" interior="0" posX="3999.8" posY="-1872.8" posZ="136.59999" rotX="0" rotY="349.997" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (62)" vehicle="604" alpha="255" interior="0" posX="3733.8999" posY="-1897.3" posZ="133" rotX="0" rotY="9.998" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (63)" vehicle="604" alpha="255" interior="0" posX="3733.1001" posY="-1891.9" posZ="133.5" rotX="0" rotY="9.998" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (64)" vehicle="604" alpha="255" interior="0" posX="3733.3" posY="-1885.1" posZ="134.5" rotX="0" rotY="9.998" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (65)" vehicle="604" alpha="255" interior="0" posX="3734.8" posY="-1874.6" posZ="136.39999" rotX="0" rotY="9.998" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Glendale Damaged) (66)" vehicle="604" alpha="255" interior="0" posX="3733.7" posY="-1879.3" posZ="135.2" rotX="0" rotY="9.998" rotZ="270"></spawnpoint> 
+   
+</map>

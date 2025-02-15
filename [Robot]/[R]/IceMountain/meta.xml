@@ -1,0 +1,28 @@
+<meta>
+    <info gamemodes="race" type="map" racetype="R" name="Ice Mountain" author="Reiko" version="1.0.0" description="Thanks to ccw for the snow resource"></info>
+    <map src="R-IceMountain.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="7:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 7 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 300 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+	<script src="c_snow_ground.lua" type="client" />
+
+	<file src="smallnoise3d.dds" type="client" />
+	<file src="snow_ground.fx" type="client" />
+	<file src="snow_trees.fx" type="client" />
+	<file src="snow_naughty_trees.fx" type="client" />
+	<file src="mta-helper.fx" type="client" />
+</meta>

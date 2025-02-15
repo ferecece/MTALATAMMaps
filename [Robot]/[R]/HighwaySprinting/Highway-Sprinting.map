@@ -1,0 +1,22 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Cheetah) (1)" vehicle="415" posX="-2689.5" posY="2152.5" posZ="55.1" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (2)" posX="-2691.7" posY="2185.1001" posZ="54.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (3)" posX="-2754.2" posY="2578" posZ="92.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (4)" posX="-2330.2" posY="2673.5" posZ="56.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (5)" posX="-1996" posY="2620.6001" posZ="49.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (6)" posX="-1757.2" posY="2721.6001" posZ="58.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (7)" posX="-1467" posY="2729.3" posZ="64.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (8)" posX="-938.59998" posY="2718.8" posZ="44.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (9)" posX="-433.79999" posY="2719.8" posZ="61.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (10)" posX="-102.5" posY="2636.3999" posZ="62.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (11)" posX="281.70001" posY="2734.5" posZ="58.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="20" nextid="checkpoint () (12)" posX="637.70001" posY="2660.1001" posZ="30.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="30" posX="966.09998" posY="2573.8" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (DockBarr1_LA) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3578" doublesided="false" scale="1" dimension="0" posX="-380.39999" posY="2707.6001" posZ="62.5" rotX="0" rotY="0" rotZ="316"></object>
+    <object id="object (DockBarr1_LA) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3578" doublesided="false" scale="1" dimension="0" posX="-371.89999" posY="2697.3999" posZ="63.1" rotX="0" rotY="0" rotZ="305.995"></object>
+    <object id="object (DockBarr1_LA) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3578" doublesided="false" scale="1" dimension="0" posX="-363.60001" posY="2685.8" posZ="63.4" rotX="0" rotY="0" rotZ="305.991"></object>
+    <object id="object (DockBarr1_LA) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="3578" doublesided="false" scale="1" dimension="0" posX="-391.5" posY="2717.1001" posZ="62.2" rotX="0" rotY="0" rotZ="324"></object>
+    <object id="object (DockBarr1_LA) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="3578" doublesided="false" scale="1" dimension="0" posX="437.79999" posY="2711.8" posZ="61.8" rotX="0" rotY="0" rotZ="296"></object>
+    <object id="object (DockBarr1_LA) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="3578" doublesided="false" scale="1" dimension="0" posX="447.79999" posY="2703" posZ="61.8" rotX="0" rotY="0" rotZ="331.999"></object>
+    <object id="object (landjump) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1633" doublesided="false" scale="1" dimension="0" posX="434.10001" posY="2695.3999" posZ="61.3" rotX="0" rotY="0" rotZ="260"></object>
+</map>

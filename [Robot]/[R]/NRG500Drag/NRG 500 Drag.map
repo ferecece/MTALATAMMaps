@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map mod="deathmatch">
+  <spawnpoint posX="-2606.520264" posY="1008.332336" posZ="77.795227" rotation="178" vehicle="522" id="spawnpoint0" />
+  <spawnpoint posX="-2607.954834" posY="1008.384644" posZ="77.795532" rotation="178" vehicle="522" id="spawnpoint1" />
+  <spawnpoint posX="-2605.114014" posY="1008.396301" posZ="77.795227" rotation="178" vehicle="522" id="spawnpoint2" />
+  <spawnpoint posX="-2609.243408" posY="1008.406799" posZ="77.803268" rotation="178" vehicle="522" id="spawnpoint3" />
+  <spawnpoint posX="-2603.639160" posY="1008.485291" posZ="77.796539" rotation="178" vehicle="522" id="spawnpoint4" />
+  <spawnpoint posX="-2602.198730" posY="1008.408691" posZ="77.797485" rotation="178" vehicle="522" id="spawnpoint5" />
+  <spawnpoint posX="-2610.649902" posY="1008.393982" posZ="77.811737" rotation="182" vehicle="522" id="spawnpoint6" />
+  <spawnpoint posX="-2612.389893" posY="1008.483459" posZ="77.823189" rotation="182" vehicle="522" id="spawnpoint7" />
+  <spawnpoint posX="-2600.711670" posY="1008.388306" posZ="77.798546" rotation="182" vehicle="522" id="spawnpoint8" />
+  <spawnpoint posX="-2605.959473" posY="1005.468628" posZ="77.795227" rotation="182" vehicle="522" id="spawnpoint9" />
+  <checkpoint posX="-2607.173584" posY="306.859283" posZ="3.186234" size="2.000000" color="#0048ff" id="checkpoint0" />
+  <object posX="-2608.541016" posY="325.897156" posZ="4.473035" rotX="0" rotY="0" rotZ="179.999962552063" model="1634" id="object0" />
+  <object posX="-2604.594971" posY="325.906982" posZ="4.477005" rotX="0" rotY="0" rotZ="179.999962552063" model="1634" id="object1" />
+  <object posX="-2598.229248" posY="1008.548584" posZ="77.980438" rotX="0" rotY="0" rotZ="89.9999812760317" model="978" id="object2" />
+  <object posX="-2598.226807" posY="999.267395" posZ="77.980843" rotX="0" rotY="0" rotZ="89.9999812760317" model="978" id="object3" />
+  <object posX="-2602.932373" posY="1013.165955" posZ="77.977730" rotX="0" rotY="0" rotZ="179.999962552063" model="978" id="object4" />
+  <object posX="-2611.162109" posY="1013.208496" posZ="77.993271" rotX="0" rotY="0" rotZ="179.999962552063" model="978" id="object5" />
+  <object posX="-2615.632324" posY="1008.523193" posZ="78.023193" rotX="0" rotY="0" rotZ="270.000001123874" model="978" id="object6" />
+  <object posX="-2615.638428" posY="999.428223" posZ="78.023170" rotX="0" rotY="0" rotZ="270.000001123874" model="978" id="object7" />
+  <object posX="-2615.511475" posY="990.464111" posZ="78.128403" rotX="0" rotY="0" rotZ="270.000001123874" model="978" id="object8" />
+  <object posX="-2616.467773" posY="908.443420" posZ="64.661133" rotX="0" rotY="0" rotZ="270.000001123874" model="978" id="object9" />
+  <object posX="-2597.730713" posY="908.809998" posZ="64.668343" rotX="0" rotY="0" rotZ="90.0000385718112" model="978" id="object10" />
+  <object posX="-2597.648438" posY="809.311890" posZ="49.668346" rotX="0" rotY="0" rotZ="90.0000385718112" model="978" id="object11" />
+  <object posX="-2616.118164" posY="810.279968" posZ="49.668346" rotX="0" rotY="0" rotZ="270.000058419654" model="978" id="object12" />
+  <object posX="-2616.997314" posY="707.751099" posZ="27.653944" rotX="0" rotY="0" rotZ="270.000058419654" model="978" id="object13" />
+  <object posX="-2598.543457" posY="708.495056" posZ="27.655222" rotX="0" rotY="0" rotZ="90.0000958675907" model="978" id="object14" />
+  <object posX="-2601.311523" posY="688.528198" posZ="27.646423" rotX="0" rotY="0" rotZ="90.0000958675907" model="978" id="object15" />
+  <object posX="-2597.992920" posY="566.440857" posZ="14.300736" rotX="0" rotY="0" rotZ="90.0000958675907" model="978" id="object16" />
+  <object posX="-2616.285156" posY="567.397156" posZ="14.299743" rotX="0" rotY="0" rotZ="270.000058419654" model="978" id="object17" />
+  <object posX="-2597.755859" posY="469.258820" posZ="14.301037" rotX="0" rotY="0" rotZ="90.0001531633702" model="978" id="object18" />
+  <object posX="-2615.588135" posY="469.719666" posZ="14.300361" rotX="0" rotY="0" rotZ="-89.9998666844726" model="978" id="object19" />
+</map>

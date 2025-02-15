@@ -1,0 +1,210 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="415" posX="537.7998" posY="-2236.7998" posZ="118.7" rotX="0" rotY="0" rotZ="224.495"></spawnpoint>
+    <object id="object (towerlan2) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="624.29999" posY="-2294.3" posZ="29.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgncarshade1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="659.2998" posY="-2262.7002" posZ="122.85" rotX="0" rotY="14.991" rotZ="44.995"></object>
+    <object id="object (towerlan2) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="682.7998" posY="-2239.2998" posZ="18.8" rotX="0" rotY="2.494" rotZ="44.995"></object>
+    <object id="object (towerlan2) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="624.2998" posY="-2352.1001" posZ="7.6" rotX="0" rotY="4.999" rotZ="270"></object>
+    <object id="object (waterjumpx2) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="624.29999" posY="-2277.8" posZ="130.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="589.2998" posY="-2263" posZ="122.9" rotX="0" rotY="344.998" rotZ="314.995"></object>
+    <object id="object (towerlan2) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="565.40039" posY="-2239.7998" posZ="18.9" rotX="0" rotY="357.49" rotZ="314.995"></object>
+    <object id="object (vgncarshade1) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="584.7002" posY="-2211" posZ="116.4" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vgncarshade1) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="625.09998" posY="-2211" posZ="116.4" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vgncarshade1) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="660.90039" posY="-2211" posZ="116.4" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (towerlan2) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="687" posY="-2295.7998" posZ="7.6" rotX="0" rotY="4.999" rotZ="0"></object>
+    <object id="object (towerlan2) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="681.7998" posY="-2351" posZ="18.9" rotX="0" rotY="2.494" rotZ="314.995"></object>
+    <object id="object (vgncarshade1) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="658.90002" posY="-2325.2" posZ="122.9" rotX="0" rotY="14.996" rotZ="315"></object>
+    <object id="object (towerlan2) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="563.70001" posY="-2295.8" posZ="7.6" rotX="0" rotY="4.999" rotZ="180"></object>
+    <object id="object (vgncarshade1) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="660.59998" posY="-2269" posZ="109" rotX="0" rotY="6" rotZ="343"></object>
+    <object id="object (vgncarshade1) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="623.29999" posY="-2257.6001" posZ="113.1" rotX="0" rotY="5.999" rotZ="342.9"></object>
+    <object id="object (vgncarshade1) (9)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="600.29999" posY="-2250.6001" posZ="115.8" rotX="0" rotY="6.5" rotZ="342.9"></object>
+    <object id="object (vgncarshade1) (10)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="652.59998" posY="-2263.2" posZ="109.2" rotX="0" rotY="6.1" rotZ="112"></object>
+    <object id="object (vgncarshade1) (11)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="667.5" posY="-2300.1001" posZ="113.5" rotX="0" rotY="6.097" rotZ="111.995"></object>
+    <object id="object (vgncarshade1) (12)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="673.20001" posY="-2314.6001" posZ="115.4" rotX="0" rotY="7.5" rotZ="111.995"></object>
+    <object id="object (vgncarshade1) (13)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="587.70001" posY="-2259.6001" posZ="106.9" rotX="0" rotY="0" rotZ="45"></object>
+    <object id="object (vgncarshade1) (14)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="711.59998" posY="-2259.3" posZ="116.4" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgncarshade1) (15)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="711.59998" posY="-2299.5" posZ="116.4" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgncarshade1) (16)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="711.29999" posY="-2331.3" posZ="116.4" rotX="0" rotY="0" rotZ="89"></object>
+    <object id="object (towerlan2) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="565.40039" posY="-2351" posZ="18.9" rotX="0" rotY="2.494" rotZ="225"></object>
+    <object id="object (towerlan2) (9)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="624.2998" posY="-2235.8994" posZ="7.6" rotX="0" rotY="4.999" rotZ="90"></object>
+    <object id="object (waterjumpx2) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="624.29999" posY="-2310.5" posZ="130.7" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (waterjumpx2) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="643.90002" posY="-2293.8" posZ="130.7" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (waterjumpx2) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="604.79999" posY="-2293.8" posZ="130.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (stuntramp1_las2) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="5152" doublesided="false" scale="1" dimension="0" posX="650.90002" posY="-2261.3" posZ="110.7" rotX="354" rotY="0" rotZ="252"></object>
+    <object id="object (stuntramp1_las2) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="5152" doublesided="false" scale="1" dimension="0" posX="652.90002" posY="-2261.8" posZ="110.5" rotX="353.996" rotY="0" rotZ="251.999"></object>
+    <object id="object (stuntramp1_las2) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="5152" doublesided="false" scale="1" dimension="0" posX="660.29999" posY="-2270.3999" posZ="110.7" rotX="6" rotY="0" rotZ="200.3"></object>
+    <object id="object (stuntramp1_las2) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="5152" doublesided="false" scale="1" dimension="0" posX="659.59998" posY="-2268.6001" posZ="110.4" rotX="5.999" rotY="0" rotZ="200.297"></object>
+    <object id="object (vgncarshade1) (18)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="536.59998" posY="-2257.6001" posZ="116.3" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vgncarshade1) (19)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="536.59998" posY="-2297.3" posZ="116.3" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vgncarshade1) (20)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="536.59998" posY="-2334.3" posZ="116.3" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vgncarshade1) (21)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="583.5" posY="-2379.7" posZ="116.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (22)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="623.40002" posY="-2379.7" posZ="116.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (23)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="662.79999" posY="-2379.7" posZ="116.4" rotX="0" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="712.09998" posY="-2295.7" posZ="119.5" rotX="0" rotY="0" rotZ="85.5"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" posX="624.5" posY="-2379.8" posZ="119.5" rotX="0" rotY="0" rotZ="71.1"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" posX="536.40002" posY="-2295.7" posZ="119.4" rotX="0" rotY="0" rotZ="175.5"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" posX="624.90002" posY="-2210.7" posZ="119.5" rotX="0" rotY="0" rotZ="222.3"></racepickup>
+    <object id="object (vgncarshade1) (24)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="661.5" posY="-2330" posZ="107.2" rotX="0" rotY="0" rotZ="40"></object>
+    <object id="object (waterjumpx2) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="660.59998" posY="-2233.3999" posZ="120.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (waterjumpx2) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="588.09998" posY="-2233.8999" posZ="120.3" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (sub_roadleft) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="979" doublesided="false" scale="1" dimension="0" posX="600.79999" posY="-2235.2" posZ="108.3" rotX="0" rotY="355" rotZ="270"></object>
+    <object id="object (sub_roadright) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="978" doublesided="false" scale="1" dimension="0" posX="647.79999" posY="-2233.6001" posZ="108.3" rotX="0" rotY="5" rotZ="90"></object>
+    <object id="object (vgncarshade1) (25)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="592.20001" posY="-2322" posZ="109.2" rotX="0" rotY="6" rotZ="162"></object>
+    <object id="object (vgncarshade1) (26)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="629.20001" posY="-2334" posZ="113.3" rotX="0" rotY="5.999" rotZ="161.999"></object>
+    <object id="object (vgncarshade1) (27)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="647.70001" posY="-2340" posZ="115.6" rotX="0" rotY="7" rotZ="161.999"></object>
+    <object id="object (vgncarshade1) (28)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="596.29999" posY="-2324.7" posZ="109.2" rotX="0" rotY="353.8" rotZ="112"></object>
+    <object id="object (vgncarshade1) (29)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="581.5" posY="-2288.1001" posZ="113.5" rotX="0" rotY="353.798" rotZ="111.995"></object>
+    <object id="object (vgncarshade1) (30)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="576.29999" posY="-2275" posZ="115.5" rotX="0" rotY="352.5" rotZ="111.995"></object>
+    <object id="object (stuntramp1_las2) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="5152" doublesided="false" scale="1" dimension="0" posX="589.70001" posY="-2320.5" posZ="110.4" rotX="7" rotY="0" rotZ="19.999"></object>
+    <object id="object (stuntramp1_las2) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="5152" doublesided="false" scale="1" dimension="0" posX="590.5" posY="-2322.3999" posZ="110.2" rotX="6.998" rotY="0" rotZ="19.995"></object>
+    <object id="object (stuntramp1_las2) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="5152" doublesided="false" scale="1" dimension="0" posX="598.29999" posY="-2328.5" posZ="110.4" rotX="353" rotY="0" rotZ="71.995"></object>
+    <object id="object (stuntramp1_las2) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="5152" doublesided="false" scale="1" dimension="0" posX="596.40002" posY="-2327.7" posZ="110.2" rotX="352.996" rotY="0" rotZ="71.993"></object>
+    <object id="object (waterjumpx2) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="559.5" posY="-2262.6001" posZ="120.3" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (sub_roadright) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="978" doublesided="false" scale="1" dimension="0" posX="560.20001" posY="-2272.2" posZ="108.3" rotX="0" rotY="5" rotZ="180"></object>
+    <object id="object (waterjumpx2) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="560.40002" posY="-2329.5" posZ="120.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sub_roadleft) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="979" doublesided="false" scale="1" dimension="0" posX="560.90002" posY="-2319.3" posZ="108.2" rotX="0" rotY="355" rotZ="0"></object>
+    <object id="object (waterjumpx2) (9)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="586.5" posY="-2356.7" posZ="120.3" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (sub_roadright) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="978" doublesided="false" scale="1" dimension="0" posX="600.79999" posY="-2356.1001" posZ="108.1" rotX="0" rotY="5" rotZ="270"></object>
+    <object id="object (waterjumpx2) (10)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="659.29999" posY="-2356.3999" posZ="120.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (sub_roadleft) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="979" doublesided="false" scale="1" dimension="0" posX="647.90002" posY="-2355.7" posZ="108.2" rotX="0" rotY="355" rotZ="90"></object>
+    <object id="object (waterjumpx2) (11)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="687.29999" posY="-2329.2" posZ="120.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sub_roadright) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="978" doublesided="false" scale="1" dimension="0" posX="686.90002" posY="-2319.3" posZ="108.4" rotX="0" rotY="5" rotZ="0"></object>
+    <object id="object (waterjumpx2) (12)" breakable="true" interior="0" collisions="true" alpha="255" model="1655" doublesided="false" scale="1" dimension="0" posX="688.40002" posY="-2261.7" posZ="120.4" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (sub_roadleft) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="979" doublesided="false" scale="1" dimension="0" posX="687.70001" posY="-2272.2" posZ="108.3" rotX="0" rotY="355" rotZ="180"></object>
+    <object id="object (vgncarshade1) (17)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="589.29999" posY="-2326" posZ="123.1" rotX="0" rotY="345.5" rotZ="44.995"></object>
+    <spawnpoint id="spawnpoint (Cheetah) (1)" vehicle="415" alpha="255" interior="0" posX="541.09961" posY="-2233.3994" posZ="118.7" rotX="0" rotY="0" rotZ="224.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (2)" vehicle="415" alpha="255" interior="0" posX="544.40002" posY="-2230.3" posZ="118.7" rotX="0" rotY="0" rotZ="224.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (3)" vehicle="415" alpha="255" interior="0" posX="547.29999" posY="-2227.5" posZ="118.7" rotX="0" rotY="0" rotZ="224.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (4)" vehicle="415" alpha="255" interior="0" posX="550.29999" posY="-2224.7" posZ="118.8" rotX="0" rotY="0" rotZ="224.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (5)" vehicle="415" alpha="255" interior="0" posX="553.40002" posY="-2221.8" posZ="118.8" rotX="0" rotY="0" rotZ="224.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (6)" vehicle="415" alpha="255" interior="0" posX="556.09998" posY="-2219.1001" posZ="118.8" rotX="0" rotY="0" rotZ="224.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (7)" vehicle="415" alpha="255" interior="0" posX="558.79999" posY="-2216.2" posZ="118.8" rotX="0" rotY="0" rotZ="224.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (8)" vehicle="415" alpha="255" interior="0" posX="561.7002" posY="-2213.2002" posZ="118.7" rotX="0" rotY="0" rotZ="224.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (9)" vehicle="415" alpha="255" interior="0" posX="605.7002" posY="-2210.0996" posZ="106.4" rotX="0" rotY="0" rotZ="180.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (10)" vehicle="415" alpha="255" interior="0" posX="610" posY="-2209.8999" posZ="106.4" rotX="0" rotY="0" rotZ="180.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (11)" vehicle="415" alpha="255" interior="0" posX="613.90002" posY="-2209.8999" posZ="106.4" rotX="0" rotY="0" rotZ="180.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (12)" vehicle="415" alpha="255" interior="0" posX="617.79999" posY="-2209.8" posZ="106.4" rotX="0" rotY="0" rotZ="180.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (13)" vehicle="415" alpha="255" interior="0" posX="621.59998" posY="-2209.8999" posZ="106.4" rotX="0" rotY="0" rotZ="180.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (14)" vehicle="415" alpha="255" interior="0" posX="625.59998" posY="-2209.7" posZ="106.4" rotX="0" rotY="0" rotZ="180.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (15)" vehicle="415" alpha="255" interior="0" posX="629.5" posY="-2209.7" posZ="106.4" rotX="0" rotY="0" rotZ="180.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (16)" vehicle="415" alpha="255" interior="0" posX="633.70001" posY="-2209.8" posZ="106.4" rotX="0" rotY="0" rotZ="180.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (17)" vehicle="415" alpha="255" interior="0" posX="637.5" posY="-2209.8" posZ="106.4" rotX="0" rotY="0" rotZ="180.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (18)" vehicle="415" alpha="255" interior="0" posX="641.40002" posY="-2209.8" posZ="106.4" rotX="0" rotY="0" rotZ="180.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (19)" vehicle="415" alpha="255" interior="0" posX="684.09998" posY="-2210.7" posZ="118.7" rotX="0" rotY="0" rotZ="134.494"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (20)" vehicle="415" alpha="255" interior="0" posX="687.09998" posY="-2213.7" posZ="118.7" rotX="0" rotY="0" rotZ="134.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (21)" vehicle="415" alpha="255" interior="0" posX="690" posY="-2216.5" posZ="118.7" rotX="0" rotY="0" rotZ="134.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (22)" vehicle="415" alpha="255" interior="0" posX="693" posY="-2219.3999" posZ="118.7" rotX="0" rotY="0" rotZ="134.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (23)" vehicle="415" alpha="255" interior="0" posX="695.70001" posY="-2222.1001" posZ="118.7" rotX="0" rotY="0" rotZ="134.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (24)" vehicle="415" alpha="255" interior="0" posX="698.5" posY="-2224.8" posZ="118.7" rotX="0" rotY="0" rotZ="134.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (25)" vehicle="415" alpha="255" interior="0" posX="701.40002" posY="-2227.7" posZ="118.7" rotX="0" rotY="0" rotZ="134.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (26)" vehicle="415" alpha="255" interior="0" posX="704.59998" posY="-2230.6001" posZ="118.7" rotX="0" rotY="0" rotZ="134.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (27)" vehicle="415" alpha="255" interior="0" posX="707.09998" posY="-2233.2" posZ="118.7" rotX="0" rotY="0" rotZ="134.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (28)" vehicle="415" alpha="255" interior="0" posX="709.90039" posY="-2236.2998" posZ="118.7" rotX="0" rotY="0" rotZ="134.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (29)" vehicle="415" alpha="255" interior="0" posX="712.90002" posY="-2277.1001" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (30)" vehicle="415" alpha="255" interior="0" posX="713" posY="-2280.8" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (31)" vehicle="415" alpha="255" interior="0" posX="712.90002" posY="-2284.3999" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (32)" vehicle="415" alpha="255" interior="0" posX="713" posY="-2288.3999" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (33)" vehicle="415" alpha="255" interior="0" posX="712.90002" posY="-2292" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (34)" vehicle="415" alpha="255" interior="0" posX="712.90002" posY="-2295.8999" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (35)" vehicle="415" alpha="255" interior="0" posX="712.90002" posY="-2299.6001" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (36)" vehicle="415" alpha="255" interior="0" posX="712.90002" posY="-2303.3" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (37)" vehicle="415" alpha="255" interior="0" posX="712.79999" posY="-2306.8" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (38)" vehicle="415" alpha="255" interior="0" posX="712.70001" posY="-2310.3" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (39)" vehicle="415" alpha="255" interior="0" posX="712.79999" posY="-2313.6001" posZ="106.4" rotX="0" rotY="0" rotZ="90.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (40)" vehicle="415" alpha="255" interior="0" posX="710.29999" posY="-2352.8999" posZ="118.8" rotX="0" rotY="0" rotZ="44.489"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (41)" vehicle="415" alpha="255" interior="0" posX="707.29999" posY="-2355.8999" posZ="118.8" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (42)" vehicle="415" alpha="255" interior="0" posX="704.59998" posY="-2358.6001" posZ="118.8" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (43)" vehicle="415" alpha="255" interior="0" posX="701.70001" posY="-2361.3999" posZ="118.8" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (44)" vehicle="415" alpha="255" interior="0" posX="698.70001" posY="-2364.2" posZ="118.8" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (45)" vehicle="415" alpha="255" interior="0" posX="695.90002" posY="-2367.1001" posZ="118.8" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (46)" vehicle="415" alpha="255" interior="0" posX="693.29999" posY="-2369.8" posZ="118.8" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (47)" vehicle="415" alpha="255" interior="0" posX="690.40002" posY="-2372.7" posZ="118.8" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (48)" vehicle="415" alpha="255" interior="0" posX="687.70001" posY="-2375.5" posZ="118.7" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (49)" vehicle="415" alpha="255" interior="0" posX="684.7998" posY="-2378.2998" posZ="118.8" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (50)" vehicle="415" alpha="255" interior="0" posX="643" posY="-2378.2002" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (51)" vehicle="415" alpha="255" interior="0" posX="639" posY="-2378.2" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (52)" vehicle="415" alpha="255" interior="0" posX="635.29999" posY="-2378.2" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (53)" vehicle="415" alpha="255" interior="0" posX="631.29999" posY="-2378" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (54)" vehicle="415" alpha="255" interior="0" posX="627.29999" posY="-2377.8999" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (55)" vehicle="415" alpha="255" interior="0" posX="623.09998" posY="-2378" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (56)" vehicle="415" alpha="255" interior="0" posX="619.29999" posY="-2377.8" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (57)" vehicle="415" alpha="255" interior="0" posX="615.29999" posY="-2377.8" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (58)" vehicle="415" alpha="255" interior="0" posX="611.5" posY="-2377.8" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (59)" vehicle="415" alpha="255" interior="0" posX="607.59998" posY="-2377.7" posZ="106.4" rotX="0" rotY="0" rotZ="0.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (60)" vehicle="415" alpha="255" interior="0" posX="563" posY="-2378.8999" posZ="118.7" rotX="0" rotY="0" rotZ="314.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (61)" vehicle="415" alpha="255" interior="0" posX="560.20001" posY="-2376.1001" posZ="118.8" rotX="0" rotY="0" rotZ="314.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (62)" vehicle="415" alpha="255" interior="0" posX="557.29999" posY="-2373.3" posZ="118.8" rotX="0" rotY="0" rotZ="314.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (63)" vehicle="415" alpha="255" interior="0" posX="554.59998" posY="-2370.3999" posZ="118.8" rotX="0" rotY="0" rotZ="314.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (64)" vehicle="415" alpha="255" interior="0" posX="552" posY="-2367.8" posZ="118.8" rotX="0" rotY="0" rotZ="314.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (65)" vehicle="415" alpha="255" interior="0" posX="549.20001" posY="-2365" posZ="118.8" rotX="0" rotY="0" rotZ="316.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (66)" vehicle="415" alpha="255" interior="0" posX="546.5" posY="-2362.3" posZ="118.8" rotX="0" rotY="0" rotZ="316.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (67)" vehicle="415" alpha="255" interior="0" posX="543.79999" posY="-2359.6001" posZ="118.8" rotX="0" rotY="0" rotZ="316.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (68)" vehicle="415" alpha="255" interior="0" posX="541.09998" posY="-2356.8999" posZ="118.8" rotX="0" rotY="0" rotZ="316.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (69)" vehicle="415" alpha="255" interior="0" posX="538.40039" posY="-2354.0996" posZ="118.8" rotX="0" rotY="0" rotZ="316.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (70)" vehicle="415" alpha="255" interior="0" posX="537.90002" posY="-2314.8" posZ="106.4" rotX="0" rotY="0" rotZ="268.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (71)" vehicle="415" alpha="255" interior="0" posX="537.90002" posY="-2311.3" posZ="106.4" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (72)" vehicle="415" alpha="255" interior="0" posX="538" posY="-2307.8" posZ="106.4" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (73)" vehicle="415" alpha="255" interior="0" posX="537.90002" posY="-2304.5" posZ="106.4" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (74)" vehicle="415" alpha="255" interior="0" posX="538" posY="-2301.1001" posZ="106.4" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (75)" vehicle="415" alpha="255" interior="0" posX="538" posY="-2297.7" posZ="106.4" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (76)" vehicle="415" alpha="255" interior="0" posX="538.20001" posY="-2293.8999" posZ="106.4" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (77)" vehicle="415" alpha="255" interior="0" posX="538.29999" posY="-2290.5" posZ="106.5" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (78)" vehicle="415" alpha="255" interior="0" posX="538.29999" posY="-2286.5" posZ="106.4" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (79)" vehicle="415" alpha="255" interior="0" posX="538.20001" posY="-2282.8999" posZ="106.4" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (80)" vehicle="415" alpha="255" interior="0" posX="538.09998" posY="-2279.5" posZ="106.4" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (81)" vehicle="415" alpha="255" interior="0" posX="538.29999" posY="-2276.1001" posZ="106.5" rotX="0" rotY="0" rotZ="268.473"></spawnpoint>
+    <racepickup id="racepickup (NRG-500) (5)" type="nitro" vehicle="522" respawn="0" posX="624.79999" posY="-2294.1001" posZ="131.10001" rotX="0" rotY="0" rotZ="227.34"></racepickup>
+    <spawnpoint id="spawnpoint (Cheetah) (82)" vehicle="415" alpha="255" interior="0" posX="571" posY="-2216" posZ="119" rotX="0" rotY="0" rotZ="134.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (83)" vehicle="415" alpha="255" interior="0" posX="573.59998" posY="-2218.7" posZ="119.2" rotX="0" rotY="0" rotZ="134.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (84)" vehicle="415" alpha="255" interior="0" posX="576.20001" posY="-2221.3999" posZ="119.39999" rotX="0" rotY="0" rotZ="134.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (85)" vehicle="415" alpha="255" interior="0" posX="578.59998" posY="-2223.8999" posZ="119.6" rotX="0" rotY="0" rotZ="134.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (86)" vehicle="415" alpha="255" interior="0" posX="581" posY="-2226.3999" posZ="119.7" rotX="0" rotY="0" rotZ="134.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (87)" vehicle="415" alpha="255" interior="0" posX="604.29999" posY="-2241.1001" posZ="109.09" rotX="0" rotY="0" rotZ="270.944"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (88)" vehicle="415" alpha="255" interior="0" posX="604.40002" posY="-2237.6001" posZ="108.7" rotX="0" rotY="0" rotZ="270.944"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (89)" vehicle="415" alpha="255" interior="0" posX="604.5" posY="-2234.1001" posZ="108.5" rotX="0" rotY="0" rotZ="270.944"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (90)" vehicle="415" alpha="255" interior="0" posX="604.29999" posY="-2230.3" posZ="108.1" rotX="0" rotY="0" rotZ="270.944"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (91)" vehicle="415" alpha="255" interior="0" posX="604.40002" posY="-2226.8" posZ="107.8" rotX="0" rotY="0" rotZ="270.944"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (92)" vehicle="415" alpha="255" interior="0" posX="604.29999" posY="-2222.6001" posZ="107.5" rotX="0" rotY="0" rotZ="270.939"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (93)" vehicle="415" alpha="255" interior="0" posX="644.09998" posY="-2241" posZ="109.1" rotX="0" rotY="0" rotZ="90.939"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (94)" vehicle="415" alpha="255" interior="0" posX="644.09998" posY="-2238" posZ="108.8" rotX="0" rotY="0" rotZ="90.939"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (95)" vehicle="415" alpha="255" interior="0" posX="644.09998" posY="-2234.8" posZ="108.5" rotX="0" rotY="0" rotZ="90.939"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (96)" vehicle="415" alpha="255" interior="0" posX="644.09998" posY="-2231.7" posZ="108.2" rotX="0" rotY="0" rotZ="90.939"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (97)" vehicle="415" alpha="255" interior="0" posX="644.09998" posY="-2228.6001" posZ="107.9" rotX="0" rotY="0" rotZ="90.939"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (98)" vehicle="415" alpha="255" interior="0" posX="644.09998" posY="-2225.3999" posZ="107.7" rotX="0" rotY="0" rotZ="90.939"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (99)" vehicle="415" alpha="255" interior="0" posX="644.09998" posY="-2222.2" posZ="107.4" rotX="0" rotY="0" rotZ="90.934"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (100)" vehicle="415" alpha="255" interior="0" posX="706.40002" posY="-2244" posZ="118.89999" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (101)" vehicle="415" alpha="255" interior="0" posX="703.90002" posY="-2246.5" posZ="119.1" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (102)" vehicle="415" alpha="255" interior="0" posX="701.70001" posY="-2248.8" posZ="119.2" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (103)" vehicle="415" alpha="255" interior="0" posX="699.29999" posY="-2251.3" posZ="119.3" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (104)" vehicle="415" alpha="255" interior="0" posX="697.09998" posY="-2253.6001" posZ="119.49998" rotX="0" rotY="0" rotZ="44.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (105)" vehicle="415" alpha="255" interior="0" posX="694.70001" posY="-2255.8" posZ="119.6" rotX="0" rotY="0" rotZ="44.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (106)" vehicle="415" alpha="255" interior="0" posX="677.09998" posY="-2374.2" posZ="119" rotX="0" rotY="0" rotZ="314.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (107)" vehicle="415" alpha="255" interior="0" posX="674.70001" posY="-2371.6001" posZ="119.2" rotX="0" rotY="0" rotZ="314.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (108)" vehicle="415" alpha="255" interior="0" posX="671.90002" posY="-2368.8" posZ="119.4" rotX="0" rotY="0" rotZ="314.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (109)" vehicle="415" alpha="255" interior="0" posX="669" posY="-2366.2" posZ="119.5" rotX="0" rotY="0" rotZ="314.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (110)" vehicle="415" alpha="255" interior="0" posX="666" posY="-2363.5" posZ="119.7" rotX="0" rotY="0" rotZ="314.484"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (111)" vehicle="415" alpha="255" interior="0" posX="542.40002" posY="-2345.8" posZ="119.10001" rotX="0" rotY="0" rotZ="226.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (112)" vehicle="415" alpha="255" interior="0" posX="545.29999" posY="-2343.2" posZ="119.2" rotX="0" rotY="0" rotZ="226.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (113)" vehicle="415" alpha="255" interior="0" posX="548.09998" posY="-2340.7" posZ="119.4" rotX="0" rotY="0" rotZ="226.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (114)" vehicle="415" alpha="255" interior="0" posX="550.70001" posY="-2338.1001" posZ="119.60001" rotX="0" rotY="0" rotZ="226.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (115)" vehicle="415" alpha="255" interior="0" posX="553.59998" posY="-2335.5" posZ="119.7" rotX="0" rotY="0" rotZ="226.472"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (116)" vehicle="415" alpha="255" interior="0" posX="644.20001" posY="-2347" posZ="109.1" rotX="0" rotY="0" rotZ="90.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (117)" vehicle="415" alpha="255" interior="0" posX="644.20001" posY="-2350" posZ="108.8" rotX="0" rotY="0" rotZ="90.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (118)" vehicle="415" alpha="255" interior="0" posX="644.20001" posY="-2353.2" posZ="108.6" rotX="0" rotY="0" rotZ="90.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (119)" vehicle="415" alpha="255" interior="0" posX="644.20001" posY="-2356.5" posZ="108.3" rotX="0" rotY="0" rotZ="90.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (120)" vehicle="415" alpha="255" interior="0" posX="644.20001" posY="-2359.7" posZ="107.99" rotX="0" rotY="0" rotZ="90.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (121)" vehicle="415" alpha="255" interior="0" posX="644.20001" posY="-2363.1001" posZ="107.7" rotX="0" rotY="0" rotZ="90.483"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (122)" vehicle="415" alpha="255" interior="0" posX="644.20001" posY="-2366.6001" posZ="107.4" rotX="0" rotY="0" rotZ="90.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (123)" vehicle="415" alpha="255" interior="0" posX="605.20001" posY="-2346.6001" posZ="109.1" rotX="0" rotY="0" rotZ="270.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (124)" vehicle="415" alpha="255" interior="0" posX="605.20001" posY="-2349.5" posZ="108.9" rotX="0" rotY="0" rotZ="270.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (125)" vehicle="415" alpha="255" interior="0" posX="605.20001" posY="-2352.5" posZ="108.6" rotX="0" rotY="0" rotZ="270.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (126)" vehicle="415" alpha="255" interior="0" posX="605.20001" posY="-2355.3" posZ="108.4" rotX="0" rotY="0" rotZ="270.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (127)" vehicle="415" alpha="255" interior="0" posX="605.20001" posY="-2358.1001" posZ="108.1" rotX="0" rotY="0" rotZ="270.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (128)" vehicle="415" alpha="255" interior="0" posX="605.20001" posY="-2361.1001" posZ="107.9" rotX="0" rotY="0" rotZ="270.478"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (129)" vehicle="415" alpha="255" interior="0" posX="605.20001" posY="-2364.2" posZ="107.5" rotX="0" rotY="0" rotZ="270.478"></spawnpoint>
+    <maplimit>
+        <point x="125" y="-2800" />
+        <point x="125" y="-1800" />
+        <point x="1125" y="-1800" />
+        <point x="1125" y="-2800" />
+    </maplimit>
+</map>

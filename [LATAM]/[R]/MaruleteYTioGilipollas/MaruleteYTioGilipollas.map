@@ -1,0 +1,27 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Sanchez) (1)" vehicle="468" interior="0" posX="-415.10001" posY="-1761.1" posZ="5.4" rotX="0" rotY="0" rotZ="222"></spawnpoint>
+    <ped id="ped (1)" interior="0" rotZ="294.001" dimension="0" model="159" health="100" armor="0" collisions="true" alpha="255" posX="-416.29999" posY="-1761.6" posZ="5.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" interior="0" rotZ="121.997" dimension="0" model="162" health="100" armor="0" collisions="true" alpha="255" posX="-414.39999" posY="-1760" posZ="5.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" interior="0" rotZ="230" dimension="0" model="75" health="100" armor="0" collisions="true" alpha="255" posX="-416.79999" posY="-1758.6" posZ="6.2" rotX="0" rotY="0"></ped>
+    <object id="object (smash_box_brk) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="3006" scale="1" doublesided="false" collisions="true" posX="-415.20001" posY="-1756.8" posZ="5.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_OUTHOUSE) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1452" scale="1" doublesided="false" collisions="true" posX="-412.70001" posY="-1757.2" posZ="6.2" rotX="0" rotY="0" rotZ="0"></object>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#01FD3699" size="7" interior="0" nextid="checkpoint () (2)" posX="-512.29999" posY="-1820" posZ="18.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00FE0599" size="7" interior="0" nextid="checkpoint () (3)" posX="-699.70001" posY="-1855.9" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00FE0099" size="7" interior="0" nextid="checkpoint () (4)" posX="-836.09998" posY="-2027.9" posZ="22.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00FE1899" size="7" interior="0" nextid="checkpoint () (5)" posX="-858.09998" posY="-2182.8" posZ="24.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#01FD3099" size="7" interior="0" nextid="checkpoint () (6)" posX="-953.20001" posY="-2212.5" posZ="39" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00FE2399" size="7" interior="0" nextid="checkpoint () (7)" posX="-990.29999" posY="-2366.2" posZ="64.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00FE2499" size="7" interior="0" nextid="checkpoint () (9)" posX="-1191.1" posY="-2357.3" posZ="18.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#06FE0099" size="7" interior="0" nextid="checkpoint (Quadbike) (2)" posX="-1311.5" posY="-2191" posZ="21.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00FE3699" size="7" interior="0" nextid="checkpoint () (14)" posX="-1503.1" posY="-2155.3999" posZ="1.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (portakabin) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1684" scale="1" doublesided="false" collisions="true" posX="-2043.3" posY="-2520.8" posZ="34.2" rotX="0" rotY="0" rotZ="318"></object>
+    <object id="object (portakabin) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1684" scale="1" doublesided="false" collisions="true" posX="-2043.3" posY="-2520.7" posZ="37.2" rotX="0" rotY="0" rotZ="317.999"></object>
+    <object id="object (portakabin) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="1684" scale="1" doublesided="false" collisions="true" posX="-2043.3" posY="-2520.7" posZ="40.2" rotX="0" rotY="0" rotZ="317.999"></object>
+    <object id="object (portakabin) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="1684" scale="1" doublesided="false" collisions="true" posX="-2043.3" posY="-2520.7" posZ="43.2" rotX="0" rotY="0" rotZ="317.999"></object>
+    <ped id="ped (5)" interior="0" rotZ="150.001" dimension="0" model="159" health="100" armor="0" collisions="true" alpha="255" posX="-2044.6" posY="-2523.3999" posZ="31.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" interior="0" rotZ="58" dimension="0" model="162" health="100" armor="0" collisions="true" alpha="255" posX="-1643.9" posY="-2237.3" posZ="30" rotX="0" rotY="0"></ped>
+    <object id="object (killfrenzy) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1254" scale="1" doublesided="false" collisions="true" posX="-1645.2" posY="-2249.5" posZ="30.5" rotX="0" rotY="0" rotZ="0"></object>
+    <checkpoint id="checkpoint (Quadbike) (2)" type="checkpoint" color="#7F7F7F99" vehicle="471" size="2" interior="0" nextid="checkpoint () (14)" posX="-1644.4" posY="-2234.7" posZ="28.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#FE8F0099" size="7" interior="0" nextid="checkpoint (Tractor) (2)" posX="-1806.8" posY="-2329" posZ="36.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Tractor) (2)" type="checkpoint" color="#009CFE99" vehicle="531" size="5" interior="0" posX="-2044.1" posY="-2534" posZ="29.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

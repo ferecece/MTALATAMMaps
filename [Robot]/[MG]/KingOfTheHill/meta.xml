@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" racetype="MG" name="King of the Hill" author="HumanTraffiC" version="1.0" description="KOTH" />
+    <map src="race-htkoth1.map" />
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <script src="Text.lua" type="client" />
+    <settings>
+		<setting name="#maxplayers" value="[ 128 ]" />
+        <setting name="#gamespeed" value="[ 1.0000000 ]" />
+        <setting name="#time" value="20:0" />
+		<setting name="#minplayers" value="[ 2 ]" />
+        <setting name="#weather" value="[ 0 ]" />
+		<setting name="#respawntime" value="[ 1 ]" />
+        <setting name="#respawn" value='[ &quot;none&quot; ]' />
+		<setting name="#ghostmode" value='[ &quot;false&quot; ]' />
+		<setting name="#duration" value="[ 1800 ]" />
+		<setting name="#timeafterfirstfinish" value="[ 120 ]" />
+    </settings>
+</meta>

@@ -1,0 +1,290 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" posX="2477.2002" posY="-792.2002" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <object id="start" breakable="true" interior="0" collisions="true" alpha="141" model="3458" doublesided="false" scale="1" dimension="0" posX="2487.7002" posY="-800" posZ="155" rotX="0" rotY="0" rotZ="0"></object>
+    <checkpoint id="checkpoint1" type="ring" color="#0FF" size="20" nextid="checkpoint2" posX="2475.38854" posY="-643.56553" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint2" type="ring" color="#00F" size="20" nextid="checkpoint3" posX="2438.75671" posY="-490.98301" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint3" type="ring" color="#F00" size="20" nextid="checkpoint4" posX="2378.70672" posY="-346.0095" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint4" type="ring" color="#FF0" size="20" nextid="checkpoint5" posX="2296.71719" posY="-212.21475" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint5" type="ring" color="#0FF" size="20" nextid="checkpoint6" posX="2194.80698" posY="-92.89322" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint6" type="ring" color="#00F" size="20" nextid="checkpoint7" posX="2075.48545" posY="9.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint7" type="ring" color="#0FF" size="20" nextid="checkpoint8" posX="1941.6907" posY="91.00652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint8" type="ring" color="#F0F" size="20" nextid="checkpoint9" posX="1796.71719" posY="151.05652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint9" type="ring" color="#00F" size="20" nextid="checkpoint10" posX="1644.13466" posY="187.68834" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint10" type="ring" color="#00F" size="20" nextid="checkpoint11" posX="1487.7002" posY="200" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint11" type="ring" color="#FF0" size="20" nextid="checkpoint12" posX="1331.26573" posY="187.68834" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint12" type="ring" color="#00F" size="20" nextid="checkpoint13" posX="1178.6832" posY="151.05652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint13" type="ring" color="#F0F" size="20" nextid="checkpoint14" posX="1033.7097" posY="91.00652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint14" type="ring" color="#F0F" size="20" nextid="checkpoint15" posX="899.91494" posY="9.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint15" type="ring" color="#0F0" size="20" nextid="checkpoint16" posX="780.59341" posY="-92.89322" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint16" type="ring" color="#0FF" size="20" nextid="checkpoint17" posX="678.6832" posY="-212.21475" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint17" type="ring" color="#00F" size="20" nextid="checkpoint18" posX="596.69367" posY="-346.0095" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint18" type="ring" color="#F00" size="20" nextid="checkpoint19" posX="536.64368" posY="-490.98301" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint19" type="ring" color="#0F0" size="20" nextid="checkpoint20" posX="500.01185" posY="-643.56553" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint20" type="ring" color="#00F" size="20" nextid="checkpoint21" posX="487.7002" posY="-800" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint21" type="ring" color="#FF0" size="20" nextid="checkpoint22" posX="500.01185" posY="-956.43447" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint22" type="ring" color="#0FF" size="20" nextid="checkpoint23" posX="536.64368" posY="-1109.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint23" type="ring" color="#FF0" size="20" nextid="checkpoint24" posX="596.69367" posY="-1253.9905" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint24" type="ring" color="#0FF" size="20" nextid="checkpoint25" posX="678.6832" posY="-1387.78525" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint25" type="ring" color="#00F" size="20" nextid="checkpoint26" posX="780.59341" posY="-1507.10678" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint26" type="ring" color="#FF0" size="20" nextid="checkpoint27" posX="899.91494" posY="-1609.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint27" type="ring" color="#00F" size="20" nextid="checkpoint28" posX="1033.7097" posY="-1691.00652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint28" type="ring" color="#FF0" size="20" nextid="checkpoint29" posX="1178.6832" posY="-1751.05652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint29" type="ring" color="#00F" size="20" nextid="checkpoint30" posX="1331.26573" posY="-1787.68834" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint30" type="ring" color="#0FF" size="20" nextid="checkpoint31" posX="1487.7002" posY="-1800" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint31" type="ring" color="#FF0" size="20" nextid="checkpoint32" posX="1644.13466" posY="-1787.68834" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint32" type="ring" color="#FF0" size="20" nextid="checkpoint33" posX="1796.71719" posY="-1751.05652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint33" type="ring" color="#00F" size="20" nextid="checkpoint34" posX="1941.6907" posY="-1691.00652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint34" type="ring" color="#FF0" size="20" nextid="checkpoint35" posX="2075.48545" posY="-1609.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint35" type="ring" color="#00F" size="20" nextid="checkpoint36" posX="2194.80698" posY="-1507.10678" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint36" type="ring" color="#F0F" size="20" nextid="checkpoint37" posX="2296.71719" posY="-1387.78525" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint37" type="ring" color="#F00" size="20" nextid="checkpoint38" posX="2378.70672" posY="-1253.9905" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint38" type="ring" color="#0F0" size="20" nextid="checkpoint39" posX="2438.75671" posY="-1109.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint39" type="ring" color="#0F0" size="20" nextid="checkpoint40" posX="2475.38854" posY="-956.43447" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint40" type="ring" color="#FF0" size="20" nextid="checkpoint41" posX="2487.7002" posY="-800" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint41" type="ring" color="#0F0" size="20" nextid="checkpoint42" posX="2475.38854" posY="-643.56553" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint42" type="ring" color="#00F" size="20" nextid="checkpoint43" posX="2438.75671" posY="-490.98301" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint43" type="ring" color="#00F" size="20" nextid="checkpoint44" posX="2378.70672" posY="-346.0095" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint44" type="ring" color="#0F0" size="20" nextid="checkpoint45" posX="2296.71719" posY="-212.21475" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint45" type="ring" color="#F0F" size="20" nextid="checkpoint46" posX="2194.80698" posY="-92.89322" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint46" type="ring" color="#F00" size="20" nextid="checkpoint47" posX="2075.48545" posY="9.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint47" type="ring" color="#F00" size="20" nextid="checkpoint48" posX="1941.6907" posY="91.00652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint48" type="ring" color="#FF0" size="20" nextid="checkpoint49" posX="1796.71719" posY="151.05652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint49" type="ring" color="#F0F" size="20" nextid="checkpoint50" posX="1644.13466" posY="187.68834" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint50" type="ring" color="#0FF" size="20" nextid="checkpoint51" posX="1487.7002" posY="200" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint51" type="ring" color="#FF0" size="20" nextid="checkpoint52" posX="1331.26573" posY="187.68834" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint52" type="ring" color="#F00" size="20" nextid="checkpoint53" posX="1178.6832" posY="151.05652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint53" type="ring" color="#0F0" size="20" nextid="checkpoint54" posX="1033.7097" posY="91.00652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint54" type="ring" color="#FF0" size="20" nextid="checkpoint55" posX="899.91494" posY="9.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint55" type="ring" color="#0FF" size="20" nextid="checkpoint56" posX="780.59341" posY="-92.89322" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint56" type="ring" color="#F0F" size="20" nextid="checkpoint57" posX="678.6832" posY="-212.21475" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint57" type="ring" color="#F0F" size="20" nextid="checkpoint58" posX="596.69367" posY="-346.0095" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint58" type="ring" color="#F00" size="20" nextid="checkpoint59" posX="536.64368" posY="-490.98301" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint59" type="ring" color="#0FF" size="20" nextid="checkpoint60" posX="500.01185" posY="-643.56553" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint60" type="ring" color="#F0F" size="20" nextid="checkpoint61" posX="487.7002" posY="-800" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint61" type="ring" color="#00F" size="20" nextid="checkpoint62" posX="500.01185" posY="-956.43447" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint62" type="ring" color="#00F" size="20" nextid="checkpoint63" posX="536.64368" posY="-1109.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint63" type="ring" color="#F00" size="20" nextid="checkpoint64" posX="596.69367" posY="-1253.9905" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint64" type="ring" color="#F00" size="20" nextid="checkpoint65" posX="678.6832" posY="-1387.78525" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint65" type="ring" color="#FF0" size="20" nextid="checkpoint66" posX="780.59341" posY="-1507.10678" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint66" type="ring" color="#F00" size="20" nextid="checkpoint67" posX="899.91494" posY="-1609.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint67" type="ring" color="#FF0" size="20" nextid="checkpoint68" posX="1033.7097" posY="-1691.00652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint68" type="ring" color="#FF0" size="20" nextid="checkpoint69" posX="1178.6832" posY="-1751.05652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint69" type="ring" color="#0F0" size="20" nextid="checkpoint70" posX="1331.26573" posY="-1787.68834" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint70" type="ring" color="#00F" size="20" nextid="checkpoint71" posX="1487.7002" posY="-1800" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint71" type="ring" color="#FF0" size="20" nextid="checkpoint72" posX="1644.13466" posY="-1787.68834" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint72" type="ring" color="#00F" size="20" nextid="checkpoint73" posX="1796.71719" posY="-1751.05652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint73" type="ring" color="#0F0" size="20" nextid="checkpoint74" posX="1941.6907" posY="-1691.00652" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint74" type="ring" color="#00F" size="20" nextid="checkpoint75" posX="2075.48545" posY="-1609.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint75" type="ring" color="#00F" size="20" nextid="checkpoint76" posX="2194.80698" posY="-1507.10678" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint76" type="ring" color="#0F0" size="20" nextid="checkpoint77" posX="2296.71719" posY="-1387.78525" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint77" type="ring" color="#00F" size="20" nextid="checkpoint78" posX="2378.70672" posY="-1253.9905" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint78" type="ring" color="#F0F" size="20" nextid="checkpoint79" posX="2438.75671" posY="-1109.01699" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint79" type="ring" color="#00F" size="20" nextid="checkpoint80" posX="2475.38854" posY="-956.43447" posZ="155" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint80" type="ring" color="#FF0" size="20" posX="2487.7002" posY="-800" posZ="155" rotX="0" rotY="0" rotZ="90"></checkpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2485.8" posY="-792" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2500.5" posY="-792" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2477.2" posY="-805.20001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2486" posY="-805.20001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2500.2998" posY="-805.2002" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2492.5" posY="-792" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2493" posY="-805.20001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2477.5" posY="-818.20001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2486" posY="-818.20001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2493.3" posY="-818.20001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2500" posY="-818.20001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2500" posY="-828.5" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2493.3" posY="-828.5" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2487" posY="-828.5" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2478.3" posY="-828.5" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2478.3" posY="-838.79999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2487" posY="-838.79999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2493.3" posY="-838.79999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2499" posY="-838.79999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2499" posY="-838.7998" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2477.8" posY="-848.29999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2486.5" posY="-850.29999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2493.3" posY="-850.29999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2498.8" posY="-850.29999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2497.5" posY="-863.5" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2492" posY="-863.5" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2485.8" posY="-863.5" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2478.8" posY="-863.5" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2476.8" posY="-874" posZ="158.5" rotX="0" rotY="0" rotZ="357.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2483" posY="-874" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2489" posY="-874" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2495.5" posY="-874" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2493.3" posY="-884.5" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2487.8" posY="-886.29999" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2481.8" posY="-886.29999" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2474.5" posY="-886.29999" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2472" posY="-898" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2477.3" posY="-898" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2484.8" posY="-898" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2490.8" posY="-898" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2490.8" posY="-910" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2484" posY="-910" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2477.8" posY="-910" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2471.5" posY="-910" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2467.5" posY="-920.29999" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2472.3" posY="-925" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2478.5" posY="-925" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2486.5" posY="-925" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2486.5" posY="-925" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2486.5" posY="-936" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2480.8" posY="-936" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2475" posY="-936" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2467.5" posY="-936" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2467.5" posY="-949.5" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2474.5" posY="-949.5" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2480.8" posY="-949.5" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2486" posY="-949.5" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2477.3" posY="-782.70001" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2482" posY="-782.70001" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2490.6001" posY="-782.70001" posZ="158.5" rotX="0" rotY="0" rotZ="357.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2498.8" posY="-782.70001" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2491.5" posY="-770.5" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="2485" posY="-770.5" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2175.4451" posY="-94.88997" posZ="152.03006" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2180.27067" posY="-89.94257" posZ="154.94332" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2185.09623" posY="-84.99516" posZ="157.85658" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2189.9218" posY="-80.04775" posZ="160.76983" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2194.74736" posY="-75.10034" posZ="163.68309" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1463.08597" posY="187.00039" posZ="146.42653" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="1462.95542" posY="192.23553" posZ="151.79553" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1462.82486" posY="197.47068" posZ="157.16453" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="1462.6943" posY="202.70583" posZ="162.53354" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1462.56374" posY="207.94098" posZ="167.90254" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="760.7809" posY="-125.51747" posZ="142.16945" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="758.77229" posY="-123.65376" posZ="149.15101" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="756.76369" posY="-121.79004" posZ="156.13256" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="754.75508" posY="-119.92633" posZ="163.11411" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="752.74648" posY="-118.06261" posZ="170.09566" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="491.66495" posY="-849.71005" posZ="139.92738" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="491.8517" posY="-849.70073" posZ="147.42505" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="492.03845" posY="-849.69141" posZ="154.92271" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="492.2252" posY="-849.68209" posZ="162.42038" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="492.41195" posY="-849.67277" posZ="169.91805" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="823.80191" posY="-1552.28824" posZ="140.05242" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="825.84298" posY="-1549.97543" posZ="146.88872" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="827.88405" posY="-1547.66262" posZ="153.72501" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="829.92512" posY="-1545.3498" posZ="160.5613" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="831.96619" posY="-1543.03699" posZ="167.3976" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1563.09444" posY="-1806.06626" posZ="142.52495" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="1562.68358" posY="-1800.58374" posZ="147.62625" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1562.27273" posY="-1795.10122" posZ="152.72754" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="1561.86187" posY="-1789.6187" posZ="157.82883" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1561.45101" posY="-1784.13618" posZ="162.93012" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2263.73012" posY="-1451.16642" posZ="146.95665" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2258.33127" posY="-1446.63624" posZ="149.5218" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2252.93242" posY="-1442.10607" posZ="152.08695" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2247.53357" posY="-1437.5759" posZ="154.6521" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2242.13473" posY="-1433.04573" posZ="157.21726" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2497.79162" posY="-698.92508" posZ="152.65155" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2490.33817" posY="-699.67091" posZ="152.2777" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2482.88471" posY="-700.41674" posZ="151.90385" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2475.43126" posY="-701.16257" posZ="151.53" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2467.97781" posY="-701.90841" posZ="151.15616" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2120.45474" posY="-6.55084" posZ="158.71525" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2116.24165" posY="-11.83388" posZ="155.46113" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2112.02856" posY="-17.11692" posZ="152.207" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2107.81547" posY="-22.39996" posZ="148.95287" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2103.60238" posY="-27.683" posZ="145.69874" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1361.83329" posY="204.39375" posZ="164.19549" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="1362.45036" posY="199.46962" posZ="158.57213" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1363.06743" posY="194.5455" posZ="152.94877" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="1363.6845" posY="189.62137" posZ="147.32541" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1364.30157" posY="184.69724" posZ="141.70205" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="684.41711" posY="-191.53671" posZ="168.2316" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="686.32118" posY="-192.97899" posZ="161.12215" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="688.22525" posY="-194.42126" posZ="154.01269" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="690.12933" posY="-195.86354" posZ="146.90324" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="692.0334" posY="-197.30582" posZ="139.79378" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="496.92098" posY="-949.33591" posZ="170.18972" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="496.36676" posY="-949.41944" posZ="162.71069" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="495.81255" posY="-949.50297" posZ="155.23166" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="495.25834" posY="-949.58651" posZ="147.75263" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="494.70412" posY="-949.67004" posZ="140.27361" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="906.34088" posY="-1608.62158" posZ="169.76233" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="904.34355" posY="-1611.39969" posZ="163.08829" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="902.34623" posY="-1614.1778" posZ="156.41425" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="900.3489" posY="-1616.95591" posZ="149.74021" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="898.35157" posY="-1619.73402" posZ="143.06618" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1659.69907" posY="-1775.45401" posZ="167.01655" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="1660.69674" posY="-1781.11206" posZ="162.19564" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1661.69441" posY="-1786.77011" posZ="157.37474" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="1662.69207" posY="-1792.42816" posZ="152.55383" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="1663.68974" posY="-1798.08621" posZ="147.73292" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2302.85096" posY="-1355.7604" posZ="162.3836" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2308.77245" posY="-1359.7976" posZ="160.17294" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2314.69393" posY="-1363.8348" posZ="157.96228" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="repair" vehicle="522" respawn="0" posX="2320.61542" posY="-1367.872" posZ="155.75161" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <racepickup id="racepickup" type="nitro" vehicle="522" respawn="0" posX="2326.5369" posY="-1371.9092" posZ="153.54095" rotX="0" rotY="0" rotZ="0"></racepickup>
+    <vehicle id="vehicle (Infernus) (1)" paintjob="3" interior="0" alpha="255" model="411" plate="JX0JJUN" dimension="0" color="89,110,135,245,245,245,0,0,0,0,0,0" posX="2496.8999" posY="-797.70001" posZ="157.3" rotX="0" rotY="0" rotZ="0"></vehicle>
+    <object id="CAMERA1" breakable="true" interior="0" collisions="true" alpha="255" model="1337" doublesided="false" scale="1" dimension="0" posX="1389.9" posY="-1748.9" posZ="134.8" rotX="0" rotY="0" rotZ="0"></object>
+    <ped id="ped (1)" dimension="0" model="70" interior="0" rotZ="0.003" alpha="255" posX="2462.1001" posY="-1041.8" posZ="61" rotX="0" rotY="0"></ped>
+    <spawnpoint id="spawnpoint (Infernus) (2)" vehicle="411" alpha="255" interior="0" posX="2470.8999" posY="-949.70001" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (3)" vehicle="411" alpha="255" interior="0" posX="2477.6001" posY="-949.70001" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (4)" vehicle="411" alpha="255" interior="0" posX="2471.3" posY="-936.20001" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (5)" vehicle="411" alpha="255" interior="0" posX="2474.3" posY="-917.90002" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (6)" vehicle="411" alpha="255" interior="0" posX="2480.5" posY="-918.20001" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (7)" vehicle="411" alpha="255" interior="0" posX="2488.3" posY="-918" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (8)" vehicle="411" alpha="255" interior="0" posX="2481" posY="-897.79999" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (9)" vehicle="411" alpha="255" interior="0" posX="2478" posY="-886.40002" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (10)" vehicle="411" alpha="255" interior="0" posX="2482.3" posY="-863.59998" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (11)" vehicle="411" alpha="255" interior="0" posX="2480.6001" posY="-856.70001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (12)" vehicle="411" alpha="255" interior="0" posX="2484.1001" posY="-856.70001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (13)" vehicle="411" alpha="255" interior="0" posX="2489.2" posY="-856.70001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (14)" vehicle="411" alpha="255" interior="0" posX="2492.3999" posY="-856.79999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (15)" vehicle="411" alpha="255" interior="0" posX="2496.3" posY="-857" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (16)" vehicle="411" alpha="255" interior="0" posX="2481.8999" posY="-848.20001" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (17)" vehicle="411" alpha="255" interior="0" posX="2482.7" posY="-839" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (18)" vehicle="411" alpha="255" interior="0" posX="2482.8" posY="-828.29999" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (19)" vehicle="411" alpha="255" interior="0" posX="2481.6001" posY="-818.09998" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (20)" vehicle="411" alpha="255" interior="0" posX="2481.6001" posY="-805.09998" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (21)" vehicle="411" alpha="255" interior="0" posX="2489.5" posY="-805.09998" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (22)" vehicle="411" alpha="255" interior="0" posX="2496.6001" posY="-805.09998" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (23)" vehicle="411" alpha="255" interior="0" posX="2481.3999" posY="-791.40002" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (24)" vehicle="411" alpha="255" interior="0" posX="2489" posY="-790" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (25)" vehicle="411" alpha="255" interior="0" posX="2496.2" posY="-789.59998" posZ="158.5" rotX="0" rotY="0" rotZ="1.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (26)" vehicle="411" alpha="255" interior="0" posX="2485.8" posY="-782.79999" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (27)" vehicle="411" alpha="255" interior="0" posX="2494.6001" posY="-781.79999" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (28)" vehicle="411" alpha="255" interior="0" posX="2481.8" posY="-770.40002" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (29)" vehicle="411" alpha="255" interior="0" posX="2478.6001" posY="-770.29999" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (30)" vehicle="411" alpha="255" interior="0" posX="2488.2" posY="-770.70001" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (31)" vehicle="411" alpha="255" interior="0" posX="2494.8999" posY="-771" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (32)" vehicle="411" alpha="255" interior="0" posX="2498.1001" posY="-771.09998" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (33)" vehicle="411" alpha="255" interior="0" posX="2482.7" posY="-925.20001" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (34)" vehicle="411" alpha="255" interior="0" posX="2475.2" posY="-924.90002" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (35)" vehicle="411" alpha="255" interior="0" posX="2468" posY="-928.90002" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (36)" vehicle="411" alpha="255" interior="0" posX="2489.5" posY="-925.09998" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (37)" vehicle="411" alpha="255" interior="0" posX="2468" posY="-943.09998" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (38)" vehicle="411" alpha="255" interior="0" posX="2471.1001" posY="-943.09998" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (39)" vehicle="411" alpha="255" interior="0" posX="2474.6001" posY="-943.20001" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (40)" vehicle="411" alpha="255" interior="0" posX="2477.8" posY="-943.29999" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (41)" vehicle="411" alpha="255" interior="0" posX="2480.8999" posY="-943.29999" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (42)" vehicle="411" alpha="255" interior="0" posX="2484.3" posY="-943.40002" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (43)" vehicle="411" alpha="255" interior="0" posX="2478.8" posY="-761.79999" posZ="158.5" rotX="0" rotY="0" rotZ="357.495"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (44)" vehicle="411" alpha="255" interior="0" posX="2481.8999" posY="-761.90002" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (45)" vehicle="411" alpha="255" interior="0" posX="2485.3999" posY="-762" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (46)" vehicle="411" alpha="255" interior="0" posX="2488.7" posY="-762.09998" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (47)" vehicle="411" alpha="255" interior="0" posX="2492" posY="-762.20001" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (48)" vehicle="411" alpha="255" interior="0" posX="2495.5" posY="-762.59998" posZ="158.5" rotX="0" rotY="0" rotZ="357.49"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (50)" vehicle="411" alpha="255" interior="0" posX="2480.1001" posY="-753.5" posZ="158.5" rotX="0" rotY="0" rotZ="4"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (51)" vehicle="411" alpha="255" interior="0" posX="2483.8" posY="-753.70001" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (52)" vehicle="411" alpha="255" interior="0" posX="2487.3" posY="-753.70001" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (53)" vehicle="411" alpha="255" interior="0" posX="2490.8" posY="-753.79999" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (54)" vehicle="411" alpha="255" interior="0" posX="2494" posY="-753.79999" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (55)" vehicle="411" alpha="255" interior="0" posX="2479.6001" posY="-746.09998" posZ="158.5" rotX="0" rotY="0" rotZ="4"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (56)" vehicle="411" alpha="255" interior="0" posX="2483.2" posY="-746.40002" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (57)" vehicle="411" alpha="255" interior="0" posX="2486.8999" posY="-746.70001" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (58)" vehicle="411" alpha="255" interior="0" posX="2490.8999" posY="-746.79999" posZ="158.5" rotX="0" rotY="0" rotZ="4"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (59)" vehicle="411" alpha="255" interior="0" posX="2489.7" posY="-740" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (60)" vehicle="411" alpha="255" interior="0" posX="2486.2" posY="-739.70001" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (61)" vehicle="411" alpha="255" interior="0" posX="2482.3999" posY="-739.09998" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (62)" vehicle="411" alpha="255" interior="0" posX="2481.6001" posY="-731.90002" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (63)" vehicle="411" alpha="255" interior="0" posX="2494.3999" posY="-746.59998" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (64)" vehicle="411" alpha="255" interior="0" posX="2478.8999" posY="-738.90002" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (65)" vehicle="411" alpha="255" interior="0" posX="2478.6001" posY="-732.20001" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (66)" vehicle="411" alpha="255" interior="0" posX="2485.1001" posY="-731.90002" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (67)" vehicle="411" alpha="255" interior="0" posX="2489.1001" posY="-731.70001" posZ="158.5" rotX="0" rotY="0" rotZ="3.999"></spawnpoint>
+</map>

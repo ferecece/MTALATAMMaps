@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<meta>
+    <info gamemodes="race" type="map" racetype="R" name="Slamvan" author="Tomy" version="1" />
+    <map src="SlamvanRace.map" dimension="0" />
+    <settings>
+        <setting name="#skins" value="[ &quot;random&quot; ]" />
+        <setting name="#maxplayers" value="[ 128 ]" />
+        <setting name="#useLODs" value="[ false ]" />
+        <setting name="#gamespeed" value="[ 1 ]" />
+        <setting name="#ghostmode" value="[ &quot;true&quot; ]" />
+        <setting name="#time" value="23:0" />
+        <setting name="#vehicleweapons" value="[ &quot;false&quot; ]" />
+        <setting name="#minplayers" value="[ 0 ]" />
+        <setting name="#weather" value="[ 0 ]" />
+        <setting name="#gravity" value="[ 0.0080000004 ]" />
+        <setting name="#waveheight" value="[ 0 ]" />
+        <setting name="#respawntime" value="[ 1 ]" />
+        <setting name="#locked_time" value="[ false ]" />
+        <setting name="#duration" value="[ 300 ]" />
+        <setting name="#respawn" value="[ &quot;timelimit&quot; ]" />
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server" />
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false" />
+</meta>

@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint Alpha" vehicle="602" interior="0" posX="-782.20001" posY="2768.6001" posZ="45.6" rotX="0" rotY="0" rotZ="-180"></spawnpoint>
+    <checkpoint id="checkpoint 1" type="checkpoint" color="#FF00FF" blipsize="6" size="5" interior="0" posX="2495.4004" posY="-1689" posZ="12.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

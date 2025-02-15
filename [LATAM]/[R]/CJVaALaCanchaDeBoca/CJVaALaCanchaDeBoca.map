@@ -1,0 +1,19 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (BMX) (1)" vehicle="481" interior="0" posX="1305.3" posY="2106.7" posZ="10.7" rotX="0" rotY="0" rotZ="292"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2.25" interior="0" nextid="checkpoint () (2)" posX="1349.4" posY="2106.5" posZ="10.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#FEEF0099" size="2.25" interior="0" nextid="checkpoint () (3)" posX="1392" posY="2105.7" posZ="10.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="2.25" interior="0" nextid="checkpoint () (4)" posX="1388.5" posY="2160" posZ="10.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (DYN_RAMP) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1503" scale="1" doublesided="false" collisions="true" posX="1382.9" posY="2167.7" posZ="10" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (landjump2) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1634" scale="1" doublesided="false" collisions="true" posX="1388.3" posY="2166.5" posZ="11.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sm_fir_scabby) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="685" scale="1" doublesided="false" collisions="true" posX="1383.3" posY="2183.6001" posZ="10" rotX="0" rotY="0" rotZ="0"></object>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#FEEF0099" size="2.25" interior="0" nextid="checkpoint (Tram) (1)" posX="1408.1" posY="2183.8999" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (d_sign01) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="3927" scale="1" doublesided="false" collisions="true" posX="1399" posY="2185.6001" posZ="16.2" rotX="0" rotY="0" rotZ="0"></object>
+    <checkpoint id="checkpoint (Tram) (1)" type="checkpoint" color="#00F9" vehicle="449" size="2.25" interior="0" posX="1300.3" posY="2211.7" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <ped id="ped (1)" interior="0" rotZ="174.001" dimension="0" model="105" health="100" armor="0" collisions="true" alpha="255" posX="1305.4" posY="2114.5" posZ="11" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" interior="0" rotZ="129.999" dimension="0" model="105" health="100" armor="0" collisions="true" alpha="255" posX="1304" posY="2113.8999" posZ="11" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" interior="0" rotZ="0.003" dimension="0" model="105" health="100" armor="0" collisions="true" alpha="255" posX="1307.6" posY="2113.1001" posZ="11" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" interior="0" rotZ="0.003" dimension="0" model="105" health="100" armor="0" collisions="true" alpha="255" posX="1308.2" posY="2125.1001" posZ="11" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" interior="0" rotZ="0" dimension="0" model="105" health="100" armor="0" collisions="true" alpha="255" posX="1314.8" posY="2124.2" posZ="11" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" interior="0" rotZ="0" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" posX="1393" posY="2183.8999" posZ="11" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" interior="0" rotZ="78.001" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" posX="1403.6" posY="2179" posZ="16.4" rotX="0" rotY="0"></ped>
+</map>

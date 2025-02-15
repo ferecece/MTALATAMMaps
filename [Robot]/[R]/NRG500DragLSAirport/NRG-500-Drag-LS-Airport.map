@@ -1,0 +1,25 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (airyelrm_LAS) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3665" doublesided="false" scale="1" dimension="0" posX="1715.5" posY="-2492.3999" posZ="14.5" rotX="0" rotY="0" rotZ="90"></object>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" posX="1400" posY="-2504" posZ="13.2" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <object id="object (tall_fence) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="1700.5" posY="-2489.2" posZ="15.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (tall_fence) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="1700.5" posY="-2479.5" posZ="15.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (tall_fence) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="1700.5" posY="-2498.8999" posZ="15.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (tall_fence) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="1700.5" posY="-2509.1001" posZ="15.3" rotX="0" rotY="0" rotZ="90"></object>
+    <spawnpoint id="spawnpoint (NRG-500) (2)" vehicle="522" alpha="255" interior="0" posX="1400" posY="-2494" posZ="13.2" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (3)" vehicle="522" alpha="255" interior="0" posX="1400" posY="-2484.5" posZ="13.2" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="15" nextid="checkpoint () (2)" posX="1691.2" posY="-2494" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (vgncarshade1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="1924.5" posY="-2494.3994" posZ="11.73" rotX="344.998" rotY="0" rotZ="90"></object>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="15" nextid="checkpoint () (3)" posX="1914.8" posY="-2494" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="15" posX="2127.7002" posY="-2494" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (waterjump1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1632" doublesided="false" scale="1" dimension="0" posX="2118.8" posY="-2485.8999" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (waterjump1) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="1632" doublesided="false" scale="1" dimension="0" posX="2118.8" posY="-2490" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (waterjump1) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="1632" doublesided="false" scale="1" dimension="0" posX="2118.8" posY="-2494.1001" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (waterjump1) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="1632" doublesided="false" scale="1" dimension="0" posX="2118.8" posY="-2498.2" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (waterjump1) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="1632" doublesided="false" scale="1" dimension="0" posX="2118.8" posY="-2502.3" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vgsSairportland14) (1)" breakable="true" interior="0" alpha="0" model="8357" doublesided="false" scale="1" dimension="0" posX="1468.9" posY="-2513" posZ="12.6" rotX="0" rotY="90" rotZ="90"></object>
+    <object id="object (vgsSairportland14) (2)" breakable="true" interior="0" alpha="0" model="8357" doublesided="false" scale="1" dimension="0" posX="1679.9" posY="-2513" posZ="15.6" rotX="0" rotY="90" rotZ="90"></object>
+    <object id="object (vgsSairportland14) (3)" breakable="true" interior="0" alpha="0" model="8357" doublesided="false" scale="1" dimension="0" posX="1889.7" posY="-2513" posZ="15" rotX="0" rotY="90" rotZ="90"></object>
+    <object id="object (vgsSairportland14) (4)" breakable="true" interior="0" alpha="0" model="8357" doublesided="false" scale="1" dimension="0" posX="1675" posY="-2476" posZ="12.6" rotX="0" rotY="270" rotZ="90"></object>
+    <object id="object (vgsSairportland14) (6)" breakable="true" interior="0" alpha="0" model="8357" doublesided="false" scale="1" dimension="0" posX="1468.0996" posY="-2476" posZ="12.6" rotX="0" rotY="270" rotZ="90"></object>
+    <object id="object (vgsSairportland14) (7)" breakable="true" interior="0" alpha="0" model="8357" doublesided="false" scale="1" dimension="0" posX="1875" posY="-2476" posZ="12.6" rotX="0" rotY="270" rotZ="90"></object>
+</map>

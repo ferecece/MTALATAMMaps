@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (NRG-500) (3)" vehicle="522" alpha="255" interior="0" posX="1540.4" posY="-1675.4" posZ="13.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (5)" vehicle="522" alpha="255" interior="0" posX="1542.0996" posY="-1670.5996" posZ="13.2" rotX="0" rotY="0" rotZ="44.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (6)" vehicle="522" alpha="255" interior="0" posX="1542.0996" posY="-1679.7998" posZ="13.2" rotX="0" rotY="0" rotZ="134.995"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="ring" color="#0000E700" size="0.40000001" interior="0" posX="1516.5" posY="-1657" posZ="13.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (subwaygate) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="971" scale="1" doublesided="false" collisions="true" frozen="false" posX="1517" posY="-1661.8" posZ="16" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (subwaygate) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="971" scale="1" doublesided="false" collisions="true" frozen="false" posX="1512.5996" posY="-1657.4004" posZ="16" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (subwaygate) (4)" breakable="false" interior="0" alpha="255" dimension="0" model="971" scale="1" doublesided="false" collisions="true" frozen="false" posX="1516.9" posY="-1653" posZ="16" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (subwaygate) (6)" breakable="false" interior="0" alpha="255" dimension="0" model="971" scale="2" doublesided="false" collisions="true" frozen="false" posX="1516.2" posY="-1657.6" posZ="20" rotX="90" rotY="0" rotZ="90"></object>
+    <object id="object (subwaygate) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="971" scale="1" doublesided="false" collisions="true" frozen="false" posX="1521.5" posY="-1657.5" posZ="16" rotX="0" rotY="0" rotZ="90"></object>
+</map>

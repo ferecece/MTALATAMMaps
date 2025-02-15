@@ -1,0 +1,29 @@
+<meta>
+    <!-- <file src="files/cuntainer.dff"></file> -->
+    <file src="files/cuntainer.col"></file>
+    <file src="files/box.png"></file>
+    <file src="files/note.png"></file>
+    <script src="mg_server.lua" type="server"></script>
+    <script src="mg_client.lua" type="client"></script>
+    <info gamemodes="race" type="map" racetype="MG" name="Musical Garages" author="MoweMax" version="1.3" description="Just like musical chairs, but garages"></info>
+    <map src="musical-garages.map" dimension="0"></map>
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+	<settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 64 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#time" value="6:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 2 ]"></setting>
+        <setting name="#respawntime" value="[ 30 ]"></setting>
+        <setting name="#gravity" value="[ 0.008 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 18 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;none&quot; ]'></setting>
+    </settings>
+</meta>

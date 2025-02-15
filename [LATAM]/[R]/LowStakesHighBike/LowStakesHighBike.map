@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (NRG-500) (2)" vehicle="522" posX="1516.69995" posY="-1872.40002" posZ="13" rotX="0" rotY="0" rotZ="92"></spawnpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#FE000099" size="10" nextid="checkpoint () (11)" posX="1391.5" posY="-1871.8" posZ="12.4" rotX="0" rotY="0" rotZ="356"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#FE000099" size="10" alpha="255" interior="0" nextid="checkpoint () (12)" posX="1077.1" posY="-1844.2" posZ="12.6" rotX="0" rotY="0" rotZ="356"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#FE000099" size="10" alpha="255" interior="0" nextid="checkpoint () (13)" posX="643.20001" posY="-1732.5" posZ="12.6" rotX="0" rotY="0" rotZ="355.995"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#FE000099" size="10" alpha="255" interior="0" nextid="checkpoint () (14)" posX="627.5" posY="-1234.8" posZ="16.9" rotX="0" rotY="0" rotZ="356"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#FE000099" size="10" alpha="255" interior="0" nextid="checkpoint () (15)" posX="496.10001" posY="-1286.4" posZ="14.7" rotX="0" rotY="0" rotZ="356"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#FE000099" size="10" alpha="255" interior="0" nextid="checkpoint () (16)" posX="503.60001" posY="-1335" posZ="15" rotX="0" rotY="0" rotZ="356"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#FE000099" size="10" alpha="255" interior="0" nextid="checkpoint () (17)" posX="405.5" posY="-1401.6" posZ="32.2" rotX="0" rotY="0" rotZ="356"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="checkpoint" color="#FE000099" size="10" alpha="255" interior="0" nextid="checkpoint () (18)" posX="330.89999" posY="-1635.8" posZ="32.2" rotX="0" rotY="0" rotZ="356"></checkpoint>
+    <checkpoint id="checkpoint () (18)" type="checkpoint" nextid="false" color="#FE000099" size="10" alpha="255" interior="0" posX="370.60001" posY="-2040.5" posZ="9.9" rotX="0" rotY="0" rotZ="355.995"></checkpoint>
+</map>

@@ -1,0 +1,81 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (cs_roadbridge01) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="-240" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cs_roadbridge01) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="-160" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <spawnpoint id="spawnpoint (Sandking) (1)" vehicle="495" posX="-2738" posY="-457.70001" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <object id="object (cs_roadbridge01) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="-80" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cs_roadbridge01) (5)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="0" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cs_roadbridge01) (6)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="80" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cs_roadbridge01) (7)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="160" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cs_roadbridge01) (8)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="240" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cs_roadbridge01) (9)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="320" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cs_roadbridge01) (10)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="-320" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cs_roadbridge01) (11)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="400" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland18) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="-429" posZ="114.85" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland18) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2700" posY="-429" posZ="114.85" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland18) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2780" posY="-429" posZ="114.85" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland18) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2699.9299" posY="-567.25" posZ="114.85" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vgsSairportland18) (7)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2779.9299" posY="-567.25" posZ="114.85" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vgsSairportland18) (8)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2739.9299" posY="-567.25" posZ="114.85" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (cs_roadbridge01) (13)" breakable="true" interior="0" alpha="255" dimension="0" model="18449" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740" posY="480" posZ="114.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland18) (9)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740.0249" posY="589.15002" posZ="114.8" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vgsSairportland18) (10)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2780.0244" posY="589.15002" posZ="114.8" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vgsSairportland18) (11)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2700.0249" posY="589.15002" posZ="114.8" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vgsSairportland18) (12)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2780.1001" posY="727.40002" posZ="114.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland18) (13)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2700.1001" posY="727.40002" posZ="114.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland18) (14)" breakable="true" interior="0" alpha="255" dimension="0" model="8355" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2740.1001" posY="727.40002" posZ="114.8" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Sandking) (2)" vehicle="495" alpha="255" interior="0" posX="-2734" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (3)" vehicle="495" alpha="255" interior="0" posX="-2714" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (4)" vehicle="495" alpha="255" interior="0" posX="-2754" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (5)" vehicle="495" alpha="255" interior="0" posX="-2726" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (6)" vehicle="495" alpha="255" interior="0" posX="-2750" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (7)" vehicle="495" alpha="255" interior="0" posX="-2742" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (8)" vehicle="495" alpha="255" interior="0" posX="-2718" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (9)" vehicle="495" alpha="255" interior="0" posX="-2770" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (10)" vehicle="495" alpha="255" interior="0" posX="-2766" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (11)" vehicle="495" alpha="255" interior="0" posX="-2758" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (12)" vehicle="495" alpha="255" interior="0" posX="-2762" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (13)" vehicle="495" alpha="255" interior="0" posX="-2710" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (14)" vehicle="495" alpha="255" interior="0" posX="-2722" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (15)" vehicle="495" alpha="255" interior="0" posX="-2746" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (16)" vehicle="495" alpha="255" interior="0" posX="-2730" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (17)" vehicle="495" alpha="255" interior="0" posX="-2710" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (18)" vehicle="495" alpha="255" interior="0" posX="-2714" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (19)" vehicle="495" alpha="255" interior="0" posX="-2718" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (20)" vehicle="495" alpha="255" interior="0" posX="-2722" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (21)" vehicle="495" alpha="255" interior="0" posX="-2726" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (22)" vehicle="495" alpha="255" interior="0" posX="-2730" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (23)" vehicle="495" alpha="255" interior="0" posX="-2734" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (24)" vehicle="495" alpha="255" interior="0" posX="-2738" posY="-464.5" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (25)" vehicle="495" alpha="255" interior="0" posX="-2742" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (26)" vehicle="495" alpha="255" interior="0" posX="-2746" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (27)" vehicle="495" alpha="255" interior="0" posX="-2750" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (28)" vehicle="495" alpha="255" interior="0" posX="-2754" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (29)" vehicle="495" alpha="255" interior="0" posX="-2758" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (30)" vehicle="495" alpha="255" interior="0" posX="-2762" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (31)" vehicle="495" alpha="255" interior="0" posX="-2766" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (32)" vehicle="495" alpha="255" interior="0" posX="-2770" posY="-457.7002" posZ="116.15" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <checkpoint id="1 FBI Truck" type="ring" color="#87000099" vehicle="528" size="20" nextid="2 Barracks" posX="-2742.1001" posY="707.59998" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="2 Barracks" type="ring" color="#87000099" vehicle="433" size="20" nextid="3 Comet" posX="-2739.1001" posY="-545" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="3 Comet" type="ring" color="#87000099" vehicle="480" size="20" nextid="4 Packer" posX="-2741.3" posY="708.29999" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="4 Packer" type="ring" color="#87000099" vehicle="443" size="20" nextid="5 Police" posX="-2739.8" posY="-541.79999" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="5 Police" type="ring" color="#87000099" vehicle="597" size="20" nextid="6 Turismo" posX="-2741.7" posY="709.09998" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="6 Turismo" type="ring" color="#87000099" vehicle="451" size="20" nextid="7 Monster" posX="-2738.8" posY="-543.70001" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="7 Monster" type="ring" color="#87000099" vehicle="444" size="20" nextid="8 Flatbed" posX="-2742.2" posY="707.79999" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="8 Flatbed" type="ring" color="#87000099" vehicle="455" size="20" nextid="9 Euros" posX="-2739.8" posY="-543.79999" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="9 Euros" type="ring" color="#87000099" vehicle="587" size="20" nextid="10 Dune" posX="-2740.5" posY="709.59998" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="10 Dune" type="ring" color="#87000099" vehicle="573" size="20" nextid="11 Roadtrain" posX="-2740.2" posY="-541.79999" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="11 Roadtrain" type="ring" color="#87000099" vehicle="515" size="20" nextid="12 Super GT" posX="-2740.6001" posY="710.40002" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="12 Super GT" type="ring" color="#87000099" vehicle="506" size="20" nextid="13 Savanna" posX="-2742.8" posY="-545.40002" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="13 Savanna" type="ring" color="#87000099" vehicle="567" size="20" nextid="14 Enforcer" posX="-2740" posY="711.90002" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="14 Enforcer" type="ring" color="#87000099" vehicle="427" size="20" nextid="15 Fire Truck" posX="-2740" posY="-541.5" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="15 Fire Truck" type="ring" color="#87000099" vehicle="407" size="20" nextid="16 FBI Rancher" posX="-2741.3" posY="710.40002" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="16 FBI Rancher" type="ring" color="#87000099" vehicle="490" size="20" nextid="17 Camper" posX="-2740.7" posY="-543.70001" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="17 Camper" type="ring" color="#87000099" vehicle="483" size="20" nextid="18 FBI Rancher" posX="-2740.7" posY="710.90002" posZ="128.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="18 FBI Rancher" type="corona" nextid="false" color="#87000099" vehicle="577" size="20" posX="-2741.7" posY="-517.29999" posZ="125.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (1)" type="repair" vehicle="522" respawn="0" posX="-2732.6001" posY="-548.29999" posZ="116.4" rotX="0" rotY="0" rotZ="210.96"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-2739.8" posY="-548.29999" posZ="116.4" rotX="0" rotY="0" rotZ="184.32"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-2747" posY="-548.29999" posZ="116.4" rotX="0" rotY="0" rotZ="147.06"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="repair" vehicle="522" respawn="0" posX="-2740" posY="705.40002" posZ="116.4" rotX="0" rotY="0" rotZ="295.02"></racepickup>
+    <racepickup id="racepickup (NRG-500) (5)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-2732.8999" posY="705.40002" posZ="116.4" rotX="0" rotY="0" rotZ="260.28"></racepickup>
+    <racepickup id="racepickup (NRG-500) (6)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-2746.8" posY="705.40002" posZ="116.4" rotX="0" rotY="0" rotZ="321.66"></racepickup>
+</map>

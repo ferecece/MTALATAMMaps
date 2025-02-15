@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+    <script src="repair.lua" type="client" />
+    <info type="map" gamemodes="race" racetype="R" name="El_Salvador1986" author="Jake" description="" version="1.0" />
+  <map src="El_Salvador1986.map" />
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+  <settings>
+    <setting name="#time" value="12:0" />
+    <setting name="#weather" value="0" />
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#respawntime" value="1" />
+    <setting name="#duration" value="600" />
+    <setting name="#ghostmode" value="true" />
+  </settings>
+</meta>

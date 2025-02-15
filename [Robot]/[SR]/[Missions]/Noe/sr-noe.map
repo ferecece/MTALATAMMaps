@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main,race">
+    <checkpoint id="AngelPineDrop" type="ring" color="#FE000000" size="25" nextid="HiddenCheckpoint" posX="-2135.5898" posY="-2488.4541" posZ="55.895" rotX="0" rotY="0" rotZ="0"></checkpoint>
+	<checkpoint id="HiddenCheckpoint" type="ring" color="#FE000000" size="2" posX="178.61275" posY="2502.149" posZ="-50.4228" rotX="0" rotY="0" rotZ="0"></checkpoint>
+	<marker id="MarkerStrip" type="cylinder" color="#FE000099" size="10" interior="0" dimension="0" alpha="255" posX="178.61275" posY="2502.149" posZ="16.45615" rotX="0" rotY="0" rotZ="0"></marker>
+    <spawnpoint id="RaceSpawn" vehicle="476" posX="323.5459" posY="2540.2539" posZ="17.6085" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+</map>

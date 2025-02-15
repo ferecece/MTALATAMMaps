@@ -1,0 +1,34 @@
+<meta>
+    <min_mta_version server="1.5.8-9.2095" client="1.5.8-9.2095" />
+    <file src="blip.wav"></file>
+    <file src="bloop.wav"></file>
+
+    <script src="constants.lua" type="shared" />
+
+    <script src="paramedicinal_server_logic.lua" type="server"></script>
+
+    <script src="paramedicinal_client_logic.lua" type="client"></script>
+    <script src="paramedicinal_client_ux.lua" type="client"></script>
+    <oop>true</oop>
+    <info gamemodes="race" type="map" racetype="R" name="Paramedic" author="Dr. Ei Mu" version="1.2.1" edf:definition="paramedical.edf"></info>
+    <map src="race-paramedic.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ 275 ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="17:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 3 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1200 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

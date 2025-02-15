@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+    <script src="repair.lua" type="client" />
+    <info type="map" gamemodes="race" racetype="R" name="HotringRaceTrack" author="M4lysz" description="No Extra Information" version="1.0" />
+  <map src="HotringRaceTrack.map" />
+  <settings>
+    <setting name="#time" value="23:0" />
+    <setting name="#weather" value="5" />
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#respawntime" value="1" />
+    <setting name="#duration" value="900" />
+    <setting name="#ghostmode" value="true" />
+    <setting name="#respawntime" value="[ 1 ]"></setting>
+  </settings>
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

@@ -1,0 +1,131 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Tampa) (1)" vehicle="549" interior="0" posX="-2305" posY="2110" posZ="31.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (2)" vehicle="549" interior="0" posX="-2309" posY="2110" posZ="31.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (3)" vehicle="549" interior="0" posX="-2313" posY="2110" posZ="31.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (4)" vehicle="549" interior="0" posX="-2317" posY="2110" posZ="31.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (5)" vehicle="549" interior="0" posX="-2321" posY="2110" posZ="31.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (6)" vehicle="549" interior="0" posX="-2301" posY="2110" posZ="31.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (7)" vehicle="549" interior="0" posX="-2297" posY="2110" posZ="31.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (8)" vehicle="549" interior="0" posX="-2293" posY="2110" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (9)" vehicle="549" interior="0" posX="-2293" posY="2009" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (10)" vehicle="549" interior="0" posX="-2297" posY="2009" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (11)" vehicle="549" interior="0" posX="-2301" posY="2009" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (12)" vehicle="549" interior="0" posX="-2305" posY="2009" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (13)" vehicle="549" interior="0" posX="-2309" posY="2009" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (14)" vehicle="549" interior="0" posX="-2313" posY="2009" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (15)" vehicle="549" interior="0" posX="-2317" posY="2009" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (16)" vehicle="549" interior="0" posX="-2321" posY="2009" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (17)" vehicle="549" interior="0" posX="-2357" posY="2058" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (18)" vehicle="549" interior="0" posX="-2357" posY="2054" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (19)" vehicle="549" interior="0" posX="-2357" posY="2050" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (20)" vehicle="549" interior="0" posX="-2357" posY="2046" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (21)" vehicle="549" interior="0" posX="-2357" posY="2062" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (22)" vehicle="549" interior="0" posX="-2357" posY="2066" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (23)" vehicle="549" interior="0" posX="-2357" posY="2070" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (24)" vehicle="549" interior="0" posX="-2357" posY="2074" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (25)" vehicle="549" interior="0" posX="-2257" posY="2074" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (26)" vehicle="549" interior="0" posX="-2257" posY="2070" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (27)" vehicle="549" interior="0" posX="-2257" posY="2066" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (28)" vehicle="549" interior="0" posX="-2257" posY="2062" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (29)" vehicle="549" interior="0" posX="-2257" posY="2058" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (30)" vehicle="549" interior="0" posX="-2257" posY="2054" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (31)" vehicle="549" interior="0" posX="-2257" posY="2050" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (32)" vehicle="549" interior="0" posX="-2257" posY="2046" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <object id="object (a51_jetdoor) (14)" breakable="true" interior="0" collisions="true" alpha="255" model="1649" doublesided="true" scale="1" dimension="0" posX="-2306.5" posY="2059.5" posZ="36" rotX="90" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Tampa) (33)" vehicle="549" alpha="255" interior="0" posX="-2280.6001" posY="2046" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (34)" vehicle="549" alpha="255" interior="0" posX="-2280.6001" posY="2050.7" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (35)" vehicle="549" alpha="255" interior="0" posX="-2280.6001" posY="2055.3999" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (36)" vehicle="549" alpha="255" interior="0" posX="-2280.6001" posY="2060.1001" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (37)" vehicle="549" alpha="255" interior="0" posX="-2280.6001" posY="2064.8" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (38)" vehicle="549" alpha="255" interior="0" posX="-2280.6001" posY="2069.5" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (39)" vehicle="549" alpha="255" interior="0" posX="-2280.6001" posY="2074.2" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (40)" vehicle="549" alpha="255" interior="0" posX="-2280.6001" posY="2078.8999" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (41)" vehicle="549" alpha="255" interior="0" posX="-2293" posY="2089.6001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (42)" vehicle="549" alpha="255" interior="0" posX="-2297.7" posY="2089.6001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (43)" vehicle="549" alpha="255" interior="0" posX="-2302.3999" posY="2089.6001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (44)" vehicle="549" alpha="255" interior="0" posX="-2307.1001" posY="2089.6001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (45)" vehicle="549" alpha="255" interior="0" posX="-2311.8" posY="2089.6001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (46)" vehicle="549" alpha="255" interior="0" posX="-2316.5" posY="2089.6001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (47)" vehicle="549" alpha="255" interior="0" posX="-2321.2" posY="2089.6001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (48)" vehicle="549" alpha="255" interior="0" posX="-2325.8999" posY="2089.6001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (49)" vehicle="549" alpha="255" interior="0" posX="-2339.7" posY="2074" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (50)" vehicle="549" alpha="255" interior="0" posX="-2339.7" posY="2069.3" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (51)" vehicle="549" alpha="255" interior="0" posX="-2339.7" posY="2064.6001" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (52)" vehicle="549" alpha="255" interior="0" posX="-2339.7" posY="2059.8999" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (53)" vehicle="549" alpha="255" interior="0" posX="-2339.7" posY="2055.2" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (54)" vehicle="549" alpha="255" interior="0" posX="-2339.7" posY="2050.5" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (55)" vehicle="549" alpha="255" interior="0" posX="-2339.7" posY="2045.8" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (56)" vehicle="549" alpha="255" interior="0" posX="-2339.7" posY="2041.1" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (57)" vehicle="549" alpha="255" interior="0" posX="-2321" posY="2026.3" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (58)" vehicle="549" alpha="255" interior="0" posX="-2316.3" posY="2026.3" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (59)" vehicle="549" alpha="255" interior="0" posX="-2311.6001" posY="2026.3" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (60)" vehicle="549" alpha="255" interior="0" posX="-2306.8999" posY="2026.3" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (61)" vehicle="549" alpha="255" interior="0" posX="-2302.2" posY="2026.3" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (62)" vehicle="549" alpha="255" interior="0" posX="-2297.5" posY="2026.3" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (63)" vehicle="549" alpha="255" interior="0" posX="-2292.8" posY="2026.3" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (64)" vehicle="549" alpha="255" interior="0" posX="-2288.1001" posY="2026.3" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (65)" vehicle="549" alpha="255" interior="0" posX="-2320.8999" posY="2033.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (66)" vehicle="549" alpha="255" interior="0" posX="-2316.1001" posY="2033.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (67)" vehicle="549" alpha="255" interior="0" posX="-2311.3" posY="2033.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (68)" vehicle="549" alpha="255" interior="0" posX="-2306.8" posY="2033.3" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (69)" vehicle="549" alpha="255" interior="0" posX="-2301.8" posY="2033.4" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (70)" vehicle="549" alpha="255" interior="0" posX="-2297.6001" posY="2033.5" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (71)" vehicle="549" alpha="255" interior="0" posX="-2292.8" posY="2033.5" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (72)" vehicle="549" alpha="255" interior="0" posX="-2287.8" posY="2033.5" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (73)" vehicle="549" alpha="255" interior="0" posX="-2332.7" posY="2041.1" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (74)" vehicle="549" alpha="255" interior="0" posX="-2332.8999" posY="2045.6" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (75)" vehicle="549" alpha="255" interior="0" posX="-2333.1001" posY="2050.3" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (76)" vehicle="549" alpha="255" interior="0" posX="-2333.3" posY="2055" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (77)" vehicle="549" alpha="255" interior="0" posX="-2333.3" posY="2059.7" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (78)" vehicle="549" alpha="255" interior="0" posX="-2333.3999" posY="2064.7" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (79)" vehicle="549" alpha="255" interior="0" posX="-2333.5" posY="2068.8999" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (80)" vehicle="549" alpha="255" interior="0" posX="-2332.8999" posY="2073.7" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (81)" vehicle="549" alpha="255" interior="0" posX="-2293" posY="2082.6001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (82)" vehicle="549" alpha="255" interior="0" posX="-2297.3999" posY="2082.8999" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (83)" vehicle="549" alpha="255" interior="0" posX="-2302.3999" posY="2082.7" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (84)" vehicle="549" alpha="255" interior="0" posX="-2306.8999" posY="2082.7" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (85)" vehicle="549" alpha="255" interior="0" posX="-2311.8999" posY="2082.8999" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (86)" vehicle="549" alpha="255" interior="0" posX="-2316.3999" posY="2083.2" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (87)" vehicle="549" alpha="255" interior="0" posX="-2320.8999" posY="2083" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (88)" vehicle="549" alpha="255" interior="0" posX="-2325.6001" posY="2083" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (89)" vehicle="549" alpha="255" interior="0" posX="-2287.1001" posY="2045.9" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (90)" vehicle="549" alpha="255" interior="0" posX="-2287.3" posY="2050.6001" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (91)" vehicle="549" alpha="255" interior="0" posX="-2287.1001" posY="2055.3" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (92)" vehicle="549" alpha="255" interior="0" posX="-2287.2" posY="2060" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (93)" vehicle="549" alpha="255" interior="0" posX="-2287.3" posY="2065" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (94)" vehicle="549" alpha="255" interior="0" posX="-2287.3999" posY="2069.5" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (95)" vehicle="549" alpha="255" interior="0" posX="-2287.5" posY="2074.5" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (96)" vehicle="549" alpha="255" interior="0" posX="-2287.3" posY="2079.3" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (97)" vehicle="549" alpha="255" interior="0" posX="-2320.8999" posY="2040.5" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (98)" vehicle="549" alpha="255" interior="0" posX="-2316.1001" posY="2040.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (99)" vehicle="549" alpha="255" interior="0" posX="-2311.3" posY="2040.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (100)" vehicle="549" alpha="255" interior="0" posX="-2306.8" posY="2040.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (101)" vehicle="549" alpha="255" interior="0" posX="-2301.6001" posY="2040.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (102)" vehicle="549" alpha="255" interior="0" posX="-2297.3" posY="2040.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (103)" vehicle="549" alpha="255" interior="0" posX="-2292.5" posY="2040.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (104)" vehicle="549" alpha="255" interior="0" posX="-2287.8" posY="2040.2" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (105)" vehicle="549" alpha="255" interior="0" posX="-2292.8999" posY="2075.3999" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (106)" vehicle="549" alpha="255" interior="0" posX="-2297.6001" posY="2075.3" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (107)" vehicle="549" alpha="255" interior="0" posX="-2302.6001" posY="2075.2" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (108)" vehicle="549" alpha="255" interior="0" posX="-2306.8" posY="2075.2" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (109)" vehicle="549" alpha="255" interior="0" posX="-2311.8" posY="2075.2" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (110)" vehicle="549" alpha="255" interior="0" posX="-2316.3" posY="2075.1001" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (111)" vehicle="549" alpha="255" interior="0" posX="-2320.8" posY="2075.2" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (112)" vehicle="549" alpha="255" interior="0" posX="-2325.8" posY="2075.3" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (113)" vehicle="549" alpha="255" interior="0" posX="-2326.1001" posY="2064.6001" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (114)" vehicle="549" alpha="255" interior="0" posX="-2326.5" posY="2059.6001" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (115)" vehicle="549" alpha="255" interior="0" posX="-2326.3999" posY="2055.1001" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (116)" vehicle="549" alpha="255" interior="0" posX="-2326.3" posY="2050.6001" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (117)" vehicle="549" alpha="255" interior="0" posX="-2294.3" posY="2064.8999" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (118)" vehicle="549" alpha="255" interior="0" posX="-2294.2" posY="2059.8999" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (119)" vehicle="549" alpha="255" interior="0" posX="-2294.1001" posY="2055.3999" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (120)" vehicle="549" alpha="255" interior="0" posX="-2294.2" posY="2050.6001" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (121)" vehicle="549" alpha="255" interior="0" posX="-2326.7" posY="2045.7" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (122)" vehicle="549" alpha="255" interior="0" posX="-2326" posY="2069" posZ="31.5" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (123)" vehicle="549" alpha="255" interior="0" posX="-2293.8999" posY="2046.1" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (124)" vehicle="549" alpha="255" interior="0" posX="-2294.3999" posY="2069.6001" posZ="31.5" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (125)" vehicle="549" alpha="255" interior="0" posX="-2306.8999" posY="2046.7" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (126)" vehicle="549" alpha="255" interior="0" posX="-2311.1001" posY="2046.6" posZ="31.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (127)" vehicle="549" alpha="255" interior="0" posX="-2306.8" posY="2068" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (128)" vehicle="549" alpha="255" interior="0" posX="-2311.8" posY="2068" posZ="31.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+</map>

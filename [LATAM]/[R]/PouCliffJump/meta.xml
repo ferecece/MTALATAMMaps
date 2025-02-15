@@ -1,0 +1,31 @@
+<meta>    
+    <script src="music.lua" type="client" />
+    <script src="replaceModel.lua" type="client" />
+    <script src="jump.lua" type="client" />
+    <file src="models/bmx.dff" />
+    <file src="models/bmx.txd" />
+    <file src="models/male01.dff" />
+    <file src="models/male01.txd" />
+    <file src="music/song.mp3" />
+    <info gamemodes="race" type="map" racetype="R" name="Pou Cliff Jump" author="Erocif" version="1.0.0" />
+    <map src="PouCliffJump.map" dimension="0" />
+    <settings>
+        <setting name="#skins" value="[ 7 ]" />
+        <setting name="#maxplayers" value="[ 128 ]" />
+        <setting name="#useLODs" value="[ false ]" />
+        <setting name="#gamespeed" value="[ 1 ]" />
+        <setting name="#ghostmode" value="[ &quot;false&quot; ]" />
+        <setting name="#time" value="12:0" />
+        <setting name="#vehicleweapons" value="[ &quot;false&quot; ]" />
+        <setting name="#minplayers" value="[ 0 ]" />
+        <setting name="#respawntime" value="[ 5 ]" />
+        <setting name="#gravity" value="[ 0.0080000004 ]" />
+        <setting name="#waveheight" value="[ 0 ]" />
+        <setting name="#weather" value="[ 0 ]" />
+        <setting name="#locked_time" value="[ false ]" />
+        <setting name="#duration" value="[ 1800 ]" />
+        <setting name="#respawn" value="[ &quot;timelimit&quot; ]" />
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server" />
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false" />
+</meta>

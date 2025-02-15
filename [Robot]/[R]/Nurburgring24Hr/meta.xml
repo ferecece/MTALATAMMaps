@@ -1,0 +1,205 @@
+<meta>
+    <script src="race/race_unloader.lua" type="client"></script>
+    <script src="race/peds.lua" type="client"></script>
+    <script src="race/race_client.lua" type="client"></script>
+    <script src="race/weather.lua" type="server"></script>
+    <script src="map/models.lua" type="client"></script>
+    <script src="map/clouds.lua" type="client"></script>
+    <info gamemodes="race" racetype="R" type="map" name="Nürburgring 24hr" author="[SKC]" version="1.4"></info>
+    <map src="race/race-nurburgring24hr.map" dimension="0"></map>
+
+    <script src="shader_clouds_remover/noclouds.lua" type="client" />
+    <file src="shader_clouds_remover/texreplace.fx"/>
+
+    <file src="vehicle-formula/model.dff" />
+    <file src="vehicle-formula/texture.txd" />
+    <script src="vehicle-formula/car.lua" type="client" />
+    <script src="vehicle-formula/handling.lua" type="client" />
+
+    <settings>
+        <setting name="#autopimp" value="[ &quot;false&quot; ]"></setting>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+	<file src="map/coldfftxd/bld.txd" />
+	<file src="map/coldfftxd/trackc.txd" />
+	<file src="map/coldfftxd/bld_009.dff" />
+	<file src="map/coldfftxd/bld_009.col" />
+	<file src="map/coldfftxd/bld_001.dff" />
+	<file src="map/coldfftxd/bld_001.col" />
+	<file src="map/coldfftxd/bld_002.dff" />
+	<file src="map/coldfftxd/bld_002.col" />
+	<file src="map/coldfftxd/bld_007.dff" />
+	<file src="map/coldfftxd/bld_007.col" />
+	<file src="map/coldfftxd/track_068.dff" />
+	<file src="map/coldfftxd/track_068.col" />
+	<file src="map/coldfftxd/bld_006.dff" />
+	<file src="map/coldfftxd/bld_006.col" />
+	<file src="map/coldfftxd/bld_004.dff" />
+	<file src="map/coldfftxd/bld_004.col" />
+	<file src="map/coldfftxd/bld_005.dff" />
+	<file src="map/coldfftxd/bld_005.col" />
+	<file src="map/coldfftxd/bld_014.dff" />
+	<file src="map/coldfftxd/bld_014.col" />
+	<file src="map/coldfftxd/track_011.dff" />
+	<file src="map/coldfftxd/track_011.col" />
+	<file src="map/coldfftxd/track_066.dff" />
+	<file src="map/coldfftxd/track_066.col" />
+	<file src="map/coldfftxd/track_065.dff" />
+	<file src="map/coldfftxd/track_065.col" />
+	<file src="map/coldfftxd/track_067.dff" />
+	<file src="map/coldfftxd/track_067.col" />
+	<file src="map/coldfftxd/bld_015.dff" />
+	<file src="map/coldfftxd/bld_015.col" />
+	<file src="map/coldfftxd/track_001.dff" />
+	<file src="map/coldfftxd/track_001.col" />
+	<file src="map/coldfftxd/track_002.dff" />
+	<file src="map/coldfftxd/track_002.col" />
+	<file src="map/coldfftxd/track_003.dff" />
+	<file src="map/coldfftxd/track_003.col" />
+	<file src="map/coldfftxd/track_004.dff" />
+	<file src="map/coldfftxd/track_004.col" />
+	<file src="map/coldfftxd/track_005.dff" />
+	<file src="map/coldfftxd/track_005.col" />
+	<file src="map/coldfftxd/track_006.dff" />
+	<file src="map/coldfftxd/track_006.col" />
+	<file src="map/coldfftxd/track_007.dff" />
+	<file src="map/coldfftxd/track_007.col" />
+	<file src="map/coldfftxd/track_008.dff" />
+	<file src="map/coldfftxd/track_008.col" />
+	<file src="map/coldfftxd/track_009.dff" />
+	<file src="map/coldfftxd/track_009.col" />
+	<file src="map/coldfftxd/track_010.dff" />
+	<file src="map/coldfftxd/track_010.col" />
+	<file src="map/coldfftxd/track_012.dff" />
+	<file src="map/coldfftxd/track_012.col" />
+	<file src="map/coldfftxd/track_013.dff" />
+	<file src="map/coldfftxd/track_013.col" />
+	<file src="map/coldfftxd/track_014.dff" />
+	<file src="map/coldfftxd/track_014.col" />
+	<file src="map/coldfftxd/track_015.dff" />
+	<file src="map/coldfftxd/track_015.col" />
+	<file src="map/coldfftxd/track_016.dff" />
+	<file src="map/coldfftxd/track_016.col" />
+	<file src="map/coldfftxd/track_017.dff" />
+	<file src="map/coldfftxd/track_017.col" />
+	<file src="map/coldfftxd/track_018.dff" />
+	<file src="map/coldfftxd/track_018.col" />
+	<file src="map/coldfftxd/track_019.dff" />
+	<file src="map/coldfftxd/track_019.col" />
+	<file src="map/coldfftxd/track_020.dff" />
+	<file src="map/coldfftxd/track_020.col" />
+	<file src="map/coldfftxd/track_021.dff" />
+	<file src="map/coldfftxd/track_021.col" />
+	<file src="map/coldfftxd/track_022.dff" />
+	<file src="map/coldfftxd/track_022.col" />
+	<file src="map/coldfftxd/track_023.dff" />
+	<file src="map/coldfftxd/track_023.col" />
+	<file src="map/coldfftxd/track_024.dff" />
+	<file src="map/coldfftxd/track_024.col" />
+	<file src="map/coldfftxd/track_025.dff" />
+	<file src="map/coldfftxd/track_025.col" />
+	<file src="map/coldfftxd/track_026.dff" />
+	<file src="map/coldfftxd/track_026.col" />
+	<file src="map/coldfftxd/track_027.dff" />
+	<file src="map/coldfftxd/track_027.col" />
+	<file src="map/coldfftxd/track_028.dff" />
+	<file src="map/coldfftxd/track_028.col" />
+	<file src="map/coldfftxd/track_029.dff" />
+	<file src="map/coldfftxd/track_029.col" />
+	<file src="map/coldfftxd/track_030.dff" />
+	<file src="map/coldfftxd/track_030.col" />
+	<file src="map/coldfftxd/track_031.dff" />
+	<file src="map/coldfftxd/track_031.col" />
+	<file src="map/coldfftxd/track_032.dff" />
+	<file src="map/coldfftxd/track_032.col" />
+	<file src="map/coldfftxd/track_033.dff" />
+	<file src="map/coldfftxd/track_033.col" />
+	<file src="map/coldfftxd/track_034.dff" />
+	<file src="map/coldfftxd/track_034.col" />
+	<file src="map/coldfftxd/track_035.dff" />
+	<file src="map/coldfftxd/track_035.col" />
+	<file src="map/coldfftxd/track_036.dff" />
+	<file src="map/coldfftxd/track_036.col" />
+	<file src="map/coldfftxd/track_037.dff" />
+	<file src="map/coldfftxd/track_037.col" />
+	<file src="map/coldfftxd/track_038.dff" />
+	<file src="map/coldfftxd/track_038.col" />
+	<file src="map/coldfftxd/track_039.dff" />
+	<file src="map/coldfftxd/track_039.col" />
+	<file src="map/coldfftxd/track_040.dff" />
+	<file src="map/coldfftxd/track_040.col" />
+	<file src="map/coldfftxd/track_041.dff" />
+	<file src="map/coldfftxd/track_041.col" />
+	<file src="map/coldfftxd/track_042.dff" />
+	<file src="map/coldfftxd/track_042.col" />
+	<file src="map/coldfftxd/track_043.dff" />
+	<file src="map/coldfftxd/track_043.col" />
+	<file src="map/coldfftxd/track_044.dff" />
+	<file src="map/coldfftxd/track_044.col" />
+	<file src="map/coldfftxd/track_045.dff" />
+	<file src="map/coldfftxd/track_045.col" />
+	<file src="map/coldfftxd/track_047.dff" />
+	<file src="map/coldfftxd/track_047.col" />
+	<file src="map/coldfftxd/track_048.dff" />
+	<file src="map/coldfftxd/track_048.col" />
+	<file src="map/coldfftxd/track_049.dff" />
+	<file src="map/coldfftxd/track_049.col" />
+	<file src="map/coldfftxd/track_050.dff" />
+	<file src="map/coldfftxd/track_050.col" />
+	<file src="map/coldfftxd/track_051.dff" />
+	<file src="map/coldfftxd/track_051.col" />
+	<file src="map/coldfftxd/track_052.dff" />
+	<file src="map/coldfftxd/track_052.col" />
+	<file src="map/coldfftxd/track_053.dff" />
+	<file src="map/coldfftxd/track_053.col" />
+	<file src="map/coldfftxd/track_054.dff" />
+	<file src="map/coldfftxd/track_054.col" />
+	<file src="map/coldfftxd/track_055.dff" />
+	<file src="map/coldfftxd/track_055.col" />
+	<file src="map/coldfftxd/track_056.dff" />
+	<file src="map/coldfftxd/track_056.col" />
+	<file src="map/coldfftxd/track_057.dff" />
+	<file src="map/coldfftxd/track_057.col" />
+	<file src="map/coldfftxd/track_058.dff" />
+	<file src="map/coldfftxd/track_058.col" />
+	<file src="map/coldfftxd/track_059.dff" />
+	<file src="map/coldfftxd/track_059.col" />
+	<file src="map/coldfftxd/track_060.dff" />
+	<file src="map/coldfftxd/track_060.col" />
+	<file src="map/coldfftxd/track_061.dff" />
+	<file src="map/coldfftxd/track_061.col" />
+	<file src="map/coldfftxd/track_062.dff" />
+	<file src="map/coldfftxd/track_062.col" />
+	<file src="map/coldfftxd/track_063.dff" />
+	<file src="map/coldfftxd/track_063.col" />
+	<file src="map/coldfftxd/track_064.dff" />
+	<file src="map/coldfftxd/track_064.col" />
+	<file src="map/coldfftxd/bld_003.dff" />
+	<file src="map/coldfftxd/bld_003.col" />
+	<file src="map/coldfftxd/bld_013.dff" />
+	<file src="map/coldfftxd/bld_013.col" />
+	<file src="map/coldfftxd/bld_008.dff" />
+	<file src="map/coldfftxd/bld_008.col" />
+	<file src="map/coldfftxd/bld_010.dff" />
+	<file src="map/coldfftxd/bld_010.col" />
+	<file src="map/coldfftxd/bld_011.dff" />
+	<file src="map/coldfftxd/bld_011.col" />
+	<file src="map/coldfftxd/bld_012.dff" />
+	<file src="map/coldfftxd/bld_012.col" />
+	<file src="map/coldfftxd/track_046.dff" />
+	<file src="map/coldfftxd/track_046.col" />
+</meta>

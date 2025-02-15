@@ -1,0 +1,79 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Walton) (1)" vehicle="478" posX="-1435.9" posY="-946.79999" posZ="201.10001" rotX="0" rotY="0" rotZ="256"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (2)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (3)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (4)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (5)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (6)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (7)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="256"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (8)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (9)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (10)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (11)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (12)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (13)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (14)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (15)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (16)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (17)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (18)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (19)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (20)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (21)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (22)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (23)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (24)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (25)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (26)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (27)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (28)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (29)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (30)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (31)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (32)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (33)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (34)" vehicle="478" alpha="255" interior="0" posX="-1436" posY="-946.59998" posZ="201.10001" rotX="0" rotY="0" rotZ="256"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (35)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (36)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (37)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (38)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (39)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (40)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (41)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (42)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (43)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (44)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (45)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (46)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (47)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (48)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (49)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (50)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (51)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (52)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (53)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (54)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (55)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Walton) (56)" vehicle="478" alpha="255" interior="0" posX="-1436.2998" posY="-946.40039" posZ="201.10001" rotX="0" rotY="0" rotZ="255.998"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="4" nextid="checkpoint () (2)" posX="-1411.8" posY="-966" posZ="199.10001" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (3)" posX="-1356.7" posY="-973.20001" posZ="194.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (4)" posX="-1341.2" posY="-1016.9" posZ="181.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (5)" posX="-1455.4" posY="-1029.3" posZ="167.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (6)" posX="-1509.8" posY="-990.70001" posZ="174" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (7)" posX="-1543.9" posY="-1028" posZ="144.89999" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (8)" posX="-1538.8" posY="-1076.7" posZ="131.89999" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (9)" posX="-1473.3" posY="-1137.8" posZ="116.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (10)" posX="-1436.7" posY="-1217" posZ="104.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (11)" posX="-1449" posY="-1285.5" posZ="100.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="8" alpha="255" interior="0" nextid="checkpoint () (12)" posX="-1437.4" posY="-1383.3" posZ="100.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (13)" posX="-1393.1" posY="-1417.2" posZ="105.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" size="4" alpha="255" interior="0" nextid="checkpoint () (14)" posX="-1389.2" posY="-1473" posZ="100.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#00F9" size="3" alpha="255" interior="0" nextid="checkpoint () (15)" posX="-1431.7" posY="-1473" posZ="100.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#00F9" size="1.5" alpha="255" interior="0" posX="-1449.4" posY="-1541.5" posZ="100.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <ped id="ped (1)" interior="0" rotZ="0.003" dimension="0" model="159" health="100" armor="0" collisions="false" alpha="255" frozen="true" posX="-1442.4" posY="-1541.4" posZ="101.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" interior="0" rotZ="228.005" dimension="0" model="159" health="100" armor="0" collisions="false" alpha="255" frozen="false" posX="-1430.9" posY="-1468.8" posZ="101.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" interior="0" rotZ="0.003" dimension="0" model="159" health="100" armor="0" collisions="false" alpha="255" frozen="true" posX="-1409.6" posY="-1476.7" posZ="101.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" interior="0" rotZ="316.002" dimension="0" model="159" health="100" armor="0" collisions="false" alpha="255" frozen="false" posX="-1451.9" posY="-1537.9" posZ="102.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" interior="0" rotZ="0.003" dimension="0" model="159" health="100" armor="0" collisions="false" alpha="255" frozen="false" posX="-1449.6" posY="-1545.8" posZ="108.7" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (Tractor) (1)" sirens="false" landingGearDown="false" plate="2BUI 05M" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="531" collisions="true" frozen="true" posX="-1444.4" posY="-1542" posZ="101.8" rotX="0" rotY="0" rotZ="0" color="48,79,69,22,34,72,0,0,0,0,0,0"></vehicle>
+</map>

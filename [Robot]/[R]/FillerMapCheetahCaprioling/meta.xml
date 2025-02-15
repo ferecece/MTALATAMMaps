@@ -1,0 +1,28 @@
+<meta>
+    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
+    <include resource="poleremover" />
+    <info gamemodes="race" type="map" racetype="R" name="Filler Map Cheetah Caprioling" author="misterfolg" version="1.0" description="Filler map idea shamelessly stolen from Gberry.&#x0A;&#x09;Region chosen by [meow]Lilied. Vehicle chosen by SpeedyFolf.&#x0A;&#x09;Watching 5osi doing this jump again and again made it seem like a good filler map idea. /rate 3."></info>
+    <map src="R-FillerMapCheetahCaprioling.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#timeafterfirstfinish" value="[ -1 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#time" value="23:0"></setting>
+        <setting name="#duration" value="[ 600 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#weather" value="[ 3 ]"></setting>
+        <setting name="#hunterminigun" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#countdownduration" value="[ -1 ]"></setting>
+        <setting name="#respawntime" value="[ 0 ]"></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

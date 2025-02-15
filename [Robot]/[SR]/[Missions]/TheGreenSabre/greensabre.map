@@ -1,0 +1,27 @@
+<map edf:definitions="race,editor_main">
+    <removeWorldObject id="removeWorldObject (cjgaragedoor) (1)" radius="5.5637608" interior="0" model="17951" lodModel="0" posX="2505.0884" posY="-1690.9581" posZ="13.87035" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" posX="2504.8999" posY="-1692.3" posZ="13.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <checkpoint id="checkpoint (Bike) (1)" type="checkpoint" color="#FF000099" vehicle="509" size="2.25" nextid="checkpoint () (1)" posX="1633.6" posY="-1866.8" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <vehicle id="vehicle (Bravura) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="401" plate=" CESAR" dimension="0" posX="1624.9" posY="-1858.7" posZ="13.3" rotX="0" rotY="0" rotZ="181.868" color="54,65,85,54,65,85,0,0,0,0,0,0"></vehicle>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00FBFE99" size="2.25" nextid="checkpoint (NRG-500) (1)" posX="1624.9" posY="-1858.6" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (NRG-500) (1)" type="checkpoint" color="#FF000099" vehicle="522" size="2.25" nextid="checkpoint () (2)" posX="1633.6" posY="-1870.6" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <vehicle id="vehicle (Sabre) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="475" plate="THETWIST" dimension="0" posX="1633.4" posY="-1905.2" posZ="13.5" rotX="0" rotY="0" rotZ="97.619" color="13,152,41,109,122,136,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (1)" dimension="0" model="271" interior="0" rotZ="86.598" frozen="true" alpha="255" posX="1633.4" posY="-1902.4" posZ="13.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="265" interior="0" rotZ="87.071" frozen="true" alpha="255" posX="1631.7" posY="-1902.3" posZ="13.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="269" interior="0" rotZ="269.452" frozen="true" alpha="255" posX="1630.6" posY="-1902.5" posZ="13.6" rotX="0" rotY="0"></ped>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00FBFE99" size="3" posX="1649.6" posY="-1049.8" posZ="22.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <vehicle id="vehicle (Primo) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="547" plate="UO7X BWD" dimension="0" posX="1650.2" posY="-1058.5" posZ="23.7" rotX="0" rotY="0" rotZ="327.168" color="70,89,122,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Primo) (2)" sirens="false" paintjob="3" interior="0" alpha="255" model="547" plate="GDO6 UBO" dimension="0" posX="1644.4" posY="-1062" posZ="23.7" rotX="0" rotY="0" rotZ="276.55" color="34,58,31,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Primo) (3)" sirens="false" paintjob="3" interior="0" alpha="255" model="547" plate="01YZ TN5" dimension="0" posX="1640.5" posY="-1056.5996" posZ="23.7" rotX="0" rotY="0" rotZ="174.199" color="7,8,8,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Sabre) (2)" sirens="false" paintjob="3" interior="0" alpha="255" model="475" plate="PWZB 5NS" dimension="0" posX="1642.9" posY="-1081.7" posZ="23.8" rotX="0" rotY="0" rotZ="82.842" color="42,119,161,109,122,136,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (5)" dimension="0" model="102" interior="0" rotZ="293.831" frozen="true" alpha="255" posX="1631.3" posY="-1059.3" posZ="23.9" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (Voodoo) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="412" plate="Y2D0 LGK" dimension="0" posX="1671.4004" posY="-1056.9004" posZ="23.8" rotX="0" rotY="0" rotZ="0" color="66,31,33,245,245,245,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (10)" dimension="0" model="102" interior="0" rotZ="321.692" frozen="true" alpha="255" posX="1634.8" posY="-1064.6" posZ="23.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (11)" dimension="0" model="102" interior="0" rotZ="255.522" frozen="true" alpha="255" posX="1623.5" posY="-1046.3" posZ="23.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (12)" dimension="0" model="102" interior="0" rotZ="293.831" frozen="true" alpha="255" posX="1639.6" posY="-1081.8" posZ="23.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (13)" dimension="0" model="102" interior="0" rotZ="82.768" frozen="true" alpha="255" posX="1671.4" posY="-1061.8" posZ="23.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (14)" dimension="0" model="105" interior="0" rotZ="188.762" frozen="true" alpha="255" posX="1642.4" posY="-1056.5" posZ="23.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (15)" dimension="0" model="105" interior="0" rotZ="201.286" frozen="true" alpha="255" posX="1645.7" posY="-1059.8" posZ="23.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (16)" dimension="0" model="105" interior="0" rotZ="177.744" frozen="true" alpha="255" posX="1642.4" posY="-1060.4" posZ="23.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (18)" dimension="0" model="270" interior="0" rotZ="0.003" frozen="true" alpha="255" posX="1647.1" posY="-1058.4" posZ="23.9" rotX="0" rotY="0"></ped>
+</map>

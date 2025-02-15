@@ -1,0 +1,63 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint0" vehicle="549" posX="-2098.78442" posY="2003.83997" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint1" vehicle="549" posX="-2095.84058" posY="2003.86841" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint2" vehicle="549" posX="-2092.75537" posY="2003.86279" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint3" vehicle="549" posX="-2089.55151" posY="2003.90125" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint4" vehicle="549" posX="-2086.37793" posY="2003.70984" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint5" vehicle="549" posX="-2083.06982" posY="2003.56152" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint6" vehicle="549" posX="-2101.84448" posY="2003.93237" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint7" vehicle="549" posX="-2104.59277" posY="2003.85486" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint8" vehicle="549" posX="-2107.69702" posY="2003.93042" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint9" vehicle="549" posX="-2111.06616" posY="2004.05493" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint10" vehicle="549" posX="-2114.55103" posY="2003.91992" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint11" vehicle="549" posX="-2079.93286" posY="2003.06482" posZ="707.61896" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint12" vehicle="549" posX="-2117.86816" posY="2004.07617" posZ="707.63989" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint13" vehicle="549" posX="-2098.5979" posY="1995.61121" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint14" vehicle="549" posX="-2101.80469" posY="1995.84668" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint15" vehicle="549" posX="-2095.50732" posY="1995.42224" posZ="707.58307" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <checkpoint id="checkpoint0" type="ring" color="#00F9" size="15" nextid="checkpoint1" posX="-2099.4883" posY="2404.1133" posZ="312.0307" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint1" type="ring" color="#646464" size="1" posX="-2116.9766" posY="2788.8721" posZ="172.75455" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object0" breakable="true" interior="0" collisions="true" alpha="255" model="8356" doublesided="false" scale="1" dimension="0" posX="-2097.46167" posY="2374.98169" posZ="283.51901" rotX="16.329" rotY="0" rotZ="0"></object>
+    <object id="object1" breakable="true" interior="0" collisions="true" alpha="255" model="8356" doublesided="false" scale="1" dimension="0" posX="-2097.67603" posY="2379.21094" posZ="301.42578" rotX="1.719" rotY="0" rotZ="0"></object>
+    <object id="object2" breakable="true" interior="0" collisions="true" alpha="255" model="8356" doublesided="false" scale="1" dimension="0" posX="-2098.82495" posY="2415.49731" posZ="303.13492" rotX="-16.329" rotY="0" rotZ="0"></object>
+    <object id="object3" breakable="true" interior="0" collisions="true" alpha="255" model="8356" doublesided="false" scale="1" dimension="0" posX="-2098.81079" posY="2402.08984" posZ="309.24362" rotX="-34.377" rotY="0" rotZ="0"></object>
+    <object id="object4" breakable="true" interior="0" collisions="true" alpha="255" model="8356" doublesided="false" scale="1" dimension="0" posX="-2098.77148" posY="2350.31348" posZ="355.77548" rotX="-50.707" rotY="0" rotZ="0"></object>
+    <object id="object5" breakable="true" interior="0" collisions="true" alpha="255" model="8356" doublesided="false" scale="1" dimension="0" posX="-2098.82983" posY="2238.58423" posZ="492.32245" rotX="-50.707" rotY="0" rotZ="0"></object>
+    <object id="object6" breakable="true" interior="0" collisions="true" alpha="255" model="8356" doublesided="false" scale="1" dimension="0" posX="-2098.87036" posY="2122.57373" posZ="634.07532" rotX="-50.707" rotY="0" rotZ="0"></object>
+    <object id="object7" breakable="true" interior="0" collisions="true" alpha="255" model="10767" doublesided="false" scale="1" dimension="0" posX="-2098.65161" posY="1978.03919" posZ="691.97589" rotX="0" rotY="0" rotZ="-135"></object>
+    <object id="object8" breakable="true" interior="0" collisions="true" alpha="255" model="10766" doublesided="false" scale="1" dimension="0" posX="-2098.82007" posY="1850.49915" posZ="704.65405" rotX="0" rotY="0" rotZ="-180"></object>
+    <object id="object9" breakable="true" interior="0" collisions="true" alpha="255" model="3359" doublesided="false" scale="1" dimension="0" posX="-2118.21167" posY="2788.69287" posZ="171.82105" rotX="0" rotY="0" rotZ="11.25"></object>
+    <object id="object10" breakable="true" interior="0" collisions="true" alpha="255" model="3359" doublesided="false" scale="1" dimension="0" posX="-2118.16894" posY="2788.70483" posZ="171.98999" rotX="179.623" rotY="0" rotZ="11.25"></object>
+    <object id="object11" breakable="true" interior="0" collisions="true" alpha="255" model="3359" doublesided="false" scale="1" dimension="0" posX="-2118.12939" posY="2788.68848" posZ="171.89047" rotX="179.623" rotY="0" rotZ="-168.75"></object>
+    <object id="object12" breakable="true" interior="0" collisions="true" alpha="255" model="10402" doublesided="false" scale="1" dimension="0" posX="-2074.26587" posY="2031.88525" posZ="709.02185" rotX="0" rotY="0" rotZ="-78.75"></object>
+    <object id="object13" breakable="true" interior="0" collisions="true" alpha="255" model="10402" doublesided="false" scale="1" dimension="0" posX="-2123.08105" posY="2031.81519" posZ="708.62756" rotX="0" rotY="0" rotZ="-101.25"></object>
+    <object id="object14" breakable="true" interior="0" collisions="true" alpha="255" model="10402" doublesided="false" scale="1" dimension="0" posX="-2080.38428" posY="2083.06128" posZ="683.65161" rotX="0" rotY="50.707" rotZ="90"></object>
+    <object id="object15" breakable="true" interior="0" collisions="true" alpha="255" model="10402" doublesided="false" scale="1" dimension="0" posX="-2116.48901" posY="2083.13062" posZ="683.52448" rotX="0" rotY="50.707" rotZ="90"></object>
+    <object id="object16" breakable="true" interior="0" collisions="true" alpha="255" model="1225" doublesided="false" scale="1" dimension="0" posX="-2122.59766" posY="2790.24097" posZ="171.07681" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object17" breakable="true" interior="0" collisions="true" alpha="255" model="1225" doublesided="false" scale="1" dimension="0" posX="-2121.2478" posY="2790.1687" posZ="171.44264" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object18" breakable="true" interior="0" collisions="true" alpha="255" model="1225" doublesided="false" scale="1" dimension="0" posX="-2120.14551" posY="2790.70044" posZ="171.23755" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object19" breakable="true" interior="0" collisions="true" alpha="255" model="1225" doublesided="false" scale="1" dimension="0" posX="-2119.04346" posY="2790.80542" posZ="171.32358" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object20" breakable="true" interior="0" collisions="true" alpha="255" model="1225" doublesided="false" scale="1" dimension="0" posX="-2117.77832" posY="2791.06958" posZ="171.4028" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object21" breakable="true" interior="0" collisions="true" alpha="255" model="1225" doublesided="false" scale="1" dimension="0" posX="-2116.40308" posY="2791.20654" posZ="171.50937" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object22" breakable="true" interior="0" collisions="true" alpha="255" model="1225" doublesided="false" scale="1" dimension="0" posX="-2114.93652" posY="2791.48364" posZ="171.60523" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object23" breakable="true" interior="0" collisions="true" alpha="255" model="1304" doublesided="false" scale="1" dimension="0" posX="-2123.51294" posY="2790.36401" posZ="176.01224" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object24" breakable="true" interior="0" collisions="true" alpha="255" model="1304" doublesided="false" scale="1" dimension="0" posX="-2117.96924" posY="2786.24487" posZ="178.14856" rotX="0" rotY="0" rotZ="-90"></object>
+    <object id="object25" breakable="true" interior="0" collisions="true" alpha="255" model="1305" doublesided="false" scale="1" dimension="0" posX="-2120.93164" posY="2787.95654" posZ="177.1284" rotX="0" rotY="0" rotZ="-123.75"></object>
+    <object id="object26" breakable="true" interior="0" collisions="true" alpha="255" model="1305" doublesided="false" scale="1" dimension="0" posX="-2114.34814" posY="2787.75244" posZ="177.96903" rotX="0" rotY="0" rotZ="-202.5"></object>
+    <object id="object27" breakable="true" interior="0" collisions="true" alpha="255" model="1305" doublesided="false" scale="1" dimension="0" posX="-2116.17114" posY="2793.79419" posZ="178.72759" rotX="0" rotY="0" rotZ="-33.75"></object>
+    <object id="object28" breakable="true" interior="0" collisions="true" alpha="255" model="1303" doublesided="false" scale="1" dimension="0" posX="-2118.46704" posY="2790.07446" posZ="177.73776" rotX="0" rotY="0" rotZ="-146.25"></object>
+    <object id="object29" breakable="true" interior="0" collisions="true" alpha="255" model="1303" doublesided="false" scale="1" dimension="0" posX="-2122.0354" posY="2783.8479" posZ="175.61321" rotX="0" rotY="0" rotZ="-67.5"></object>
+    <object id="object30" breakable="true" interior="0" collisions="true" alpha="255" model="1303" doublesided="false" scale="1" dimension="0" posX="-2121.14136" posY="2786.10645" posZ="176.00415" rotX="0" rotY="0" rotZ="-180"></object>
+    <racepickup id="pickup0" type="nitro" vehicle="522" respawn="0" posX="-2094.43579" posY="2062.89893" posZ="706.59308"></racepickup>
+    <racepickup id="pickup1" type="nitro" vehicle="522" respawn="0" posX="-2090.6438" posY="2063.34009" posZ="706.59308"></racepickup>
+    <racepickup id="pickup2" type="nitro" vehicle="522" respawn="0" posX="-2087.21484" posY="2063.10156" posZ="706.59308"></racepickup>
+    <racepickup id="pickup3" type="nitro" vehicle="522" respawn="0" posX="-2083.55322" posY="2063.1875" posZ="706.59308"></racepickup>
+    <racepickup id="pickup4" type="nitro" vehicle="522" respawn="0" posX="-2097.97559" posY="2062.77173" posZ="706.59308"></racepickup>
+    <racepickup id="pickup5" type="nitro" vehicle="522" respawn="0" posX="-2101.78589" posY="2062.854" posZ="706.59308"></racepickup>
+    <racepickup id="pickup6" type="nitro" vehicle="522" respawn="0" posX="-2104.66504" posY="2063.18726" posZ="706.59308"></racepickup>
+    <racepickup id="pickup7" type="nitro" vehicle="522" respawn="0" posX="-2107.38989" posY="2063.0791" posZ="706.59308"></racepickup>
+    <racepickup id="pickup8" type="nitro" vehicle="522" respawn="0" posX="-2110.20996" posY="2062.58398" posZ="706.59308"></racepickup>
+    <racepickup id="pickup9" type="nitro" vehicle="522" respawn="0" posX="-2112.56055" posY="2062.3064" posZ="706.59308"></racepickup>
+    <racepickup id="pickup10" type="nitro" vehicle="522" respawn="0" posX="-2115.07861" posY="2062.57227" posZ="706.59308"></racepickup>
+    <racepickup id="pickup11" type="nitro" vehicle="522" respawn="0" posX="-2117.09277" posY="2062.36426" posZ="706.59308"></racepickup>
+</map>

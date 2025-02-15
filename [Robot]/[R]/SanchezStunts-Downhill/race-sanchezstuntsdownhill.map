@@ -1,0 +1,59 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Sanchez) (1)" vehicle="468" posX="-2428.65723" posY="-1938.16956" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (2)" vehicle="468" alpha="255" interior="0" posX="-2428.66797" posY="-1938.71936" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (3)" vehicle="468" alpha="255" interior="0" posX="-2428.67822" posY="-1939.24414" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (4)" vehicle="468" alpha="255" interior="0" posX="-2428.68799" posY="-1939.76965" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (5)" vehicle="468" alpha="255" interior="0" posX="-2428.64355" posY="-1937.61841" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (6)" vehicle="468" alpha="255" interior="0" posX="-2428.63135" posY="-1936.99255" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (7)" vehicle="468" alpha="255" interior="0" posX="-2428.70166" posY="-1940.36804" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (8)" vehicle="468" alpha="255" interior="0" posX="-2431.01562" posY="-1940.44177" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (9)" vehicle="468" alpha="255" interior="0" posX="-2430.94141" posY="-1939.84521" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (10)" vehicle="468" alpha="255" interior="0" posX="-2430.92627" posY="-1939.28455" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (11)" vehicle="468" alpha="255" interior="0" posX="-2430.90552" posY="-1938.69983" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (12)" vehicle="468" alpha="255" interior="0" posX="-2430.9248" posY="-1938.18542" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (13)" vehicle="468" alpha="255" interior="0" posX="-2430.93408" posY="-1937.62183" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sanchez) (14)" vehicle="468" alpha="255" interior="0" posX="-2430.87866" posY="-1936.99536" posZ="302.76889" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2" nextid="checkpoint () (2)" posX="-2369.45483" posY="-1939.19104" posZ="301.2168" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="2" nextid="checkpoint () (3)" posX="-2304.35107" posY="-1942.74182" posZ="285.0701" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="1.5" nextid="checkpoint () (4)" posX="-2230.43384" posY="-1923.03064" posZ="241.3968" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="ring" color="#00F9" size="1" nextid="checkpoint () (5)" posX="-2204.47998" posY="-1914.10425" posZ="240.1543" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="ring" color="#00F9" size="1" nextid="checkpoint () (6)" posX="-2169.04736" posY="-1898.25977" posZ="234.54021" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="2" nextid="checkpoint () (7)" posX="-2172.09521" posY="-1862.81396" posZ="221.9104" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="1.5" nextid="checkpoint () (8)" posX="-2172.36743" posY="-1829.86816" posZ="216.897" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="ring" color="#00F9" size="1" nextid="checkpoint () (9)" posX="-2164.84961" posY="-1807.98376" posZ="215.6279" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="ring" color="#00F9" size="1" nextid="checkpoint () (10)" posX="-2146.48218" posY="-1791.78345" posZ="211.0087" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" size="2" nextid="checkpoint () (11)" posX="-2139.32056" posY="-1783.18665" posZ="207.6091" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="2" nextid="checkpoint () (12)" posX="-2116.38135" posY="-1766.77356" posZ="204.69099" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="ring" color="#00F9" size="2" nextid="checkpoint () (13)" posX="-2100.32471" posY="-1743.57495" posZ="197.7865" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" size="3" nextid="checkpoint () (14)" posX="-2080.19702" posY="-1694.00098" posZ="180.3988" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (desn2_peckjump) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="16401" scale="1" dimension="0" posX="-2076.03271" posY="-1673.65149" posZ="177.8031" rotX="0" rotY="0" rotZ="80"></object>
+    <checkpoint id="checkpoint () (14)" type="ring" color="#00F9" size="2" nextid="checkpoint () (16)" posX="-2075.61646" posY="-1670.35339" posZ="182.672" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#00F9" size="3" nextid="checkpoint () (17)" posX="-2085.198" posY="-1605.26575" posZ="166.248" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="checkpoint" color="#00F9" size="3" nextid="checkpoint () (18)" posX="-2036.38245" posY="-1568.44617" posZ="133.47479" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (18)" type="checkpoint" color="#00F9" size="4" nextid="checkpoint () (19)" posX="-2051.78076" posY="-1468.83582" posZ="112.13" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (19)" type="checkpoint" color="#00F9" size="4" nextid="checkpoint () (20)" posX="-2015.54236" posY="-1455.0719" posZ="86.5197" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (sw_trailerjump) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="12956" scale="1" dimension="0" posX="-1988.36719" posY="-1511.92395" posZ="86.043" rotX="0" rotY="0" rotZ="94"></object>
+    <checkpoint id="checkpoint () (20)" type="ring" color="#00F9" size="4" nextid="checkpoint () (21)" posX="-1998.18359" posY="-1518.32495" posZ="93.7383" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (kickbus04) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="13590" scale="1" dimension="0" posX="-2003.39062" posY="-1564.47278" posZ="85.8002" rotX="0" rotY="0" rotZ="200"></object>
+    <checkpoint id="checkpoint () (21)" type="ring" color="#00F9" size="0.40000000596046" nextid="checkpoint () (22)" posX="-1991.66321" posY="-1571.46497" posZ="87.975" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (22)" type="ring" color="#00F9" size="0.40000000596046" nextid="checkpoint () (23)" posX="-1990.03406" posY="-1579.39136" posZ="88.879" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (23)" type="checkpoint" color="#00F9" size="3" nextid="checkpoint () (24)" posX="-1986.18237" posY="-1603.67444" posZ="86.6587" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (wall2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="13648" scale="1" dimension="0" posX="-2002.98181" posY="-1565.41248" posZ="84.0466" rotX="4" rotY="0" rotZ="220"></object>
+    <object id="object (wall2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="13648" scale="1" dimension="0" posX="-1976.65698" posY="-1561.66675" posZ="87.2966" rotX="353.999" rotY="0" rotZ="149.996"></object>
+    <object id="object (des_gravelpile05) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="16304" scale="1" dimension="0" posX="-1994.67566" posY="-1642.73853" posZ="89.0295" rotX="0" rotY="0" rotZ="340"></object>
+    <checkpoint id="checkpoint () (24)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (25)" posX="-1994.32764" posY="-1642.2981" posZ="92.0654" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (25)" type="checkpoint" color="#00F9" size="4" nextid="checkpoint () (28)" posX="-1996.48901" posY="-1692.84595" posZ="83.7634" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (cw2_bikelog) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="18367" scale="1" dimension="0" posX="-2028.28296" posY="-1791.67676" posZ="96.6829" rotX="346" rotY="0" rotZ="344"></object>
+    <object id="object (kickramp04) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="13641" scale="1" dimension="0" posX="-2036.85425" posY="-1821.22241" posZ="108.7188" rotX="0" rotY="358.749" rotZ="253.788"></object>
+    <checkpoint id="checkpoint () (28)" type="ring" color="#00F9" size="5.5" nextid="checkpoint () (29)" posX="-2039.87915" posY="-1833.75977" posZ="118.6029" rotX="0" rotY="0" rotZ="258"></checkpoint>
+    <checkpoint id="checkpoint () (29)" type="ring" color="#FF000099" size="4.5" posX="-2040.42957" posY="-1835.53979" posZ="118.6657" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (bonyrd_block2_) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3270" scale="1" dimension="0" posX="-2026.57764" posY="-1533.41907" posZ="123.9402" rotX="0" rotY="0" rotZ="20"></object>
+    <object id="object (bonyrd_block1_) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3269" scale="1" dimension="0" posX="-2048.96265" posY="-1541.02136" posZ="123.8566" rotX="0" rotY="0" rotZ="88"></object>
+    <object id="object (bonyrd_block1_) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3269" scale="1" dimension="0" posX="-2014.63879" posY="-1533.19629" posZ="125.1063" rotX="1.979" rotY="351.745" rotZ="250.287"></object>
+    <object id="object (bonyrd_block2_) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3270" scale="1" dimension="0" posX="-2058.29663" posY="-1535.74316" posZ="123.0292" rotX="4.247" rotY="2.006" rotZ="215.851"></object>
+    <object id="object (bonyrd_block2_) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="3270" scale="1" dimension="0" posX="-2002.52283" posY="-1737.86475" posZ="86.2949" rotX="356" rotY="0" rotZ="351.5"></object>
+    <object id="object (bonyrd_block2_) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="3270" scale="1" dimension="0" posX="-2075.62231" posY="-1629.81616" posZ="171.44209" rotX="0" rotY="0" rotZ="280"></object>
+    <ped id="ped (1)" dimension="0" model="34" interior="0" rotZ="24.003" frozen="false" alpha="255" posX="-1987.76184" posY="-1514.81396" posZ="90.4499" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="34" interior="0" rotZ="348.003" frozen="false" alpha="255" posX="-2003.17041" posY="-1513.22656" posZ="90.4499" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="298" interior="0" rotZ="24.003" frozen="false" alpha="255" posX="-1993.98364" posY="-1512.36279" posZ="90.4499" rotX="0" rotY="0"></ped>
+</map>

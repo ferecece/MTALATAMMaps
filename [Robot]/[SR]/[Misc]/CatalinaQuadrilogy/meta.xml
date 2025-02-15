@@ -1,0 +1,38 @@
+<meta>
+    <script src="client/client.lua" type="client" validate="false" cache="false"></script>
+    <script src="client/client.render.lua" type="client" validate="false" cache="false">></script>
+    <script src="server/server.lua" type="server"></script>
+    <script src="client/client.tanker_commander.lua" type="client" validate="false" cache="false">></script>
+    <script src="server/server.tanker_commander.lua" type="server"></script>
+    <script src="client/client.small_town_bank.lua" type="client" validate="false" cache="false">></script>
+    <script src="server/server.small_town_bank.lua" type="server"></script>
+    <script src="client/client.against_all_odds.lua" type="client" validate="false" cache="false">></script>
+    <script src="server/server.against_all_odds.lua" type="server"></script>
+    <script src="client/client.liquor_store.lua" type="client" validate="false" cache="false">></script>
+    <script src="server/server.liquor_store.lua" type="server"></script>
+    <oop>true</oop>
+    <info gamemodes="race" type="map" racetype="SR" name="Catalina Quadrilogy" author="Lordmau5" version="1.0.3"></info>
+    <map src="race-lordmau5-catalina-quadrilogy.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false" cache="false"></script>
+
+    <file src="audio/mission_accomplished.mp3"/>
+    <file src="img/mission_passed.png"/>
+</meta>

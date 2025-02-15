@@ -1,0 +1,129 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Hotring Racer) (1)" vehicle="494" posX="982.09961" posY="2579.09961" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (2)" vehicle="502" alpha="255" interior="0" posX="979.59998" posY="2575.1001" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (3)" vehicle="503" alpha="255" interior="0" posX="971.5" posY="2562.19995" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (4)" vehicle="494" alpha="255" interior="0" posX="968.5" posY="2557.8999" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (5)" vehicle="502" alpha="255" interior="0" posX="964.70001" posY="2563.6001" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (6)" vehicle="503" alpha="255" interior="0" posX="975.5" posY="2580.5" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (7)" vehicle="494" alpha="255" interior="0" posX="971.79999" posY="2585.80005" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (8)" vehicle="502" alpha="255" interior="0" posX="969.09998" posY="2581.6001" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (9)" vehicle="503" alpha="255" interior="0" posX="960.90002" posY="2568.69995" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (10)" vehicle="494" alpha="255" interior="0" posX="958.09998" posY="2564.30005" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (11)" vehicle="502" alpha="255" interior="0" posX="954.29999" posY="2569.8999" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (12)" vehicle="503" alpha="255" interior="0" posX="964.90002" posY="2586.8999" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (13)" vehicle="494" alpha="255" interior="0" posX="961.09998" posY="2592.5" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (14)" vehicle="502" alpha="255" interior="0" posX="958" posY="2587.8999" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (15)" vehicle="503" alpha="255" interior="0" posX="950.59998" posY="2575.69995" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (16)" vehicle="494" alpha="255" interior="0" posX="947.70001" posY="2570.5" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (17)" vehicle="502" alpha="255" interior="0" posX="943.79999" posY="2576.30005" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (18)" vehicle="503" alpha="255" interior="0" posX="954.29999" posY="2593.19995" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (19)" vehicle="494" alpha="255" interior="0" posX="950.70001" posY="2599" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (20)" vehicle="502" alpha="255" interior="0" posX="947.59998" posY="2594.3999" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (21)" vehicle="503" alpha="255" interior="0" posX="939.5" posY="2581.5" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (22)" vehicle="494" alpha="255" interior="0" posX="936.29999" posY="2576.69995" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (23)" vehicle="502" alpha="255" interior="0" posX="932.5" posY="2582.30005" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (24)" vehicle="503" alpha="255" interior="0" posX="944.09998" posY="2599.80005" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (25)" vehicle="494" alpha="255" interior="0" posX="940" posY="2605" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (26)" vehicle="502" alpha="255" interior="0" posX="937.20001" posY="2600.8999" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (27)" vehicle="503" alpha="255" interior="0" posX="929" posY="2587.8999" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (28)" vehicle="494" alpha="255" interior="0" posX="925.90002" posY="2583.30005" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (29)" vehicle="502" alpha="255" interior="0" posX="922.70001" posY="2588.5" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (30)" vehicle="503" alpha="255" interior="0" posX="933.5" posY="2606.30005" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (31)" vehicle="494" alpha="255" interior="0" posX="927.40002" posY="2606.8999" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (32)" vehicle="502" alpha="255" interior="0" posX="916.29999" posY="2589.1001" posZ="10.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (33)" vehicle="503" posX="982.09998" posY="2579.1001" posZ="15.3" rotX="0" rotY="0" rotZ="238"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (34)" vehicle="494" alpha="255" interior="0" posX="979.59961" posY="2575.09961" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (35)" vehicle="502" alpha="255" interior="0" posX="971.5" posY="2562.19922" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (36)" vehicle="503" alpha="255" interior="0" posX="968.5" posY="2557.8999" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (37)" vehicle="494" alpha="255" interior="0" posX="964.70001" posY="2563.6001" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (38)" vehicle="502" alpha="255" interior="0" posX="975.5" posY="2580.5" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (39)" vehicle="503" alpha="255" interior="0" posX="971.79999" posY="2585.80005" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (40)" vehicle="494" alpha="255" interior="0" posX="969.09998" posY="2581.6001" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (41)" vehicle="502" alpha="255" interior="0" posX="960.90002" posY="2568.69995" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (42)" vehicle="503" alpha="255" interior="0" posX="958.09998" posY="2564.30005" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (43)" vehicle="494" alpha="255" interior="0" posX="954.29999" posY="2569.8999" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (44)" vehicle="502" alpha="255" interior="0" posX="964.90002" posY="2586.8999" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (45)" vehicle="503" alpha="255" interior="0" posX="961.09998" posY="2592.5" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (46)" vehicle="494" alpha="255" interior="0" posX="958" posY="2587.8999" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (47)" vehicle="502" alpha="255" interior="0" posX="950.59998" posY="2575.69995" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (48)" vehicle="503" alpha="255" interior="0" posX="947.70001" posY="2570.5" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (49)" vehicle="494" alpha="255" interior="0" posX="943.79999" posY="2576.30005" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (50)" vehicle="502" alpha="255" interior="0" posX="954.29999" posY="2593.19995" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (51)" vehicle="503" alpha="255" interior="0" posX="950.70001" posY="2599" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (52)" vehicle="494" alpha="255" interior="0" posX="947.59998" posY="2594.3999" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (53)" vehicle="502" alpha="255" interior="0" posX="939.5" posY="2581.5" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (54)" vehicle="503" alpha="255" interior="0" posX="936.29999" posY="2576.69995" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (55)" vehicle="494" alpha="255" interior="0" posX="932.5" posY="2582.30005" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (56)" vehicle="502" alpha="255" interior="0" posX="944.09998" posY="2599.80005" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (57)" vehicle="503" alpha="255" interior="0" posX="940" posY="2605" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (58)" vehicle="494" alpha="255" interior="0" posX="937.20001" posY="2600.8999" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (59)" vehicle="502" alpha="255" interior="0" posX="929" posY="2587.8999" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (60)" vehicle="503" alpha="255" interior="0" posX="925.90002" posY="2583.30005" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (61)" vehicle="494" alpha="255" interior="0" posX="922.70001" posY="2588.5" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (62)" vehicle="502" alpha="255" interior="0" posX="933.5" posY="2606.30005" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (63)" vehicle="503" alpha="255" interior="0" posX="927.40002" posY="2606.8999" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (64)" vehicle="494" alpha="255" interior="0" posX="916.29999" posY="2589.1001" posZ="15.3" rotX="0" rotY="0" rotZ="237.997"></spawnpoint>
+    <object id="object (gnhtelgrnd_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="960.40002" posY="2565.1001" posZ="13.3" rotX="0" rotY="0" rotZ="328"></object>
+    <object id="object (gnhtelgrnd_lvs) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="970.90002" posY="2582" posZ="13.3" rotX="0" rotY="0" rotZ="327.997"></object>
+    <object id="object (gnhtelgrnd_lvs) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="937.70001" posY="2602.8999" posZ="13.3" rotX="0" rotY="0" rotZ="327.997"></object>
+    <object id="object (gnhtelgrnd_lvs) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="927.09998" posY="2586" posZ="13.3" rotX="0" rotY="0" rotZ="327.997"></object>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="15" nextid="checkpoint () (2)" posX="1092.19995" posY="2492.30005" posZ="9.8" rotX="0" rotY="0" rotZ="326"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="15" alpha="255" interior="0" nextid="checkpoint () (3)" posX="1456.5" posY="2464.59961" posZ="9.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (4)" posX="1712.5" posY="2551.69995" posZ="9.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (5)" posX="1820.40002" posY="2462.5" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (6)" posX="1806.69995" posY="2233" posZ="9.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (7)" posX="1825.69995" posY="1819.69995" posZ="6.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (8)" posX="1878.40002" posY="1713.30005" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (9)" posX="2063.30005" posY="1712.90002" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (10)" posX="2141.1001" posY="1707.69995" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (11)" posX="2133.69995" posY="1650.5" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (12)" posX="2069.80005" posY="1646.40002" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (14)" posX="2065.8999" posY="1453.90002" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (15)" posX="2070.6001" posY="1192.40002" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (16)" posX="2045.19995" posY="1194.80005" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (17)" posX="2046.19995" posY="1273.09998" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (18)" posX="1882" posY="1274.0996" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (18)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (19)" posX="1727.7998" posY="1275" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (19)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (21)" posX="1728.90002" posY="1601.69995" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (21)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (23)" posX="1713.59998" posY="1713.90002" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (23)" type="checkpoint" color="#00F9" size="10" alpha="255" interior="0" nextid="checkpoint () (50)" posX="1786.59961" posY="1866.7998" posZ="14.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (50)" type="checkpoint" nextid="false" color="#00F9" size="10" alpha="255" interior="0" posX="1788.69995" posY="2337.80005" posZ="14.3" rotX="0" rotY="2" rotZ="0"></checkpoint>
+    <object id="object (gnhtelgrnd_lvs) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="8661" doublesided="false" scale="1" dimension="0" posX="1787.89941" posY="2355.09961" posZ="17.8" rotX="0" rotY="39.996" rotZ="270"></object>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="1045.89941" posY="2544.2998" posZ="11.2" rotX="0" rotY="0" rotZ="300.96"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1042.19995" posY="2539.19995" posZ="11.2" rotX="0" rotY="0" rotZ="264.06"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1040.09998" posY="2536.3999" posZ="11.2" rotX="0" rotY="0" rotZ="214.2"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1038" posY="2533.6001" posZ="11.2" rotX="0" rotY="0" rotZ="169.02"></racepickup>
+    <racepickup id="racepickup (NRG-500) (5)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1035.90002" posY="2530.80005" posZ="11.2" rotX="0" rotY="0" rotZ="203.94"></racepickup>
+    <racepickup id="racepickup (NRG-500) (6)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1033.5" posY="2527.6001" posZ="11.2" rotX="0" rotY="0" rotZ="48.96"></racepickup>
+    <racepickup id="racepickup (NRG-500) (7)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1031.59998" posY="2525" posZ="11.2" rotX="0" rotY="0" rotZ="228.96"></racepickup>
+    <racepickup id="racepickup (NRG-500) (8)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1029.80005" posY="2522.6001" posZ="11.2" rotX="0" rotY="0" rotZ="64.08"></racepickup>
+    <racepickup id="racepickup (NRG-500) (9)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1027.90002" posY="2520" posZ="11.2" rotX="0" rotY="0" rotZ="219.24"></racepickup>
+    <racepickup id="racepickup (NRG-500) (10)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1025.80005" posY="2517.19995" posZ="11.2" rotX="0" rotY="0" rotZ="324.18"></racepickup>
+    <racepickup id="racepickup (NRG-500) (11)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1043.80005" posY="2541.19995" posZ="11.2" rotX="0" rotY="0" rotZ="244.08"></racepickup>
+    <racepickup id="racepickup (NRG-500) (12)" type="repair" vehicle="522" respawn="0" posX="1713" posY="2535.1001" posZ="11.2" rotX="0" rotY="0" rotZ="192.602"></racepickup>
+    <racepickup id="racepickup (NRG-500) (13)" type="nitro" vehicle="522" respawn="0" posX="1800.30005" posY="2522.30005" posZ="15.2" rotX="0" rotY="0" rotZ="57.602"></racepickup>
+    <object id="object (vgncarshade1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="1779.19995" posY="2561.80005" posZ="14.8" rotX="90" rotY="180" rotZ="159.25"></object>
+    <object id="object (vgncarshade1) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="1801.09998" posY="2549.30005" posZ="15.6" rotX="90" rotY="179.995" rotZ="141.747"></object>
+    <object id="object (vgncarshade1) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="1815" posY="2534" posZ="15.9" rotX="90" rotY="180.005" rotZ="122.985"></object>
+    <object id="object (vgncarshade1) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="1825.40002" posY="2510.8999" posZ="15.9" rotX="90" rotY="180.005" rotZ="104.231"></object>
+    <object id="object (vgncarshade1) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="1830" posY="2486" posZ="15.4" rotX="89.75" rotY="269.999" rotZ="6.483"></object>
+    <object id="object (vgncarshade1) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="1830.19995" posY="2460.69995" posZ="15" rotX="88.253" rotY="90.001" rotZ="176.475"></object>
+    <racepickup id="racepickup (NRG-500) (14)" type="repair" vehicle="522" respawn="0" posX="2162.80005" posY="1680.09998" posZ="11.4" rotX="0" rotY="0" rotZ="235.8"></racepickup>
+    <racepickup id="racepickup (NRG-500) (15)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="2157.80005" posY="1680.30005" posZ="11.4" rotX="0" rotY="0" rotZ="170.82"></racepickup>
+    <racepickup id="racepickup (NRG-500) (16)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2153.80005" posY="1680.5" posZ="11.4" rotX="0" rotY="0" rotZ="299.52"></racepickup>
+    <racepickup id="racepickup (NRG-500) (17)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2149.80005" posY="1680.69995" posZ="11.4" rotX="0" rotY="0" rotZ="179.46"></racepickup>
+    <racepickup id="racepickup (NRG-500) (18)" type="repair" vehicle="522" respawn="0" posX="2082.30005" posY="1453.40002" posZ="11.4" rotX="0" rotY="0" rotZ="117.898"></racepickup>
+    <racepickup id="racepickup (NRG-500) (19)" type="repair" vehicle="522" respawn="0" posX="2057.30005" posY="1185.5" posZ="11.2" rotX="0" rotY="0" rotZ="150.84"></racepickup>
+    <racepickup id="racepickup (NRG-500) (20)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="2057.3999" posY="1189" posZ="11.2" rotX="0" rotY="0" rotZ="245.88"></racepickup>
+    <racepickup id="racepickup (NRG-500) (21)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="2057.5" posY="1192.5" posZ="11.2" rotX="0" rotY="0" rotZ="145.8"></racepickup>
+    <racepickup id="racepickup (NRG-500) (22)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2057.6001" posY="1196.19995" posZ="11.2" rotX="0" rotY="0" rotZ="203.039"></racepickup>
+    <racepickup id="racepickup (NRG-500) (23)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2057.69995" posY="1199.90002" posZ="11.2" rotX="0" rotY="0" rotZ="122.941"></racepickup>
+    <racepickup id="racepickup (NRG-500) (24)" type="repair" vehicle="522" respawn="0" posX="2048.5" posY="1288.19995" posZ="11.2" rotX="0" rotY="0" rotZ="58.141"></racepickup>
+    <racepickup id="racepickup (NRG-500) (25)" type="nitro" vehicle="522" respawn="0" posX="1723.40002" posY="1712.80005" posZ="11.7" rotX="0" rotY="0" rotZ="130.859"></racepickup>
+    <racepickup id="racepickup (NRG-500) (26)" type="nitro" vehicle="522" respawn="0" posX="1797.59998" posY="1875.09998" posZ="7.3" rotX="0" rotY="0" rotZ="96.84"></racepickup>
+    <racepickup id="racepickup (NRG-500) (27)" type="nitro" vehicle="522" respawn="0" posX="1931.90002" posY="1700.59998" posZ="11.4" rotX="0" rotY="0" rotZ="65.88"></racepickup>
+    <racepickup id="racepickup (NRG-500) (28)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="1931.89941" posY="1700.59961" posZ="11.4" rotX="0" rotY="0" rotZ="265.68"></racepickup>
+    <racepickup id="racepickup (NRG-500) (29)" type="nitro" vehicle="522" respawn="0" posX="1708.80005" posY="1434.69995" posZ="11.1" rotX="0" rotY="0" rotZ="15.84"></racepickup>
+    <racepickup id="racepickup (NRG-500) (30)" type="nitro" vehicle="522" respawn="0" posX="1735.90002" posY="1528.59998" posZ="11.2" rotX="0" rotY="0" rotZ="215.82"></racepickup>
+    <racepickup id="racepickup (NRG-500) (31)" type="nitro" vehicle="522" respawn="0" posX="1797.59998" posY="2242.30005" posZ="5.5" rotX="0" rotY="0" rotZ="327.6"></racepickup>
+</map>

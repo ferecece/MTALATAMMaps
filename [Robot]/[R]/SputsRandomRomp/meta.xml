@@ -1,0 +1,23 @@
+<meta>
+    <script src="randomcar_s.lua" type="server" />
+    <info gamemodes="race" type="map" racetype="R" name="Sputs Random Romp" author="Sputs|uk" version="2.0.0" description="Random Vehicle Checkpoint Race" />
+    <map src="race-sputsrandomromp.map" dimension="0" />
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]' />
+        <setting name="#maxplayers" value="[ 128 ]" />
+        <setting name="#gamespeed" value="[ 1 ]" />
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]' />
+        <setting name="#time" value="16:30" />
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]' />
+        <setting name="#minplayers" value="[ 0 ]" />
+        <setting name="#weather" value="[ 0 ]" />
+        <setting name="#gravity" value="[ 0.008000 ]" />
+        <setting name="#waveheight" value="[ 0 ]" />
+        <setting name="#respawntime" value="[ 1 ]" />
+        <setting name="#locked_time" value="[ false ]" />
+        <setting name="#duration" value="[ 1800 ]" />
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]' />
+    </settings>
+</meta>

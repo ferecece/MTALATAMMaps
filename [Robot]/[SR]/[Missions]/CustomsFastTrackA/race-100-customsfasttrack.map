@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Savanna) (1)" vehicle="567" posX="-2034.7061" posY="177.7413" posZ="28.8359" rotX="0" rotY="0" rotZ="244.596"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#EB204599" size="30" posX="-1586.8" posY="80" posZ="2.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (arrow) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="-1983.7" posY="-3.1" posZ="45.9" rotX="90" rotY="180" rotZ="90"></object>
+    <object id="object (arrow) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="-1979.6" posY="170" posZ="40.4" rotX="90" rotY="179.995" rotZ="0"></object>
+</map>

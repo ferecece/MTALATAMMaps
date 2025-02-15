@@ -1,0 +1,14 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (barrel4) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="1225" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2716.2" posY="-2312.1001" posZ="10" rotX="0" rotY="0" rotZ="0"></object>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2.25" interior="0" posX="-1799.9" posY="-2726.5" posZ="0.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <spawnpoint id="spawnpoint (Faggio) (1)" vehicle="481" interior="0" posX="-2639.8" posY="-2192.8" posZ="3.1" rotX="0" rotY="0" rotZ="147.997"></spawnpoint>
+    <object id="object (sfn_coast05) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="9257" scale="1" doublesided="false" collisions="true" posX="-2636.3999" posY="-2230.2" posZ="26.9" rotX="0" rotY="0" rotZ="-86"></object>
+    <object id="object (sfn_coast05) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="9257" scale="1" doublesided="false" collisions="true" posX="-2640.3" posY="-2366.7" posZ="28.8" rotX="0" rotY="0" rotZ="-74.001"></object>
+    <object id="object (sfn_coast05) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="9257" scale="1" doublesided="false" collisions="true" posX="-2614.8999" posY="-2500.3999" posZ="28.8" rotX="0" rotY="0" rotZ="-62.004"></object>
+    <object id="object (sfn_coast05) (4)" breakable="false" interior="0" alpha="255" dimension="0" model="9257" scale="1" doublesided="false" collisions="true" posX="-2575.3" posY="-2629.6001" posZ="28.8" rotX="0" rotY="0" rotZ="-62.007"></object>
+    <object id="object (sfn_coast05) (5)" breakable="false" interior="0" alpha="255" dimension="0" model="9257" scale="1" doublesided="false" collisions="true" posX="-2493.5" posY="-2714.6001" posZ="28.8" rotX="0" rotY="0" rotZ="-0.007"></object>
+    <object id="object (sfn_coast05) (6)" breakable="false" interior="0" alpha="255" dimension="0" model="9257" scale="1" doublesided="false" collisions="true" posX="-2357.2" posY="-2742.3999" posZ="28.8" rotX="0" rotY="0" rotZ="-2.011"></object>
+    <object id="object (sfn_coast05) (7)" breakable="false" interior="0" alpha="255" dimension="0" model="9257" scale="1" doublesided="false" collisions="true" posX="-2244.7" posY="-2775.6001" posZ="28.8" rotX="0" rotY="0" rotZ="-6.016"></object>
+    <object id="object (sfn_coast05) (8)" breakable="false" interior="0" alpha="255" dimension="0" model="9257" scale="1" doublesided="false" collisions="true" posX="-2108.3999" posY="-2793.1001" posZ="28.8" rotX="0" rotY="0" rotZ="13.98"></object>
+    <object id="object (sfn_coast05) (9)" breakable="false" interior="0" alpha="255" dimension="0" model="9257" scale="1" doublesided="false" collisions="true" posX="-1972.6" posY="-2770.7" posZ="28.8" rotX="0" rotY="0" rotZ="27.975"></object>
+</map>

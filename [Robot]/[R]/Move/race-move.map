@@ -1,0 +1,132 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Sandking) (1)" vehicle="495" posX="-1288.3898925781" posY="2712.6442871094" posZ="50.622573852539" rotX="0" rotY="0" rotZ="184" />
+    <checkpoint id="checkpoint (1)" type="checkpoint" color="#00F9" size="4" nextid="checkpoint (2)" posX="-796.18029785156" posY="2730.2197265625" posZ="51.437347412109" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (2)" type="checkpoint" color="#00F9" size="4" nextid="checkpoint (3)" posX="-722.8447265625" posY="2563.5751953125" posZ="72.856384277344" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (3)" type="checkpoint" color="#00F9" size="4" nextid="checkpoint (4)" posX="-412.78131103516" posY="2455.9958496094" posZ="43.764122009277" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (4)" type="checkpoint" color="#00F9" size="8" nextid="checkpoint (5)" posX="-70.704658508301" posY="2503.9038085938" posZ="15.522772789001" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (5)" type="checkpoint" color="#00F9" size="13" nextid="checkpoint (6)" posX="170.50219726563" posY="2502.2802734375" posZ="19.056062698364" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (6)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint (7)" posX="445.76428222656" posY="2501.0129394531" posZ="17.726463317871" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (7)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint (8)" posX="548.50616455078" posY="2325.2814941406" posZ="31.664699554443" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (8)" type="checkpoint" color="#00F9" size="4" nextid="checkpoint (9)" posX="601.0283203125" posY="2068.2155761719" posZ="36.078605651855" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (9)" type="checkpoint" color="#00F9" size="3" nextid="checkpoint (10)" posX="739.53509521484" posY="1850.0227050781" posZ="4.5774602890015" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (cs_roadbridge04) (1)" doublesided="false" model="18450" interior="0" dimension="0" posX="821.72869873047" posY="1757.0100097656" posZ="11.263198852539" rotX="0" rotY="14" rotZ="100" />
+    <checkpoint id="checkpoint (10)" type="ring" color="#00F9" size="4" nextid="checkpoint (11)" posX="834.05078125" posY="1686.498046875" posZ="22.111129760742" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (11)" type="ring" color="#00F9" size="4" nextid="checkpoint (12)" posX="847.65747070313" posY="1606.6461181641" posZ="20.25" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (12)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint (13)" posX="1015.5075683594" posY="1373.4345703125" posZ="9.7868690490723" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (13)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint (14)" posX="1185.0646972656" posY="1372.7935791016" posZ="8.3425178527832" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (14)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint (15)" posX="1236.8504638672" posY="1274.1586914063" posZ="7.5985479354858" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (lasgrifroad) (1)" doublesided="true" model="4823" interior="0" dimension="0" posX="1302.8056640625" posY="1186.634765625" posZ="31.277729034424" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (des_gravelpile06) (1)" doublesided="false" model="16305" interior="0" dimension="0" posX="1209.4049072266" posY="1282.9106445313" posZ="7.8801393508911" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (des_gravelpile06) (2)" doublesided="false" model="16305" interior="0" dimension="0" posX="1209.6701660156" posY="1277.4155273438" posZ="7.8801393508911" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (des_gravelpile06) (3)" doublesided="false" model="16305" interior="0" dimension="0" posX="1209.9116210938" posY="1272.419921875" posZ="7.8801393508911" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (des_gravelpile06) (4)" doublesided="false" model="16305" interior="0" dimension="0" posX="1210.1528320313" posY="1267.4248046875" posZ="7.8801393508911" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (des_gravelpile06) (5)" doublesided="false" model="16305" interior="0" dimension="0" posX="1211.9575195313" posY="1284.1787109375" posZ="7.8801393508911" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (des_gravelpile06) (6)" doublesided="false" model="16305" interior="0" dimension="0" posX="1214.2824707031" posY="1284.5749511719" posZ="7.8801393508911" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (des_gravelpile06) (7)" doublesided="false" model="16305" interior="0" dimension="0" posX="1208.9312744141" posY="1284.5701904297" posZ="7.755138874054" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <checkpoint id="checkpoint (15)" type="ring" color="#00F9" size="5" nextid="checkpoint (16)" posX="1341.5686035156" posY="1130.1558837891" posZ="52.653167724609" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (Lae2_roads38) (1)" doublesided="false" model="17648" interior="0" dimension="0" posX="1341.5498046875" posY="1178.2357177734" posZ="40.014484405518" rotX="0" rotY="0" rotZ="270" />
+    <checkpoint id="checkpoint (16)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint (17)" posX="1341.6932373047" posY="1315.0709228516" posZ="9.8587102890015" rotX="0" rotY="0" rotZ="0" />
+    <racepickup id="racepickup (NRG-500) (1)" type="repair" vehicle="522" respawn="0" posX="1341.7166748047" posY="1310.7344970703" posZ="13.286689758301" rotX="0" rotY="0" rotZ="306.5390625" />
+    <object id="object (Lae2_roads38) (2)" doublesided="false" model="17648" interior="0" dimension="0" posX="1341.8408203125" posY="1187.7287597656" posZ="30.764484405518" rotX="0" rotY="13" rotZ="270" />
+    <racepickup id="racepickup (NRG-500) (6)" type="repair" vehicle="522" respawn="0" interior="0" posX="1344.1965332031" posY="1310.5443115234" posZ="13.286672592163" rotX="0" rotY="0" rotZ="185.580078125" />
+    <racepickup id="racepickup (NRG-500) (7)" type="repair" vehicle="522" respawn="0" interior="0" posX="1339.2297363281" posY="1310.7666015625" posZ="13.286670684814" rotX="0" rotY="0" rotZ="39.421875" />
+    <racepickup id="racepickup (NRG-500) (8)" type="repair" vehicle="522" respawn="0" interior="0" posX="1346.1685791016" posY="1310.2785644531" posZ="13.286655426025" rotX="0" rotY="0" rotZ="95.578125" />
+    <racepickup id="racepickup (NRG-500) (9)" type="repair" vehicle="522" respawn="0" interior="0" posX="1337.2418212891" posY="1310.6782226563" posZ="13.286672592163" rotX="0" rotY="0" rotZ="275.578125" />
+    <checkpoint id="checkpoint (17)" type="checkpoint" color="#00F9" size="8" nextid="checkpoint (18)" posX="1388.9916992188" posY="1517.1274414063" posZ="9.8587102890015" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (cxrf_brigleg) (3)" doublesided="false" model="3330" interior="0" dimension="0" posX="1369.3621826172" posY="1520" posZ="74.733932495117" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (cxrf_brigleg) (4)" doublesided="false" model="3330" interior="0" dimension="0" posX="1369.361328125" posY="1495" posZ="74.733932495117" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (cxrf_brigleg) (5)" doublesided="false" model="3330" interior="0" dimension="0" posX="1369.361328125" posY="1545" posZ="74.733932495117" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (cxrf_brigleg) (6)" doublesided="false" model="3330" interior="0" dimension="0" posX="1408.5" posY="1495" posZ="74.733932495117" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (cxrf_brigleg) (7)" doublesided="false" model="3330" interior="0" dimension="0" posX="1408.5" posY="1520" posZ="74.733932495117" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (cxrf_brigleg) (8)" doublesided="false" model="3330" interior="0" dimension="0" posX="1408.5" posY="1545" posZ="74.733932495117" rotX="0" rotY="0" rotZ="90" />
+    <checkpoint id="checkpoint (18)" type="checkpoint" color="#00F9" size="14" nextid="checkpoint (19)" posX="1428.1042480469" posY="1731.4017333984" posZ="9.8587102890015" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (19)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint (20)" posX="1477.3829345703" posY="1624.5703125" posZ="9.8508977890015" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgnhseing112) (1)" doublesided="false" model="7020" interior="0" dimension="0" posX="1493.5031738281" posY="1632.1610107422" posZ="13.388717651367" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (vgnhseing112) (3)" doublesided="false" model="7020" interior="0" dimension="0" posX="1427" posY="1632.16015625" posZ="13.388717651367" rotX="0" rotY="0" rotZ="270" />
+    <checkpoint id="checkpoint (20)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint (21)" posX="1476.50390625" posY="1331.7563476563" posZ="9.8587102890015" rotX="0" rotY="0" rotZ="0" />
+    <checkpoint id="checkpoint (21)" type="checkpoint" color="#FFFF59FF" vehicle="473" size="6" posX="1802.271484375" posY="1273.1103515625" posZ="18.510177612305" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (flamingo04_lvs) (1)" doublesided="false" model="8491" interior="0" dimension="0" posX="1803.0537109375" posY="1273.0537109375" posZ="31.112606048584" rotX="0" rotY="0" rotZ="129.99572753906" />
+    <spawnpoint id="spawnpoint (Sandking) (1)" vehicle="495" interior="0" posX="-1292.0791015625" posY="2711.1315917969" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.99998474121" />
+    <spawnpoint id="spawnpoint (Sandking) (2)" vehicle="495" interior="0" posX="-1295.9133300781" posY="2709.3422851563" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.99998474121" />
+    <spawnpoint id="spawnpoint (Sandking) (3)" vehicle="495" interior="0" posX="-1299.369140625" posY="2707.8195800781" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.99998474121" />
+    <spawnpoint id="spawnpoint (Sandking) (4)" vehicle="495" interior="0" posX="-1303.0671386719" posY="2706.1726074219" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.99998474121" />
+    <spawnpoint id="spawnpoint (Sandking) (5)" vehicle="495" interior="0" posX="-1288.94921875" posY="2719.31640625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.99998474121" />
+    <spawnpoint id="spawnpoint (Sandking) (6)" vehicle="495" interior="0" posX="-1292.5837402344" posY="2717.90625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.99998474121" />
+    <spawnpoint id="spawnpoint (Sandking) (7)" vehicle="495" interior="0" posX="-1296.3350830078" posY="2716.8220214844" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.99998474121" />
+    <spawnpoint id="spawnpoint (Sandking) (8)" vehicle="495" interior="0" posX="-1300.0795898438" posY="2714.2612304688" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.99998474121" />
+    <spawnpoint id="spawnpoint (Sandking) (9)" vehicle="495" interior="0" posX="-1304.0151367188" posY="2712.8156738281" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.99998474121" />
+    <spawnpoint id="spawnpoint (Sandking) (10)" vehicle="495" interior="0" posX="-1288.3896484375" posY="2712.6435546875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (11)" vehicle="495" interior="0" posX="-1288.3896484375" posY="2712.6435546875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (12)" vehicle="495" interior="0" posX="-1288.3896484375" posY="2712.6435546875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (13)" vehicle="495" interior="0" posX="-1292.0791015625" posY="2711.130859375" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (14)" vehicle="495" interior="0" posX="-1292.0791015625" posY="2711.130859375" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (15)" vehicle="495" interior="0" posX="-1292.0791015625" posY="2711.130859375" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (16)" vehicle="495" interior="0" posX="-1295.9130859375" posY="2709.341796875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (17)" vehicle="495" interior="0" posX="-1295.9130859375" posY="2709.341796875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (18)" vehicle="495" interior="0" posX="-1295.9130859375" posY="2709.341796875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (19)" vehicle="495" interior="0" posX="-1299.369140625" posY="2707.8193359375" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (20)" vehicle="495" interior="0" posX="-1299.369140625" posY="2707.8193359375" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (21)" vehicle="495" interior="0" posX="-1299.369140625" posY="2707.8193359375" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (22)" vehicle="495" interior="0" posX="-1303.06640625" posY="2706.171875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (23)" vehicle="495" interior="0" posX="-1303.06640625" posY="2706.171875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (24)" vehicle="495" interior="0" posX="-1303.06640625" posY="2706.171875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (25)" vehicle="495" interior="0" posX="-1304.0146484375" posY="2712.8154296875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (26)" vehicle="495" interior="0" posX="-1304.0146484375" posY="2712.8154296875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (27)" vehicle="495" interior="0" posX="-1304.0146484375" posY="2712.8154296875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (28)" vehicle="495" interior="0" posX="-1300.0791015625" posY="2714.2607421875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (29)" vehicle="495" interior="0" posX="-1300.0791015625" posY="2714.2607421875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (30)" vehicle="495" interior="0" posX="-1300.0791015625" posY="2714.2607421875" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (31)" vehicle="495" interior="0" posX="-1296.3349609375" posY="2716.8212890625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (32)" vehicle="495" interior="0" posX="-1296.3349609375" posY="2716.8212890625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (33)" vehicle="495" interior="0" posX="-1296.3349609375" posY="2716.8212890625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (34)" vehicle="495" interior="0" posX="-1292.5830078125" posY="2717.90625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (35)" vehicle="495" interior="0" posX="-1292.5830078125" posY="2717.90625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (36)" vehicle="495" interior="0" posX="-1292.5830078125" posY="2717.90625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (37)" vehicle="495" interior="0" posX="-1288.94921875" posY="2719.31640625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (38)" vehicle="495" interior="0" posX="-1288.94921875" posY="2719.31640625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (39)" vehicle="495" interior="0" posX="-1288.94921875" posY="2719.31640625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <spawnpoint id="spawnpoint (Sandking) (40)" vehicle="495" interior="0" posX="-1288.94921875" posY="2719.31640625" posZ="50.622573852539" rotX="0" rotY="0" rotZ="183.9990234375" />
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" posX="-1217.9537353516" posY="2698.0354003906" posZ="46.320098876953" rotX="0" rotY="0" rotZ="50.578125" />
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" posX="199.6630859375" posY="2495.0234375" posZ="25" rotX="0" rotY="0" rotZ="210.9599609375" />
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" interior="0" posX="199.6630859375" posY="2510" posZ="25" rotX="0" rotY="0" rotZ="208.080078125" />
+    <object id="object (billbrdlan_10) (1)" doublesided="true" model="4238" interior="0" dimension="0" posX="-1285.0625" posY="2673.4221191406" posZ="51.898483276367" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (billbrdlan_10) (2)" doublesided="true" model="4238" interior="0" dimension="0" posX="-1303.4931640625" posY="2684.19140625" posZ="51.91690826416" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (billbrdlan_10) (3)" doublesided="true" model="4238" interior="0" dimension="0" posX="394.78680419922" posY="2528.3420410156" posZ="18.401521682739" rotX="0" rotY="0" rotZ="29.994506835938" />
+    <object id="object (billbrdlan_10) (4)" doublesided="true" model="4238" interior="0" dimension="0" posX="-1285.0625" posY="2673.421875" posZ="57.5" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (billbrdlan_10) (5)" doublesided="true" model="4238" interior="0" dimension="0" posX="-1303.4931640625" posY="2684.19140625" posZ="57.5" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (billbrdlan_10) (6)" doublesided="true" model="4238" interior="0" dimension="0" posX="-752.9580078125" posY="2729.3125" posZ="47.728477478027" rotX="0" rotY="0" rotZ="299.99267578125" />
+    <object id="object (billbrdlan_10) (7)" doublesided="true" model="4238" interior="0" dimension="0" posX="366.27124023438" posY="2528.6684570313" posZ="18.507522583008" rotX="0" rotY="0" rotZ="29.99267578125" />
+    <object id="object (billbrdlan_10) (8)" doublesided="true" model="4238" interior="0" dimension="0" posX="338.06713867188" posY="2528.4123535156" posZ="18.648239135742" rotX="0" rotY="0" rotZ="29.99267578125" />
+    <object id="object (billbrdlan_10) (9)" doublesided="true" model="4238" interior="0" dimension="0" posX="367.27169799805" posY="2476.1076660156" posZ="18.33878326416" rotX="0" rotY="0" rotZ="209.99267578125" />
+    <object id="object (billbrdlan_10) (10)" doublesided="true" model="4238" interior="0" dimension="0" posX="403.90234375" posY="2477.0615234375" posZ="18.346576690674" rotX="0" rotY="0" rotZ="209.98718261719" />
+    <object id="object (billbrdlan_10) (11)" doublesided="true" model="4238" interior="0" dimension="0" posX="342.25491333008" posY="2476.0031738281" posZ="18.33878326416" rotX="0" rotY="0" rotZ="209.98718261719" />
+    <object id="object (billbrdlan_10) (12)" doublesided="true" model="4238" interior="0" dimension="0" posX="501.48931884766" posY="2434.4868164063" posZ="39.469638824463" rotX="0" rotY="0" rotZ="309.98718261719" />
+    <object id="object (billbrdlan_10) (13)" doublesided="true" model="4238" interior="0" dimension="0" posX="619.6787109375" posY="2088.9912109375" posZ="39.849418640137" rotX="0" rotY="0" rotZ="309.98474121094" />
+    <object id="object (billbrdlan_10) (14)" doublesided="true" model="4238" interior="0" dimension="0" posX="823.70831298828" posY="1815.6955566406" posZ="6.0128183364868" rotX="0" rotY="0" rotZ="309.98474121094" />
+    <object id="object (billbrdlan_10) (15)" doublesided="true" model="4238" interior="0" dimension="0" posX="823.70831298828" posY="1815.6955566406" posZ="11.699999809265" rotX="0" rotY="0" rotZ="309.98474121094" />
+    <object id="object (billbrdlan_10) (16)" doublesided="true" model="4238" interior="0" dimension="0" posX="1206.9000244141" posY="1256.3447265625" posZ="17.83878326416" rotX="0" rotY="0" rotZ="209.98474121094" />
+    <object id="object (billbrdlan_10) (17)" doublesided="true" model="4238" interior="0" dimension="0" posX="1228" posY="1256.3447265625" posZ="17.83878326416" rotX="0" rotY="0" rotZ="209.98168945313" />
+    <object id="object (billbrdlan_10) (18)" doublesided="true" model="4238" interior="0" dimension="0" posX="1362.4558105469" posY="1132.1965332031" posZ="55.288330078125" rotX="0" rotY="0" rotZ="210" />
+    <object id="object (billbrdlan_10) (19)" doublesided="true" model="4238" interior="0" dimension="0" posX="1341.6549072266" posY="1312.7412109375" posZ="21.67472076416" rotX="0" rotY="0" rotZ="32" />
+    <object id="object (billbrdlan_10) (20)" doublesided="true" model="4238" interior="0" dimension="0" posX="1460.1398925781" posY="1618.8005371094" posZ="19.208992004395" rotX="0" rotY="0" rotZ="119.99771118164" />
+    <object id="object (billbrdlan_10) (21)" doublesided="true" model="4238" interior="0" dimension="0" posX="1494.6097412109" posY="1620.8647460938" posZ="19.208992004395" rotX="0" rotY="0" rotZ="299.99267578125" />
+    <object id="object (billbrdlan_10) (22)" doublesided="true" model="4238" interior="0" dimension="0" posX="1637" posY="1295" posZ="12.733641624451" rotX="0" rotY="0" rotZ="300" />
+    <object id="object (billbrdlan_10) (23)" doublesided="true" model="4238" interior="0" dimension="0" posX="1823.6810302734" posY="1273.41015625" posZ="14.86399269104" rotX="0" rotY="0" rotZ="299.99816894531" />
+    <object id="object (billbrdlan_10) (24)" doublesided="true" model="4238" interior="0" dimension="0" posX="1813.2263183594" posY="1282.4868164063" posZ="16.566463470459" rotX="0" rotY="0" rotZ="29.998168945313" />
+    <object id="object (billbrdlan_10) (25)" doublesided="true" model="4238" interior="0" dimension="0" posX="1813.3127441406" posY="1263.9272460938" posZ="16.706993103027" rotX="0" rotY="0" rotZ="210" />
+    <object id="object (billbrdlan_10) (26)" doublesided="true" model="4238" interior="0" dimension="0" posX="1823.6806640625" posY="1273.41015625" posZ="20.36399269104" rotX="0" rotY="0" rotZ="299.99816894531" />
+    <object id="object (billbrdlan_10) (27)" doublesided="true" model="4238" interior="0" dimension="0" posX="1796.1737060547" posY="1255.7725830078" posZ="17.021766662598" rotX="0" rotY="0" rotZ="260" />
+    <object id="object (billbrdlan_10) (28)" doublesided="true" model="4238" interior="0" dimension="0" posX="1796.1728515625" posY="1290.5999755859" posZ="17.021766662598" rotX="0" rotY="0" rotZ="340" />
+    <object id="object (billbrdlan_10) (29)" doublesided="true" model="4238" interior="0" dimension="0" posX="1380.0314941406" posY="1090.5079345703" posZ="56.59700012207" rotX="0" rotY="0" rotZ="209.99816894531" />
+    <object id="object (billbrdlan_10) (30)" doublesided="true" model="4238" interior="0" dimension="0" posX="1350.3095703125" posY="1091.0952148438" posZ="56.618072509766" rotX="0" rotY="0" rotZ="209.99816894531" />
+    <object id="object (billbrdlan_10) (31)" doublesided="true" model="4238" interior="0" dimension="0" posX="1333.4401855469" posY="1111.0733642578" posZ="56.066841125488" rotX="0" rotY="0" rotZ="119.99813842773" />
+    <object id="object (billbrdlan_10) (32)" doublesided="true" model="4238" interior="0" dimension="0" posX="1390.9749755859" posY="1109.2905273438" posZ="56.129333496094" rotX="0" rotY="0" rotZ="299.99267578125" />
+    <object id="object (billbrdlan_10) (33)" doublesided="true" model="4238" interior="0" dimension="0" posX="1067.1413574219" posY="1363.2355957031" posZ="12.533567428589" rotX="0" rotY="0" rotZ="209.98168945313" />
+    <object id="object (billbrdlan_10) (34)" doublesided="true" model="4238" interior="0" dimension="0" posX="1141.8397216797" posY="1362.876953125" posZ="12.575620651245" rotX="0" rotY="0" rotZ="209.98168945313" />
+    <object id="object (rdwarhusbig) (1)" doublesided="false" model="3689" interior="0" dimension="0" posX="200.96148681641" posY="2537.294921875" posZ="18.421756744385" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (rdwarhusbig) (2)" doublesided="false" model="3689" interior="0" dimension="0" posX="199.78784179688" posY="2465.970703125" posZ="17.921756744385" rotX="0" rotY="0" rotZ="0" />
+    <racepickup id="racepickup (NRG-500) (5)" type="repair" vehicle="522" respawn="0" posX="514.20001220703" posY="2379.3215332031" posZ="30.575702667236" rotX="0" rotY="0" rotZ="244.7998046875" />
+    <racepickup id="racepickup (NRG-500) (10)" type="repair" vehicle="522" respawn="0" interior="0" posX="504.48822021484" posY="2377.8229980469" posZ="30.476184844971" rotX="0" rotY="0" rotZ="92.8798828125" />
+    <racepickup id="racepickup (NRG-500) (11)" type="repair" vehicle="522" respawn="0" interior="0" posX="494.5505065918" posY="2379.3708496094" posZ="30.242855072021" rotX="0" rotY="0" rotZ="292.5" />
+    <racepickup id="racepickup (NRG-500) (12)" type="repair" vehicle="522" respawn="0" interior="0" posX="1206.3100585938" posY="1373.9891357422" posZ="7.0853805541992" rotX="0" rotY="0" rotZ="323.4599609375" />
+</map>

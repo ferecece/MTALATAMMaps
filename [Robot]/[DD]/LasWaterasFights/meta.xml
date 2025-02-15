@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+    <script src="guns.lua" type="server" />
+    <script src="watercolor.lua" type="client" />
+  <info type="map" gamemodes="race" racetype="DD" name="Las Wateras Fights" author="Puma" />
+  <map src="DD-LasWaterasFights.map" />
+  <settings>
+    <setting name="#time" value="11:0" />
+    <setting name="#respawn" value="none" />
+    <setting name="#maxplayers" value="[ 32 ]" />
+  </settings>
+</meta>

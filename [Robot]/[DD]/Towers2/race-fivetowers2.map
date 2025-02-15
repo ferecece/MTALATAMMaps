@@ -1,0 +1,160 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (towerlan2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="4585" scale="1" dimension="0" posX="3660" posY="-1800" posZ="40" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3700" posY="-1800" posZ="138.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (towerlan2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="4585" scale="1" dimension="0" posX="3819" posY="-1800" posZ="40" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3779.5" posY="-1800" posZ="138.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (towerlan2) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="4585" scale="1" dimension="0" posX="3740" posY="-1800" posZ="40" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (towerlan2) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="4585" scale="1" dimension="0" posX="3740" posY="-1714" posZ="40" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3740" posY="-1757" posZ="138.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (towerlan2) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="4585" scale="1" dimension="0" posX="3740" posY="-1886" posZ="40" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3740" posY="-1843" posZ="138.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgncarshade1) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3690.80005" posY="-1765.90002" posZ="138.3" rotX="0" rotY="0" rotZ="45"></object>
+    <object id="object (vgncarshade1) (6)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3719.30005" posY="-1737.40002" posZ="138.3" rotX="0" rotY="0" rotZ="44.995"></object>
+    <object id="object (vgncarshade1) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3789" posY="-1834.59998" posZ="138.3" rotX="0" rotY="0" rotZ="44.995"></object>
+    <object id="object (vgncarshade1) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3760.5" posY="-1863.09998" posZ="138.3" rotX="0" rotY="0" rotZ="44.995"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3770.1001" posY="-1746.69995" posZ="138.3" rotX="0" rotY="0" rotZ="314.995"></object>
+    <object id="object (vgncarshade1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3798.69995" posY="-1775.30005" posZ="138.3" rotX="0" rotY="0" rotZ="314.995"></object>
+    <object id="object (vgncarshade1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3708.69995" posY="-1851.19995" posZ="138.3" rotX="0" rotY="0" rotZ="314.995"></object>
+    <object id="object (vgncarshade1) (12)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="3680.19995" posY="-1822.69995" posZ="138.3" rotX="0" rotY="0" rotZ="314.995"></object>
+    <racepickup id="racepickup (Hunter) (1)" type="vehiclechange" vehicle="425" respawn="0" posX="3699.80005" posY="-1798.59998" posZ="19.7" rotX="0" rotY="0" rotZ="292.14"></racepickup>
+    <spawnpoint id="spawnpoint (Picador) (1)" vehicle="600" posX="3643.5" posY="-1805.90002" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (2)" vehicle="600" alpha="255" interior="0" posX="3643.69995" posY="-1810.19995" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (3)" vehicle="600" alpha="255" interior="0" posX="3643.6001" posY="-1801.90002" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (4)" vehicle="600" alpha="255" interior="0" posX="3643.5" posY="-1793.59998" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (5)" vehicle="600" alpha="255" interior="0" posX="3643.6001" posY="-1785.90002" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (6)" vehicle="600" alpha="255" interior="0" posX="3729.5" posY="-1693.90002" posZ="140.7" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (7)" vehicle="600" alpha="255" interior="0" posX="3734.80005" posY="-1693.59998" posZ="140.7" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (8)" vehicle="600" alpha="255" interior="0" posX="3740" posY="-1693.80005" posZ="140.7" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (9)" vehicle="600" alpha="255" interior="0" posX="3745.30005" posY="-1693.59998" posZ="140.7" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (10)" vehicle="600" alpha="255" interior="0" posX="3750.6001" posY="-1694" posZ="140.7" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (11)" vehicle="600" alpha="255" interior="0" posX="3835" posY="-1785.90002" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (12)" vehicle="600" alpha="255" interior="0" posX="3835.1001" posY="-1793.69995" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (13)" vehicle="600" alpha="255" interior="0" posX="3834.8999" posY="-1798.30005" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (14)" vehicle="600" alpha="255" interior="0" posX="3835.5" posY="-1805.80005" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (15)" vehicle="600" alpha="255" interior="0" posX="3835.30005" posY="-1813.80005" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (16)" vehicle="600" alpha="255" interior="0" posX="3835.19995" posY="-1810.19995" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (17)" vehicle="600" alpha="255" interior="0" posX="3756.7" posY="-1899.1" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (18)" vehicle="600" alpha="255" interior="0" posX="3749.80005" posY="-1905.30005" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (19)" vehicle="600" alpha="255" interior="0" posX="3743.19995" posY="-1905.40002" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (20)" vehicle="600" alpha="255" interior="0" posX="3736.30005" posY="-1905.69995" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (21)" vehicle="600" alpha="255" interior="0" posX="3730" posY="-1905.30005" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (22)" vehicle="600" alpha="255" interior="0" posX="3726.3999" posY="-1905.69995" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (24)" vehicle="600" alpha="255" interior="0" posX="3652" posY="-1779.7" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (25)" vehicle="600" alpha="255" interior="0" posX="3654.7" posY="-1779.8" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (26)" vehicle="600" alpha="255" interior="0" posX="3660.1001" posY="-1779.8" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (27)" vehicle="600" alpha="255" interior="0" posX="3665.7" posY="-1780" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (29)" vehicle="600" alpha="255" interior="0" posX="3643.30005" posY="-1798.19995" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (30)" vehicle="600" alpha="255" interior="0" posX="3643.3999" posY="-1790.30005" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (31)" vehicle="600" alpha="255" interior="0" posX="3643.5" posY="-1814.09998" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (32)" vehicle="600" alpha="255" interior="0" posX="3733.3999" posY="-1906.30005" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (33)" vehicle="600" alpha="255" interior="0" posX="3739.69995" posY="-1905.69995" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (34)" vehicle="600" alpha="255" interior="0" posX="3746.69995" posY="-1905.30005" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (35)" vehicle="600" alpha="255" interior="0" posX="3753" posY="-1905.2002" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (36)" vehicle="600" alpha="255" interior="0" posX="3756.8" posY="-1893.6" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (37)" vehicle="600" alpha="255" interior="0" posX="3756.7" posY="-1888.2" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (38)" vehicle="600" alpha="255" interior="0" posX="3756.6001" posY="-1882.7" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (39)" vehicle="600" alpha="255" interior="0" posX="3756.5" posY="-1877.2" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (41)" vehicle="600" alpha="255" interior="0" posX="3652.6006" posY="-1820.2998" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (42)" vehicle="600" alpha="255" interior="0" posX="3655.3" posY="-1820.2" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (43)" vehicle="600" alpha="255" interior="0" posX="3660.7" posY="-1820" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (44)" vehicle="600" alpha="255" interior="0" posX="3666" posY="-1819.9" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (45)" vehicle="600" alpha="255" interior="0" posX="3835.5" posY="-1802.09998" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (46)" vehicle="600" alpha="255" interior="0" posX="3835.19995" posY="-1790.40002" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (47)" vehicle="600" alpha="255" interior="0" posX="3829" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (48)" vehicle="600" alpha="255" interior="0" posX="3823" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (49)" vehicle="600" alpha="255" interior="0" posX="3817.2" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (50)" vehicle="600" alpha="255" interior="0" posX="3811.3999" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (52)" vehicle="600" alpha="255" interior="0" posX="3830.3" posY="-1819.8" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (53)" vehicle="600" alpha="255" interior="0" posX="3824.3" posY="-1819.8" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (54)" vehicle="600" alpha="255" interior="0" posX="3818.3" posY="-1819.7" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (55)" vehicle="600" alpha="255" interior="0" posX="3815.3" posY="-1819.7" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (56)" vehicle="600" alpha="255" interior="0" posX="3723.7002" posY="-1896.2002" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (57)" vehicle="600" alpha="255" interior="0" posX="3724" posY="-1893.5" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (58)" vehicle="600" alpha="255" interior="0" posX="3724" posY="-1888.1" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (59)" vehicle="600" alpha="255" interior="0" posX="3724.3999" posY="-1882.4" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (60)" vehicle="600" alpha="255" interior="0" posX="3724.3999" posY="-1879.5" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (61)" vehicle="600" alpha="255" interior="0" posX="3723.7002" posY="-1702.7998" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (62)" vehicle="600" alpha="255" interior="0" posX="3723.6001" posY="-1705.8" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (63)" vehicle="600" alpha="255" interior="0" posX="3723.5" posY="-1711.4" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (64)" vehicle="600" alpha="255" interior="0" posX="3723.3999" posY="-1716.8" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (66)" vehicle="600" alpha="255" interior="0" posX="3756.2" posY="-1723.8" posZ="141.8" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (67)" vehicle="600" alpha="255" interior="0" posX="3755.8999" posY="-1715.2" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (68)" vehicle="600" alpha="255" interior="0" posX="3756" posY="-1712.2" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (69)" vehicle="600" alpha="255" interior="0" posX="3756" posY="-1700" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <object id="object (landjump2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3740" posY="-1807" posZ="141.10001" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (landjump2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3740" posY="-1793" posZ="141.10001" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (landjump2) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3747" posY="-1800" posZ="141.10001" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (landjump2) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="3733" posY="-1800" posZ="141.10001" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (las2dkwar01) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="5259" scale="0.89999997615814" dimension="0" posX="3740" posY="-1800" posZ="138.39999" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Picador) (23)" vehicle="600" alpha="255" interior="0" posX="3826.1001" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (28)" vehicle="600" alpha="255" interior="0" posX="3820.1001" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (40)" vehicle="600" alpha="255" interior="0" posX="3814.3999" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (51)" vehicle="600" alpha="255" interior="0" posX="3808.5" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (65)" vehicle="600" alpha="255" interior="0" posX="3805.7" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (70)" vehicle="600" alpha="255" interior="0" posX="3827.3" posY="-1819.7" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (71)" vehicle="600" alpha="255" interior="0" posX="3821.3" posY="-1819.7" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (72)" vehicle="600" alpha="255" interior="0" posX="3812.3" posY="-1819.8" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (73)" vehicle="600" alpha="255" interior="0" posX="3809.3" posY="-1819.9" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (74)" vehicle="600" alpha="255" interior="0" posX="3806.2" posY="-1819.9" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (75)" vehicle="600" alpha="255" interior="0" posX="3756" posY="-1703" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (76)" vehicle="600" alpha="255" interior="0" posX="3756" posY="-1706.2" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (77)" vehicle="600" alpha="255" interior="0" posX="3756" posY="-1709.2" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (78)" vehicle="600" alpha="255" interior="0" posX="3755.8999" posY="-1718" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (79)" vehicle="600" alpha="255" interior="0" posX="3755.8999" posY="-1720.8" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (80)" vehicle="600" alpha="255" interior="0" posX="3756.1001" posY="-1726.8" posZ="141.8" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (81)" vehicle="600" alpha="255" interior="0" posX="3756" posY="-1729.9" posZ="141.8" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (82)" vehicle="600" alpha="255" interior="0" posX="3723.7" posY="-1699.8" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (83)" vehicle="600" alpha="255" interior="0" posX="3723.6001" posY="-1708.5" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (84)" vehicle="600" alpha="255" interior="0" posX="3723.5" posY="-1714.1" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (85)" vehicle="600" alpha="255" interior="0" posX="3723.3999" posY="-1719.5" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (86)" vehicle="600" alpha="255" interior="0" posX="3723.3999" posY="-1722.2" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (87)" vehicle="600" alpha="255" interior="0" posX="3723.3999" posY="-1725" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (88)" vehicle="600" alpha="255" interior="0" posX="3723.3999" posY="-1727.8" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (89)" vehicle="600" alpha="255" interior="0" posX="3723.3999" posY="-1730.5" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (90)" vehicle="600" alpha="255" interior="0" posX="3649.2" posY="-1779.7" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (91)" vehicle="600" alpha="255" interior="0" posX="3657.3999" posY="-1779.9" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (92)" vehicle="600" alpha="255" interior="0" posX="3662.8999" posY="-1779.9" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (93)" vehicle="600" alpha="255" interior="0" posX="3668.5" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (94)" vehicle="600" alpha="255" interior="0" posX="3671.3" posY="-1780.2" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (95)" vehicle="600" alpha="255" interior="0" posX="3674.3" posY="-1780.3" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (96)" vehicle="600" alpha="255" interior="0" posX="3649.8" posY="-1820.1" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (97)" vehicle="600" alpha="255" interior="0" posX="3658" posY="-1820.1" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (98)" vehicle="600" alpha="255" interior="0" posX="3663.3" posY="-1819.9" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (99)" vehicle="600" alpha="255" interior="0" posX="3668.6001" posY="-1820" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (100)" vehicle="600" alpha="255" interior="0" posX="3671.3" posY="-1820" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (101)" vehicle="600" alpha="255" interior="0" posX="3674" posY="-1820" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (102)" vehicle="600" alpha="255" interior="0" posX="3723.7" posY="-1898.9" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (103)" vehicle="600" alpha="255" interior="0" posX="3724" posY="-1890.9" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (104)" vehicle="600" alpha="255" interior="0" posX="3724" posY="-1885.3" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (105)" vehicle="600" alpha="255" interior="0" posX="3724.3999" posY="-1876.7" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (106)" vehicle="600" alpha="255" interior="0" posX="3724.3999" posY="-1874.1" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (107)" vehicle="600" alpha="255" interior="0" posX="3724.3999" posY="-1871.3" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (108)" vehicle="600" alpha="255" interior="0" posX="3724.3999" posY="-1868.3" posZ="140.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (109)" vehicle="600" alpha="255" interior="0" posX="3756.7" posY="-1896.4" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (110)" vehicle="600" alpha="255" interior="0" posX="3756.7" posY="-1890.9" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (111)" vehicle="600" alpha="255" interior="0" posX="3756.6001" posY="-1885.5" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (112)" vehicle="600" alpha="255" interior="0" posX="3756.5" posY="-1880" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (113)" vehicle="600" alpha="255" interior="0" posX="3756.5" posY="-1874.5" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (114)" vehicle="600" alpha="255" interior="0" posX="3756.6001" posY="-1871.7" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (115)" vehicle="600" alpha="255" interior="0" posX="3756.6001" posY="-1868.8" posZ="140.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (116)" vehicle="600" alpha="255" interior="0" posX="3743.7" posY="-1780" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (117)" vehicle="600" alpha="255" interior="0" posX="3746.7" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (118)" vehicle="600" alpha="255" interior="0" posX="3749.7" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (119)" vehicle="600" alpha="255" interior="0" posX="3752.5" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (120)" vehicle="600" alpha="255" interior="0" posX="3755.6001" posY="-1780.1" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (121)" vehicle="600" alpha="255" interior="0" posX="3735.8" posY="-1779.9" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (122)" vehicle="600" alpha="255" interior="0" posX="3733.1001" posY="-1779.9" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (123)" vehicle="600" alpha="255" interior="0" posX="3730.3999" posY="-1779.9" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (124)" vehicle="600" alpha="255" interior="0" posX="3727.7" posY="-1779.9" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (125)" vehicle="600" alpha="255" interior="0" posX="3725" posY="-1779.9" posZ="140.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (126)" vehicle="600" alpha="255" interior="0" posX="3744.2" posY="-1820" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (127)" vehicle="600" alpha="255" interior="0" posX="3746.8999" posY="-1820" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (128)" vehicle="600" alpha="255" interior="0" posX="3749.7" posY="-1820" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (129)" vehicle="600" alpha="255" interior="0" posX="3752.3999" posY="-1820" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (130)" vehicle="600" alpha="255" interior="0" posX="3755.1001" posY="-1820" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (131)" vehicle="600" alpha="255" interior="0" posX="3736" posY="-1819.8" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (132)" vehicle="600" alpha="255" interior="0" posX="3733.3" posY="-1819.8" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (133)" vehicle="600" alpha="255" interior="0" posX="3730.6001" posY="-1819.8" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (134)" vehicle="600" alpha="255" interior="0" posX="3727.8" posY="-1819.8" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (135)" vehicle="600" alpha="255" interior="0" posX="3725" posY="-1819.8" posZ="140.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+</map>

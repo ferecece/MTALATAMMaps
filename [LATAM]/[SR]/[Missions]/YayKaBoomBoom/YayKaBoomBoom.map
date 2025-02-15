@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (ZR-350) (1)" vehicle="477" posX="-2574.7" posY="1130.4" posZ="55.3" rotX="0" rotY="0" rotZ="250"></spawnpoint>
+    <spawnpoint id="spawnpoint (ZR-350) (2)" vehicle="477" alpha="255" interior="0" posX="-2576.6001" posY="1125.9" posZ="55.4" rotX="0" rotY="0" rotZ="249.999"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (2)" posX="-2020.4" posY="156.3" posZ="27.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="4" nextid="checkpoint () (3)" posX="-1699" posY="1037.1" posZ="44.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (4)" posX="-2126.7" posY="-80.1" posZ="34.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (5)" posX="-2180.7" posY="-209.7" posZ="35.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint (Blade) (1)" posX="-2184.8999" posY="-263.20001" posZ="35.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Blade) (1)" type="checkpoint" color="#00F9" vehicle="536" size="2.25" nextid="checkpoint () (6)" posX="-2167.3999" posY="-83.7" posZ="34.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#FE000099" size="2.25" posX="-2029.8" posY="156.10001" posZ="27.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (DYN_RAMP) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1503" scale="1" doublesided="false" collisions="true" posX="-2175.3" posY="-210" posZ="34.5" rotX="0" rotY="0" rotZ="90"></object>
+</map>

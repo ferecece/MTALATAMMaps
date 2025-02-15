@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="Hydra Race 3" />
+  <map src="R-HydraRace3.map" />
+  <settings>
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#ghostmode" value='[ &quot;true&quot; ]' />
+    <setting name="#vehicleweapons" value='[ &quot;false&quot; ]' />
+    <setting name="#respawntime" value="[ 1 ]" />
+  </settings>
+</meta>

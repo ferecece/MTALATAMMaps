@@ -1,0 +1,20 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Savanna) (1)" vehicle="559" posX="-1634.6" posY="40.3" posZ="4.1" rotX="0" rotY="0" rotZ="219.458"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#54BAC799" size="4" posX="-2024.7" posY="179.39999" posZ="27.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (arrow) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="-2033.9" posY="-51.9" posZ="42.2" rotX="90" rotY="179.995" rotZ="180"></object>
+    <object id="object (arrow) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="-1943.5" posY="166.8" posZ="37.7" rotX="90" rotY="179.995" rotZ="270"></object>
+    <object id="object (kmb_container_yel) (1)" breakable="true" interior="0" alpha="255" model="2935" doublesided="false" scale="1" dimension="0" posX="-1649.476" posY="9.1182" posZ="4.06" rotX="0" rotY="0" rotZ="315.125"></object>
+    <object id="object (kmb_container_red) (1)" breakable="true" interior="0" alpha="255" model="2934" doublesided="false" scale="1" dimension="0" posX="-1658.85" posY="44.8514" posZ="4.06" rotX="0" rotY="0" rotZ="315.292"></object>
+    <object id="object (kmb_container_open) (1)" breakable="true" interior="0" alpha="255" model="3043" doublesided="true" scale="1" dimension="0" posX="-1644.017" posY="50.9619" posZ="4.1" rotX="0" rotY="0" rotZ="39.458"></object>
+    <object id="object (kmb_container_open) (2)" breakable="true" interior="0" alpha="255" model="3043" doublesided="true" scale="1" dimension="0" posX="-1632.8" posY="61.3" posZ="4.1" rotX="0" rotY="0" rotZ="6.685"></object>
+    <object id="object (kmb_container_open) (3)" breakable="true" interior="0" alpha="255" model="3043" doublesided="true" scale="1" dimension="0" posX="-1620.9" posY="75.4" posZ="4.1" rotX="0" rotY="0" rotZ="20.78"></object>
+    <vehicle id="vehicle (Perennial) (1)" paintjob="3" interior="0" alpha="255" model="404" plate="BVFX TSK" dimension="0" posX="-1632.6" posY="60.8" posZ="3.4" rotX="0" rotY="0" rotZ="186" color="43,62,87,100,104,106,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Club) (1)" paintjob="3" interior="0" alpha="255" model="589" plate="I4N8 AYZ" dimension="0" posX="-1620.7" posY="74.9" posZ="3.8" rotX="0" rotY="0" rotZ="200" color="115,24,39,115,24,39,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Sentinel) (1)" paintjob="3" interior="0" alpha="255" model="405" plate="9T5K OB1" dimension="0" posX="-1654.1" posY="24.1" posZ="3.7" rotX="0" rotY="0" rotZ="250" color="37,37,39,245,245,245,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (1)" dimension="0" model="24" interior="0" rotZ="280.003" alpha="255" posX="-1653.5" posY="25.8" posZ="3.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="24" interior="0" rotZ="280.003" alpha="255" posX="-1655.5" posY="26.8" posZ="3.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="24" interior="0" rotZ="280.005" alpha="255" posX="-1655.5" posY="22" posZ="3.6" rotX="0" rotY="0"></ped>
+    <pickup id="pickup (Colt 45) (1)" type="22" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="-1653.7" posY="21.6" posZ="3.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <object id="object (arrow) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="-1777.9" posY="32.8" posZ="25.3" rotX="90" rotY="179.995" rotZ="359.995"></object>
+    <object id="object (arrow) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="-1777.9" posY="-38.3" posZ="25.3" rotX="90" rotY="179.995" rotZ="269.989"></object>
+</map>

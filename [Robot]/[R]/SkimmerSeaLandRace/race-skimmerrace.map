@@ -1,0 +1,45 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Skimmer) (1)" vehicle="460" interior="0" posX="-671.29999" posY="1979.9" posZ="2.2" rotX="0" rotY="0" rotZ="166.041"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (3)" vehicle="460" alpha="255" interior="0" posX="-659.70001" posY="1976.3" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (4)" vehicle="460" alpha="255" interior="0" posX="-646.5" posY="1972.2" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (5)" vehicle="460" alpha="255" interior="0" posX="-632.20001" posY="1967.8" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (6)" vehicle="460" alpha="255" interior="0" posX="-618.5" posY="1963.7" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (7)" vehicle="460" alpha="255" interior="0" posX="-614.70001" posY="1976.1" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (8)" vehicle="460" alpha="255" interior="0" posX="-629.20001" posY="1980.6" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (9)" vehicle="460" alpha="255" interior="0" posX="-643.70001" posY="1985.1" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (10)" vehicle="460" alpha="255" interior="0" posX="-656.09998" posY="1988.9" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (11)" vehicle="460" alpha="255" interior="0" posX="-668" posY="1992.6" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (12)" vehicle="460" alpha="255" interior="0" posX="-664.09998" posY="2005.1" posZ="2.2" rotX="0" rotY="0" rotZ="166.041"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (13)" vehicle="460" alpha="255" interior="0" posX="-653" posY="2001.7" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (14)" vehicle="460" alpha="255" interior="0" posX="-641" posY="1998" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (15)" vehicle="460" alpha="255" interior="0" posX="-625.70001" posY="1993.3" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (16)" vehicle="460" alpha="255" interior="0" posX="-612.20001" posY="1989.1" posZ="2.2" rotX="0" rotY="0" rotZ="166.036"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (23)" vehicle="460" alpha="255" interior="0" posX="-677.59998" posY="2006.7" posZ="2.2" rotX="0" rotY="0" rotZ="-156.249"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (24)" vehicle="460" alpha="255" interior="0" posX="-688.29999" posY="2002.4" posZ="2.2" rotX="0" rotY="0" rotZ="-156.253"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (25)" vehicle="460" alpha="255" interior="0" posX="-698.70001" posY="1997.4" posZ="2.2" rotX="0" rotY="0" rotZ="-156.253"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (26)" vehicle="460" alpha="255" interior="0" posX="-709.59998" posY="1992.4" posZ="2.2" rotX="0" rotY="0" rotZ="-156.253"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (27)" vehicle="460" alpha="255" interior="0" posX="-714.29999" posY="2004.5" posZ="2.2" rotX="0" rotY="0" rotZ="-156.253"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (28)" vehicle="460" alpha="255" interior="0" posX="-703.20001" posY="2008.7" posZ="2.2" rotX="0" rotY="0" rotZ="-156.253"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (29)" vehicle="460" alpha="255" interior="0" posX="-691.90002" posY="2014.3" posZ="2.2" rotX="0" rotY="0" rotZ="-156.253"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (30)" vehicle="460" alpha="255" interior="0" posX="-721.40002" posY="2014.2" posZ="2.2" rotX="0" rotY="0" rotZ="-134.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (31)" vehicle="460" alpha="255" interior="0" posX="-730.70001" posY="2001.8" posZ="2.2" rotX="0" rotY="0" rotZ="-134.703"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (32)" vehicle="460" alpha="255" interior="0" posX="-740.40002" posY="1991.8" posZ="2.2" rotX="0" rotY="0" rotZ="-134.703"></spawnpoint>
+    <spawnpoint id="spawnpoint (Skimmer) (33)" vehicle="460" alpha="255" interior="0" posX="-748.79999" posY="1983.4" posZ="2.2" rotX="0" rotY="0" rotZ="-134.703"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#FE000099" size="25" interior="0" nextid="checkpoint () (2)" posX="-698.90002" posY="1887.8" posZ="0" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (3)" posX="-363.10001" posY="1261.2" posZ="68.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (4)" posX="-23.8" posY="1429.3" posZ="18" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (5)" posX="-291.39999" posY="1697.2" posZ="67" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (6)" posX="-250.60001" posY="1951.2" posZ="78.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (7)" posX="-33.4" posY="2240.2" posZ="86.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (8)" posX="-101.3" posY="2631.8" posZ="32.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (9)" posX="-72.9" posY="2880.5" posZ="99.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (10)" posX="-743" posY="3025.8999" posZ="113.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (11)" posX="-724.90002" posY="2616.2" posZ="102.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (12)" posX="-720.5" posY="2392" posZ="151.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (13)" posX="-718.29999" posY="2218.8999" posZ="134.89999" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (14)" posX="-1068.2" posY="2191.1001" posZ="56.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (15)" posX="-1501.4" posY="2069.8999" posZ="102.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (16)" posX="-1855.2" posY="2457.2" posZ="69.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" nextid="checkpoint () (17)" posX="-1871" posY="2724.8999" posZ="89.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="ring" color="#FE000099" size="25" alpha="255" interior="0" posX="-2116.7" posY="2711.5" posZ="184.89999" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

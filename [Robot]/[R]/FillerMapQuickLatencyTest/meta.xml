@@ -1,0 +1,29 @@
+<meta>
+    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
+    <info gamemodes="race" type="map" racetype="R" name="Filler Map Quick Latency Test" author="misterfolg" version="1.0" description="Filler map idea shamelessly stolen from Gberry.&#x0A;&#x09;Region chosen by =FoX=Wuzi. Vehicles chosen by S.&#x0A;&#x09;Unfortunately he doesn't like trains."></info>
+    <map src="R-FillerMapQuickLatencyTest.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#timeafterfirstfinish" value="[ 10 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 25 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#time" value="23:0"></setting>
+        <setting name="#duration" value="[ 600 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#weather" value="[ 3 ]"></setting>
+        <setting name="#hunterminigun" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#countdownduration" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 0 ]"></setting>
+        <setting name="#disableraceghosts" value='[ true ]'></setting>
+        <setting name="#shufflespawns" value='[ true ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

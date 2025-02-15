@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="Stinger Race" author="Kasha666 with edits by misterfolg" />
+  <map src="R-StingerRace.map" />
+  <script src="textures.lua" type="client" />
+  <script src="Text.lua" type="client" />
+  <script src="handling.lua" type="server"></script>
+  <file src="stinger/stinger.txd" />
+  <file src="stinger/stinger.dff" />
+  <settings>
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#respawntime" value="[ 1 ]" />
+    <setting name="#ghostmode" value='[ &quot;true&quot; ]' />
+  </settings>
+</meta>

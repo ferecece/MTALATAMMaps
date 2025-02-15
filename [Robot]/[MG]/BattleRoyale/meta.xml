@@ -1,0 +1,54 @@
+<meta>
+    <file src="images/count.png"></file>
+    <file src="images/win.png"></file>
+    <file src="images/GO.png"></file>
+    <file src="images/1.png"></file>
+    <file src="images/2.png"></file>
+    <file src="images/3.png"></file>
+    <file src="images/GTA.png"></file>
+    <file src="images/BRb.png"></file>
+    <file src="images/elim.png"></file>
+    <file src="images/clock.png"></file>
+    <file src="images/splat1.png"></file>
+    <file src="images/splat2.png"></file>
+    <file src="images/splat3.png"></file>
+    <file src="images/qual.png"></file>
+    <file src="images/smalllogo.png"></file>
+    <file src="sounds/pop1.mp3"></file>
+    <file src="sounds/pop2.mp3"></file>
+    <file src="sounds/pop3.mp3"></file>
+    <file src="sounds/pop4.mp3"></file>
+    <file src="sounds/pop5.mp3"></file>
+    <file src="sounds/pop6.mp3"></file>
+    <file src="sounds/pop7.mp3"></file>
+    <file src="sounds/pop8.mp3"></file>
+    <file src="sounds/pop9.mp3"></file>
+    <file src="sounds/pop10.mp3"></file>
+    <file src="sounds/pop11.mp3"></file>
+    <file src="sounds/win.mp3"></file>
+    <file src="sounds/tik.mp3"></file>
+    <script src="client.lua" type="client"></script>
+    <script src="server.lua" type="server"></script>
+    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
+    <info gamemodes="race" type="map" racetype="MG" name="Battle Royale" author="mr.dogshit" version="1.0.0" description="Last man standing WINS! Special thanks to =FoX=Wuzi &amp; 123robot"></info>
+    <map src="MG-BattleRoyale.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 2 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;none&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

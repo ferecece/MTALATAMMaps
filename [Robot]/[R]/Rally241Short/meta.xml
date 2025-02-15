@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="Rally 241 short" author="driver2" description="Short version of Rally 241 for Evil" />
+  <map src="Rally 241 short.map" />
+  <settings>
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#ghostmode" value="true"></setting>
+    <setting name="#respawntime" value="[ 1 ]"></setting>
+  </settings>
+</meta>

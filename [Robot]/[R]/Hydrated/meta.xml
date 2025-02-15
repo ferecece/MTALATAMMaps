@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="Hydrated" author="Kray-Z" description="Hydra race. A bit hard and exciting." />
+  <map src="R-Hydrated.map" />
+  <settings>
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#ghostmode" value='[ &quot;true&quot; ]' />
+    <setting name="#respawntime" value="[ 1 ]" />
+    <setting name="#vehicleweapons" value='[ &quot;false&quot; ]' />
+  </settings>
+</meta>

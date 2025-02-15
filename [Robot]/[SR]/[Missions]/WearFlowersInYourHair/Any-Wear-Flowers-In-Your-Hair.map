@@ -1,0 +1,27 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Emperor) (1)" vehicle="585" posX="-2030.6" posY="170.8" posZ="28.9" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <marker id="Marker1" type="cylinder" color="#FE000099" size="4" interior="0" dimension="0" alpha="255" posX="-1669" posY="439.77344" posZ="6.219" rotX="0" rotY="0" rotZ="0"></marker>
+    <vehicle id="vehicle (Bravura) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="401" plate="OTE6WMQ" dimension="0" color="52,26,30,52,26,30,0,0,0,0,0,0" posX="-1663.0996" posY="438.09961" posZ="7" rotX="0" rotY="0" rotZ="169.997"></vehicle>
+    <checkpoint id="Checkpoint1" type="corona" color="#FE000099" size="2.25" nextid="Checkpoint2" posX="-1669.0996" posY="439.7998" posZ="-3.8" rotX="0" rotY="0" rotZ="349.997"></checkpoint>
+    <vehicle id="vehicle (Hotdog) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="588" plate="WXBGEHC" dimension="0" color="245,245,245,245,245,245,0,0,0,0,0,0" posX="-2238" posY="541.5" posZ="35.1" rotX="0" rotY="0" rotZ="0"></vehicle>
+    <vehicle id="vehicle (RC Raider) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="465" plate="OSMUE3Q" dimension="0" color="214,218,214,32,32,44,0,0,0,0,0,0" posX="-2251.3999" posY="134.2" posZ="40.3" rotX="0" rotY="0" rotZ="0"></vehicle>
+    <object id="object (parkbench1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1280" doublesided="false" scale="1" dimension="0" posX="-2244.5" posY="133.89999" posZ="34.7" rotX="0" rotY="0" rotZ="0"></object>
+    <ped id="Zero" dimension="0" model="306" interior="0" rotZ="89.999" frozen="true" alpha="255" posX="-2245.3" posY="134" posZ="34.75" rotX="0" rotY="0"></ped>
+    <marker id="Marker2" type="cylinder" color="#FF000099" size="4" interior="0" dimension="2" alpha="255" posX="-2584" posY="585" posZ="14" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Marker4" type="cylinder" color="#FE000099" size="4" interior="0" dimension="2" alpha="255" posX="-1624.41" posY="725.25" posZ="14.11" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="Marker6" type="cylinder" color="#FE000099" size="4" interior="0" dimension="2" alpha="255" posX="-2034.59" posY="180.23" posZ="28.43" rotX="0" rotY="0" rotZ="0"></marker>
+    <checkpoint id="Checkpoint2" type="corona" color="#FE000099" size="2.25" nextid="Checkpoint3" posX="-2584.2998" posY="584.90039" posZ="7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <marker id="Marker3" type="cylinder" color="#FE000099" size="4" interior="0" dimension="2" alpha="255" posX="-2230.168" posY="544.71478" posZ="34.2219" rotX="0" rotY="0" rotZ="0"></marker>
+    <checkpoint id="Checkpoint3" type="corona" color="#FE000099" size="2.25" nextid="Checkpoint4" posX="-2229.8" posY="544.79999" posZ="24.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="Checkpoint4" type="corona" color="#FE000099" size="2.25" nextid="Checkpoint5" posX="-1624.9" posY="725" posZ="7.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <marker id="Marker5" type="cylinder" color="#FE000099" size="4" interior="0" dimension="2" alpha="255" posX="-2248.0996" posY="132.90039" posZ="34.3" rotX="0" rotY="0" rotZ="0"></marker>
+    <checkpoint id="Checkpoint5" type="corona" color="#FE000099" size="2.25" nextid="Checkpoint6" posX="-2247.6001" posY="131.89999" posZ="27" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="Checkpoint6" type="corona" color="#FE000099" size="2.25" posX="-2035" posY="179.8" posZ="21" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (vgncarshade1) (1)" breakable="true" interior="0" collisions="true" alpha="0" model="3458" doublesided="false" scale="1" dimension="0" posX="-2238" posY="542.70001" posZ="19.5" rotX="0" rotY="90" rotZ="180"></object>
+    <object id="object (vgncarshade1) (2)" breakable="true" interior="0" collisions="true" alpha="0" model="3458" doublesided="false" scale="1" dimension="0" posX="-2238" posY="539" posZ="19.5" rotX="0" rotY="90" rotZ="179.995"></object>
+    <object id="object (cuntw_stmotsigbas1) (1)" breakable="true" interior="0" collisions="true" alpha="0" model="18243" doublesided="false" scale="1" dimension="0" posX="-2239.3999" posY="545.29999" posZ="31.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (6)" breakable="true" interior="0" collisions="true" alpha="0" model="3458" doublesided="false" scale="1" dimension="0" posX="-1662.7" posY="438.20001" posZ="-12.3" rotX="0" rotY="90" rotZ="170"></object>
+    <object id="object (cuntw_stmotsigbas1) (2)" breakable="true" interior="0" collisions="true" alpha="0" model="18243" doublesided="false" scale="1" dimension="0" posX="-1663.7" posY="441" posZ="1.1" rotX="0" rotY="0" rotZ="350"></object>
+    <ped id="Jethro" dimension="0" model="305" interior="0" rotZ="225" frozen="true" alpha="255" posX="-1674.2" posY="438.5" posZ="7.1" rotX="0" rotY="0"></ped>
+    <vehicle id="Towtruck" sirens="false" paintjob="3" interior="0" alpha="255" model="525" plate="LHQ9NOZ" dimension="0" color="37,37,39,95,10,21,0,0,0,0,0,0" posX="-1676" posY="440" posZ="7.1" rotX="0" rotY="0" rotZ="312.995"></vehicle>
+</map>

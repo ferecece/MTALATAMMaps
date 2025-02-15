@@ -1,0 +1,72 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (BMX) (1)" vehicle="481" posX="268.60001" posY="1875.4" posZ="8.3" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (2)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (3)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (4)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (5)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (6)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (7)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (8)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (9)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (10)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (11)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (12)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (13)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (14)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (15)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (16)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (17)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (18)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (19)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (20)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (21)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (22)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (23)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (24)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (25)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (26)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (27)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (28)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (29)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (30)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (31)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (BMX) (32)" vehicle="481" alpha="255" interior="0" posX="268.59961" posY="1875.4004" posZ="8.3" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="1" nextid="checkpoint () (2)" posX="268.89999" posY="1862.4" posZ="7.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (3)" posX="275.89999" posY="1865.1" posZ="7.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (4)" posX="295.60001" posY="1869.1" posZ="7.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (5)" posX="297.89999" posY="1856.8" posZ="6.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (6)" posX="312.29999" posY="1855.2" posZ="6.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (7)" posX="313.20001" posY="1842.3" posZ="6.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (8)" posX="299.10001" posY="1837.9" posZ="6.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (9)" posX="295.5" posY="1820.1" posZ="6.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (10)" posX="275.10001" posY="1817" posZ="3.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (11)" posX="261.20001" posY="1823.7" posZ="3.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (12)" posX="249" posY="1833.6" posZ="6.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (13)" posX="249.7" posY="1847.9" posZ="7.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (14)" posX="255" posY="1870.4" posZ="7.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (15)" posX="254.10001" posY="1879.6" posZ="10.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint () (16)" posX="240.5" posY="1875.1" posZ="10.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#00F9" size="1" alpha="255" interior="0" nextid="checkpoint (Rancher) (1)" posX="221.89999" posY="1872.3" posZ="12.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Rancher) (1)" type="checkpoint" color="#00F9" vehicle="489" size="1" alpha="255" interior="0" nextid="checkpoint () (17)" posX="214.8" posY="1891.4" posZ="14.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (18)" posX="191.8" posY="1914.5" posZ="16.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (18)" type="checkpoint" color="#00F9" size="2.25" alpha="255" interior="0" posX="84.7" posY="1920.6" posZ="16.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <vehicle id="vehicle (Police Ranger) (1)" sirens="false" landingGearDown="false" plate="ZAI4 HGZ" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="599" collisions="true" posX="74.5" posY="1932.1" posZ="18" rotX="0" rotY="0" rotZ="238" color="0,0,0,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (FBI Truck) (1)" sirens="false" landingGearDown="false" plate="9AP8 KM3" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="528" collisions="true" posX="68.9" posY="1921.8" posZ="17.8" rotX="0" rotY="0" rotZ="262" color="0,0,0,0,0,0,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Police SF) (1)" sirens="false" landingGearDown="false" plate="GAZK 0LX" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="597" collisions="true" posX="70.9" posY="1928.6" posZ="17.5" rotX="0" rotY="0" rotZ="242" color="0,0,0,245,245,245,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (1)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="88.1" posY="1911.8" posZ="17.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="85.1" posY="1911.9" posZ="17.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="86.6" posY="1914.7" posZ="17.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="83.9" posY="1915.3" posZ="17.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="88" posY="1913.9" posZ="17.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="84.4" posY="1914.2" posZ="17.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="86.4" posY="1912.7" posZ="17.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="83.2" posY="1914.1" posZ="17.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (9)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="84.7" posY="1912.2" posZ="17.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (10)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="85.7" posY="1913.5" posZ="17.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (11)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="87.3" posY="1912.6" posZ="17.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (12)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="83.5" posY="1919.8" posZ="17.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (13)" interior="0" rotZ="6.001" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="83.7" posY="1912.2" posZ="17.7" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (FBI Truck) (2)" sirens="false" landingGearDown="false" plate="HR7Y VN9" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="528" collisions="true" posX="79.7" posY="1934.6" posZ="17.8" rotX="0" rotY="0" rotZ="205.996" color="0,0,0,0,0,0,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Police Ranger) (2)" sirens="false" landingGearDown="false" plate="BCZU WV7" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="599" collisions="true" posX="71.1" posY="1917.2" posZ="18" rotX="0" rotY="0" rotZ="275.997" color="0,0,0,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Police SF) (2)" sirens="false" landingGearDown="false" plate="SV7Q NUM" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="597" collisions="true" posX="75.29981" posY="1912.7998" posZ="17.5" rotX="0" rotY="0" rotZ="309.996" color="0,0,0,245,245,245,0,0,0,0,0,0"></vehicle>
+</map>

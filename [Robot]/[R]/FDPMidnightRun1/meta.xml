@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="FDP Midnight Run 1" author="MSD" />
+  <map src="race-msdfdpmidnightrun1.map" />
+    <settings>
+		<setting name="#maxplayers" value="[ 128 ]" />
+        <setting name="#gamespeed" value="[ 1 ]" />
+		<setting name="#ghostmode" value='[ &quot;true&quot; ]' />
+		<setting name="#time" value="4:0" />
+		<setting name="#minplayers" value="[ 0 ]" />
+		<setting name="#respawn" value='[ &quot;timelimit&quot; ]' />
+		<setting name="#respawntime" value="[ 1 ]" />
+		<setting name="#duration" value="[ 1800 ]" />
+  </settings>
+</meta>

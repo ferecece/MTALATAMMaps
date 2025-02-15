@@ -1,0 +1,55 @@
+<meta>
+    <script src="dem_funkshuns.lua" type="server"></script>
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <script src="nolamp.lua" type="server"></script>
+    <script src="icon.lua" type="client"></script>
+    <file src="files/icon1.png"></file>
+    <file src="files/icon2.png"></file>
+    <file src="files/icon3.png"></file>
+    <file src="files/icon4.png"></file>
+    <file src="files/icon5.png"></file>
+    <file src="files/icon6.png"></file>
+    <file src="files/icon7.png"></file>
+    <file src="files/icon8.png"></file>
+    <file src="files/icon9.png"></file>
+    <file src="files/icon10.png"></file>
+    <file src="files/icon11.png"></file>
+    <file src="files/white.png"></file>
+    <file src="files/troll.png"></file>
+    <file src="files/notbad.png"></file>
+    <file src="files/ffs.png"></file>
+    <file src="files/omg.png"></file>
+    <file src="files/slam.png"></file>
+    <file src="files/barrel.png"></file>
+    <file src="files/1.png"></file>
+    <file src="files/2.png"></file>
+    <file src="files/3.png"></file>
+    <file src="files/4.png"></file>
+    <file src="files/5.png"></file>
+    <file src="files/i1.png"></file>
+    <file src="files/i2.png"></file>
+    <file src="files/i3.png"></file>
+    <file src="files/invincible.png"></file>
+    <file src="files/iconx.png"></file>
+    <file src="files/help.png"></file>
+    <file src="files/invincible.mp3"></file>
+    <info gamemodes="race" type="map" racetype="R" name="Weapon Drop" author="mr.dogshit" version="1.3.1" description="Pickup weapons and upgrades by hitting the markers."></info>
+    <map src="race-weapondropb.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#time" value="0:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 2 ]"></setting>
+        <setting name="#gravity" value="[ 0.008000 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+</meta>

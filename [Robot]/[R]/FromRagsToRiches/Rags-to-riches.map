@@ -1,0 +1,53 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Tornado) (1)" vehicle="576" posX="2506.30005" posY="-1670.30005" posZ="13.1" rotX="0" rotY="0" rotZ="70"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (2)" posX="2464.30005" posY="-1659.19995" posZ="12.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint (BMX) (1)" posX="2343" posY="-1659.40002" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (BMX) (1)" type="checkpoint" color="#00F9" vehicle="481" size="5" alpha="255" interior="0" nextid="checkpoint () (4)" posX="2342.5" posY="-1695.69995" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (3)" posX="2279.5" posY="-1710.5" posZ="16.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (5)" posX="2241" posY="-1710.59998" posZ="21.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (landjump2) (1)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="2302" posY="-1695.69995" posZ="13.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (landjump2) (2)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="2260.8999" posY="-1711.5" posZ="17.9" rotX="0" rotY="0" rotZ="90"></object>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint (Savanna) (1)" posX="2244.80005" posY="-1675.30005" posZ="20.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (landjump2) (3)" breakable="true" interior="0" alpha="255" model="1634" doublesided="false" scale="1" dimension="0" posX="2239.3999" posY="-1666.69995" posZ="21.3" rotX="0" rotY="0" rotZ="50"></object>
+    <checkpoint id="checkpoint (Savanna) (1)" type="checkpoint" color="#00F9" vehicle="567" size="5" alpha="255" interior="0" nextid="checkpoint () (7)" posX="2195.1001" posY="-1643.59998" posZ="14.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (6)" posX="2081.8999" posY="-1614.09998" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (Remington) (2)" type="vehiclechange" vehicle="534" respawn="0" posX="2093.1001" posY="-1556.80005" posZ="13.7" rotX="0" rotY="0" rotZ="213.66"></racepickup>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (8)" posX="2081.30005" posY="-1673.19995" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (1)" type="repair" vehicle="522" respawn="0" posX="2081.1001" posY="-1623.5" posZ="13.9" rotX="0" rotY="0" rotZ="161.279"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" posX="2081.1001" posY="-1623.5" posZ="13.9" rotX="0" rotY="0" rotZ="256.5"></racepickup>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (9)" posX="2002.80005" posY="-1673.5" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (10)" posX="1941.40002" posY="-1677.30005" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint (Admiral) (1)" posX="1821.59998" posY="-1612.09998" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Admiral) (1)" type="checkpoint" color="#00F9" vehicle="445" size="5" alpha="255" interior="0" nextid="checkpoint () (12)" posX="1849.19995" posY="-1463.30005" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (18)" posX="1714.80005" posY="-1440.40002" posZ="12.4" rotX="0" rotY="0" rotZ="0">
+        <checkpoint id="checkpoint () (18)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (20)" posX="1714" posY="-1160.69995" posZ="22.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    </checkpoint>
+    <racepickup id="racepickup (NRG-500) (4)" type="repair" vehicle="522" respawn="0" posX="1835.59998" posY="-1460.69995" posZ="13.9" rotX="0" rotY="0" rotZ="117.719"></racepickup>
+    <racepickup id="racepickup (NRG-500) (5)" type="nitro" vehicle="522" respawn="0" posX="1835.40002" posY="-1460.80005" posZ="13.9" rotX="0" rotY="0" rotZ="247.68"></racepickup>
+    <racepickup id="racepickup (Euros) (1)" type="vehiclechange" vehicle="587" respawn="0" posX="1806.19995" posY="-1430.40002" posZ="14" rotX="0" rotY="0" rotZ="340.922"></racepickup>
+    <racepickup id="racepickup (NRG-500) (6)" type="repair" vehicle="522" respawn="0" posX="1770.69995" posY="-1439.80005" posZ="14.1" rotX="0" rotY="0" rotZ="233.641"></racepickup>
+    <racepickup id="racepickup (NRG-500) (7)" type="nitro" vehicle="522" respawn="0" posX="1770.69995" posY="-1439.80005" posZ="14.1" rotX="0" rotY="0" rotZ="13.68"></racepickup>
+    <checkpoint id="checkpoint () (20)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (21)" posX="1578.69995" posY="-1161.5" posZ="22.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (21)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (22)" posX="1482.90002" posY="-1035.30005" posZ="22.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (22)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint (Comet) (1)" posX="1368.59998" posY="-1036.69995" posZ="25.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Comet) (1)" type="checkpoint" color="#00F9" vehicle="480" size="5" alpha="255" interior="0" nextid="checkpoint () (24)" posX="1379.69995" posY="-941.40002" posZ="33.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (24)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (23)" posX="1515.19995" posY="-823.5" posZ="68.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (8)" type="repair" vehicle="522" respawn="0" posX="1384.80005" posY="-904.29999" posZ="36.6" rotX="0" rotY="0" rotZ="57.06"></racepickup>
+    <racepickup id="racepickup (NRG-500) (9)" type="nitro" vehicle="522" respawn="0" posX="1384.90002" posY="-904.29999" posZ="36.6" rotX="0" rotY="0" rotZ="103.86"></racepickup>
+    <checkpoint id="checkpoint () (23)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (25)" posX="1352.30005" posY="-697.20001" posZ="90.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (Infernus) (1)" type="vehiclechange" vehicle="411" respawn="0" posX="1495.80005" posY="-703.59998" posZ="95.3" rotX="0" rotY="0" rotZ="55.439"></racepickup>
+    <racepickup id="racepickup (NRG-500) (10)" type="repair" vehicle="522" respawn="0" posX="1474.30005" posY="-706.90002" posZ="93.5" rotX="0" rotY="0" rotZ="158.58"></racepickup>
+    <racepickup id="racepickup (NRG-500) (11)" type="nitro" vehicle="522" respawn="0" posX="1474.19995" posY="-707" posZ="93.5" rotX="0" rotY="0" rotZ="69.119"></racepickup>
+    <checkpoint id="checkpoint () (25)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (26)" posX="1017.20001" posY="-786.20001" posZ="101.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (26)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (27)" posX="792.40002" posY="-891.90002" posZ="55.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (27)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint () (28)" posX="708.09998" posY="-1002.40002" posZ="51.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (28)" type="checkpoint" color="#00F9" size="5" alpha="255" interior="0" nextid="checkpoint (Huntley) (1)" posX="370.20001" posY="-1155.30005" posZ="79.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Huntley) (1)" type="checkpoint" color="#00F9" vehicle="579" size="5" alpha="255" interior="0" posX="298.79999" posY="-1166.5" posZ="79.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <vehicle id="vehicle (Huntley) (1)" paintjob="1" interior="0" alpha="255" model="579" plate="KU9M BX6" dimension="0" posX="283.79999" posY="-1161" posZ="81" rotX="0" rotY="0" rotZ="226" upgrades="1074" color="0,0,0,101,106,121,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Bullet) (1)" paintjob="3" interior="0" alpha="255" model="541" plate="JE1R JM9" dimension="0" posX="287.20001" posY="-1156.59998" posZ="80.6" rotX="0" rotY="0" rotZ="224" upgrades="1074" color="0,0,0,253,3,3,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (1)" dimension="0" model="113" interior="0" rotZ="134" alpha="255" posX="298.89999" posY="-1155.80005" posZ="80.9" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (Maverick) (1)" paintjob="3" interior="0" alpha="255" model="487" plate="S5F0 5PS" dimension="0" posX="299.60001" posY="-1179.5" posZ="81.2" rotX="0" rotY="0" rotZ="350" color="0,0,0,239,0,0,0,0,0,0,0,0"></vehicle>
+    <racepickup id="racepickup (NRG-500) (12)" type="vehiclechange" vehicle="522" respawn="0" posX="695.29999" posY="-996.90002" posZ="52.6" rotX="0" rotY="0" rotZ="352.078"></racepickup>
+    <vehicle id="vehicle (Tampa) (1)" paintjob="3" interior="0" alpha="255" model="549" plate="5XDE 1VB" dimension="0" posX="2498.6001" posY="-1648.90002" posZ="13.4" rotX="0" rotY="0" rotZ="170" color="30,46,50,37,37,39,0,0,0,0,0,0"></vehicle>
+    <object id="object (CJ_MONEY_BAG) (1)" breakable="true" interior="0" alpha="255" model="1550" doublesided="false" scale="1" dimension="0" posX="299.5" posY="-1156.40002" posZ="80.3" rotX="0" rotY="0" rotZ="0"></object>
+</map>

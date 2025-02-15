@@ -1,0 +1,16 @@
+<map edf:definitions="race,editor_main">
+    <removeWorldObject id="removeWorldObject (modlas2) (1)" radius="5.8436832" interior="-1" model="5340" lodModel="0" posX="2644.8594" posY="-2039.2344" posZ="14.03906" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <vehicle id="vehicle (Remington) (1)" sirens="false" landingGearDown="false" locked="true" plate="DADDYUWU" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="534" collisions="true" frozen="true" color="239,67,233,237,0,0,0,0,0,0,0,0" posX="2644.7002" posY="-2043.9004" posZ="13.5" rotX="0" rotY="0" rotZ="180" upgrades="1083,1010,1127,1101"></vehicle>
+    <pickup id="pickup (health) (2)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2644.75" posY="-2041.7" posZ="14.1" rotX="0" rotY="0" rotZ="0"></pickup>
+    <spawnpoint id="spawnpoint (Remington) (1)" vehicle="534" interior="0" posX="2519.8999" posY="-2009.1" posZ="13" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#BCD72899" size="6" interior="0" nextid="checkpoint () (2)" posX="2413.5" posY="-1992.1" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <vehicle id="vehicle (Remington) (2)" sirens="false" landingGearDown="false" plate="EX WIFE" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="534" collisions="true" posX="2519.8" posY="-2003.4" posZ="13.4" rotX="0" rotY="0" rotZ="39.999" color="198,44,23,70,89,122,0,0,0,0,0,0"></vehicle>
+    <object id="object (landjump2) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="1634" scale="0" doublesided="false" collisions="true" posX="2644.8" posY="-2039.8" posZ="10.8" rotX="0" rotY="0" rotZ="-180"></object>
+    <object id="object (Columbiangate) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="975" scale="0" doublesided="false" collisions="true" posX="2646.1001" posY="-2046.2" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#BCD72899" size="6" alpha="255" interior="0" nextid="checkpoint () (3)" posX="2436.7" posY="-1932.3" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#BCD72899" size="6" alpha="255" interior="0" nextid="checkpoint () (4)" posX="2646.2" posY="-1932.6" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#BCD72899" size="6" alpha="255" interior="0" nextid="checkpoint () (5)" posX="2714.3999" posY="-1951" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#BCD72899" size="6" alpha="255" interior="0" nextid="checkpoint () (7)" posX="2697.6001" posY="-2004" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#BCD72899" size="3" alpha="255" interior="0" nextid="checkpoint () (10)" posX="2645.2" posY="-2014.1" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="corona" color="#8951AE99" size="4" alpha="255" interior="0" nextid="checkpoint () (8)" posX="2644.3999" posY="-2043.5" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

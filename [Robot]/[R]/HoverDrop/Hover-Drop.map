@@ -1,0 +1,127 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (cargo_test) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="14548" scale="1" dimension="0" posX="2487" posY="-1670.30005" posZ="950" rotX="0" rotY="0" rotZ="90"></object>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (1)" vehicle="539" posX="2510" posY="-1670.30005" posZ="954" rotX="10" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (3)" vehicle="539" alpha="255" interior="0" posX="2505" posY="-1670.2998" posZ="953" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (4)" vehicle="539" alpha="255" interior="0" posX="2500" posY="-1670.2998" posZ="952" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (5)" vehicle="539" alpha="255" interior="0" posX="2495" posY="-1670.2998" posZ="951" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (6)" vehicle="539" alpha="255" interior="0" posX="2490" posY="-1670.2998" posZ="950" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (7)" vehicle="539" alpha="255" interior="0" posX="2485" posY="-1670.2998" posZ="949" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (8)" vehicle="539" alpha="255" interior="0" posX="2480" posY="-1670.2998" posZ="948" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (9)" vehicle="539" alpha="255" interior="0" posX="2475" posY="-1670.2998" posZ="947" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vortex) (10)" vehicle="539" alpha="255" interior="0" posX="2470" posY="-1670.2998" posZ="946" rotX="9.998" rotY="0" rotZ="270"></spawnpoint>
+    <object id="object (lasrnway1_LAS) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="4866" scale="1" dimension="0" posX="1517.09961" posY="-2449.69922" posZ="60" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lasrnway1_LAS) (2)" interior="0" collisions="true" alpha="255" doublesided="true" model="4866" scale="1" dimension="0" posX="1517.09961" posY="-2449.69922" posZ="120" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lasrnway1_LAS) (3)" interior="0" collisions="true" alpha="255" doublesided="true" model="4866" scale="1" dimension="0" posX="1517.09961" posY="-2449.69922" posZ="180" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lasrnway1_LAS) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="4866" scale="1" dimension="0" posX="1830.59961" posY="-2451.5" posZ="60" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (lasrnway1_LAS) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="4866" scale="1" dimension="0" posX="1830.59961" posY="-2451.5" posZ="120" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (lasrnway1_LAS) (1)" interior="0" collisions="true" alpha="255" doublesided="true" model="4866" scale="1" dimension="0" posX="1830.59961" posY="-2451.5" posZ="180" rotX="0" rotY="0" rotZ="179.995"></object>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="50" nextid="checkpoint () (2)" posX="2200" posY="-1683" posZ="269.79999" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="50" alpha="255" interior="0" nextid="checkpoint () (3)" posX="1900" posY="-1683" posZ="269.79999" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="50" alpha="255" interior="0" nextid="checkpoint () (4)" posX="1467" posY="-1231" posZ="193.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="50" alpha="255" interior="0" nextid="checkpoint () (5)" posX="1650.80005" posY="-1163.80005" posZ="226" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="50" nextid="checkpoint () (6)" posX="1600" posY="-1542.30005" posZ="132.89999" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="50" alpha="255" interior="0" nextid="checkpoint () (7)" posX="1626.19995" posY="-1857" posZ="114.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="50" alpha="255" interior="0" nextid="checkpoint () (8)" posX="1631" posY="-2074.8999" posZ="83.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="50" alpha="255" interior="0" nextid="checkpoint () (9)" posX="1346.5" posY="-2194.19995" posZ="65.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#FF000099" size="50" alpha="255" interior="0" nextid="checkpoint () (10)" posX="1419.09998" posY="-2452.3999" posZ="22.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" size="50" alpha="255" interior="0" posX="1943" posY="-2449.3999" posZ="27.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

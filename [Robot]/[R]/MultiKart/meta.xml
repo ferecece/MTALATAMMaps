@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="Multi kart" author="terry" description="a race by the dirtring area only with karts" version="1" />
+  <map src="Multi kart.map" />
+  <settings>
+    <setting name="#respawn" value="timelimit" />
+<setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+<setting name="#respawntime" value="[ 1 ]"></setting>
+  </settings>
+</meta>

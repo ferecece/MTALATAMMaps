@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main,race">
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (2)" posX="1384.2627" posY="-1872.0146" posZ="12.3828" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (3)" posX="1075.4424" posY="-1851.9775" posZ="12.391" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (4)" posX="647.36621" posY="-1734.1846" posZ="12.4844" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (5)" posX="627.24707" posY="-1228.5498" posZ="16.9893" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (6)" posX="497.00391" posY="-1282.8184" posZ="14.6513" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (7)" posX="500.41211" posY="-1326.6494" posZ="14.8178" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (8)" posX="401.00293" posY="-1404.457" posZ="32.8973" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (9)" posX="420.30664" posY="-1450.7139" posZ="29.5842" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (10)" posX="329.12402" posY="-1631.1123" posZ="32.1247" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#FE000000" size="12" nextid="checkpoint () (11)" posX="366.4375" posY="-1647.3486" posZ="31.7176" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#FE000000" size="12" posX="369.98047" posY="-2030.3398" posZ="5.55" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <spawnpoint id="VoodooSpawn" vehicle="412" posX="1517.3902" posY="-1874.9716" posZ="13.2203" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+</map>

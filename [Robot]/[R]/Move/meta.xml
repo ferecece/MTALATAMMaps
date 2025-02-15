@@ -1,0 +1,23 @@
+<meta>
+    <script src="ramptest.lua" type="server" />
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <info gamemodes="race" type="map" racetype="R" name="Move!" author="mr.dogshit" version="1.0.0" />
+    <map src="race-move.map" dimension="0" />
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]' />
+        <setting name="#maxplayers" value="[ 128 ]" />
+        <setting name="#gamespeed" value="[ 1 ]" />
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]' />
+        <setting name="#time" value="1:0" />
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]' />
+        <setting name="#minplayers" value="[ 0 ]" />
+        <setting name="#weather" value="[ 13 ]" />
+        <setting name="#gravity" value="[ 0.008000 ]" />
+        <setting name="#waveheight" value="[ 0 ]" />
+        <setting name="#respawntime" value="[ 1 ]" />
+        <setting name="#locked_time" value="[ false ]" />
+        <setting name="#duration" value="[ 1800 ]" />
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]' />
+    </settings>
+</meta>

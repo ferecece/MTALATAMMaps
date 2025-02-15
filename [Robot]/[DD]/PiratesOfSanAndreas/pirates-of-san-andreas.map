@@ -1,0 +1,145 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (cunt_rockgp1_03) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1728.39941" posY="1559.7998" posZ="9.2" rotX="0" rotY="0" rotZ="33.997"></object>
+    <object id="object (cunt_rockgp1_03) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1710.09998" posY="1594.80005" posZ="9.2" rotX="0" rotY="0" rotZ="33.997"></object>
+    <object id="object (cunt_rockgp1_03) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1696.2998" posY="1621" posZ="9.2" rotX="0" rotY="0" rotZ="355.995"></object>
+    <object id="object (cunt_rockgp1_03) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1681" posY="1648.5" posZ="9.2" rotX="0" rotY="0" rotZ="51.995"></object>
+    <object id="object (cunt_rockgp1_03) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1665.30005" posY="1676.69995" posZ="9.2" rotX="0" rotY="0" rotZ="21.993"></object>
+    <object id="object (cunt_rockgp1_03) (6)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1644.19995" posY="1715.80005" posZ="9.2" rotX="0" rotY="0" rotZ="21.989"></object>
+    <object id="object (cunt_rockgp1_03) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1475.59998" posY="1297.40002" posZ="9.2" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (cunt_rockgp1_03) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1438.80005" posY="1318.40002" posZ="9.2" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (cunt_rockgp1_03) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1399.30005" posY="1341" posZ="9.2" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (cunt_rockgp1_03) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1361.09998" posY="1362.80005" posZ="9.2" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (cunt_rockgp1_03) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1315.59998" posY="1388.80005" posZ="9.2" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (cunt_rockgp1_03) (12)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1274.69995" posY="1412.19995" posZ="9.2" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (cunt_rockgp1_03) (13)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1236.5" posY="1434" posZ="9.2" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (cunt_rockgp1_03) (14)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1195.59998" posY="1457.40002" posZ="9.2" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (cunt_rockgp1_03) (15)" interior="0" collisions="true" alpha="255" doublesided="false" model="17027" scale="1" dimension="0" posX="-1156.09998" posY="1480" posZ="9.2" rotX="0" rotY="0" rotZ="179.995"></object>
+    <spawnpoint id="spawnpoint (Marquis) (1)" vehicle="484" posX="-1164.90002" posY="1501.30005" posZ="7.5" rotX="0" rotY="0" rotZ="108"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (2)" vehicle="484" alpha="255" interior="0" posX="-1609.30005" posY="1405.69995" posZ="7.5" rotX="0" rotY="0" rotZ="197.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (3)" vehicle="484" alpha="255" interior="0" posX="-1607" posY="1725.19995" posZ="7.5" rotX="0" rotY="0" rotZ="151.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (4)" vehicle="484" alpha="255" interior="0" posX="-1444.59998" posY="1510.5" posZ="7.5" rotX="0" rotY="0" rotZ="87.985"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (5)" vehicle="484" alpha="255" interior="0" posX="-1382.69995" posY="1474.90002" posZ="7.5" rotX="0" rotY="0" rotZ="269.984"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (6)" vehicle="484" alpha="255" interior="0" posX="-1381.69995" posY="1504.59998" posZ="7.5" rotX="0" rotY="0" rotZ="269.984"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (7)" vehicle="484" alpha="255" interior="0" posX="-1445.40002" posY="1473.09998" posZ="7.5" rotX="0" rotY="0" rotZ="89.984"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (8)" vehicle="484" alpha="255" interior="0" posX="-1487.40002" posY="1487.40002" posZ="7.5" rotX="0" rotY="0" rotZ="359.984"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (9)" vehicle="484" alpha="255" interior="0" posX="-1356" posY="1492.59998" posZ="7.5" rotX="0" rotY="0" rotZ="179.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (10)" vehicle="484" alpha="255" interior="0" posX="-1325.30005" posY="1408.19995" posZ="7.5" rotX="0" rotY="0" rotZ="307.973"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (11)" vehicle="484" alpha="255" interior="0" posX="-1440.30005" posY="1341.19995" posZ="7.5" rotX="0" rotY="0" rotZ="307.969"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (12)" vehicle="484" alpha="255" interior="0" posX="-1524.30005" posY="1305.69995" posZ="7.5" rotX="0" rotY="0" rotZ="269.969"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (13)" vehicle="484" alpha="255" interior="0" posX="-1696.80005" posY="1404.09998" posZ="7.5" rotX="0" rotY="0" rotZ="309.967"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (14)" vehicle="484" alpha="255" interior="0" posX="-1720.19995" posY="1527.30005" posZ="7.5" rotX="0" rotY="0" rotZ="1.963"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (15)" vehicle="484" alpha="255" interior="0" posX="-1659.40002" posY="1610.90002" posZ="7.5" rotX="0" rotY="0" rotZ="333.961"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (16)" vehicle="484" alpha="255" interior="0" posX="-1482.59998" posY="1667.69995" posZ="7.5" rotX="0" rotY="2" rotZ="231.957"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (17)" vehicle="484" alpha="255" interior="0" posX="-1320.59998" posY="1662.09998" posZ="7.5" rotX="0" rotY="2" rotZ="251.954"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (18)" vehicle="484" alpha="255" interior="0" posX="-1237.30005" posY="1607.69995" posZ="7.5" rotX="0" rotY="0" rotZ="225.949"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (19)" vehicle="484" alpha="255" interior="0" posX="-1277.19995" posY="1439.09998" posZ="7.5" rotX="0" rotY="0" rotZ="297.945"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (20)" vehicle="484" alpha="255" interior="0" posX="-1406" posY="1369.59998" posZ="7.5" rotX="0" rotY="0" rotZ="297.944"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (21)" vehicle="484" alpha="255" interior="0" posX="-1564" posY="1358.90002" posZ="7.5" rotX="0" rotY="0" rotZ="65.944"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (22)" vehicle="484" alpha="255" interior="0" posX="-1642.19995" posY="1441.30005" posZ="7.5" rotX="0" rotY="0" rotZ="85.94"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (23)" vehicle="484" alpha="255" interior="0" posX="-1714.09998" posY="1475.30005" posZ="7.5" rotX="0" rotY="0" rotZ="181.935"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (24)" vehicle="484" alpha="255" interior="0" posX="-1686.90002" posY="1580.09998" posZ="7.5" rotX="0" rotY="0" rotZ="143.934"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (25)" vehicle="484" alpha="255" interior="0" posX="-1629.80005" posY="1673.19995" posZ="7.5" rotX="0" rotY="0" rotZ="155.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (26)" vehicle="484" alpha="255" interior="0" posX="-1548" posY="1701.69995" posZ="7.5" rotX="0" rotY="0" rotZ="67.929"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (27)" vehicle="484" alpha="255" interior="0" posX="-1389.19995" posY="1667" posZ="7.5" rotX="0" rotY="0" rotZ="111.928"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (28)" vehicle="484" alpha="255" interior="0" posX="-1259.30005" posY="1631.80005" posZ="7.5" rotX="0" rotY="0" rotZ="51.923"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (29)" vehicle="484" alpha="255" interior="0" posX="-1183.5" posY="1563" posZ="7.5" rotX="0" rotY="0" rotZ="19.921"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (30)" vehicle="484" alpha="255" interior="0" posX="-1223.69995" posY="1470.59998" posZ="7.5" rotX="0" rotY="0" rotZ="123.918"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (31)" vehicle="484" alpha="255" interior="0" posX="-1359.09998" posY="1388.19995" posZ="7.5" rotX="0" rotY="0" rotZ="123.915"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (32)" vehicle="484" alpha="255" interior="0" posX="-1502.09998" posY="1392.40002" posZ="7.5" rotX="0" rotY="0" rotZ="97.915"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (34)" vehicle="484" alpha="255" interior="0" posX="-1624" posY="1430.40002" posZ="7.5" rotX="0" rotY="0" rotZ="223.91"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (35)" vehicle="484" alpha="255" interior="0" posX="-1666.5" posY="1434.40002" posZ="7.5" rotX="0" rotY="0" rotZ="135.906"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (36)" vehicle="484" alpha="255" interior="0" posX="-1715.80005" posY="1432.19995" posZ="7.5" rotX="0" rotY="0" rotZ="175.901"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (37)" vehicle="484" alpha="255" interior="0" posX="-1718.80005" posY="1497.59998" posZ="7.5" rotX="0" rotY="0" rotZ="353.897"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (38)" vehicle="484" alpha="255" interior="0" posX="-1709.30005" posY="1550.80005" posZ="7.5" rotX="0" rotY="358" rotZ="293.892"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (39)" vehicle="484" alpha="255" interior="0" posX="-1676.90002" posY="1595.19995" posZ="7.5" rotX="0" rotY="357.995" rotZ="321.89"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (40)" vehicle="484" alpha="255" interior="0" posX="-1653.59998" posY="1650.09998" posZ="7.5" rotX="0" rotY="357.99" rotZ="327.888"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (42)" vehicle="484" alpha="255" interior="0" posX="-1626.40002" posY="1693.19995" posZ="7.5" rotX="0" rotY="357.99" rotZ="327.887"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (43)" vehicle="484" alpha="255" interior="0" posX="-1579.59998" posY="1717.69995" posZ="7.5" rotX="0" rotY="357.99" rotZ="251.887"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (44)" vehicle="484" alpha="255" interior="0" posX="-1524.90002" posY="1693.59998" posZ="7.5" rotX="0" rotY="357.99" rotZ="251.884"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (45)" vehicle="484" alpha="255" interior="0" posX="-1501.40002" posY="1674.69995" posZ="7.5" rotX="0" rotY="357.99" rotZ="51.884"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (46)" vehicle="484" alpha="255" interior="0" posX="-1455.80005" posY="1649" posZ="7.5" rotX="0" rotY="357.99" rotZ="51.883"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (47)" vehicle="484" alpha="255" interior="0" posX="-1433.30005" posY="1645.5" posZ="7.5" rotX="0" rotY="357.99" rotZ="277.883"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (48)" vehicle="484" alpha="255" interior="0" posX="-1412.69995" posY="1654.80005" posZ="7.5" rotX="0" rotY="357.99" rotZ="305.883"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (49)" vehicle="484" alpha="255" interior="0" posX="-1374" posY="1673.90002" posZ="7.5" rotX="0" rotY="357.99" rotZ="291.881"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (50)" vehicle="484" alpha="255" interior="0" posX="-1344.30005" posY="1674.19995" posZ="7.5" rotX="0" rotY="357.99" rotZ="77.879"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (51)" vehicle="484" alpha="255" interior="0" posX="-1294.69995" posY="1645.5" posZ="7.5" rotX="0" rotY="357.99" rotZ="35.877"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (52)" vehicle="484" alpha="255" interior="0" posX="-1282.09998" posY="1635.5" posZ="7.5" rotX="0" rotY="0" rotZ="289.876"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (53)" vehicle="484" alpha="255" interior="0" posX="-1207.09998" posY="1591.40002" posZ="7.5" rotX="0" rotY="0" rotZ="259.874"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (54)" vehicle="484" alpha="255" interior="0" posX="-1198.09998" posY="1481.09998" posZ="7.5" rotX="0" rotY="0" rotZ="299.871"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (55)" vehicle="484" alpha="255" interior="0" posX="-1169.59961" posY="1540.69922" posZ="7.5" rotX="0" rotY="0" rotZ="203.868"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (56)" vehicle="484" alpha="255" interior="0" posX="-1254.90002" posY="1453.69995" posZ="7.5" rotX="0" rotY="0" rotZ="279.866"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (57)" vehicle="484" alpha="255" interior="0" posX="-1299.09998" posY="1426.59998" posZ="7.5" rotX="0" rotY="0" rotZ="121.866"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (58)" vehicle="484" alpha="255" interior="0" posX="-1342.69995" posY="1401.19995" posZ="7.5" rotX="0" rotY="0" rotZ="121.86"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (59)" vehicle="484" alpha="255" interior="0" posX="-1379.5" posY="1380.40002" posZ="7.5" rotX="0" rotY="0" rotZ="97.86"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (60)" vehicle="484" alpha="255" interior="0" posX="-1418.40002" posY="1361.19995" posZ="7.5" rotX="0" rotY="0" rotZ="129.855"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (61)" vehicle="484" alpha="255" interior="0" posX="-1456.5" posY="1338.30005" posZ="7.5" rotX="0" rotY="0" rotZ="103.853"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (62)" vehicle="484" alpha="255" interior="0" posX="-1477.90002" posY="1320" posZ="7.5" rotX="0" rotY="0" rotZ="319.848"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (63)" vehicle="484" alpha="255" interior="0" posX="-1495.30005" posY="1317.19995" posZ="7.5" rotX="0" rotY="0" rotZ="97.845"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (64)" vehicle="484" alpha="255" interior="0" posX="-1541.59998" posY="1305.19995" posZ="7.5" rotX="0" rotY="0" rotZ="87.844"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (65)" vehicle="484" alpha="255" interior="0" posX="-1488.80005" posY="1378.09998" posZ="7.5" rotX="0" rotY="0" rotZ="155.841"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (66)" vehicle="484" alpha="255" interior="0" posX="-1520.90002" posY="1368.90002" posZ="7.5" rotX="0" rotY="0" rotZ="233.841"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (33)" vehicle="484" alpha="255" interior="0" posX="-1579" posY="1630.2" posZ="7.5" rotX="0" rotY="0" rotZ="200"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (41)" vehicle="484" alpha="255" interior="0" posX="-1526.5" posY="1640.2" posZ="7.5" rotX="0" rotY="0" rotZ="185"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (67)" vehicle="484" alpha="255" interior="0" posX="-1610.8" posY="1595.3" posZ="7.5" rotX="0" rotY="0" rotZ="230"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (68)" vehicle="484" alpha="255" interior="0" posX="-1633.3" posY="1546" posZ="7.5" rotX="0" rotY="0" rotZ="250"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (69)" vehicle="484" alpha="255" interior="0" posX="-1645" posY="1497.2" posZ="7.5" rotX="0" rotY="0" rotZ="260"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (70)" vehicle="484" alpha="255" interior="0" posX="-1484.4" posY="1611.8" posZ="7.5" rotX="0" rotY="0" rotZ="160"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (71)" vehicle="484" alpha="255" interior="0" posX="-1445" posY="1592.6" posZ="7.5" rotX="0" rotY="0" rotZ="250"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (72)" vehicle="484" alpha="255" interior="0" posX="-1374.8" posY="1592.7" posZ="7.5" rotX="0" rotY="0" rotZ="200"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (73)" vehicle="484" alpha="255" interior="0" posX="-1311.3" posY="1574.8" posZ="7.5" rotX="0" rotY="0" rotZ="150"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (74)" vehicle="484" alpha="255" interior="0" posX="-1251.3" posY="1552.3" posZ="7.5" rotX="0" rotY="0" rotZ="120"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (75)" vehicle="484" alpha="255" interior="0" posX="-1229.4" posY="1508.8" posZ="7.5" rotX="0" rotY="0" rotZ="100"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (76)" vehicle="484" alpha="255" interior="0" posX="-1292.5" posY="1472.5" posZ="7.5" rotX="0" rotY="0" rotZ="40"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (77)" vehicle="484" alpha="255" interior="0" posX="-1335" posY="1444" posZ="7.5" rotX="0" rotY="0" rotZ="100"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (78)" vehicle="484" alpha="255" interior="0" posX="-1385" posY="1445.8" posZ="7.5" rotX="0" rotY="0" rotZ="80"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (79)" vehicle="484" alpha="255" interior="0" posX="-1392.5" posY="1410.3" posZ="7.5" rotX="0" rotY="0" rotZ="120"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (80)" vehicle="484" alpha="255" interior="0" posX="-1427.9" posY="1390.2" posZ="7.5" rotX="0" rotY="0" rotZ="40"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (81)" vehicle="484" alpha="255" interior="0" posX="-1421.6" posY="1430.4" posZ="7.5" rotX="0" rotY="0" rotZ="60"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (82)" vehicle="484" alpha="255" interior="0" posX="-1459.5" posY="1427.8" posZ="7.5" rotX="0" rotY="0" rotZ="50"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (83)" vehicle="484" alpha="255" interior="0" posX="-1468.2" posY="1363.5" posZ="7.5" rotX="0" rotY="0" rotZ="300"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (84)" vehicle="484" alpha="255" interior="0" posX="-1569.8" posY="1305.9" posZ="7.5" rotX="0" rotY="0" rotZ="269.967"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (85)" vehicle="484" alpha="255" interior="0" posX="-1505.6" posY="1337.6" posZ="7.5" rotX="0" rotY="0" rotZ="280"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (86)" vehicle="484" alpha="255" interior="0" posX="-1530.5" posY="1334.5" posZ="7.5" rotX="0" rotY="0" rotZ="20"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (87)" vehicle="484" alpha="255" interior="0" posX="-1584.8" posY="1373.3" posZ="7.5" rotX="0" rotY="0" rotZ="65.94"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (88)" vehicle="484" alpha="255" interior="0" posX="-1281.6" posY="1512.9" posZ="7.5" rotX="0" rotY="0" rotZ="60"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (89)" vehicle="484" alpha="255" interior="0" posX="-1323.1" posY="1532.3" posZ="7.5" rotX="0" rotY="0" rotZ="170"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (90)" vehicle="484" alpha="255" interior="0" posX="-1361.3" posY="1536.2" posZ="7.5" rotX="0" rotY="0" rotZ="50"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (91)" vehicle="484" alpha="255" interior="0" posX="-1403.1" posY="1515.8" posZ="7.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (92)" vehicle="484" alpha="255" interior="0" posX="-1427.5" posY="1516.5" posZ="7.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (93)" vehicle="484" alpha="255" interior="0" posX="-1411.3" posY="1558.7" posZ="7.5" rotX="0" rotY="0" rotZ="280"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (94)" vehicle="484" alpha="255" interior="0" posX="-1464.4" posY="1549.3" posZ="7.5" rotX="0" rotY="0" rotZ="50"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (95)" vehicle="484" alpha="255" interior="0" posX="-1505.9" posY="1532.9" posZ="7.5" rotX="0" rotY="0" rotZ="150"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (96)" vehicle="484" alpha="255" interior="0" posX="-1522.8" posY="1579.1" posZ="7.5" rotX="0" rotY="0" rotZ="149.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (97)" vehicle="484" alpha="255" interior="0" posX="-1565.3" posY="1578.9" posZ="7.5" rotX="0" rotY="0" rotZ="300"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (98)" vehicle="484" alpha="255" interior="0" posX="-1585.2" posY="1543.9" posZ="7.5" rotX="0" rotY="0" rotZ="235"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (99)" vehicle="484" alpha="255" interior="0" posX="-1556.3" posY="1503.2" posZ="7.5" rotX="0" rotY="0" rotZ="340"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (100)" vehicle="484" alpha="255" interior="0" posX="-1601.8" posY="1466.5" posZ="7.5" rotX="0" rotY="0" rotZ="20"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (101)" vehicle="484" alpha="255" interior="0" posX="-1588" posY="1429.6" posZ="7.5" rotX="0" rotY="0" rotZ="275"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (102)" vehicle="484" alpha="255" interior="0" posX="-1562.4" posY="1393.5" posZ="7.5" rotX="0" rotY="0" rotZ="340"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (103)" vehicle="484" alpha="255" interior="0" posX="-1527.2" posY="1407.3" posZ="7.5" rotX="0" rotY="0" rotZ="30"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (104)" vehicle="484" alpha="255" interior="0" posX="-1500" posY="1427" posZ="7.5" rotX="0" rotY="0" rotZ="240"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (105)" vehicle="484" alpha="255" interior="0" posX="-1558.9" posY="1463.8" posZ="7.5" rotX="0" rotY="0" rotZ="300"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (106)" vehicle="484" alpha="255" interior="0" posX="-1530.1" posY="1488.3" posZ="7.5" rotX="0" rotY="0" rotZ="220"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (107)" vehicle="484" alpha="255" interior="0" posX="-1489.2" posY="1456.7" posZ="7.5" rotX="0" rotY="0" rotZ="89.984"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (108)" vehicle="484" alpha="255" interior="0" posX="-1329.8" posY="1478.8" posZ="7.5" rotX="0" rotY="0" rotZ="325"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (109)" vehicle="484" alpha="255" interior="0" posX="-1204.6" posY="1537.5" posZ="7.5" rotX="0" rotY="0" rotZ="40"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (110)" vehicle="484" alpha="255" interior="0" posX="-1274.4" posY="1583" posZ="7.5" rotX="0" rotY="0" rotZ="39.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (111)" vehicle="484" alpha="255" interior="0" posX="-1326.5" posY="1618.4" posZ="7.5" rotX="0" rotY="0" rotZ="120"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (112)" vehicle="484" alpha="255" interior="0" posX="-1375.9" posY="1635.9" posZ="7.5" rotX="0" rotY="0" rotZ="140"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (113)" vehicle="484" alpha="255" interior="0" posX="-1412" posY="1617" posZ="7.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (114)" vehicle="484" alpha="255" interior="0" posX="-1584.7" posY="1673.5" posZ="7.5" rotX="0" rotY="0" rotZ="140"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (115)" vehicle="484" alpha="255" interior="0" posX="-1551.6" posY="1637.6" posZ="7.5" rotX="0" rotY="0" rotZ="160"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (117)" vehicle="484" alpha="255" interior="0" posX="-1638.5" posY="1583.6" posZ="7.5" rotX="0" rotY="0" rotZ="139.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (116)" vehicle="484" alpha="255" interior="0" posX="-1674" posY="1525" posZ="7.5" rotX="0" rotY="0" rotZ="300"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (118)" vehicle="484" alpha="255" interior="0" posX="-1682.1" posY="1465.4" posZ="7.5" rotX="0" rotY="0" rotZ="260"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (119)" vehicle="484" alpha="255" interior="0" posX="-1604.1" posY="1504.1" posZ="7.5" rotX="0" rotY="0" rotZ="300"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (120)" vehicle="484" alpha="255" interior="0" posX="-1622.8" posY="1631.1" posZ="7.5" rotX="0" rotY="0" rotZ="280"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (121)" vehicle="484" alpha="255" interior="0" posX="-1534.5" posY="1544.59998" posZ="7.5" rotX="0" rotY="0" rotZ="149.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (122)" vehicle="484" alpha="255" interior="0" posX="-1468" posY="1396.6" posZ="7.5" rotX="0" rotY="0" rotZ="299.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (123)" vehicle="484" alpha="255" interior="0" posX="-1291.1" posY="1554.5" posZ="7.5" rotX="0" rotY="0" rotZ="220"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (124)" vehicle="484" alpha="255" interior="0" posX="-1534.2" posY="1441.2" posZ="7.5" rotX="0" rotY="0" rotZ="315"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (125)" vehicle="484" alpha="255" interior="0" posX="-1429.9" posY="1465.9" posZ="7.5" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (126)" vehicle="484" alpha="255" interior="0" posX="-1402" posY="1465.6" posZ="7.5" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (127)" vehicle="484" alpha="255" interior="0" posX="-1256" posY="1482" posZ="7.5" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Marquis) (128)" vehicle="484" alpha="255" interior="0" posX="-1446.3" posY="1618.5" posZ="7.5" rotX="0" rotY="0" rotZ="80"></spawnpoint>
+</map>

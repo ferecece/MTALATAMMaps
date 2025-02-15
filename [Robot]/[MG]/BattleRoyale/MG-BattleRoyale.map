@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint1" vehicle="495" interior="0" posX="60.17676" posY="-311.09961" posZ="6.01032" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <object id="object (vgEhshade01_lvs) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="8838" scale="1" doublesided="false" collisions="true" frozen="false" posX="2290.0391" posY="1149.3262" posZ="77.01889" rotX="0" rotY="0" rotZ="-39.924"></object>
+    <object id="object (roofstuff15) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="1696" scale="1" doublesided="false" collisions="true" frozen="false" posX="764.48077" posY="-1484.1367" posZ="12.3968" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgEhshade01_lvs) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="8838" scale="1" doublesided="false" collisions="true" frozen="false" posX="2314.7" posY="1102.5" posZ="77.78" rotX="0" rotY="20" rotZ="108"></object>
+    <object id="object (vgEhshade01_lvs) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="8838" scale="1" doublesided="false" collisions="true" frozen="false" posX="2319.5" posY="1104.1" posZ="77.78" rotX="0" rotY="-20" rotZ="-72"></object>
+</map>

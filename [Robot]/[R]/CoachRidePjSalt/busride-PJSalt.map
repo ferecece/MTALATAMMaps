@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Coach) (1)" vehicle="437" posX="2749.2" posY="-385.60001" posZ="24.8" rotX="0" rotY="0" rotZ="226"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="7.5" nextid="checkpoint () (5)" posX="2769.3" posY="-403.10001" posZ="22.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="2757.2" posY="-393.29999" posZ="24.6" rotX="0" rotY="0" rotZ="129.78"></racepickup>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="7.5" alpha="255" interior="0" nextid="checkpoint () (6)" posX="2637" posY="-1152.9" posZ="51.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="7.5" alpha="255" interior="0" nextid="checkpoint () (7)" posX="2102.2" posY="-1065.3" posZ="25.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (8)" posX="1774.8" posY="-945.20001" posZ="44.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="15" alpha="255" interior="0" nextid="checkpoint () (11)" posX="1627.4" posY="9.2" posZ="35.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="15" alpha="255" interior="0" nextid="checkpoint () (12)" posX="2029.3" posY="254.7" posZ="25.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="7.5" alpha="255" interior="0" nextid="checkpoint () (13)" posX="2614.8999" posY="304" posZ="35" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" size="30" alpha="255" interior="0" nextid="checkpoint () (14)" posX="2749.8" posY="-144.3" posZ="32.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#00F9" size="7.5" alpha="255" interior="0" posX="2769.1001" posY="-403.20001" posZ="22.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (vgsEtrainfence10) (1)" breakable="true" interior="0" alpha="255" model="9112" doublesided="false" scale="1" dimension="0" posX="1882.1" posY="-272.20001" posZ="39.2" rotX="0" rotY="0" rotZ="350"></object>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" posX="2857.3" posY="-1138" posZ="11.6" rotX="0" rotY="0" rotZ="89.46"></racepickup>
+</map>

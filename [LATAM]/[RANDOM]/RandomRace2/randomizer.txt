@@ -1,0 +1,20 @@
+local carids = {568, 424, 573, 579, 400, 500, 444, 470, 489, 490, 495, 468, 471} 
+local planeids = {592, 577, 511, 512, 593, 520, 553, 475, 519, 460, 513} 
+local boatids = {471, 473, 493, 595, 484, 430, 453, 452, 446, 454} 
+  
+  
+function randomCar(checkpoint, time) 
+    local veh = getPedOccupiedVehicle(source) 
+    
+    if 1 <= checkpoint and checkpoint <= 25 then 
+        setElementModel (veh, carids[math.random(#carids)]) 
+    elseif checkpoint <= 26 then 
+        setElementModel (veh, planeids[math.random(#planeids)]) 
+    elseif checkpoint <= 31 then 
+    setElementModel (veh, carids[math.random(#carids)]) 
+    elseif checkpoint <= 35 then 
+        setElementModel (veh, boatids[math.random(#boatids)]) 
+    end 
+end 
+addEvent('onPlayerReachCheckpoint') 
+addEventHandler('onPlayerReachCheckpoint', getRootElement(), randomCar) 

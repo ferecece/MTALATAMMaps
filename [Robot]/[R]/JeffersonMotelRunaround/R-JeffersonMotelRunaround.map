@@ -1,0 +1,158 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (RC Bandit) (1)" vehicle="441" interior="15" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" alpha="255" interior="0" nextid="checkpoint () (3)" posX="2221.8999" posY="-1147.4" posZ="1023.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (4)" posX="2227.5" posY="-1148.0996" posZ="1026.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (5)" posX="2241.3" posY="-1159.8" posZ="1026.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (6)" posX="2233" posY="-1156" posZ="1026.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (7)" posX="2241.3" posY="-1160.6" posZ="1026.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (8)" posX="2241.7998" posY="-1186.9004" posZ="1026.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (9)" posX="2236.5" posY="-1193.3" posZ="1026.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (10)" posX="2247.8" posY="-1180.9" posZ="1028.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (11)" posX="2240.6001" posY="-1192.2" posZ="1030.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (12)" posX="2246" posY="-1191" posZ="1026.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (13)" posX="2191.6001" posY="-1183.4" posZ="1026.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (14)" posX="2186" posY="-1187.1" posZ="1026.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (15)" posX="2195.6001" posY="-1193.5" posZ="1026.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (16)" posX="2198" posY="-1188.3" posZ="1026" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (17)" posX="2191.5" posY="-1183.1" posZ="1027.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (18)" posX="2193.1001" posY="-1157.6" posZ="1026.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (18)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (19)" posX="2199.2" posY="-1157" posZ="1027.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (19)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (20)" posX="2193.3999" posY="-1148.2" posZ="1027.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (20)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" nextid="checkpoint () (21)" posX="2204.6001" posY="-1140.1" posZ="1030.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (21)" type="checkpoint" color="#FFC62B" blipsize="2" size="0.5" interior="15" posX="2193.3" posY="-1148" posZ="1030.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <pickup id="pickup (armor) (1)" type="armor" interior="15" amount="100" respawn="30000" dimension="0" alpha="255" posX="2241.6001" posY="-1188.8" posZ="1033.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <ped id="ped (1)" interior="15" rotZ="94.998" dimension="0" model="270" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="2201.1001" posY="-1157.1" posZ="1030" rotX="0" rotY="0"></ped>
+    <object id="object (wong_dish) (1)" breakable="false" interior="15" alpha="255" dimension="0" model="3031" scale="1" doublesided="false" collisions="true" frozen="false" posX="2224.1001" posY="-1154" posZ="1026.4" rotX="0" rotY="0" rotZ="116"></object>
+    <object id="object (LOW_COUCH_2) (1)" breakable="false" interior="15" alpha="255" dimension="0" model="1764" scale="1" doublesided="false" collisions="true" frozen="false" posX="2226.1001" posY="-1149" posZ="1024.8" rotX="0" rotY="0" rotZ="-100"></object>
+    <object id="object (MED_CABINET_3) (1)" breakable="false" interior="15" alpha="255" dimension="0" model="1743" scale="1" doublesided="false" collisions="true" frozen="false" posX="2226.3" posY="-1145.4" posZ="1024.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Hotel_dresser_8) (1)" breakable="false" interior="15" alpha="255" dimension="0" model="2576" scale="1" doublesided="false" collisions="true" frozen="false" posX="2226.1001" posY="-1145.6" posZ="1024.8" rotX="0" rotY="0" rotZ="-88"></object>
+    <object id="object (Hotel_SINGLE_2) (1)" breakable="false" interior="15" alpha="255" dimension="0" model="2572" scale="1" doublesided="false" collisions="true" frozen="false" posX="2190.8999" posY="-1140.5" posZ="1028.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (wong_dish) (2)" breakable="false" interior="15" alpha="255" dimension="0" model="3031" scale="1" doublesided="false" collisions="true" frozen="false" posX="2191.3" posY="-1146.6" posZ="1034.4" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (RC Bandit) (2)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (3)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (4)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (5)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (6)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (7)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (8)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (9)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (10)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (11)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (12)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (13)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (14)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (15)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (16)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (17)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (18)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (19)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (20)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (21)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (22)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (23)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (24)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (25)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (26)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (27)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (28)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (29)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (30)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (31)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (32)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (33)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (34)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (35)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (36)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (37)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (38)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (39)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (40)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (41)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (42)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (43)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (44)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (45)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (46)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (47)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (48)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (49)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (50)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (51)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (52)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (53)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (54)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (55)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (56)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (57)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (58)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (59)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (60)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (61)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (62)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (63)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (64)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (65)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (66)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (67)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (68)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (69)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (70)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (71)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (72)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (73)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (74)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (75)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (76)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (77)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (78)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (79)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (80)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (81)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (82)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (83)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (84)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (85)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (86)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (87)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (88)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (89)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (90)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (91)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (92)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (93)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (94)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (95)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (96)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (97)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (98)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (99)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (100)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (101)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (102)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (103)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (104)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (105)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (106)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (107)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (108)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (109)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (110)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (111)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (112)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (113)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (114)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (115)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (116)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (117)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (118)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (119)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (120)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (121)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (122)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (123)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (124)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (125)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (126)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (127)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (128)" vehicle="441" alpha="255" interior="0" posX="2216.7002" posY="-1150.5" posZ="1025.1" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+</map>

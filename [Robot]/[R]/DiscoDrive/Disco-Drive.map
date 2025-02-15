@@ -1,0 +1,198 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" posX="-1559.4004" posY="-1600.5996" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (2)" vehicle="496" alpha="255" interior="0" posX="-1559.4" posY="-1604.1" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (3)" vehicle="496" alpha="255" interior="0" posX="-1559.4" posY="-1607.8" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (4)" vehicle="496" alpha="255" interior="0" posX="-1559.4004" posY="-1611.5" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (5)" vehicle="496" alpha="255" interior="0" posX="-1565.2002" posY="-1611" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (6)" vehicle="496" alpha="255" interior="0" posX="-1565.2" posY="-1607.5" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (7)" vehicle="496" alpha="255" interior="0" posX="-1565.2" posY="-1603.8" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (8)" vehicle="496" alpha="255" interior="0" posX="-1565.2" posY="-1600.3" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (9)" vehicle="496" alpha="255" interior="0" posX="-1571.5" posY="-1600.2998" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (10)" vehicle="496" alpha="255" interior="0" posX="-1571.5" posY="-1604.3" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (11)" vehicle="496" alpha="255" interior="0" posX="-1571.5" posY="-1608" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (12)" vehicle="496" alpha="255" interior="0" posX="-1571.5" posY="-1611.8" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (13)" vehicle="496" alpha="255" interior="0" posX="-1577.8" posY="-1611.8" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (14)" vehicle="496" alpha="255" interior="0" posX="-1577.8" posY="-1607.3" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (15)" vehicle="496" alpha="255" interior="0" posX="-1577.8" posY="-1603.8" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (16)" vehicle="496" alpha="255" interior="0" posX="-1577.8" posY="-1599.8" posZ="37.7" rotX="0" rotY="0" rotZ="265.995"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="corona" color="#00F9" size="10" nextid="checkpoint () (2)" posX="-1468.8" posY="-1620.1" posZ="42.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="corona" color="#00F9" size="10" nextid="checkpoint () (3)" posX="-1204" posY="-1802" posZ="51" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="corona" color="#00F9" size="10" nextid="checkpoint () (4)" posX="-1120" posY="-1902.2998" posZ="74.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="corona" color="#00F9" size="10" nextid="checkpoint () (5)" posX="-1098.0996" posY="-2136.7998" posZ="36.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="corona" color="#00F9" size="10" nextid="checkpoint () (6)" posX="-1169.9" posY="-2361" posZ="43.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="corona" color="#00F9" size="10" nextid="checkpoint () (7)" posX="-1144.6" posY="-2560.1001" posZ="69.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="corona" color="#00F9" size="10" nextid="checkpoint () (8)" posX="-964.20001" posY="-2607" posZ="87.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="corona" color="#00F9" size="10" nextid="checkpoint () (9)" posX="-773.2002" posY="-2448.0996" posZ="70.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="corona" color="#00F9" size="10" nextid="checkpoint () (10)" posX="-666" posY="-2224" posZ="9.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="corona" color="#00F9" size="10" nextid="checkpoint () (11)" posX="-472.5" posY="-2178" posZ="58.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="corona" color="#00F9" size="10" nextid="checkpoint () (12)" posX="-286.70001" posY="-2096" posZ="38.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="corona" color="#00F9" size="10" nextid="checkpoint () (13)" posX="-280.20001" posY="-1879.2" posZ="24.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="corona" color="#00F9" size="10" nextid="checkpoint () (14)" posX="-194.2" posY="-1634.7" posZ="2.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="corona" color="#00F9" size="10" nextid="checkpoint () (15)" posX="-111.3" posY="-1483.7" posZ="1.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="corona" color="#00F9" size="10" nextid="checkpoint () (16)" posX="-141.8" posY="-1255.5" posZ="1.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="corona" color="#00F9" size="10" nextid="checkpoint () (17)" posX="-130.7" posY="-1118.3" posZ="2.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="corona" color="#00F9" size="10" nextid="checkpoint () (18)" posX="-156.10001" posY="-1016.5" posZ="0" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (18)" type="corona" color="#00F9" size="10" nextid="checkpoint () (19)" posX="-362.5" posY="-1112.5" posZ="68.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (19)" type="corona" color="#00F9" size="10" nextid="checkpoint () (20)" posX="-479.89999" posY="-992.40002" posZ="24.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (20)" type="corona" color="#00F9" size="10" nextid="checkpoint () (21)" posX="-564.5" posY="-1054.4" posZ="22.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (21)" type="corona" color="#00F9" size="10" nextid="checkpoint () (22)" posX="-607.09998" posY="-1215.5" posZ="20.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (22)" type="corona" color="#00F9" size="10" nextid="checkpoint () (23)" posX="-562.59998" posY="-1254.8" posZ="20.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (23)" type="corona" color="#00F9" size="10" nextid="checkpoint () (24)" posX="-431.10001" posY="-1272.1" posZ="31.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (24)" type="checkpoint" color="#00FF0099" size="20" posX="-226.89999" posY="-1314.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (1)" type="repair" vehicle="522" respawn="0" posX="-1105.8" posY="-2169.5" posZ="34.9" rotX="0" rotY="0" rotZ="88.56"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-1108.5" posY="-2168.3" posZ="34.9" rotX="0" rotY="0" rotZ="303.48"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-1111.8" posY="-2166.5" posZ="34.9" rotX="0" rotY="0" rotZ="148.32"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-1115.3" posY="-2165.3" posZ="34.9" rotX="0" rotY="0" rotZ="250.38"></racepickup>
+    <racepickup id="racepickup (NRG-500) (5)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-766.5" posY="-2433.3999" posZ="68.5" rotX="0" rotY="0" rotZ="356.58"></racepickup>
+    <racepickup id="racepickup (NRG-500) (6)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-765" posY="-2434.8999" posZ="68.5" rotX="0" rotY="0" rotZ="181.44"></racepickup>
+    <racepickup id="racepickup (NRG-500) (7)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-762.79999" posY="-2436.1001" posZ="68.5" rotX="0" rotY="0" rotZ="335.52"></racepickup>
+    <racepickup id="racepickup (NRG-500) (8)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-760" posY="-2437.8" posZ="68.5" rotX="0" rotY="0" rotZ="5.58"></racepickup>
+    <racepickup id="racepickup (NRG-500) (9)" type="nitro" vehicle="522" respawn="0" posX="-649.09998" posY="-2197.3" posZ="12" rotX="0" rotY="0" rotZ="60.3"></racepickup>
+    <racepickup id="racepickup (NRG-500) (10)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="-646.09998" posY="-2199.3" posZ="12" rotX="0" rotY="0" rotZ="276.66"></racepickup>
+    <racepickup id="racepickup (NRG-500) (11)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="-642.79999" posY="-2202.3" posZ="12" rotX="0" rotY="0" rotZ="97.56"></racepickup>
+    <racepickup id="racepickup (NRG-500) (12)" type="repair" vehicle="522" respawn="0" posX="-259.79999" posY="-2083.2" posZ="38" rotX="0" rotY="0" rotZ="131.76"></racepickup>
+    <racepickup id="racepickup (NRG-500) (13)" type="repair" vehicle="522" respawn="0" posX="-154.39999" posY="-1337.5" posZ="3.3" rotX="0" rotY="0" rotZ="292.32"></racepickup>
+    <racepickup id="racepickup (NRG-500) (14)" type="nitro" vehicle="522" respawn="0" posX="-189" posY="-997.29999" posZ="8.3" rotX="0" rotY="0" rotZ="101.7"></racepickup>
+    <racepickup id="racepickup (NRG-500) (15)" type="repair" vehicle="522" respawn="0" posX="-514.79999" posY="-1012.4" posZ="25.3" rotX="0" rotY="0" rotZ="205.92"></racepickup>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1559.7" posY="-1597.3" posZ="37.8" rotX="0" rotY="0" rotZ="247.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1566.2" posY="-1594.5" posZ="37.8" rotX="0" rotY="0" rotZ="247.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1572.5" posY="-1592" posZ="37.8" rotX="0" rotY="0" rotZ="247.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1578" posY="-1589.5" posZ="37.8" rotX="0" rotY="0" rotZ="247.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1572.5" posY="-1596" posZ="37.8" rotX="0" rotY="0" rotZ="250.244"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1578.8" posY="-1592.8" posZ="37.8" rotX="0" rotY="0" rotZ="250.241"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1579.5" posY="-1596.3" posZ="37.8" rotX="0" rotY="0" rotZ="259.741"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1558.5" posY="-1594" posZ="37.8" rotX="0" rotY="0" rotZ="247.994"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1565.7" posY="-1591.3" posZ="37.8" rotX="0" rotY="0" rotZ="247.994"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1571.8" posY="-1588.3" posZ="37.8" rotX="0" rotY="0" rotZ="247.994"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1576.7998" posY="-1585.2998" posZ="37.8" rotX="0" rotY="0" rotZ="247.989"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1557.3" posY="-1590.6" posZ="37.8" rotX="0" rotY="0" rotZ="235.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1564.6" posY="-1587.8" posZ="37.8" rotX="0" rotY="358" rotZ="239.994"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1570.3" posY="-1584.3" posZ="37.8" rotX="0" rotY="357.995" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1575.5" posY="-1581.3" posZ="37.8" rotX="0" rotY="357.995" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1556.2" posY="-1587.1" posZ="37.8" rotX="0" rotY="357.995" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1562.7" posY="-1584.1" posZ="37.8" rotX="0" rotY="357.995" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1568.2" posY="-1580.8" posZ="37.8" rotX="0" rotY="357.995" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1574" posY="-1577.8" posZ="37.8" rotX="0" rotY="357.995" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1555" posY="-1583.5" posZ="37.8" rotX="0" rotY="357.995" rotZ="231.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1560.3" posY="-1580.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="231.987"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1566" posY="-1577.3" posZ="37.8" rotX="0" rotY="357.99" rotZ="231.987"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1571.3" posY="-1574.3" posZ="37.8" rotX="0" rotY="357.99" rotZ="231.987"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1552.8" posY="-1580.8" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.987"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1557.8" posY="-1576.8" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1563.3" posY="-1574.3" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1568.8" posY="-1571" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1566.3" posY="-1568.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1560.8" posY="-1570.8" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1556.3" posY="-1573.8" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1551.3" posY="-1577.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1549.5" posY="-1574.8" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1554.5" posY="-1570.8" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1559.5" posY="-1567" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1564" posY="-1563.8" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1560.8" posY="-1560.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1555.5" posY="-1564.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1551" posY="-1568" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1547" posY="-1572.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1544.5" posY="-1570.8" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1548.5" posY="-1565.3" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1552.8" posY="-1561.3" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1558" posY="-1557.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1554.8" posY="-1554.8" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1551.5" posY="-1553" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1550" posY="-1558.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1545.5" posY="-1563" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" alpha="255" interior="0" posX="-1541.5" posY="-1568.3" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <object id="object (MTraffic4) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1535.61" posY="-1576.09" posZ="41.63" rotX="0" rotY="0" rotZ="35.75"></object>
+    <object id="object (MTraffic4) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1538.61" posY="-1578.34" posZ="41.63" rotX="0" rotY="0" rotZ="46.25"></object>
+    <object id="object (MTraffic4) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1541.86" posY="-1581.09" posZ="41.63" rotX="0" rotY="0" rotZ="46.247"></object>
+    <object id="object (MTraffic4) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1544.86" posY="-1584.09" posZ="41.63" rotX="0" rotY="0" rotZ="46.247"></object>
+    <object id="object (MTraffic4) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1547.47" posY="-1587.25" posZ="41.63" rotX="0" rotY="0" rotZ="56.747"></object>
+    <object id="object (MTraffic4) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1549.97" posY="-1590.5" posZ="41.63" rotX="0" rotY="0.5" rotZ="62.744"></object>
+    <object id="object (MTraffic4) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1552.22" posY="-1593.75" posZ="41.63" rotX="0" rotY="0.5" rotZ="60.243"></object>
+    <object id="object (MTraffic4) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1553.72" posY="-1597.25" posZ="41.63" rotX="0" rotY="0.5" rotZ="86.488"></object>
+    <object id="object (MTraffic4) (9)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1553.97" posY="-1600.75" posZ="41.63" rotX="0" rotY="0.5" rotZ="88.484"></object>
+    <object id="object (MTraffic4) (10)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1554.22" posY="-1604.25" posZ="41.63" rotX="0" rotY="0.5" rotZ="88.484"></object>
+    <object id="object (MTraffic4) (11)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1554.72" posY="-1607.75" posZ="41.63" rotX="0" rotY="0.5" rotZ="88.484"></object>
+    <object id="object (MTraffic4) (12)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1554.72" posY="-1611.25" posZ="41.63" rotX="0" rotY="0.5" rotZ="88.484"></object>
+    <object id="object (des_windsockpole) (1)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1554.95" posY="-1617.95" posZ="37.41" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (des_windsockpole) (2)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1554.5" posY="-1612.74" posZ="41.41" rotX="0" rotY="90" rotZ="84.75"></object>
+    <object id="object (des_windsockpole) (3)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1554.0601" posY="-1607.49" posZ="41.41" rotX="0" rotY="90" rotZ="83.499"></object>
+    <object id="object (des_windsockpole) (4)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1553.5601" posY="-1602.4399" posZ="41.41" rotX="0" rotY="90" rotZ="77.497"></object>
+    <object id="object (des_windsockpole) (5)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1552.02" posY="-1594.03" posZ="41.41" rotX="0" rotY="90" rotZ="54.992"></object>
+    <object id="object (des_windsockpole) (7)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1549.45" posY="-1590.36" posZ="41.41" rotX="0" rotY="90" rotZ="50.992"></object>
+    <object id="object (des_windsockpole) (6)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1544.6" posY="-1584.25" posZ="41.41" rotX="0" rotY="89.5" rotZ="42.488"></object>
+    <object id="object (des_windsockpole) (8)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1541.35" posY="-1581" posZ="41.41" rotX="0" rotY="89.495" rotZ="40.984"></object>
+    <object id="object (des_windsockpole) (9)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1554.92" posY="-1617.9" posZ="41.41" rotX="0" rotY="90" rotZ="84.749"></object>
+    <object id="object (des_windsockpole) (10)" breakable="false" interior="0" alpha="255" model="16101" doublesided="false" scale="1" dimension="0" posX="-1533.1899" posY="-1573.85" posZ="37.41" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (MTraffic4) (13)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1533.22" posY="-1573.63" posZ="41.38" rotX="0" rotY="0" rotZ="48.5"></object>
+    <object id="object (MTraffic4) (14)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1533.22" posY="-1573.63" posZ="43.88" rotX="0" rotY="0" rotZ="48.499"></object>
+    <object id="object (MTraffic4) (15)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1533.22" posY="-1573.63" posZ="46.38" rotX="0" rotY="0" rotZ="48.499"></object>
+    <object id="object (MTraffic4) (17)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1554.72" posY="-1614.5" posZ="41.63" rotX="0" rotY="0.5" rotZ="88.484"></object>
+    <object id="object (MTraffic4) (18)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1555.24" posY="-1617.84" posZ="41.63" rotX="0" rotY="0.5" rotZ="88.484"></object>
+    <object id="object (MTraffic4) (19)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1555.24" posY="-1617.84" posZ="44.38" rotX="0" rotY="0.5" rotZ="88.484"></object>
+    <object id="object (MTraffic4) (20)" breakable="true" interior="0" collisions="true" alpha="255" model="1262" doublesided="false" scale="1" dimension="0" posX="-1555.24" posY="-1617.84" posZ="47.13" rotX="0" rotY="0.5" rotZ="88.484"></object>
+    <spawnpoint id="spawnpoint (Blista Compact) (17)" vehicle="496" alpha="255" interior="0" posX="-1554.7" posY="-1548.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (19)" vehicle="496" alpha="255" interior="0" posX="-1558" posY="-1550.3" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (20)" vehicle="496" alpha="255" interior="0" posX="-1561.5" posY="-1552.6" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (21)" vehicle="496" alpha="255" interior="0" posX="-1565.2" posY="-1555.7" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.973"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (22)" vehicle="496" alpha="255" interior="0" posX="-1568.3" posY="-1559.3" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.973"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (23)" vehicle="496" alpha="255" interior="0" posX="-1571.1" posY="-1564.1" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (24)" vehicle="496" alpha="255" interior="0" posX="-1573.5" posY="-1567" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (25)" vehicle="496" alpha="255" interior="0" posX="-1576.4" posY="-1570.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="231.982"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (26)" vehicle="496" alpha="255" interior="0" posX="-1579.4" posY="-1574.6" posZ="37.8" rotX="0" rotY="357.99" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (27)" vehicle="496" alpha="255" interior="0" posX="-1581.6" posY="-1578.4" posZ="37.8" rotX="0" rotY="357.99" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (28)" vehicle="496" alpha="255" interior="0" posX="-1583.8" posY="-1582.6" posZ="37.8" rotX="0" rotY="0" rotZ="247.989"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (29)" vehicle="496" alpha="255" interior="0" posX="-1584.7" posY="-1586.6" posZ="37.8" rotX="0" rotY="0" rotZ="247.994"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (30)" vehicle="496" alpha="255" interior="0" posX="-1584.7" posY="-1590.7" posZ="37.8" rotX="0" rotY="0" rotZ="250.236"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (31)" vehicle="496" alpha="255" interior="0" posX="-1585.7" posY="-1595" posZ="37.8" rotX="0" rotY="0" rotZ="259.739"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (32)" vehicle="496" alpha="255" interior="0" posX="-1584.3" posY="-1599.4" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (33)" vehicle="496" alpha="255" interior="0" posX="-1584.1" posY="-1603.5" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (34)" vehicle="496" alpha="255" interior="0" posX="-1583.8" posY="-1606.9" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (35)" vehicle="496" alpha="255" interior="0" posX="-1583.5" posY="-1610.8" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (36)" vehicle="496" alpha="255" interior="0" posX="-1538.2" posY="-1573.2" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (37)" vehicle="496" alpha="255" interior="0" posX="-1541.4" posY="-1575.4" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (38)" vehicle="496" alpha="255" interior="0" posX="-1544.1" posY="-1577.2" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (39)" vehicle="496" alpha="255" interior="0" posX="-1546.3" posY="-1579.3" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (40)" vehicle="496" alpha="255" interior="0" posX="-1547.8" posY="-1582.2" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (41)" vehicle="496" alpha="255" interior="0" posX="-1548.9" posY="-1585" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (42)" vehicle="496" alpha="255" interior="0" posX="-1550.7" posY="-1587.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="231.987"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (43)" vehicle="496" alpha="255" interior="0" posX="-1551.9" posY="-1590.6" posZ="37.8" rotX="0" rotY="357.99" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (44)" vehicle="496" alpha="255" interior="0" posX="-1552.9" posY="-1593.8" posZ="37.8" rotX="0" rotY="0" rotZ="235.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (45)" vehicle="496" alpha="255" interior="0" posX="-1554.1" posY="-1596.7" posZ="37.8" rotX="0" rotY="0" rotZ="247.989"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (46)" vehicle="496" alpha="255" interior="0" posX="-1554.4" posY="-1600" posZ="37.8" rotX="0" rotY="0" rotZ="247.994"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (47)" vehicle="496" alpha="255" interior="0" posX="-1554.1" posY="-1603.6" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (48)" vehicle="496" alpha="255" interior="0" posX="-1554.3" posY="-1606.7" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (49)" vehicle="496" alpha="255" interior="0" posX="-1554.5" posY="-1609.9" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (50)" vehicle="496" alpha="255" interior="0" posX="-1554.5" posY="-1613.6" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (51)" vehicle="496" alpha="255" interior="0" posX="-1560.1" posY="-1614.8" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (52)" vehicle="496" alpha="255" interior="0" posX="-1566" posY="-1614.3" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (53)" vehicle="496" alpha="255" interior="0" posX="-1572.1" posY="-1615.1" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (54)" vehicle="496" alpha="255" interior="0" posX="-1578" posY="-1614.9" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (55)" vehicle="496" alpha="255" interior="0" posX="-1583.7" posY="-1614.5" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (56)" vehicle="496" alpha="255" interior="0" posX="-1547.4" posY="-1556.7" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (57)" vehicle="496" alpha="255" interior="0" posX="-1557.7" posY="-1543.9" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (58)" vehicle="496" alpha="255" interior="0" posX="-1561.1" posY="-1545.6" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (59)" vehicle="496" alpha="255" interior="0" posX="-1564.1" posY="-1547.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (60)" vehicle="496" alpha="255" interior="0" posX="-1566.8" posY="-1549.2" posZ="37.8" rotX="0" rotY="357.99" rotZ="213.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (61)" vehicle="496" alpha="255" interior="0" posX="-1569.3" posY="-1551.7" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.973"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (62)" vehicle="496" alpha="255" interior="0" posX="-1572.2" posY="-1554.9" posZ="37.8" rotX="0" rotY="357.99" rotZ="223.973"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (63)" vehicle="496" alpha="255" interior="0" posX="-1575.6" posY="-1559.2" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (64)" vehicle="496" alpha="255" interior="0" posX="-1578.1" posY="-1562.7" posZ="37.8" rotX="0" rotY="357.99" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (65)" vehicle="496" alpha="255" interior="0" posX="-1581.3" posY="-1566.6" posZ="37.8" rotX="0" rotY="357.99" rotZ="231.982"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (66)" vehicle="496" alpha="255" interior="0" posX="-1584.4" posY="-1571.4" posZ="37.8" rotX="0" rotY="357.99" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (67)" vehicle="496" alpha="255" interior="0" posX="-1586.8" posY="-1575.5" posZ="37.8" rotX="0" rotY="357.99" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (68)" vehicle="496" alpha="255" interior="0" posX="-1589.3" posY="-1580.1" posZ="37.8" rotX="0" rotY="0" rotZ="247.989"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (69)" vehicle="496" alpha="255" interior="0" posX="-1590.6" posY="-1584.4" posZ="37.8" rotX="0" rotY="0" rotZ="247.994"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (70)" vehicle="496" alpha="255" interior="0" posX="-1590.8" posY="-1588.4" posZ="37.8" rotX="0" rotY="0" rotZ="250.236"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (71)" vehicle="496" alpha="255" interior="0" posX="-1591.9" posY="-1593.8" posZ="37.8" rotX="0" rotY="0" rotZ="259.739"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (72)" vehicle="496" alpha="255" interior="0" posX="-1590.3" posY="-1598.9" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (73)" vehicle="496" alpha="255" interior="0" posX="-1589.8" posY="-1603.2" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (74)" vehicle="496" alpha="255" interior="0" posX="-1589.8" posY="-1606.5" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (75)" vehicle="496" alpha="255" interior="0" posX="-1589.4" posY="-1610.2" posZ="37.7" rotX="0" rotY="0" rotZ="265.99"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (76)" vehicle="496" alpha="255" interior="0" posX="-1597.8" posY="-1592.7" posZ="37.8" rotX="0" rotY="0" rotZ="259.739"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (78)" vehicle="496" alpha="255" interior="0" posX="-1596.6" posY="-1586.6" posZ="37.8" rotX="0" rotY="0" rotZ="250.236"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (79)" vehicle="496" alpha="255" interior="0" posX="-1596.2" posY="-1582.3" posZ="37.8" rotX="0" rotY="0" rotZ="247.994"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (80)" vehicle="496" alpha="255" interior="0" posX="-1594.9" posY="-1578" posZ="37.8" rotX="0" rotY="0" rotZ="247.989"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (81)" vehicle="496" alpha="255" interior="0" posX="-1592.5" posY="-1573" posZ="37.8" rotX="0" rotY="357.99" rotZ="239.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (82)" vehicle="496" alpha="255" interior="0" posX="-1589.9" posY="-1568.4" posZ="37.8" rotX="0" rotY="357.99" rotZ="239.991"></spawnpoint>
+</map>

@@ -1,0 +1,29 @@
+<meta>
+    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
+    <file src="bloodra.txd"></file>
+    <script src="script_c.lua" type="client" validate="true"></script>
+    <script src="script_s.lua" type="server"></script>
+    <info gamemodes="race" type="map" racetype="MG" name="BloodBowl Random Track" author="R*, Discoordination" version="1.1" description="My junky attempt to recreate a Bloodbowl minigame. Little glitchy, but playable sometimes. Thanks to SpeedyFolf for help with testing!"></info>
+    <map src="MG-BloodbowlRandomTrack.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 77 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#time" value="0:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 11 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 3 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+        <setting name="#timeafterfirstfinish" value='[ 180 ]'></setting>
+        <setting name="#ghostmode" value='[ false ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

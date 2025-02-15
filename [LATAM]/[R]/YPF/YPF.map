@@ -1,0 +1,57 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" posX="-2793.3999" posY="-471.5" posZ="7" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (2)" vehicle="496" alpha="255" interior="0" posX="-2788.8" posY="-473.89999" posZ="7" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (3)" vehicle="496" alpha="255" interior="0" posX="-2792.8994" posY="-480" posZ="7" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (4)" vehicle="496" alpha="255" interior="0" posX="-2797.3" posY="-477.39999" posZ="7" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (5)" vehicle="496" alpha="255" interior="0" posX="-2782.8999" posY="-478.5" posZ="7" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (6)" vehicle="496" alpha="255" interior="0" posX="-2779" posY="-482" posZ="7" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (7)" vehicle="496" alpha="255" interior="0" posX="-2782.6001" posY="-486.89999" posZ="7" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (8)" vehicle="496" alpha="255" interior="0" posX="-2787.3" posY="-483.79999" posZ="7" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (9)" vehicle="496" alpha="255" interior="0" posX="-2785.1001" posY="-468.79999" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (10)" vehicle="496" alpha="255" interior="0" posX="-2789.5" posY="-466" posZ="6.9" rotX="0" rotY="0" rotZ="145.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (11)" vehicle="496" alpha="255" interior="0" posX="-2778.7" posY="-473.20001" posZ="6.9" rotX="0" rotY="0" rotZ="145.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (12)" vehicle="496" alpha="255" interior="0" posX="-2785.7" posY="-460.10001" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (13)" vehicle="496" alpha="255" interior="0" posX="-2774.2" posY="-476.39999" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (14)" vehicle="496" alpha="255" interior="0" posX="-2779.8999" posY="-453" posZ="6.8" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (15)" vehicle="496" alpha="255" interior="0" posX="-2775.5" posY="-455.70001" posZ="6.8" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (16)" vehicle="496" alpha="255" interior="0" posX="-2769.8" posY="-470.39999" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (17)" vehicle="496" alpha="255" interior="0" posX="-2774.1001" posY="-467" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (18)" vehicle="496" alpha="255" interior="0" posX="-2780.8" posY="-462.89999" posZ="6.9" rotX="0" rotY="0" rotZ="145.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (19)" vehicle="496" alpha="255" interior="0" posX="-2770" posY="-449.60001" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (20)" vehicle="496" alpha="255" interior="0" posX="-2759.1001" posY="-458.20001" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (21)" vehicle="496" alpha="255" interior="0" posX="-2764.3" posY="-454.79999" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (22)" vehicle="496" alpha="255" interior="0" posX="-2769.1001" posY="-461" posZ="6.8" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (23)" vehicle="496" alpha="255" interior="0" posX="-2764.3" posY="-464.10001" posZ="6.8" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (24)" vehicle="496" alpha="255" interior="0" posX="-2771.8" posY="-444.79999" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (25)" vehicle="496" alpha="255" interior="0" posX="-2763.2" posY="-443.10001" posZ="6.9" rotX="0" rotY="0" rotZ="146"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (26)" vehicle="496" alpha="255" interior="0" posX="-2772.8999" posY="-445.70001" posZ="6.9" rotX="0" rotY="0" rotZ="145.997"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="20" nextid="checkpoint () (2)" posX="-2853.3999" posY="-603.40002" posZ="6.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (3)" posX="-2870.8999" posY="-750.90002" posZ="6.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (4)" posX="-2887.5" posY="-1030.4" posZ="10.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (5)" posX="-2935.3" posY="-1353.9" posZ="30.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (6)" posX="-2929.2" posY="-1675.3" posZ="14.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (7)" posX="-2884" posY="-1928.6" posZ="35.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (11)" posX="-2729.1001" posY="-2046.3" posZ="35.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (12)" posX="-2556.3" posY="-2175.3" posZ="28.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (13)" posX="-2619" posY="-2418.1001" posZ="15.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" size="20" alpha="255" interior="0" nextid="checkpoint () (14)" posX="-2551.1001" posY="-2594.7" posZ="30" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#00F9" size="12" alpha="255" interior="0" nextid="checkpoint () (15)" posX="-2330.8" posY="-2710.8999" posZ="43.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#00F9" size="12" alpha="255" interior="0" nextid="checkpoint () (16)" posX="-2295.6001" posY="-2658.3" posZ="38.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" nextid="checkpoint () (9)" color="#00F9" size="1.5" alpha="255" interior="0" posX="-2244.7" posY="-2561.8" posZ="31" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (barrel4) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1225" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2247.8999" posY="-2559.3" posZ="31.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1225" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2248.8" posY="-2561.8999" posZ="31.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="1225" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2246.5" posY="-2556.7" posZ="31.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="1225" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2241.5" posY="-2563.1001" posZ="31.5" rotX="0" rotY="0" rotZ="0"></object>
+    <ped id="ped (1)" interior="0" rotZ="58" dimension="0" model="311" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="-2552.2" posY="-2202.3999" posZ="29.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" interior="0" rotZ="161.999" dimension="0" model="270" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="-2260.1001" posY="-2567.3999" posZ="32.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" interior="0" rotZ="58" dimension="0" model="301" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="-2903.8" posY="-1176.6" posZ="9.5" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (Tractor) (1)" sirens="false" landingGearDown="false" locked="false" plate="1JQ6HZ3" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="531" collisions="true" frozen="false" color="37,37,39,42,119,161,0,0,0,0,0,0" posX="-2240.3999" posY="-2564.7" posZ="31.9" rotX="0" rotY="0" rotZ="336"></vehicle>
+    <vehicle id="vehicle (Greenwood) (1)" sirens="false" landingGearDown="false" locked="false" plate="1W6OUQH" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="492" collisions="true" frozen="true" color="123,113,94,99,92,90,0,0,0,0,0,0" posX="-2263.5996" posY="-2565.2998" posZ="32" rotX="0" rotY="0" rotZ="151.996"></vehicle>
+    <vehicle id="vehicle (Glendale) (1)" sirens="false" landingGearDown="false" locked="false" plate="68K6AS5" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="466" collisions="true" frozen="true" color="42,168,179,164,160,150,0,0,0,0,0,0" posX="-2542.5" posY="-2202.8" posZ="29.5" rotX="0" rotY="0" rotZ="111.995"></vehicle>
+    <vehicle id="vehicle (Picador) (1)" sirens="false" landingGearDown="false" locked="false" plate="SSTDL9L" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="600" collisions="true" frozen="false" color="69,18,66,2,3,3,0,0,0,0,0,0" posX="-2913" posY="-1193.3" posZ="9.1" rotX="0" rotY="0" rotZ="261.996"></vehicle>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="-2919.5" posY="-1190.8" posZ="9.9" rotX="0" rotY="0" rotZ="58.5"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="-2906.7002" posY="-1193.5" posZ="9.8" rotX="0" rotY="0" rotZ="262.44"></racepickup>
+    <ped id="ped (2)" interior="0" rotZ="58" dimension="0" model="301" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="-2916.5" posY="-1173.7" posZ="9.5" rotX="0" rotY="0"></ped>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" posX="-2613.3999" posY="-2331.7" posZ="11.6" rotX="0" rotY="0" rotZ="207"></racepickup>
+    <object id="object (DYN_RAMP) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1503" scale="1" doublesided="false" collisions="true" posX="-2353.7" posY="-2708.3999" posZ="45.1" rotX="0" rotY="0" rotZ="230"></object>
+</map>

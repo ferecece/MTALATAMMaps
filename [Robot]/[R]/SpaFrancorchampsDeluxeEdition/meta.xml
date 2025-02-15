@@ -1,0 +1,134 @@
+<meta>
+    <!-- Clean model unloader hook from botder -->
+    <script src="unloader.lua" type="client"></script>
+    
+    <script src="client.lua" type="client"></script>
+    <script src="weather.lua" type="server"></script>
+    <info gamemodes="race" type="map" racetype="R" name="Spa-Francorchamps (Deluxe Edition)" author="[SKC]" version="1.7"></info>
+    <map src="race-spa-francorchamps.map" dimension="0"></map>
+
+	<file src="vehicle-formula/model.dff" />
+    <file src="vehicle-formula/texture.txd" />
+    <script src="vehicle-formula/car.lua" type="client" />
+    <script src="vehicle-formula/handling.lua" type="client" />
+
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#gravity" value="[ 0.008 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 3 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#duration" value="[ 600 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+
+	<script src="map-spa/models.lua" type="client" />
+	<script src="map-spa/clouds.lua" type="client" />
+	<file src="map-spa/buildings.txd" />
+	<file src="map-spa/track.txd" />
+	<file src="map-spa/tyre.txd" />
+	<file src="map-spa/spa_tyre_17.dff" />
+	<file src="map-spa/spa_tyre_17.col" />
+	<file src="map-spa/track_007.dff" />
+	<file src="map-spa/track_007.col" />
+	<file src="map-spa/spa_tyre_01.dff" />
+	<file src="map-spa/spa_tyre_01.col" />
+	<file src="map-spa/spa_tyre_02.dff" />
+	<file src="map-spa/spa_tyre_02.col" />
+	<file src="map-spa/spa_tyre_03.dff" />
+	<file src="map-spa/spa_tyre_03.col" />
+	<file src="map-spa/spa_tyre_04.dff" />
+	<file src="map-spa/spa_tyre_04.col" />
+	<file src="map-spa/spa_tyre_05.dff" />
+	<file src="map-spa/spa_tyre_05.col" />
+	<file src="map-spa/spa_tyre_06.dff" />
+	<file src="map-spa/spa_tyre_06.col" />
+	<file src="map-spa/spa_tyre_07.dff" />
+	<file src="map-spa/spa_tyre_07.col" />
+	<file src="map-spa/spa_tyre_08.dff" />
+	<file src="map-spa/spa_tyre_08.col" />
+	<file src="map-spa/spa_tyre_09.dff" />
+	<file src="map-spa/spa_tyre_09.col" />
+	<file src="map-spa/spa_tyre_10.dff" />
+	<file src="map-spa/spa_tyre_10.col" />
+	<file src="map-spa/spa_tyre_11.dff" />
+	<file src="map-spa/spa_tyre_11.col" />
+	<file src="map-spa/spa_tyre_12.dff" />
+	<file src="map-spa/spa_tyre_12.col" />
+	<file src="map-spa/spa_tyre_13.dff" />
+	<file src="map-spa/spa_tyre_13.col" />
+	<file src="map-spa/spa_tyre_14.dff" />
+	<file src="map-spa/spa_tyre_14.col" />
+	<file src="map-spa/spa_tyre_15.dff" />
+	<file src="map-spa/spa_tyre_15.col" />
+	<file src="map-spa/spa_tyre_16.dff" />
+	<file src="map-spa/spa_tyre_16.col" />
+	<file src="map-spa/spa_bld_01.dff" />
+	<file src="map-spa/spa_bld_01.col" />
+	<file src="map-spa/spa_bld_02.dff" />
+	<file src="map-spa/spa_bld_02.col" />
+	<file src="map-spa/spa_bld_04.dff" />
+	<file src="map-spa/spa_bld_04.col" />
+	<file src="map-spa/spa_bld_05.dff" />
+	<file src="map-spa/spa_bld_05.col" />
+	<file src="map-spa/spa_bld_06.dff" />
+	<file src="map-spa/spa_bld_06.col" />
+	<file src="map-spa/spa_bld_07.dff" />
+	<file src="map-spa/spa_bld_07.col" />
+	<file src="map-spa/spa_bld_08.dff" />
+	<file src="map-spa/spa_bld_08.col" />
+	<file src="map-spa/spa_bld_10.dff" />
+	<file src="map-spa/spa_bld_10.col" />
+	<file src="map-spa/spa_bld_16.dff" />
+	<file src="map-spa/spa_bld_16.col" />
+	<file src="map-spa/spa_bld_18.dff" />
+	<file src="map-spa/spa_bld_18.col" />
+	<file src="map-spa/spa_bld_19.dff" />
+	<file src="map-spa/spa_bld_19.col" />
+	<file src="map-spa/track_006.dff" />
+	<file src="map-spa/track_006.col" />
+	<file src="map-spa/track_001.dff" />
+	<file src="map-spa/track_001.col" />
+	<file src="map-spa/track_002.dff" />
+	<file src="map-spa/track_002.col" />
+	<file src="map-spa/track_003.dff" />
+	<file src="map-spa/track_003.col" />
+	<file src="map-spa/track_004.dff" />
+	<file src="map-spa/track_004.col" />
+	<file src="map-spa/track_005.dff" />
+	<file src="map-spa/track_005.col" />
+	<file src="map-spa/track_018.dff" />
+	<file src="map-spa/track_018.col" />
+	<file src="map-spa/track_008.dff" />
+	<file src="map-spa/track_008.col" />
+	<file src="map-spa/track_009.dff" />
+	<file src="map-spa/track_009.col" />
+	<file src="map-spa/track_010.dff" />
+	<file src="map-spa/track_010.col" />
+	<file src="map-spa/track_011.dff" />
+	<file src="map-spa/track_011.col" />
+	<file src="map-spa/track_012.dff" />
+	<file src="map-spa/track_012.col" />
+	<file src="map-spa/track_013.dff" />
+	<file src="map-spa/track_013.col" />
+	<file src="map-spa/track_014.dff" />
+	<file src="map-spa/track_014.col" />
+	<file src="map-spa/track_015.dff" />
+	<file src="map-spa/track_015.col" />
+	<file src="map-spa/track_016.dff" />
+	<file src="map-spa/track_016.col" />
+	<file src="map-spa/track_017.dff" />
+	<file src="map-spa/track_017.col" />
+	<file src="map-spa/track_019.dff" />
+	<file src="map-spa/track_019.col" />
+</meta>

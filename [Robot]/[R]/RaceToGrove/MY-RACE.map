@@ -1,0 +1,111 @@
+<map edf:definitions="editor_main,race">
+    <racepickup id="racepickup (NRG-500) (1)" type="repair" vehicle="522" respawn="0" posX="2606.8999" posY="-1724.30005" posZ="2" rotX="0" rotY="0" rotZ="32.578"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2553.5" posY="-1711.09998" posZ="5.4" rotX="0" rotY="0" rotZ="230.758"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2606.89941" posY="-1724.2998" posZ="2" rotX="0" rotY="0" rotZ="73.438"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2604" posY="-1724.69922" posZ="2" rotX="0" rotY="0" rotZ="313.563"></racepickup>
+    <racepickup id="racepickup (NRG-500) (5)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2600.89941" posY="-1725.19922" posZ="2" rotX="0" rotY="0" rotZ="208.438"></racepickup>
+    <racepickup id="racepickup (NRG-500) (6)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2596.7998" posY="-1726.59961" posZ="2" rotX="0" rotY="0" rotZ="239.219"></racepickup>
+    <racepickup id="racepickup (NRG-500) (10)" type="vehiclechange" vehicle="522" respawn="0" posX="2531" posY="-1858.5" posZ="3.5" rotX="0" rotY="0" rotZ="308.879"></racepickup>
+    <racepickup id="racepickup (NRG-500) (11)" type="vehiclechange" vehicle="522" respawn="0" alpha="255" interior="0" posX="2532.39941" posY="-1845.39941" posZ="3.5" rotX="0" rotY="0" rotZ="351.906"></racepickup>
+    <racepickup id="racepickup (NRG-500) (12)" type="vehiclechange" vehicle="522" respawn="0" alpha="255" interior="0" posX="2532.7998" posY="-1849.09961" posZ="3.5" rotX="0" rotY="0" rotZ="221.938"></racepickup>
+    <racepickup id="racepickup (NRG-500) (13)" type="vehiclechange" vehicle="522" respawn="0" alpha="255" interior="0" posX="2533.80005" posY="-1841.5" posZ="3.6" rotX="0" rotY="0" rotZ="87.664"></racepickup>
+    <racepickup id="racepickup (Bobcat) (1)" type="vehiclechange" vehicle="422" respawn="0" posX="2198" posY="-1775.19995" posZ="13.5" rotX="0" rotY="0" rotZ="260.984"></racepickup>
+    <racepickup id="racepickup (Bobcat) (3)" type="vehiclechange" vehicle="422" respawn="0" alpha="255" interior="0" posX="2201.19922" posY="-1774.5" posZ="13.5" rotX="0" rotY="0" rotZ="359.641"></racepickup>
+    <racepickup id="racepickup (Greenwood) (1)" type="vehiclechange" vehicle="492" respawn="0" posX="2401.30005" posY="-1925" posZ="13.7" rotX="0" rotY="0" rotZ="252.891"></racepickup>
+    <racepickup id="racepickup (Greenwood) (2)" type="vehiclechange" vehicle="492" respawn="0" alpha="255" interior="0" posX="2396.89941" posY="-1926.89941" posZ="13.7" rotX="0" rotY="0" rotZ="89.625"></racepickup>
+    <racepickup id="racepickup (Greenwood) (3)" type="vehiclechange" vehicle="492" respawn="0" alpha="255" interior="0" posX="2397.2998" posY="-1924.5" posZ="13.7" rotX="0" rotY="0" rotZ="344.703"></racepickup>
+    <racepickup id="racepickup (Greenwood) (4)" type="vehiclechange" vehicle="492" respawn="0" alpha="255" interior="0" posX="2398" posY="-1920.7998" posZ="13.7" rotX="0" rotY="0" rotZ="54.719"></racepickup>
+    <racepickup id="racepickup (Bike) (1)" type="vehiclechange" vehicle="509" respawn="0" posX="2418.30005" posY="-1691.19995" posZ="14.1" rotX="0" rotY="0" rotZ="91.984"></racepickup>
+    <racepickup id="racepickup (NRG-500) (14)" type="nitro" vehicle="522" respawn="0" posX="2203.1001" posY="-1782.5" posZ="13.5" rotX="0" rotY="0" rotZ="48.609"></racepickup>
+    <racepickup id="racepickup (NRG-500) (15)" type="nitro" vehicle="522" respawn="0" posX="2199.1001" posY="-1782.40002" posZ="13.5" rotX="0" rotY="0" rotZ="129.422"></racepickup>
+    <spawnpoint id="spawnpoint (Sultan) (1)" vehicle="560" posX="2592.6001" posY="-2168.80005" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (2)" vehicle="560" alpha="255" interior="0" posX="2571.6001" posY="-2168.6001" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (3)" vehicle="560" alpha="255" interior="0" posX="2578.09961" posY="-2168.59961" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (4)" vehicle="560" alpha="255" interior="0" posX="2581.5" posY="-2168.7998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (5)" vehicle="560" alpha="255" interior="0" posX="2584.19922" posY="-2168.59961" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (6)" vehicle="560" alpha="255" interior="0" posX="2587" posY="-2168.7998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (7)" vehicle="560" alpha="255" interior="0" posX="2589.69922" posY="-2168.7998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (8)" vehicle="560" alpha="255" interior="0" posX="2575.09961" posY="-2168.5" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (9)" vehicle="560" alpha="255" interior="0" posX="2589.5" posY="-2176" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (10)" vehicle="560" alpha="255" interior="0" posX="2592.59961" posY="-2175.89941" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (11)" vehicle="560" alpha="255" interior="0" posX="2586.6001" posY="-2176.30005" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (12)" vehicle="560" alpha="255" interior="0" posX="2593.19995" posY="-2184.30005" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (13)" vehicle="560" alpha="255" interior="0" posX="2583.59961" posY="-2176.2998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (14)" vehicle="560" alpha="255" interior="0" posX="2580.39941" posY="-2176.09961" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (15)" vehicle="560" alpha="255" interior="0" posX="2577" posY="-2176.59961" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (16)" vehicle="560" alpha="255" interior="0" posX="2574" posY="-2176.5" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (17)" vehicle="560" alpha="255" interior="0" posX="2570.59961" posY="-2177" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (18)" vehicle="560" alpha="255" interior="0" posX="2595.6001" posY="-2190.6001" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (19)" vehicle="560" alpha="255" interior="0" posX="2577.09961" posY="-2183.7998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (20)" vehicle="560" alpha="255" interior="0" posX="2580.69922" posY="-2183.89941" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (21)" vehicle="560" alpha="255" interior="0" posX="2583.89941" posY="-2184.2998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (22)" vehicle="560" alpha="255" interior="0" posX="2587.09961" posY="-2184.09961" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (23)" vehicle="560" alpha="255" interior="0" posX="2590" posY="-2184.2998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (24)" vehicle="560" alpha="255" interior="0" posX="2573.59961" posY="-2183.69922" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (25)" vehicle="560" alpha="255" interior="0" posX="2571.2998" posY="-2190.2998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (26)" vehicle="560" alpha="255" interior="0" posX="2574.80005" posY="-2190.19995" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (27)" vehicle="560" alpha="255" interior="0" posX="2578.1001" posY="-2190.30005" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (28)" vehicle="560" alpha="255" interior="0" posX="2581.2998" posY="-2190.7998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (29)" vehicle="560" alpha="255" interior="0" posX="2584.7998" posY="-2190.7998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (30)" vehicle="560" alpha="255" interior="0" posX="2588.39941" posY="-2190.7998" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (31)" vehicle="560" alpha="255" interior="0" posX="2592.09961" posY="-2190.69922" posZ="0" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <object id="object (DYN_WREKING_BALL) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3054" scale="4" dimension="0" posX="2559.6001" posY="-2063.19995" posZ="6.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_WREKING_BALL) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3054" scale="4" dimension="0" posX="2575.19922" posY="-2062.59961" posZ="7.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_WREKING_BALL) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3054" scale="4" dimension="0" posX="2568" posY="-2062.2998" posZ="6.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_WREKING_BALL) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="3054" scale="4" dimension="0" posX="2568" posY="-2062.2998" posZ="6.8" rotX="0" rotY="0" rotZ="0"></object>
+    <vehicle id="vehicle (Greenwood) (23)" paintjob="3" interior="0" alpha="255" model="492" plate="PLPBAY4" dimension="0" color="66,31,33,165,169,167,0,0,0,0,0,0" posX="2572.19995" posY="-1755.80005" posZ="1.5" rotX="0" rotY="0" rotZ="108"></vehicle>
+    <vehicle id="vehicle (Greenwood) (24)" paintjob="3" interior="0" alpha="255" model="492" plate="Z9UIP7Z" dimension="0" color="66,31,33,165,169,167,0,0,0,0,0,0" posX="2560.19995" posY="-1755.59998" posZ="1.5" rotX="0" rotY="0" rotZ="107.996"></vehicle>
+    <vehicle id="vehicle (Greenwood) (25)" paintjob="3" interior="0" alpha="255" model="492" plate="2XF2MHP" dimension="0" color="66,31,33,165,169,167,0,0,0,0,0,0" posX="2566.19995" posY="-1755.59998" posZ="1.5" rotX="0" rotY="0" rotZ="107.996"></vehicle>
+    <ped id="ped (1)" dimension="0" model="105" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="2568" posY="-1757.80005" posZ="1.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="105" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="2565.19995" posY="-1758.19995" posZ="1.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="105" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="2562.5" posY="-1757.59961" posZ="1.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" dimension="0" model="105" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="2570.5" posY="-1754.09998" posZ="1.6" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (NRG-500) (1)" paintjob="3" interior="0" alpha="255" model="522" plate="QFSVYUD" dimension="0" color="132,4,16,132,4,16,0,0,0,0,0,0" posX="2568.19995" posY="-1728.80005" posZ="1.3" rotX="0" rotY="0" rotZ="54"></vehicle>
+    <vehicle id="vehicle (NRG-500) (2)" paintjob="3" interior="0" alpha="255" model="522" plate="7V2UXMV" dimension="0" color="132,4,16,132,4,16,0,0,0,0,0,0" posX="2570.89941" posY="-1729.5" posZ="1.3" rotX="0" rotY="0" rotZ="53.998" upgrades="1079"></vehicle>
+    <vehicle id="vehicle (NRG-500) (3)" paintjob="3" interior="0" alpha="255" model="522" plate="NAUKY7V" dimension="0" color="132,4,16,132,4,16,0,0,0,0,0,0" posX="2564.6001" posY="-1728.69995" posZ="1.3" rotX="0" rotY="0" rotZ="53.998"></vehicle>
+    <ped id="ped (5)" dimension="0" model="102" interior="0" rotZ="178" frozen="false" alpha="255" posX="2571.5" posY="-1728.40002" posZ="1.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" dimension="0" model="102" interior="0" rotZ="194" frozen="false" alpha="255" posX="2573.5" posY="-1729.30005" posZ="1.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" dimension="0" model="102" interior="0" rotZ="178" frozen="false" alpha="255" posX="2569.69922" posY="-1727.7998" posZ="1.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" dimension="0" model="102" interior="0" rotZ="178" frozen="false" alpha="255" posX="2566.39941" posY="-1727.7998" posZ="1.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (9)" dimension="0" model="102" interior="0" rotZ="178" frozen="false" alpha="255" posX="2568.09961" posY="-1727.2998" posZ="1.6" rotX="0" rotY="0"></ped>
+    <object id="object (wall1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="13647" scale="1" dimension="0" posX="2619.80005" posY="-1623.09998" posZ="5.2" rotX="0" rotY="0" rotZ="266"></object>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (2)" posX="2582.6001" posY="-2121.69995" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (3)" posX="2599.6001" posY="-2023.30005" posZ="2.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (4)" posX="2599.69995" posY="-1761.5" posZ="0.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (6)" posX="2611.6001" posY="-1511.59998" posZ="14.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (33)" posX="2569.3999" posY="-1592.90002" posZ="3.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (33)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (34)" posX="2552.6001" posY="-1732.80005" posZ="5.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (34)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (35)" posX="2557.3999" posY="-1838.40002" posZ="2.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (10)" type="vehiclechange" vehicle="522" respawn="0" alpha="255" interior="0" posX="2533" posY="-1853.59961" posZ="3.5" rotX="0" rotY="0" rotZ="48.781"></racepickup>
+    <checkpoint id="checkpoint () (35)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (36)" posX="2462.80005" posY="-1848.80005" posZ="0.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (36)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (37)" posX="2216.80005" posY="-1851.5" posZ="0.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (37)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (38)" posX="2091.8999" posY="-1835.90002" posZ="12.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (38)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (39)" posX="2130.30005" posY="-1754.19995" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (39)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (40)" posX="2200.19995" posY="-1737.90002" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (40)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (41)" posX="2215" posY="-1894.19995" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (41)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (42)" posX="2314.6001" posY="-1951.5" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (42)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (43)" posX="2359.6001" posY="-1971.90002" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (43)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (44)" posX="2411.19995" posY="-1943.19995" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (44)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (45)" posX="2375.30005" posY="-1906.59998" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (45)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (22)" posX="2412.1001" posY="-1864.59998" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (7)" type="repair" vehicle="522" respawn="0" posX="2553.3999" posY="-1711.90002" posZ="8.1" rotX="0" rotY="0" rotZ="87.84"></racepickup>
+    <racepickup id="racepickup (NRG-500) (8)" type="repair" vehicle="522" respawn="0" posX="2417" posY="-1705.5" posZ="14.1" rotX="0" rotY="0" rotZ="47.88"></racepickup>
+    <object id="object (landjump2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="2244.8999" posY="-1937.40002" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    <racepickup id="racepickup (Infernus) (1)" type="vehiclechange" vehicle="411" respawn="0" posX="2255.3999" posY="-1937.30005" posZ="18.2" rotX="0" rotY="0" rotZ="250.219"></racepickup>
+    <vehicle id="vehicle (Hotdog) (1)" paintjob="3" interior="0" alpha="255" model="588" plate="10R1D78" dimension="0" color="245,245,245,245,245,245,0,0,0,0,0,0" posX="2370.80005" posY="-1893.19995" posZ="12.4" rotX="0" rotY="0" rotZ="0"></vehicle>
+    <ped id="ped (10)" dimension="0" model="161" interior="0" rotZ="42.003" frozen="false" alpha="255" posX="2373" posY="-1895.40002" posZ="13.4" rotX="0" rotY="0"></ped>
+    <ped id="ped (12)" dimension="0" model="161" interior="0" rotZ="236.003" frozen="false" alpha="255" posX="2373.69995" posY="-1892.30005" posZ="13.4" rotX="0" rotY="0"></ped>
+    <ped id="ped (13)" dimension="0" model="161" interior="0" rotZ="58.003" frozen="false" alpha="255" posX="2373.39941" posY="-1893.89941" posZ="13.4" rotX="0" rotY="0"></ped>
+    <ped id="ped (14)" dimension="0" model="106" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="2446.80005" posY="-1667.90002" posZ="13.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (15)" dimension="0" model="106" interior="0" rotZ="102.003" frozen="false" alpha="255" posX="2449" posY="-1666" posZ="13.5" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (Picador) (1)" paintjob="3" interior="0" alpha="255" model="600" plate="DBTH1RC" dimension="0" color="95,10,21,189,190,198,0,0,0,0,0,0" posX="2469.5" posY="-1687.5" posZ="13.3" rotX="0" rotY="0" rotZ="288"></vehicle>
+    <ped id="ped (16)" dimension="0" model="271" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="2471.30005" posY="-1684.5" posZ="13.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (17)" dimension="0" model="0" interior="0" rotZ="82.003" frozen="false" alpha="255" posX="2510.69995" posY="-1687.69995" posZ="13.6" rotX="0" rotY="0"></ped>
+    <checkpoint id="checkpoint () (22)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (5)" posX="2419.1001" posY="-1681.5" posZ="12.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (8)" posX="2446" posY="-1701.40002" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="2.25" posX="2474.80005" posY="-1688.59998" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="2.25" posX="2506.3999" posY="-1686.40002" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (Bobcat) (2)" type="vehiclechange" vehicle="422" respawn="0" alpha="255" interior="0" posX="2204.09961" posY="-1775.39941" posZ="13.5" rotX="0" rotY="0" rotZ="295.2"></racepickup>
+    <object id="object (vgsN_addboard03) (1)" interior="0" alpha="255" doublesided="false" model="7301" scale="1" dimension="0" posX="2226.3999" posY="-1766.09998" posZ="15" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsN_addboard03) (2)" interior="0" alpha="255" doublesided="false" model="7301" scale="1" dimension="0" posX="2214.5" posY="-1777.30005" posZ="14.7" rotX="0" rotY="0" rotZ="0"></object>
+</map>

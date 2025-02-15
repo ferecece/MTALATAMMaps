@@ -1,0 +1,21 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (BMX) (1)" vehicle="481" interior="0" posX="2838.6001" posY="-2356.3999" posZ="42.4" rotX="0" rotY="0" rotZ="176"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#FF000099" size="2.25" interior="0" nextid="checkpoint () (2)" posX="2839.6001" posY="-2372.3999" posZ="30" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#FC02F999" size="2.25" interior="0" nextid="checkpoint () (3)" posX="2842.5" posY="-2355" posZ="25.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="2.25" interior="0" nextid="checkpoint () (4)" posX="2842.3" posY="-2345.3" posZ="18.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="0.5" interior="0" nextid="checkpoint () (5)" posX="2846.6006" posY="-2340.5" posZ="15" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="1" interior="0" nextid="checkpoint () (6)" posX="2838.6001" posY="-2332.3999" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="0.5" interior="0" nextid="checkpoint () (7)" posX="2852.5" posY="-2345.6001" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#0AF42099" size="2.25" interior="0" nextid="checkpoint () (8)" posX="2853" posY="-2390" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="2.25" interior="0" nextid="checkpoint () (9)" posX="2832.5" posY="-2390.8999" posZ="13.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#EAFE0099" size="2.25" interior="0" nextid="checkpoint () (10)" posX="2824" posY="-2425.8" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#01FDFA99" size="2.25" interior="0" nextid="checkpoint () (11)" posX="2841.8" posY="-2425.8999" posZ="13.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="2.25" interior="0" nextid="checkpoint () (12)" posX="2853.3" posY="-2461" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="2.25" interior="0" nextid="checkpoint () (13)" posX="2852.3" posY="-2487.8" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" size="2.25" interior="0" nextid="checkpoint () (14)" posX="2824.1001" posY="-2488" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (landjump2) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1634" scale="1" doublesided="false" collisions="true" frozen="false" posX="2826.7" posY="-2504.7" posZ="12.3" rotX="0" rotY="0" rotZ="262"></object>
+    <object id="object (ramp) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1660" scale="1" doublesided="false" collisions="true" frozen="false" posX="2833.3999" posY="-2506.5" posZ="13.6" rotX="0" rotY="0" rotZ="266"></object>
+    <object id="object (roofstuff15) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1696" scale="1" doublesided="false" collisions="true" frozen="false" posX="2838" posY="-2512.1001" posZ="17.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (roofstuff15) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1696" scale="1" doublesided="false" collisions="true" frozen="false" posX="2839.3999" posY="-2516.8999" posZ="19.6" rotX="0" rotY="0" rotZ="182"></object>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#FE830099" size="10" interior="0" posX="2838.2" posY="-2533.1001" posZ="17.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

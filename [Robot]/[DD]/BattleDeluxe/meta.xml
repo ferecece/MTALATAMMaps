@@ -1,0 +1,44 @@
+<meta>
+    
+    <file src="img/map.png" />
+    <file src="img/green.png" />
+    <file src="img/red.png" />
+    <file src="img/white.png" />
+    <file src="img/gameArea.png" />
+    
+    <script src="BD_s.lua" type="server"></script>
+    <script src="BD_c.lua" type="client" validate="true"></script>
+    <script src="gui.lua" type="client" validate="true"></script>
+    
+    <info gamemodes="race" type="map" racetype="DD" name="Battle Deluxe" author="Ali Digitali &amp; Mintse" version="1.0.0"
+          description="The year is 2099. The world is consumed by thermonuclear war.
+
+          A final cluster of survivors breaks up and fights for survival. San Andreas has been able to keep out the storm, but how long can the force field generators last?
+
+          Stay inside the protected zone for your own safety. Have a look around to see what you can find...
+
+          Alliances can be formed, but remember: trust NOBODY!">
+    </info>
+    <min_mta_version server="1.5.5-9.14060" client="1.5.5-9.14060"></min_mta_version>
+    <map src="Battle-Deluxe-v2.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 5 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;none&quot; ]'></setting>
+        <setting name="#countdownduration" value="[ 10 ]"></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

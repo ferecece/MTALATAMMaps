@@ -1,0 +1,26 @@
+<meta>
+    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
+    <info gamemodes="race" type="map" racetype="R" name="Pedal For A Medal 3: Party" author="=FoX=Wuzi" version="1.0.0" description="Hey Clyde, OG Loc is having a rave party right now. Stop playing with your balls and come to Grove right now! Shit man, once Loc got on the mic, then the party got started. Yo! That shit rules! Damn!"></info>
+    <map src="BikeTrilogyBMX.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value="[ 23 ]"></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="0:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server" validate="false"></script>
+    <script src="fired_s.lua" type="server" validate="false"></script>
+    <script src="fired_c.lua" type="client" validate="true"></script>
+    <file src="ogglock.ogg"></file>
+</meta>

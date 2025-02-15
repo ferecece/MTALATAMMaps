@@ -1,0 +1,51 @@
+<map xmlns:edf="https://wiki.multitheftauto.com/wiki/Resource:Editor/EDF" edf:definitions="editor_main,race">
+    <!-- Spawnpoints - Starfish Casino carpark (Lowest level) -->
+    <spawnpoint id="spawnpoint (Sweeper) (1)" vehicle="574" alpha="255" interior="0" posX="2296.7" posY="1956.2" posZ="9.6" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sweeper) (2)" vehicle="574" alpha="255" interior="0" posX="2296.7" posY="1952.3" posZ="9.6" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sweeper) (3)" vehicle="574" alpha="255" interior="0" posX="2296.7" posY="1948.2002" posZ="9.6" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sweeper) (4)" vehicle="574" alpha="255" interior="0" posX="2296.7" posY="1944.2998" posZ="9.6" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <!-- Checkpoints (Outdoor) - First half -->
+    <checkpoint id="checkpoint () (1)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (2)" posX="2226.2002" posY="1978.4004" posZ="8.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (3)" posX="2284" posY="1994.3" posZ="6.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (4)" posX="2318" posY="1942.3" posZ="4.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (5)" posX="2377.8999" posY="1973.4" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (6)" posX="2483.5" posY="1973.6" posZ="10.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (7)" posX="2506.5" posY="1850.8" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <!-- Starfish Casino to Pilgrim guides - Green route (Right) -->
+    <!-- <marker id="marker (corona) (1)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2495.2" posY="1778" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (2)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2484.8" posY="1774.2" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (3)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2475.2" posY="1771.1" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (4)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2464.3" posY="1767.7" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (5)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2451.7" posY="1765.2" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (6)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2440.7" posY="1763.1" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (7)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2433.8999" posY="1755.2" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (8)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2430.5" posY="1746" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (9)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2430.3" posY="1736.8" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (10)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2430.1001" posY="1726.8" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (11)" type="corona" color="#00FF00FF" size="1" interior="0" dimension="0" alpha="255" posX="2429.7" posY="1717" posZ="12" rotX="0" rotY="0" rotZ="0"></marker> -->
+    <!-- Starfish Casino to Pilgrim guides - Blue route (Left) -->
+    <!-- <marker id="marker (corona) (14)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2507.3" posY="1778.1" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (15)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2505.3999" posY="1769.4" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (16)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2501.3999" posY="1760" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (17)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2497.8999" posY="1750.2" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (18)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2493.6001" posY="1740.8" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (19)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2489.8999" posY="1731.2" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (20)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2483.8999" posY="1722.6" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (21)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2475.7" posY="1717" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (22)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2468.8" posY="1713.6" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (23)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2460.8" posY="1709.7" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (24)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2453.3999" posY="1705.1" posZ="12" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (corona) (25)" type="corona" color="#0000FFFF" size="1" interior="0" dimension="0" alpha="255" posX="2448.3" posY="1699.3" posZ="12" rotX="0" rotY="0" rotZ="0"></marker> -->
+    <!-- Checkpoints (Outdoor) - Second half -->
+    <checkpoint id="checkpoint () (7)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (8)" posX="2427.5" posY="1592.6" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (9)" posX="2427.3999" posY="1496.1" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (10)" posX="2427.5" posY="1395.8" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint () (11)" posX="2427.7" posY="1286.6" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="4" interior="0" nextid="checkpoint (planningDepExt) (12)" posX="2427.5" posY="1213.2" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (planningDepExt) (12)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="2.25" interior="0" nextid="checkpoint () (13)" posX="2419.2" posY="1123.5" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <!-- Checkpoints (Indoor) -->
+    <checkpoint id="checkpoint () (13)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="0.8" interior="3" nextid="checkpoint () (14)" posX="376.89999" posY="173.75999" posZ="1008" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="2.28" interior="3" nextid="checkpoint () (15)" posX="366.79999" posY="177.7" posZ="1008" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="2.25" interior="3" nextid="checkpoint () (16)" posX="366.60001" posY="193.10001" posZ="1008" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" extracolshapesize="4" type="checkpoint" color="#29415599" blipsize="2" size="2.25" interior="3" posX="358.89999" posY="207.3" posZ="1008" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

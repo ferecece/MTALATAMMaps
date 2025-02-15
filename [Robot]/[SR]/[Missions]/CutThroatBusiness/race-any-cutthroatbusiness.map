@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (BF Injection) (1)" vehicle="424" posX="1248.907" posY="-804.35193" posZ="84.1484" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#4E69E299" size="60" posX="-12.2064" posY="-1117.876" posZ="7.0705" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (vgsSairportland15) (1)" breakable="true" interior="0" alpha="255" model="8356" doublesided="false" scale="1" dimension="0" posX="34.3" posY="-1092.1" posZ="-0.1" rotX="0" rotY="180" rotZ="0"></object>
+    <object id="object (arrow) (1)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="1234.9" posY="-722.70001" posZ="110.5" rotX="90" rotY="0" rotZ="100"></object>
+    <object id="object (arrow) (2)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="968.90002" posY="-796.5" posZ="115" rotX="90" rotY="0" rotZ="129.998"></object>
+    <object id="object (arrow) (3)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="690.20001" posY="-978.59998" posZ="68.6" rotX="90" rotY="0" rotZ="143.996"></object>
+    <object id="object (arrow) (4)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="20" dimension="0" posX="355.70001" posY="-1171.4" posZ="90.4" rotX="90" rotY="0" rotZ="43.992"></object>
+    <vehicle id="vehicle (Vortex) (1)" paintjob="3" interior="0" alpha="255" model="539" plate="NKQX DPH" dimension="0" posX="8.6" posY="-1133.3" posZ="4.7" rotX="0" rotY="0" rotZ="0" color="32,32,44,32,32,44,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Vortex) (2)" paintjob="3" interior="0" alpha="255" model="539" plate="BVVS LW2" dimension="0" posX="-0.8" posY="-1115.7" posZ="6.7" rotX="0" rotY="0" rotZ="320" color="32,32,44,32,32,44,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Vortex) (3)" paintjob="3" interior="0" alpha="255" model="539" plate="UB2H VYF" dimension="0" posX="-5.9" posY="-1106.1" posZ="7" rotX="0" rotY="0" rotZ="299.999" color="32,32,44,32,32,44,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Newsvan) (1)" paintjob="3" interior="0" alpha="255" model="582" plate="92WK U9O" dimension="0" posX="-13.2" posY="-1118" posZ="8.3" rotX="0" rotY="0" rotZ="0" color="158,164,171,98,68,40,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (1)" dimension="0" model="293" interior="0" rotZ="310.003" alpha="255" posX="-4.1" posY="-1110.4" posZ="7.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="297" interior="0" rotZ="100.003" alpha="255" posX="1255.4" posY="-805.70001" posZ="84.1" rotX="0" rotY="0"></ped>
+</map>

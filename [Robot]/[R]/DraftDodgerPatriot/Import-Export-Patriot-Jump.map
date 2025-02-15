@@ -1,0 +1,9 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Patriot) (1)" vehicle="470" interior="0" posX="-1006.41" posY="-628.27002" posZ="32" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2.25" interior="0" nextid="checkpoint () (2)" posX="-1640.1" posY="-33.7" posZ="2.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="1" interior="0" posX="-1568.5" posY="85.2" posZ="3.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (bar_barrier12) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="990" scale="2" doublesided="false" collisions="true" frozen="false" posX="-1135.2" posY="-581.59998" posZ="33.3" rotX="0" rotY="0" rotZ="-40"></object>
+    <object id="object (bar_barrier12) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="990" scale="2" doublesided="false" collisions="true" frozen="false" posX="-1150.5" posY="-568.79999" posZ="33.3" rotX="0" rotY="0" rotZ="-40.001"></object>
+    <object id="object (bar_barrier12) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="990" scale="2" doublesided="false" collisions="true" frozen="false" posX="-1161.2" posY="-559.79999" posZ="33.3" rotX="0" rotY="0" rotZ="-40.001"></object>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="40" interior="0" nextid="checkpoint () (1)" posX="-1297.9" posY="-225.60001" posZ="21.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

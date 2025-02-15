@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="SR" name="Wu Zi Mu" author="Talidan and extra cps for release version by Ransom" description="A single player race mission" version="0" />
+  <map src="Wu Zi Mu.map" />
+<settings>
+<setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+<setting name="#respawntime" value="[ 1 ]"></setting>
+<setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+</settings>
+</meta>

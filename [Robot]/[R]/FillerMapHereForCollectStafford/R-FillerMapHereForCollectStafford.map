@@ -1,0 +1,10 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (HFCS)" vehicle="580" posX="-2163.3999" posY="-318.60001" posZ="35.3" rotX="0" rotY="0" rotZ="262"></spawnpoint>
+    <checkpoint id="checkpoint 1" type="checkpoint" color="#FF00FFFF" blipsize="2" size="3.5" nextid="checkpoint 2" posX="-2018.6" posY="-336" posZ="34.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 2" type="checkpoint" color="#FF00FFFF" blipsize="2" size="7.5" nextid="checkpoint 3" posX="-1899.1" posY="-349.79999" posZ="26" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 3" type="checkpoint" color="#FF00FFFF" blipsize="2" size="12.5" nextid="checkpoint 4" posX="-1724" posY="-579.70001" posZ="15.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 4" type="checkpoint" color="#FF00FFFF" blipsize="2" size="7.5" nextid="checkpoint 5" posX="-1526.1" posY="-415.79999" posZ="6.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 5" type="checkpoint" color="#FF00FFFF" blipsize="2" size="5" nextid="checkpoint 6" posX="-1393.3" posY="-397" posZ="5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 6" type="checkpoint" color="#FF00FF64" blipsize="2" size="10" nextid="checkpoint 7" posX="-1093.4004" posY="-483.5" posZ="32.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 7" type="checkpoint" color="#FF00FFFF" blipsize="2" size="5" posX="-984.59998" posY="-412.60001" posZ="35.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

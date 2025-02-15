@@ -1,0 +1,73 @@
+<map edf:definitions="race,race-paramedic,editor_main">
+    <spawnpoint id="spawnpoint (Ambulance) (1)" vehicle="416" interior="0" posX="-2202.0854" posY="-2314.1111" posZ="30.73538" rotX="0" rotY="0" rotZ="319.999"></spawnpoint>
+    <hospital id="hospital (1)" posX="-2198.9551" posY="-2290.25" posZ="29.63735" rotX="0" rotY="0" rotZ="0"></hospital>
+    <patient id="patient (1)" posX="-2162.3374" posY="-2248.1443" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (2)" posX="-2140.6013" posY="-2232.7187" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (3)" posX="-2134.2637" posY="-2251.7437" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (4)" posX="-2114.0427" posY="-2251.2124" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (5)" posX="-2223.6633" posY="-2500.3374" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (6)" posX="-2073.8735" posY="-2294.658" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (8)" posX="-2114.3323" posY="-2331.0874" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (9)" posX="-2126.1147" posY="-2273.8623" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (11)" posX="-2136.2776" posY="-2333.7444" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (12)" posX="-2102.5715" posY="-2355.8171" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (13)" posX="-2114.5393" posY="-2377.9639" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (14)" posX="-2135.6516" posY="-2391.4285" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (15)" posX="-2157.1804" posY="-2395.7964" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (16)" posX="-2180.5405" posY="-2367.8235" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (17)" posX="-2171.6824" posY="-2345.9932" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (18)" posX="-2164.1111" posY="-2301.2283" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (19)" posX="-2166.7703" posY="-2324.8132" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (20)" posX="-2228.4692" posY="-2346.4192" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (21)" posX="-2196.3467" posY="-2386.0049" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (22)" posX="-2209.4436" posY="-2411.9771" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (23)" posX="-2217.2266" posY="-2434.9561" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (24)" posX="-2233.2554" posY="-2462.0874" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (25)" posX="-2210.5" posY="-2468.0176" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (26)" posX="-2250.2261" posY="-2554.9939" posZ="30.9099" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (27)" posX="-2194.7954" posY="-2493.1848" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (28)" posX="-2160.0239" posY="-2521.4888" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (29)" posX="-2125.8879" posY="-2540.9299" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (30)" posX="-2073.8025" posY="-2559.511" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (31)" posX="-2074.2109" posY="-2533.4414" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (32)" posX="-2024.8549" posY="-2544.3938" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (33)" posX="-2056.2493" posY="-2488.5176" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (34)" posX="-2066.7673" posY="-2468.2812" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (35)" posX="-2088.6318" posY="-2489.8562" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (36)" posX="-2116.1477" posY="-2493.1907" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (37)" posX="-2119.5605" posY="-2515.104" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (38)" posX="-2153.6255" posY="-2499.9797" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (39)" posX="-2146.0269" posY="-2474.8987" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (40)" posX="-2145.875" posY="-2448.3298" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (41)" posX="-2190.9551" posY="-2460.2495" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (42)" posX="-2196.3093" posY="-2436.2522" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (43)" posX="-2161.6199" posY="-2423.2712" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (45)" posX="-2101.9863" posY="-2451.5303" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (46)" posX="-2070.0906" posY="-2434.1392" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (47)" posX="-2013.713" posY="-2506.9768" posZ="31.457" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (48)" posX="-2124.9727" posY="-2463.3584" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (49)" posX="-2075.052" posY="-2504.4133" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (50)" posX="-2032.5555" posY="-2397.583" posZ="29.58215" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (51)" posX="-2092.554" posY="-2279.5095" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (52)" posX="-2174.1831" posY="-2497.0762" posZ="29.53063" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (53)" posX="-2035.6664" posY="-2489.9612" posZ="29.982" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (54)" posX="-2288.2258" posY="-2454.3091" posZ="24.87061" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (55)" posX="-2131.3489" posY="-2298.5222" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (56)" posX="-2095.4346" posY="-2238.8354" posZ="29.69151" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (57)" posX="-2170.6741" posY="-2450.437" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (58)" posX="-2138.9036" posY="-2525.2183" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (59)" posX="-2111.7651" posY="-2431.5146" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (60)" posX="-2132.3489" posY="-2426.6917" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (61)" posX="-2176.9846" posY="-2394.2959" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (62)" posX="-2200.8499" posY="-2362.7114" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <patient id="patient (63)" posX="-2093.0146" posY="-2318.0632" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></patient>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (2)" posX="-8191111111112" posY="-2244.3203" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (3)" posX="-8191111111112" posY="-2244.3203" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (4)" posX="-8191111111112" posY="-2244.3203" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (5)" posX="-8191111111112" posY="-2244.3203" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="2.25" posX="-8191111111112" posY="-2244.3203" posZ="29.50715" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (petrolpumpnew) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="1686" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2246.6775" posY="-2559.7275" posZ="31.07031" rotX="0" rotY="0" rotZ="331.496"></object>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (1)" radius="3.5507746" interior="-1" model="1686" lodModel="0" posX="-2246.7031" posY="-2559.7109" posZ="31.0625" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (petrolpumpnew) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="1686" scale="1" doublesided="false" collisions="true" frozen="false" posX="-2241.7725" posY="-2562.2451" posZ="31.07031" rotX="0" rotY="0" rotZ="331.496"></object>
+    <removeWorldObject id="removeWorldObject (petrolpumpnew) (2)" radius="3.5507746" interior="-1" model="1686" lodModel="0" posX="-2241.7187" posY="-2562.2891" posZ="31.0625" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

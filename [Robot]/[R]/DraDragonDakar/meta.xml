@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="DrA DragonDakar" author="eXo|dragon" />
+  <map src="DrA DragonDakar.map" />
+  <settings>
+    <setting name="#respawn" value="timelimit" />
+<setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+<setting name="#respawntime" value="[ 1 ]"></setting>
+  </settings>
+</meta>

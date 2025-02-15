@@ -1,0 +1,69 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (RC Bandit) (1)" vehicle="441" posX="621.59998" posY="315.20001" posZ="18.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <checkpoint id="checkpoint (Banshee) (1)" type="checkpoint" color="#00F9" vehicle="429" size="2.25" nextid="checkpoint () (2)" posX="567.40002" posY="407.29999" posZ="18" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (1)" posX="361" posY="688.5" posZ="8.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (2)" vehicle="441" alpha="255" interior="0" posX="620" posY="315.10001" posZ="18.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (3)" vehicle="441" alpha="255" interior="0" posX="618.40002" posY="315" posZ="18.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (4)" vehicle="441" alpha="255" interior="0" posX="616.70001" posY="314.89999" posZ="18.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (5)" vehicle="441" alpha="255" interior="0" posX="623.40002" posY="315.29999" posZ="18.8" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Bandit) (6)" vehicle="441" alpha="255" interior="0" posX="625.09998" posY="315.39999" posZ="18.8" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <ped id="ped (1)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="615" posY="316.29999" posZ="19.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="626.5" posY="317" posZ="20" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="167" interior="0" rotZ="0.003" alpha="255" posX="614.79999" posY="317.79999" posZ="19.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" dimension="0" model="167" interior="0" rotZ="0.003" alpha="255" posX="626.5" posY="318.70001" posZ="20" rotX="0" rotY="0"></ped>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="546.70001" posY="428.10001" posZ="19.5" rotX="0" rotY="0" rotZ="76.68"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" posX="548.5" posY="429.5" posZ="19.5" rotX="0" rotY="0" rotZ="126.719"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" posX="550.5" posY="430.79999" posZ="19.5" rotX="0" rotY="0" rotZ="116.641"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" posX="552.20001" posY="432" posZ="19.5" rotX="0" rotY="0" rotZ="61.738"></racepickup>
+    <racepickup id="racepickup (NRG-500) (5)" type="nitro" vehicle="522" respawn="0" posX="553.79999" posY="432.89999" posZ="19.5" rotX="0" rotY="0" rotZ="31.68"></racepickup>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (3)" posX="226.2" posY="969.90002" posZ="27.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (4)" posX="201.2" posY="1169.09998" posZ="13.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (5)" posX="348.70001" posY="1405.30005" posZ="5.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (6)" posX="489.60001" posY="1655.30005" posZ="13.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (7)" posX="658" posY="1863.5" posZ="4.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="3" nextid="checkpoint () (8)" posX="656" posY="2300.80005" posZ="25.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="3" nextid="checkpoint (Mower) (1)" posX="865.79999" posY="2616.1001" posZ="10.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Mower) (1)" type="checkpoint" color="#00F9" vehicle="572" size="2.25" nextid="checkpoint (Vortex) (1)" posX="1146.40002" posY="2463.30005" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Vortex) (1)" type="checkpoint" color="#00F9" vehicle="539" size="2.25" nextid="checkpoint (Faggio) (1)" posX="1313.90002" posY="2403.3999" posZ="16.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Faggio) (1)" type="checkpoint" color="#00F9" vehicle="462" size="2.25" nextid="checkpoint (Hotdog) (1)" posX="1311.59998" posY="2275.5" posZ="11.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Hotdog) (1)" type="checkpoint" color="#00F9" vehicle="588" size="2.25" nextid="checkpoint (Cheetah) (1)" posX="1208.09998" posY="1971.90002" posZ="5.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (6)" type="nitro" vehicle="522" respawn="0" posX="1212.09998" posY="1934.90002" posZ="7.3" rotX="0" rotY="0" rotZ="301.68"></racepickup>
+    <racepickup id="racepickup (NRG-500) (7)" type="nitro" vehicle="522" respawn="0" posX="1209.09998" posY="1934.80005" posZ="7.3" rotX="0" rotY="0" rotZ="91.617"></racepickup>
+    <racepickup id="racepickup (NRG-500) (8)" type="nitro" vehicle="522" respawn="0" posX="1206.09998" posY="1934.5" posZ="7.3" rotX="0" rotY="0" rotZ="81.539"></racepickup>
+    <checkpoint id="checkpoint (Cheetah) (1)" type="checkpoint" color="#00F9" vehicle="415" size="2.25" nextid="checkpoint () (9)" posX="1209.5" posY="1613.5" posZ="5.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (9)" type="nitro" vehicle="522" respawn="0" posX="1212.5" posY="1595.30005" posZ="7.3" rotX="0" rotY="0" rotZ="278.813"></racepickup>
+    <racepickup id="racepickup (NRG-500) (10)" type="nitro" vehicle="522" respawn="0" posX="1208.69995" posY="1594.90002" posZ="7.3" rotX="0" rotY="0" rotZ="183.953"></racepickup>
+    <racepickup id="racepickup (NRG-500) (11)" type="nitro" vehicle="522" respawn="0" posX="1204.80005" posY="1595.09998" posZ="7.3" rotX="0" rotY="0" rotZ="203.938"></racepickup>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint (NRG-500) (1)" posX="1208.80005" posY="1027.40002" posZ="5.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (NRG-500) (1)" type="checkpoint" color="#00F9" vehicle="522" size="2.25" nextid="checkpoint () (10)" posX="1100.59998" posY="834.79999" posZ="9.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (11)" posX="818.59998" posY="699.09998" posZ="10.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint (Maverick) (1)" posX="506.60001" posY="721.59998" posZ="2.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Maverick) (1)" type="checkpoint" color="#00F9" vehicle="487" size="2.25" nextid="checkpoint (Dune) (1)" posX="315" posY="816.70001" posZ="12.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Dune) (1)" type="checkpoint" color="#00F9" vehicle="573" size="2.25" nextid="checkpoint (Hotring Racer 3) (1)" posX="30" posY="655.29999" posZ="5.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (12)" type="nitro" vehicle="522" respawn="0" posX="-25.7" posY="623.20001" posZ="11" rotX="0" rotY="0" rotZ="269.1"></racepickup>
+    <racepickup id="racepickup (NRG-500) (13)" type="nitro" vehicle="522" respawn="0" posX="-27" posY="626.20001" posZ="10.9" rotX="0" rotY="0" rotZ="219.06"></racepickup>
+    <racepickup id="racepickup (NRG-500) (14)" type="nitro" vehicle="522" respawn="0" posX="-28.4" posY="629.40002" posZ="10.9" rotX="0" rotY="0" rotZ="124.2"></racepickup>
+    <checkpoint id="checkpoint (Hotring Racer 3) (1)" type="checkpoint" color="#00F9" vehicle="502" size="2.25" nextid="checkpoint () (12)" posX="-358.70001" posY="572" posZ="15.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (15)" type="nitro" vehicle="522" respawn="0" posX="-393.79999" posY="579.5" posZ="17.2" rotX="0" rotY="0" rotZ="309.779"></racepickup>
+    <racepickup id="racepickup (NRG-500) (16)" type="nitro" vehicle="522" respawn="0" posX="-395" posY="576.5" posZ="17.3" rotX="0" rotY="0" rotZ="354.961"></racepickup>
+    <racepickup id="racepickup (NRG-500) (17)" type="nitro" vehicle="522" respawn="0" posX="-395.70001" posY="573.59998" posZ="17.3" rotX="0" rotY="0" rotZ="9.9"></racepickup>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (13)" posX="-749.40002" posY="712.40002" posZ="17.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (14)" posX="-848.40002" posY="999.09998" posZ="24" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#00F9" size="3" nextid="checkpoint () (15)" posX="-924.20001" posY="1018.5" posZ="20.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (16)" posX="-872.59998" posY="795.70001" posZ="19.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint (Rhino) (1)" posX="-687.79999" posY="669.90002" posZ="15.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Rhino) (1)" type="checkpoint" color="#21FB0399" vehicle="432" size="2.25" posX="-468.60001" posY="573.40002" posZ="16.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (waterjump1) (1)" breakable="true" interior="0" alpha="255" model="1632" doublesided="false" scale="1" dimension="0" posX="-504.10001" posY="588.70001" posZ="17" rotX="0" rotY="0" rotZ="250"></object>
+    <object id="object (waterjump1) (2)" breakable="true" interior="0" alpha="255" model="1632" doublesided="false" scale="1" dimension="0" posX="-505.20001" posY="585.70001" posZ="17" rotX="0" rotY="0" rotZ="249.999"></object>
+    <ped id="ped (5)" dimension="0" model="131" interior="0" rotZ="0.003" alpha="255" posX="614.70001" posY="318.89999" posZ="19.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" dimension="0" model="131" interior="0" rotZ="0.003" alpha="255" posX="626.29999" posY="320.29999" posZ="20" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" dimension="0" model="256" interior="0" rotZ="0.003" alpha="255" posX="614.70001" posY="320.10001" posZ="19.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" dimension="0" model="256" interior="0" rotZ="0.003" alpha="255" posX="626" posY="321.70001" posZ="19.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (9)" dimension="0" model="138" interior="0" rotZ="0.003" alpha="255" posX="626.09998" posY="323.5" posZ="19.8" rotX="0" rotY="0"></ped>
+    <ped id="ped (10)" dimension="0" model="138" interior="0" rotZ="0.003" alpha="255" posX="614.59998" posY="321.29999" posZ="19.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (11)" dimension="0" model="0" interior="0" rotZ="0" alpha="255" posX="626" posY="324.89999" posZ="19.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (12)" dimension="0" model="0" interior="0" rotZ="0.003" alpha="255" posX="614.29999" posY="322.39999" posZ="19.7" rotX="0" rotY="0"></ped>
+    <racepickup id="racepickup (NRG-500) (18)" type="nitro" vehicle="522" respawn="0" posX="-917.09998" posY="964.79999" posZ="18.9" rotX="0" rotY="0" rotZ="117.18"></racepickup>
+    <racepickup id="racepickup (NRG-500) (19)" type="nitro" vehicle="522" respawn="0" posX="-913.20001" posY="965.90002" posZ="18.7" rotX="0" rotY="0" rotZ="187.2"></racepickup>
+    <racepickup id="racepickup (NRG-500) (20)" type="nitro" vehicle="522" respawn="0" posX="-909.40002" posY="967" posZ="18.4" rotX="0" rotY="0" rotZ="157.14"></racepickup>
+</map>

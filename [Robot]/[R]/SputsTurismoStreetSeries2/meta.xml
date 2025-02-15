@@ -1,0 +1,34 @@
+<meta>
+    <!-- Clean model unloader hook from botder -->
+    <script src="unloader.lua" type="client"/>
+
+    <file src="flag.dff"></file>
+    <file src="flag.txd"></file>
+    <file src="flag.fx"></file>
+    <file src="flag.png"></file>
+    <file src="noise.jpg"></file>
+    <script src="flag.lua" type="client"></script>
+    <script src="client.lua" type="client"></script>
+    <script src="weather.lua" type="server" />
+    <info gamemodes="race" type="map" racetype="R" name="Sputs Turismo Street Series 2" author="Sputs|uk" version="1.1.2" description="Race"></info>
+    <map src="race-sputsturismostreetseries2.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="1:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#gravity" value="[ 0.008000 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 3 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 600 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

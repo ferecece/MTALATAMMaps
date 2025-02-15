@@ -1,0 +1,26 @@
+<meta>
+    <min_mta_version server="1.6.0-9.21765"></min_mta_version>
+    <script src="ph_client.lua" type="client"></script>
+    <script src="ph_server.lua" type="server"></script>
+    <info gamemodes="race" type="map" racetype="MG" name="Prop Hunt" author="Ali Digitali" version="1.0.0" description="ImPROPer PROPrietary PROPellant PROPerties PROPaganda PROPosed PROPhetic PROPonents PROPagate PROPortionally misapPROPiately."></info>
+    <map src="Prop-Hunt.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

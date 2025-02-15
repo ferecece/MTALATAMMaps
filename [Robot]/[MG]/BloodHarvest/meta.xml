@@ -1,0 +1,75 @@
+<meta>
+    <script src="harvester_c.lua" type="client"></script>
+    <script src="harvester_s.lua" type="server"></script>
+    <script src="zombie_server.lua" />
+    <script src="zombie_client.lua" type="client" />
+    <script src="nametags.lua" type="client" />
+    <file src="zombiewood.png" />
+    <file src="skins/13.txd" />
+    <file src="skins/22.txd" />
+    <file src="skins/56.txd" />
+    <file src="skins/67.txd" />
+    <file src="skins/68.txd" />
+    <file src="skins/69.txd" />
+    <file src="skins/70.txd" />
+    <file src="skins/84.txd" />
+    <file src="skins/92.txd" />
+    <file src="skins/97.txd" />
+    <file src="skins/105.txd" />
+    <file src="skins/107.txd" />
+    <file src="skins/108.txd" />
+    <file src="skins/111.txd" />
+    <file src="skins/126.txd" />
+    <file src="skins/127.txd" />
+    <file src="skins/128.txd" />
+    <file src="skins/152.txd" />
+    <file src="skins/162.txd" />
+    <file src="skins/167.txd" />
+    <file src="skins/188.txd" />
+    <file src="skins/192.txd" />
+    <file src="skins/195.txd" />
+    <file src="skins/206.txd" />
+    <file src="skins/209.txd" />
+    <file src="skins/212.txd" />
+    <file src="skins/229.txd" />
+    <file src="skins/230.txd" />
+    <file src="skins/258.txd" />
+    <file src="skins/264.txd" />
+    <file src="skins/274.txd" />
+    <file src="skins/277.txd" />
+    <file src="skins/280.txd" />
+    <file src="skins/287.txd" />
+    <file src="sounds/mgroan1.ogg" />
+    <file src="sounds/mgroan2.ogg" />
+    <file src="sounds/mgroan3.ogg" />
+    <file src="sounds/mgroan4.ogg" />
+    <file src="sounds/mgroan5.ogg" />
+    <file src="sounds/mgroan6.ogg" />
+    <file src="sounds/mgroan7.ogg" />
+    <file src="sounds/mgroan8.ogg" />
+    <file src="sounds/mgroan9.ogg" />
+    <file src="sounds/mgroan10.ogg" />
+    <file src="edf/zombiespawn.png" />
+    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
+    <info gamemodes="race" type="map" racetype="MG" name="Blood Harvest" author="Ali_Digitali (&amp; zombies by Slothman)" version="1.0.0" description="Oops, the zombies have accidentally escaped the zombie enclosure. Try to harvest as many as you can. The customers are waiting, don't let them miss out on this bargain!"></info>
+    <map src="MG-BloodHarvest.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 64 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#time" value="22:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 5 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 180 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="Grand Rally - Stage 5" author="driver2" description="Explore the country side between Los Santos and Las Venturas" />
+  <map src="Grand Rally - Stage 5.map" />
+  <settings>
+    <setting name="#time" value="15:0" />
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#ghostmode" value="true"></setting>
+    <setting name="#respawntime" value="[ 1 ]"></setting>
+  </settings>
+</meta>

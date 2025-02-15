@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="Sabre Turbo Race" author="Kasha666 Script by [EFO]Kesha_F1, Edits by misterfolg" />
+  <map src="Sabre Turbo Race.map" />
+  <script src="textures.lua" type="client" />
+  <script src="Text.lua" type="client" />
+  <script src="handling.lua" type="server"></script>
+  <file src="sabre/buffalo.txd" />
+  <file src="sabre/buffalo.dff" />
+  <settings>
+    <setting name="#respawn" value="timelimit" />
+<setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+<setting name="#respawntime" value="[ 1 ]"></setting>
+  </settings>
+</meta>

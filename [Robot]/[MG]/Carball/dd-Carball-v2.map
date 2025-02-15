@@ -1,0 +1,425 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (CJ_AIRP_PILLARS) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="2774" scale="1" dimension="0" breakable="true" posX="393.9004" posY="-2282.6" posZ="19.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_AIRP_PILLARS) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="2774" scale="1" dimension="0" breakable="true" posX="394" posY="-2270.399" posZ="31.3" rotX="90" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_AIRP_PILLARS) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="2774" scale="1" dimension="0" breakable="true" posX="393.4004" posY="-2240.1" posZ="19.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_AIRP_PILLARS) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="2774" scale="1" dimension="0" breakable="true" posX="700.70001" posY="-2250.30005" posZ="31.3" rotX="90" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_AIRP_PILLARS) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="2774" scale="1" dimension="0" breakable="true" posX="700.5" posY="-2238" posZ="19.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_AIRP_PILLARS) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="2774" scale="1" dimension="0" breakable="true" posX="701.20001" posY="-2265.19995" posZ="31.3" rotX="90" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_AIRP_PILLARS) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="2774" scale="1" dimension="0" breakable="true" posX="701.2998" posY="-2278.3" posZ="19.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_AIRP_PILLARS) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="2774" scale="1" dimension="0" breakable="true" posX="393.60001" posY="-2252.3999" posZ="31.3" rotX="90" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="544.39941" posY="-2116.09961" posZ="8.5" rotX="0" rotY="349.997" rotZ="90"></object>
+    <object id="object (vgncarshade1) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="549.5" posY="-2116.09961" posZ="8.5" rotX="0" rotY="9.998" rotZ="270"></object>
+    <object id="object (vgncarshade1) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="554.59961" posY="-2116.09961" posZ="8.5" rotX="0" rotY="349.997" rotZ="90"></object>
+    <object id="object (vgncarshade1) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="559.69922" posY="-2116.09961" posZ="8.5" rotX="0" rotY="9.998" rotZ="269.995"></object>
+    <object id="object (towerlan2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="4585" scale="1" dimension="0" breakable="true" posX="551.5" posY="-2073.2" posZ="-86.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSelecfence04) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="8150" scale="1" dimension="0" breakable="true" posX="393.3" posY="-2176.1" posZ="9.8" rotX="0" rotY="0.25" rotZ="269.75"></object>
+    <object id="object (vgsSelecfence04) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="8150" scale="1" dimension="0" breakable="true" posX="393.7002" posY="-2346" posZ="9.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vgsSelecfence04) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="8150" scale="1" dimension="0" breakable="true" posX="701.8" posY="-2341.6" posZ="9.8" rotX="0" rotY="0" rotZ="89.995"></object>
+    <object id="object (vgsSelecfence04) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="8150" scale="1" dimension="0" breakable="true" posX="701.0996" posY="-2175" posZ="9.8" rotX="0" rotY="0" rotZ="89.984"></object>
+    <object id="object (towerlan2) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="4585" scale="1" dimension="0" breakable="true" posX="635.2002" posY="-2073.5" posZ="-86.4" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (towerlan2) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="4585" scale="1" dimension="0" breakable="true" posX="467.70001" posY="-2072.6001" posZ="-86.4" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgncarshade1) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="591.70001" posY="-2076.19995" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (6)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="591.70001" posY="-2066" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="591.70001" posY="-2071.1001" posZ="11.9" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vgncarshade1) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="511.29999" posY="-2066.1001" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="511.2998" posY="-2076.3" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="511.2998" posY="-2071.2" posZ="11.9" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (waterjumpx2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1655" scale="1" dimension="0" breakable="true" posX="441" posY="-2082.80005" posZ="14.4" rotX="0" rotY="0" rotZ="89"></object>
+    <racepickup id="racepickup (Infernus) (1)" type="vehiclechange" vehicle="411" respawn="0" posX="362.89999" posY="-1999.30005" posZ="8.4" rotX="0" rotY="0" rotZ="254.156"></racepickup>
+    <racepickup id="racepickup (NRG-500) (1)" type="vehiclechange" vehicle="522" respawn="0" alpha="255" interior="0" posX="363.29999" posY="-2009.40002" posZ="8.4" rotX="0" rotY="0" rotZ="32.227"></racepickup>
+    <racepickup id="racepickup (Phoenix) (1)" type="vehiclechange" vehicle="603" respawn="0" alpha="255" interior="0" posX="363.39999" posY="-2020.30005" posZ="8.4" rotX="0" rotY="0" rotZ="180.359"></racepickup>
+    <racepickup id="racepickup (Monster 1) (1)" type="vehiclechange" vehicle="444" respawn="0" posX="550.90002" posY="-2056.19995" posZ="15" rotX="0" rotY="0" rotZ="189.18"></racepickup>
+    <racepickup id="racepickup (RC Goblin) (1)" type="vehiclechange" vehicle="501" respawn="0" alpha="255" interior="0" posX="534.90002" posY="-2094.19995" posZ="15" rotX="0" rotY="0" rotZ="355.859"></racepickup>
+    <racepickup id="racepickup (Mountain Bike) (1)" type="vehiclechange" vehicle="510" respawn="0" alpha="255" interior="0" posX="568.40002" posY="-2094.19995" posZ="15" rotX="0" rotY="0" rotZ="265.5"></racepickup>
+    <racepickup id="racepickup (Roadtrain) (1)" type="vehiclechange" vehicle="515" respawn="0" alpha="255" interior="0" posX="632.6992" posY="-2059.8" posZ="15" rotX="0" rotY="0" rotZ="233.46"></racepickup>
+    <object id="object (vgncarshade1) (12)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="466.89999" posY="-2112.30005" posZ="10.1" rotX="0" rotY="5" rotZ="270"></object>
+    <object id="object (vgncarshade1) (13)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="637.40002" posY="-2113.3999" posZ="10.1" rotX="0" rotY="4.999" rotZ="270"></object>
+    <racepickup id="racepickup (Banshee) (1)" type="vehiclechange" vehicle="429" respawn="0" alpha="255" interior="0" posX="653.20001" posY="-2074.1001" posZ="15" rotX="0" rotY="0" rotZ="138.063"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" posX="617.90002" posY="-2087.5" posZ="15" rotX="0" rotY="0" rotZ="163.62"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" posX="659.7" posY="-2257.8" posZ="8.3" rotX="0" rotY="0" rotZ="264.24"></racepickup>
+    <racepickup id="racepickup (Forklift) (1)" type="vehiclechange" vehicle="583" respawn="0" posX="456.0996" posY="-2058.5" posZ="15" rotX="0" rotY="0" rotZ="117.54"></racepickup>
+    <object id="object (VgsN_nitree_r01) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3509" scale="1" dimension="0" breakable="true" posX="457.20001" posY="-2135.80005" posZ="6.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r01) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3509" scale="1" dimension="0" breakable="true" posX="476.29999" posY="-2136" posZ="6.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r01) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3509" scale="1" dimension="0" breakable="true" posX="412.60001" posY="-2136.19995" posZ="6.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r01) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="3509" scale="1" dimension="0" breakable="true" posX="630.2002" posY="-2135.6" posZ="6.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r01) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="3509" scale="1" dimension="0" breakable="true" posX="648.29999" posY="-2136.5" posZ="6.7" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Blista Compact) (1)" vehicle="496" plate="MJ9DSTF" posX="442.70001" posY="-2335.80005" posZ="8" rotX="0" rotY="0" rotZ="308"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (2)" vehicle="496" posX="637.29999" posY="-2335.30005" posZ="8" rotX="0" rotY="0" rotZ="31.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (3)" vehicle="496" posX="448.79999" posY="-2336" posZ="8" rotX="0" rotY="0" rotZ="307.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (4)" vehicle="496" posX="642.79999" posY="-2334.69995" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (5)" vehicle="496" posX="454.29999" posY="-2336.80005" posZ="8" rotX="0" rotY="0" rotZ="307.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (6)" vehicle="496" posX="631.90002" posY="-2335.8999" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (7)" vehicle="496" posX="461.10001" posY="-2336.8999" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (8)" vehicle="496" posX="626.59998" posY="-2336.19995" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (9)" vehicle="496" posX="466.89999" posY="-2337.6001" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (10)" vehicle="496" posX="620.59998" posY="-2336.30005" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (11)" vehicle="496" posX="473.29999" posY="-2337.6001" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (12)" vehicle="496" posX="615.40002" posY="-2337.1001" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (13)" vehicle="496" posX="478.89999" posY="-2338" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (14)" vehicle="496" posX="609.40002" posY="-2337.30005" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (15)" vehicle="496" posX="484.60001" posY="-2337.80005" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (16)" vehicle="496" posX="603.20001" posY="-2338" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (17)" vehicle="496" posX="491.79999" posY="-2337.6001" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (18)" vehicle="496" posX="597.20001" posY="-2338.69995" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (19)" vehicle="496" posX="498.29999" posY="-2337.3999" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (20)" vehicle="496" posX="591.5" posY="-2338.8999" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (22)" vehicle="496" posX="505.29999" posY="-2337.30005" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (23)" vehicle="496" posX="585.5" posY="-2338.8999" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (24)" vehicle="496" posX="511" posY="-2337.30005" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (25)" vehicle="496" posX="580.29999" posY="-2339.3999" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (26)" vehicle="496" posX="518.29999" posY="-2337.19995" posZ="8" rotX="0" rotY="0" rotZ="307.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (27)" vehicle="496" posX="575.20001" posY="-2339.6001" posZ="8" rotX="0" rotY="0" rotZ="31.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (28)" vehicle="496" posX="649" posY="-2168.3999" posZ="8" rotX="0" rotY="0" rotZ="139.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (29)" vehicle="496" posX="430.39999" posY="-2164.3999" posZ="8" rotX="0" rotY="0" rotZ="227.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (30)" vehicle="496" posX="643.20001" posY="-2167.8999" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (31)" vehicle="496" posX="438.29999" posY="-2163.30005" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (32)" vehicle="496" posX="635.70001" posY="-2168.3999" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (33)" vehicle="496" posX="447.60001" posY="-2163.19995" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (34)" vehicle="496" posX="628.09998" posY="-2169" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (35)" vehicle="496" posX="454.29999" posY="-2163.5" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (36)" vehicle="496" posX="622.90002" posY="-2169.1001" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (37)" vehicle="496" posX="461.10001" posY="-2163.6001" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (38)" vehicle="496" posX="461.09961" posY="-2163.59961" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (39)" vehicle="496" posX="616.59998" posY="-2169.19995" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (40)" vehicle="496" posX="467.10001" posY="-2163.5" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (41)" vehicle="496" posX="610.59998" posY="-2169.30005" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (42)" vehicle="496" posX="473.29999" posY="-2163.3999" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (43)" vehicle="496" posX="603.59998" posY="-2169.3999" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (44)" vehicle="496" posX="479" posY="-2163.30005" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (45)" vehicle="496" posX="597.09998" posY="-2169.5" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (46)" vehicle="496" posX="487" posY="-2163.19995" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (47)" vehicle="496" posX="589.59998" posY="-2169.6001" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (48)" vehicle="496" posX="493" posY="-2163.19995" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (49)" vehicle="496" posX="584.29999" posY="-2169.6001" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (50)" vehicle="496" posX="499.29999" posY="-2163.19995" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (51)" vehicle="496" posX="578" posY="-2169.6001" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (52)" vehicle="496" posX="505.79999" posY="-2163.19995" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (53)" vehicle="496" posX="571.79999" posY="-2169.6001" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (54)" vehicle="496" posX="511.29999" posY="-2163.19995" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (55)" vehicle="496" posX="565.79999" posY="-2169.6001" posZ="8" rotX="0" rotY="0" rotZ="139.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (56)" vehicle="496" posX="517.5" posY="-2163.19995" posZ="8" rotX="0" rotY="0" rotZ="227.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (57)" vehicle="496" posX="648" posY="-2330.69995" posZ="8" rotX="0" rotY="0" rotZ="53.992"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (58)" vehicle="496" posX="439.2998" posY="-2330.5996" posZ="8" rotX="0" rotY="0" rotZ="293.994"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (59)" vehicle="496" posX="653.7002" posY="-2174.7002" posZ="8" rotX="0" rotY="0" rotZ="133.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (60)" vehicle="496" posX="427.40039" posY="-2169.5996" posZ="8" rotX="0" rotY="0" rotZ="245.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (61)" vehicle="496" posX="650.5" posY="-2326.8994" posZ="8" rotX="0" rotY="0" rotZ="65.984"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (62)" vehicle="496" posX="435.7002" posY="-2325" posZ="8" rotX="0" rotY="0" rotZ="283.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (63)" vehicle="496" posX="658.5" posY="-2182.5" posZ="8" rotX="0" rotY="0" rotZ="121.981"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (64)" vehicle="496" posX="423.70001" posY="-2177" posZ="8" rotX="0" rotY="0" rotZ="257.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (65)" vehicle="496" posX="657.5" posY="-2256.6" posZ="8" rotX="0" rotY="0" rotZ="91.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (66)" vehicle="496" posX="431.2" posY="-2261.5" posZ="8" rotX="0" rotY="0" rotZ="271.488"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="ring" color="#007F0099" size="1" posX="546.5" posY="-2249.19995" posZ="1000" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (vgsSairportland06) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="632.3" posY="-2258.3" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="462.3" posY="-2258.3" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="462.3" posY="-2361.2" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="632.3" posY="-2361.2" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="632.3" posY="-2297.7" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (6)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="632.3" posY="-2327.3" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="632.3" posY="-2221.1" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="632.3" posY="-2185.2" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="632.3" posY="-2154.7" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="462.3" posY="-2298.2" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="462.3" posY="-2329.5" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (12)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="462.3" posY="-2219.3" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (13)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="462.3" posY="-2180.3" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (14)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="462.3" posY="-2154.7" posZ="6.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgsSairportland06) (15)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="547.1" posY="-2203.9" posZ="6.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgsSairportland06) (16)" interior="0" collisions="true" alpha="255" doublesided="false" model="8171" scale="1" dimension="0" posX="547.1" posY="-2312.1" posZ="6.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNnewfence2b) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="679.3" posY="-2134.8" posZ="4.9" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vegasNnewfence2b) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="634.6" posY="-2134.8" posZ="4.9" rotX="0" rotY="0" rotZ="269.995"></object>
+    <object id="object (vegasNnewfence2b) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="590" posY="-2134.8" posZ="4.9" rotX="0" rotY="0" rotZ="269.995"></object>
+    <object id="object (vegasNnewfence2b) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="560.1" posY="-2134.8" posZ="4.9" rotX="0" rotY="0" rotZ="269.995"></object>
+    <object id="object (vegasNnewfence2b) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="515.7998" posY="-2134.8" posZ="4.9" rotX="0" rotY="0" rotZ="269.995"></object>
+    <object id="object (vegasNnewfence2b) (6)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="472.1" posY="-2134.8" posZ="4.9" rotX="0" rotY="0" rotZ="269.995"></object>
+    <object id="object (vegasNnewfence2b) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="415.8" posY="-2134.8" posZ="4.9" rotX="0" rotY="0" rotZ="269.995"></object>
+    <object id="object (vegasNnewfence2b) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="440.7" posY="-2134.8" posZ="4.9" rotX="0" rotY="0" rotZ="269.995"></object>
+    <object id="object (vegasNnewfence2b) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="393.3" posY="-2156.7" posZ="4.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNnewfence2b) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="393.3" posY="-2201.2" posZ="4.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNnewfence2b) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="393.3" posY="-2260" posZ="4.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNnewfence2b) (12)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="393.3" posY="-2216" posZ="4.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNnewfence2b) (13)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="393.3" posY="-2304.2" posZ="4.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNnewfence2b) (14)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="393.3" posY="-2348.3" posZ="4.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNnewfence2b) (15)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="393.3" posY="-2358.5" posZ="4.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNnewfence2b) (16)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="415.7" posY="-2381.2" posZ="4.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vegasNnewfence2b) (17)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="459.7" posY="-2381.2" posZ="4.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vegasNnewfence2b) (18)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="503.9" posY="-2381.2" posZ="4.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vegasNnewfence2b) (19)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="548.1" posY="-2381.2" posZ="4.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vegasNnewfence2b) (20)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="592.2" posY="-2381.2" posZ="4.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vegasNnewfence2b) (21)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="636.1" posY="-2381.2" posZ="4.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vegasNnewfence2b) (22)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="678.8" posY="-2381.2" posZ="4.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vegasNnewfence2b) (23)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="701.5" posY="-2257.1" posZ="4.7" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vegasNnewfence2b) (24)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="701.5" posY="-2358.8" posZ="4.7" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vegasNnewfence2b) (25)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="701.5" posY="-2314.4" posZ="4.7" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vegasNnewfence2b) (26)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="701.5" posY="-2300.9" posZ="4.7" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vegasNnewfence2b) (27)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="701.5" posY="-2212.5" posZ="4.7" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vegasNnewfence2b) (28)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="701.5" posY="-2168.5" posZ="4.7" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vegasNnewfence2b) (29)" interior="0" collisions="true" alpha="255" doublesided="false" model="7191" scale="1" dimension="0" posX="701.5" posY="-2157.5" posZ="4.7" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (bballintvgn1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="674.0996" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3453" scale="1" dimension="0" posX="733" posY="-2383.8" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="644.5" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="614.9" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="585.3" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="555.7" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (6)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="526.1" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="496.5" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="466.9" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="437.3" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="407.7002" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3453" scale="1" dimension="0" posX="377.6" posY="-2384.7" posZ="9.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="597" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="703.7" posY="-2390.2" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="371.24" posY="-2355.5" posZ="9.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="371.2" posY="-2325.9" posZ="9.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="371.2" posY="-2296.3" posZ="9.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="371.2" posY="-2266.7" posZ="9.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="371.2" posY="-2237.1" posZ="9.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="371.2" posY="-2207.5" posZ="9.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="371.2" posY="-2177.9" posZ="9.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="371.2" posY="-2148.3" posZ="9.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="true" model="3453" scale="1" dimension="0" posX="376.7" posY="-2118.2" posZ="9.5" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (bballintvgn1) (10)" interior="0" collisions="true" alpha="255" doublesided="true" model="3452" scale="1" dimension="0" posX="406" posY="-2111.8" posZ="9.5" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (bballintvgn1) (10)" interior="0" collisions="true" alpha="255" doublesided="true" model="3452" scale="1" dimension="0" posX="435.6" posY="-2111.8" posZ="9.5" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (bballintvgn1) (10)" interior="0" collisions="true" alpha="255" doublesided="true" model="3452" scale="1" dimension="0" posX="499.5" posY="-2111.8" posZ="9.5" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="468.1" posY="-2107.5" posZ="2.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="534" posY="-2107.5" posZ="2.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="574.5" posY="-2107.5" posZ="2.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (10)" interior="0" collisions="true" alpha="255" doublesided="true" model="3452" scale="1" dimension="0" posX="603.8" posY="-2111.8" posZ="9.5" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (bballintvgn1) (10)" interior="0" collisions="true" alpha="255" doublesided="true" model="3452" scale="1" dimension="0" posX="672.3" posY="-2111.8" posZ="9.5" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" breakable="true" posX="637.8" posY="-2107.5" posZ="2.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="738.5" posY="-2353.6" posZ="9.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="738.5" posY="-2324" posZ="9.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="738.5" posY="-2294.4" posZ="9.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="738.5" posY="-2264.9" posZ="9.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="738.5" posY="-2235.3" posZ="9.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="738.5" posY="-2205.7" posZ="9.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="738.5" posY="-2176.1" posZ="9.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="738.5" posY="-2146.5" posZ="9.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="true" model="3453" scale="1" dimension="0" posX="732.1" posY="-2117.3" posZ="9.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn1) (10)" interior="0" collisions="true" alpha="255" doublesided="true" model="3452" scale="1" dimension="0" posX="701.9" posY="-2111.8" posZ="9.5" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="567.4" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="537.8" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="508.2" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="478.6" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="449" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="419.4" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="389.8" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3453" scale="1" dimension="0" posX="359.5" posY="-2402.9" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="353.1" posY="-2373.6" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="626.6" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="656.2" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="685.8" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="715.4" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="353.1" posY="-2344" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="353.1" posY="-2314.4" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="353.1" posY="-2284.7" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="353.1" posY="-2255.1" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="353.1" posY="-2225.5" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="353.10001" posY="-2195.8999" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="353.1" posY="-2166.6" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="353.1" posY="-2137" posZ="17.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (bballintvgn2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3453" scale="1" dimension="0" posX="752.2" posY="-2401.9" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn1) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="745" posY="-2408.3" posZ="17.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="757.7" posY="-2371.7" posZ="17.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="757.7" posY="-2342.1" posZ="17.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="757.7" posY="-2312.5" posZ="17.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="757.7" posY="-2282.9" posZ="17.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="757.7" posY="-2253.3" posZ="17.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="757.7" posY="-2223.7" posZ="17.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="757.7" posY="-2194.1" posZ="17.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="757.7" posY="-2164.5" posZ="17.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bballintvgn2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3452" scale="1" dimension="0" posX="757.7" posY="-2134.9" posZ="17.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (newscafldvegs02) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="7089" scale="1" dimension="0" posX="420.9" posY="-2419.7" posZ="30.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (newscafldvegs02) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="7089" scale="1" dimension="0" posX="513.1" posY="-2419.7" posZ="30.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (newscafldvegs02) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="7089" scale="1" dimension="0" posX="605.2" posY="-2419.7" posZ="30.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (newscafldvegs02) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="7089" scale="1" dimension="0" posX="697.3" posY="-2419.7" posZ="30.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cw2_mtbfinish) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="765.3" posY="-2256.3" posZ="27.9" rotX="0" rotY="180" rotZ="270"></object>
+    <object id="object (cw2_mtbfinish) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="765.4" posY="-2256.3" posZ="27.9" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (cw2_mtbfinish) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="345.4" posY="-2261.1" posZ="27.9" rotX="0" rotY="179.995" rotZ="270"></object>
+    <object id="object (cw2_mtbfinish) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="345.4004" posY="-2261.1" posZ="27.9" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (cw2_mtbfinish) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="499.9" posY="-2101.4" posZ="21.6" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (cw2_mtbfinish) (6)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="604.1" posY="-2101.6" posZ="21.6" rotX="0" rotY="179.995" rotZ="179.995"></object>
+    <object id="object (cw2_mtbfinish) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="604.1" posY="-2101.5" posZ="21.6" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (cw2_mtbfinish) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="499.9004" posY="-2101.6" posZ="21.6" rotX="0" rotY="179.995" rotZ="179.995"></object>
+    <object id="object (cw2_mtbfinish) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="471.6" posY="-2419.1" posZ="39.9" rotX="0" rotY="179.995" rotZ="0"></object>
+    <object id="object (cw2_mtbfinish) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="563.8" posY="-2419.3" posZ="39.9" rotX="0" rotY="179.995" rotZ="0"></object>
+    <object id="object (cw2_mtbfinish) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="471.6" posY="-2419.2" posZ="39.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cw2_mtbfinish) (12)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="655.9" posY="-2419.1" posZ="39.9" rotX="0" rotY="179.995" rotZ="0"></object>
+    <object id="object (cw2_mtbfinish) (14)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="655.9" posY="-2419.3" posZ="39.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cw2_mtbfinish) (15)" interior="0" collisions="true" alpha="255" doublesided="false" model="18275" scale="4" dimension="0" posX="563.7998" posY="-2419.1" posZ="39.9" rotX="0" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="483.7998" posY="-2084.898" posZ="15" rotX="0" rotY="0" rotZ="287.82"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="433.2998" posY="-2258.5" posZ="8.3" rotX="0" rotY="0" rotZ="228.24"></racepickup>
+    <ped id="ped (1)" dimension="0" model="13" interior="0" rotZ="176.001" frozen="false" alpha="255" posX="601.6" posY="-2106.8" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="255" interior="0" rotZ="180.003" frozen="false" alpha="255" posX="615.6" posY="-2105.3" posZ="12.2" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="205" interior="0" rotZ="174" frozen="false" alpha="255" posX="606.5" posY="-2107" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" dimension="0" model="304" interior="0" rotZ="174" frozen="false" alpha="255" posX="594.5" posY="-2108.6" posZ="10.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" dimension="0" model="135" interior="0" rotZ="174" frozen="false" alpha="255" posX="612.3" posY="-2112.2" posZ="10" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" dimension="0" model="282" interior="0" rotZ="174" frozen="false" alpha="255" posX="601.5" posY="-2113.5" posZ="9.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" dimension="0" model="164" interior="0" rotZ="174" frozen="false" alpha="255" posX="600.9" posY="-2109" posZ="10.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" dimension="0" model="54" interior="0" rotZ="174" frozen="false" alpha="255" posX="609.7" posY="-2116.2" posZ="8.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (9)" dimension="0" model="56" interior="0" rotZ="174" frozen="false" alpha="255" posX="606.5" posY="-2110.9" posZ="10.4" rotX="0" rotY="0"></ped>
+    <ped id="ped (10)" dimension="0" model="161" interior="0" rotZ="174" frozen="false" alpha="255" posX="601.2" posY="-2116" posZ="8.7" rotX="0" rotY="0"></ped>
+    <racepickup id="racepickup (RC Baron) (1)" type="vehiclechange" vehicle="464" respawn="0" posX="348.9" posY="-2186" posZ="13.6" rotX="0" rotY="0" rotZ="253.26"></racepickup>
+    <ped id="ped (11)" dimension="0" model="0" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="697.6" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (12)" dimension="0" model="244" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="693.8" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (13)" dimension="0" model="267" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="686" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (14)" dimension="0" model="21" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="677.8" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (15)" dimension="0" model="229" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="671.3" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (16)" dimension="0" model="252" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="666.3" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (17)" dimension="0" model="0" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="661" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (18)" dimension="0" model="137" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="654.5" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (19)" dimension="0" model="292" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="647" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (20)" dimension="0" model="193" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="640.3" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (21)" dimension="0" model="233" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="634.3" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (22)" dimension="0" model="157" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="627" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (23)" dimension="0" model="226" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="620" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (24)" dimension="0" model="226" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="613.5" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (25)" dimension="0" model="145" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="607.5" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (26)" dimension="0" model="80" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="598.3" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (27)" dimension="0" model="201" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="588.8" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (28)" dimension="0" model="167" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="580.3" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (29)" dimension="0" model="0" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="574" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (30)" dimension="0" model="127" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="556.7" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (31)" dimension="0" model="37" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="544.1" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (32)" dimension="0" model="129" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="528.4" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (33)" dimension="0" model="281" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="514.3" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (34)" dimension="0" model="49" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="497" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (35)" dimension="0" model="18" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="488.3" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (36)" dimension="0" model="116" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="478.9" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (37)" dimension="0" model="127" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="461.6" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (38)" dimension="0" model="297" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="438" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (39)" dimension="0" model="30" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="408.2" posY="-2395.6" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (40)" dimension="0" model="26" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="401.9" posY="-2393.3" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (41)" dimension="0" model="79" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="406.9" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (42)" dimension="0" model="212" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="425" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (43)" dimension="0" model="222" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="440.1" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (44)" dimension="0" model="10" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="452.7" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (45)" dimension="0" model="24" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="465.3" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (46)" dimension="0" model="177" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="482.6" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (47)" dimension="0" model="57" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="493.6" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (48)" dimension="0" model="191" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="520.3" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (49)" dimension="0" model="151" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="550.1" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (50)" dimension="0" model="66" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="575.2" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (51)" dimension="0" model="14" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="583.1" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (52)" dimension="0" model="56" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="601.9" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (53)" dimension="0" model="275" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="611.3" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (54)" dimension="0" model="278" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="630.1" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (55)" dimension="0" model="0" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="645.8" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (56)" dimension="0" model="287" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="672.5" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (57)" dimension="0" model="177" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="733.7" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (58)" dimension="0" model="0" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="692.9004" posY="-2384" posZ="11.7" rotX="0" rotY="0"></ped>
+    <ped id="ped (59)" dimension="0" model="180" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="712.4" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (60)" dimension="0" model="139" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="682.6" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (61)" dimension="0" model="290" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="654.3" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (62)" dimension="0" model="236" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="622.9" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (63)" dimension="0" model="246" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="599.4" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (64)" dimension="0" model="151" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="558.6" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (65)" dimension="0" model="96" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="533.5" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (66)" dimension="0" model="96" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="508.4" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (67)" dimension="0" model="239" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="475.4" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (68)" dimension="0" model="239" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="444" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (69)" dimension="0" model="225" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="417.3" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (70)" dimension="0" model="306" interior="0" rotZ="0.003" frozen="false" alpha="255" posX="385.9" posY="-2403.3" posZ="17" rotX="0" rotY="0"></ped>
+    <ped id="ped (71)" dimension="0" model="288" interior="0" rotZ="286.003" frozen="false" alpha="255" posX="373.3" posY="-2270.4" posZ="9.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (72)" dimension="0" model="39" interior="0" rotZ="286.003" frozen="false" alpha="255" posX="373.3" posY="-2267.4" posZ="9.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (73)" dimension="0" model="0" interior="0" rotZ="286.003" frozen="false" alpha="255" posX="373.3" posY="-2263.9" posZ="9.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (74)" dimension="0" model="0" interior="0" rotZ="286.003" frozen="false" alpha="255" posX="373.3" posY="-2260.1" posZ="9.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (75)" dimension="0" model="85" interior="0" rotZ="286.003" frozen="false" alpha="255" posX="373.3" posY="-2255.1" posZ="9.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (76)" dimension="0" model="44" interior="0" rotZ="284.003" frozen="false" alpha="255" posX="377.4" posY="-2256.4" posZ="8.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (77)" dimension="0" model="66" interior="0" rotZ="284.003" frozen="false" alpha="255" posX="377.4" posY="-2259.6" posZ="8.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (78)" dimension="0" model="62" interior="0" rotZ="264.004" frozen="false" alpha="255" posX="377.4" posY="-2263.6" posZ="8.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (79)" dimension="0" model="25" interior="0" rotZ="260.005" frozen="false" alpha="255" posX="377.4" posY="-2267.6" posZ="8.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (80)" dimension="0" model="72" interior="0" rotZ="104.005" frozen="false" alpha="255" posX="743" posY="-2241.8" posZ="11.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (81)" dimension="0" model="153" interior="0" rotZ="104.005" frozen="false" alpha="255" posX="743" posY="-2244.3" posZ="11.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (82)" dimension="0" model="155" interior="0" rotZ="104.006" frozen="false" alpha="255" posX="743" posY="-2247" posZ="11.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (83)" dimension="0" model="71" interior="0" rotZ="104.005" frozen="false" alpha="255" posX="743" posY="-2252.8" posZ="11.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (84)" dimension="0" model="0" interior="0" rotZ="104.005" frozen="false" alpha="255" posX="743" posY="-2255.5" posZ="11.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (85)" dimension="0" model="0" interior="0" rotZ="104.005" frozen="false" alpha="255" posX="743" posY="-2261" posZ="11.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (86)" dimension="0" model="10" interior="0" rotZ="104.006" frozen="false" alpha="255" posX="743" posY="-2265" posZ="11.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (87)" dimension="0" model="0" interior="0" rotZ="104.005" frozen="false" alpha="255" posX="743" posY="-2269" posZ="11.3" rotX="0" rotY="0"></ped>
+    <object id="object (VgsN_nitree_r01) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="3509" scale="1" dimension="0" breakable="true" posX="563.5" posY="-2135.2" posZ="6.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r01) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="3509" scale="1" dimension="0" breakable="true" posX="541" posY="-2135.2" posZ="6.7" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Blista Compact) (21)" vehicle="496" alpha="255" interior="0" posX="440.89999" posY="-2333.2" posZ="8" rotX="0" rotY="0" rotZ="300"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (67)" vehicle="496" alpha="255" interior="0" posX="437.60001" posY="-2327.8999" posZ="8" rotX="0" rotY="0" rotZ="290"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (68)" vehicle="496" alpha="255" interior="0" posX="435.10001" posY="-2321.7" posZ="8" rotX="0" rotY="0" rotZ="283.991"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (69)" vehicle="496" alpha="255" interior="0" posX="434.5" posY="-2318.5" posZ="8" rotX="0" rotY="0" rotZ="280"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (70)" vehicle="496" alpha="255" interior="0" posX="434.5" posY="-2315.2" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (71)" vehicle="496" alpha="255" interior="0" posX="434.60001" posY="-2312.2" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (72)" vehicle="496" alpha="255" interior="0" posX="434.39999" posY="-2309.3" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (73)" vehicle="496" alpha="255" interior="0" posX="434.20001" posY="-2306.1001" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (74)" vehicle="496" alpha="255" interior="0" posX="434" posY="-2302.7" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (75)" vehicle="496" alpha="255" interior="0" posX="433.79999" posY="-2299.1001" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (76)" vehicle="496" alpha="255" interior="0" posX="433.60001" posY="-2295.8" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (77)" vehicle="496" alpha="255" interior="0" posX="433.39999" posY="-2292.8" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (78)" vehicle="496" alpha="255" interior="0" posX="433.20001" posY="-2289.8" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (79)" vehicle="496" alpha="255" interior="0" posX="433" posY="-2286.8" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (80)" vehicle="496" alpha="255" interior="0" posX="432.79999" posY="-2284" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (81)" vehicle="496" alpha="255" interior="0" posX="432.79999" posY="-2281.2" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (82)" vehicle="496" alpha="255" interior="0" posX="432.79999" posY="-2278.2" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (83)" vehicle="496" alpha="255" interior="0" posX="432.79999" posY="-2275.3999" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (84)" vehicle="496" alpha="255" interior="0" posX="432.79999" posY="-2272.5" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (85)" vehicle="496" alpha="255" interior="0" posX="432.79999" posY="-2269.8" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (86)" vehicle="496" alpha="255" interior="0" posX="429.5" posY="-2266.8999" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (87)" vehicle="496" alpha="255" interior="0" posX="429.5" posY="-2264.3" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (88)" vehicle="496" alpha="255" interior="0" posX="429.60001" posY="-2256" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (89)" vehicle="496" alpha="255" interior="0" posX="431.29999" posY="-2252.6001" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (90)" vehicle="496" alpha="255" interior="0" posX="431.29999" posY="-2249.7" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (91)" vehicle="496" alpha="255" interior="0" posX="431.29999" posY="-2246.7" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (92)" vehicle="496" alpha="255" interior="0" posX="430.79999" posY="-2243.6001" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (93)" vehicle="496" alpha="255" interior="0" posX="430.79999" posY="-2240.8999" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (94)" vehicle="496" alpha="255" interior="0" posX="430.79999" posY="-2237.8999" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (95)" vehicle="496" alpha="255" interior="0" posX="430.79999" posY="-2235" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (96)" vehicle="496" alpha="255" interior="0" posX="430.10001" posY="-2232.2" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (97)" vehicle="496" alpha="255" interior="0" posX="428.79999" posY="-2229.3" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (98)" vehicle="496" alpha="255" interior="0" posX="427.79999" posY="-2225.8999" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (99)" vehicle="496" alpha="255" interior="0" posX="426.70001" posY="-2222.8" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (100)" vehicle="496" alpha="255" interior="0" posX="425.20001" posY="-2219.3999" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (101)" vehicle="496" alpha="255" interior="0" posX="425.20001" posY="-2216.6001" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (102)" vehicle="496" alpha="255" interior="0" posX="425.20001" posY="-2213.6001" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (103)" vehicle="496" alpha="255" interior="0" posX="425.20001" posY="-2210.6001" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (104)" vehicle="496" alpha="255" interior="0" posX="425.20001" posY="-2207.5" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (105)" vehicle="496" alpha="255" interior="0" posX="425.20001" posY="-2204.5" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (106)" vehicle="496" alpha="255" interior="0" posX="425.20001" posY="-2201.3999" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (107)" vehicle="496" alpha="255" interior="0" posX="425.20001" posY="-2198.3999" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (108)" vehicle="496" alpha="255" interior="0" posX="424" posY="-2195.1001" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (109)" vehicle="496" alpha="255" interior="0" posX="424" posY="-2192.2" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (110)" vehicle="496" alpha="255" interior="0" posX="423.29999" posY="-2189.1001" posZ="8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (111)" vehicle="496" alpha="255" interior="0" posX="423.39999" posY="-2185.7" posZ="8" rotX="0" rotY="0" rotZ="260"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (112)" vehicle="496" alpha="255" interior="0" posX="423.20001" posY="-2181.3999" posZ="8" rotX="0" rotY="0" rotZ="259.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (113)" vehicle="496" alpha="255" interior="0" posX="425.60001" posY="-2173.2" posZ="8" rotX="0" rotY="0" rotZ="250.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (114)" vehicle="496" alpha="255" interior="0" posX="651.40002" posY="-2171.7" posZ="8" rotX="0" rotY="0" rotZ="133.984"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (115)" vehicle="496" alpha="255" interior="0" posX="656.59998" posY="-2178.2" posZ="8" rotX="0" rotY="0" rotZ="128.984"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (116)" vehicle="496" alpha="255" interior="0" posX="660.59998" posY="-2187.8999" posZ="8" rotX="0" rotY="0" rotZ="100.981"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (117)" vehicle="496" alpha="255" interior="0" posX="660.5" posY="-2192.2" posZ="8" rotX="0" rotY="0" rotZ="92.981"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (118)" vehicle="496" alpha="255" interior="0" posX="660.40002" posY="-2195.8999" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (119)" vehicle="496" alpha="255" interior="0" posX="660.20001" posY="-2199.8999" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (120)" vehicle="496" alpha="255" interior="0" posX="660" posY="-2203.8999" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (121)" vehicle="496" alpha="255" interior="0" posX="659.79999" posY="-2207.6001" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (122)" vehicle="496" alpha="255" interior="0" posX="659.59998" posY="-2211.1001" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (123)" vehicle="496" alpha="255" interior="0" posX="659.40002" posY="-2214.8" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (124)" vehicle="496" alpha="255" interior="0" posX="659.20001" posY="-2218.5" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (125)" vehicle="496" alpha="255" interior="0" posX="659" posY="-2222.7" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (126)" vehicle="496" alpha="255" interior="0" posX="658.79999" posY="-2226.7" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (127)" vehicle="496" alpha="255" interior="0" posX="658.59998" posY="-2231.2" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (128)" vehicle="496" alpha="255" interior="0" posX="658.40002" posY="-2235.3999" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (129)" vehicle="496" alpha="255" interior="0" posX="658.20001" posY="-2239.8999" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (130)" vehicle="496" alpha="255" interior="0" posX="658" posY="-2244.6001" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (131)" vehicle="496" alpha="255" interior="0" posX="657.79999" posY="-2248.8" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (132)" vehicle="496" alpha="255" interior="0" posX="659.5" posY="-2252.6001" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (133)" vehicle="496" alpha="255" interior="0" posX="659.29999" posY="-2260.8" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (134)" vehicle="496" alpha="255" interior="0" posX="651.90002" posY="-2322.6001" posZ="8" rotX="0" rotY="0" rotZ="70.984"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (135)" vehicle="496" alpha="255" interior="0" posX="653.5" posY="-2317.8999" posZ="8" rotX="0" rotY="0" rotZ="80.983"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (136)" vehicle="496" alpha="255" interior="0" posX="655" posY="-2313" posZ="8" rotX="0" rotY="0" rotZ="85.98"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (137)" vehicle="496" alpha="255" interior="0" posX="656.59998" posY="-2308.2" posZ="8" rotX="0" rotY="0" rotZ="85.979"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (138)" vehicle="496" alpha="255" interior="0" posX="656.5" posY="-2304.2" posZ="8" rotX="0" rotY="0" rotZ="90.079"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (139)" vehicle="496" alpha="255" interior="0" posX="656.40002" posY="-2300.7" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (140)" vehicle="496" alpha="255" interior="0" posX="656.29999" posY="-2297.2" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (141)" vehicle="496" alpha="255" interior="0" posX="656.20001" posY="-2294" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (142)" vehicle="496" alpha="255" interior="0" posX="656.09998" posY="-2290.8" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (143)" vehicle="496" alpha="255" interior="0" posX="657" posY="-2287.3999" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (144)" vehicle="496" alpha="255" interior="0" posX="656.90002" posY="-2283.8" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (145)" vehicle="496" alpha="255" interior="0" posX="656.79999" posY="-2280.3" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (146)" vehicle="496" alpha="255" interior="0" posX="656.70001" posY="-2276.6001" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (147)" vehicle="496" alpha="255" interior="0" posX="656.59998" posY="-2272.8999" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (148)" vehicle="496" alpha="255" interior="0" posX="656.5" posY="-2269.2" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+    <spawnpoint id="spawnpoint (Blista Compact) (149)" vehicle="496" alpha="255" interior="0" posX="657.40002" posY="-2265.3" posZ="8" rotX="0" rotY="0" rotZ="90.077"></spawnpoint>
+</map>

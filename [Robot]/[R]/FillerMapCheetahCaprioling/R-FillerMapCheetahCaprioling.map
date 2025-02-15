@@ -1,0 +1,19 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint Cheetah" vehicle="415" posX="1649" posY="-1770.4" posZ="3.8" rotX="0" rotY="0" rotZ="76"></spawnpoint>
+    <checkpoint id="checkpoint 1" type="checkpoint" color="#FF00FF" blipsize="2" size="4" nextid="checkpoint 2" posX="1618.1" posY="-1664.4" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 2" type="checkpoint" color="#FF00FF" blipsize="2" size="4" nextid="checkpoint 3" posX="1628.3" posY="-1684.5" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 3" type="checkpoint" color="#FF00FF" blipsize="2" size="7.5" nextid="checkpoint 4" posX="1645" posY="-1732.2" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 4" type="checkpoint" color="#FF00FF" blipsize="2" size="7.5" nextid="checkpoint 5" posX="1689.5" posY="-1774.5" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 5" type="checkpoint" color="#FF00FF" blipsize="2" size="7.5" nextid="checkpoint 6" posX="1687.3" posY="-1854" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 6" type="checkpoint" color="#FF00FF" blipsize="2" size="5" nextid="checkpoint 7" posX="1658.6" posY="-1891.9" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 7" type="checkpoint" color="#FF00FF" blipsize="2" size="3.5" nextid="checkpoint 8" posX="1636.5" posY="-1888.6" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 8" type="checkpoint" color="#FF00FF" blipsize="2" size="2.5" nextid="checkpoint 9" posX="1622.8" posY="-1855.2" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 9" type="checkpoint" color="#FF00FF" blipsize="2" size="0.1" nextid="checkpoint 10" posX="1619.1" posY="-1787.8" posZ="13.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint 10" type="checkpoint" color="#FF00FF" blipsize="2" size="20" posX="1633.8" posY="-1727.1" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (sub_roadright) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="978" doublesided="true" scale="1" dimension="0" posX="1616.7" posY="-1759.5" posZ="3.8" rotX="0" rotY="0" rotZ="256"></object>
+    <object id="object (sub_roadright) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="978" doublesided="true" scale="1" dimension="0" posX="1614.4301" posY="-1768.6" posZ="3.8" rotX="0" rotY="0" rotZ="255.998"></object>
+    <vehicle id="vehicle (Voodoo) (1)" sirens="false" paintjob="3" interior="0" alpha="255" model="412" plate="MEOW" dimension="0" color="255,0,255,255,127,255,127,0,127,0,0,0" health="250" posX="1615.1" posY="-1758.4" posZ="3.9" rotX="0" rotY="0" rotZ="348"></vehicle>
+    <vehicle id="vehicle (Voodoo) (2)" sirens="false" paintjob="3" interior="0" alpha="255" model="412" plate="MEOW" dimension="0" color="255,0,255,255,127,255,127,0,127,0,0,0" health="250" posX="1613.5" posY="-1765.2" posZ="3.9" rotX="0" rotY="0" rotZ="347.997"></vehicle>
+    <object id="object (arrow) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="10" dimension="0" posX="1616.2" posY="-1762.6801" posZ="8" rotX="90" rotY="0" rotZ="349"></object>
+    <object id="object (arrow) (2)" breakable="true" interior="0" alpha="255" model="1318" doublesided="false" scale="10" dimension="0" posX="1627.3" posY="-1653.6" posZ="15" rotX="270" rotY="0" rotZ="30"></object>
+</map>

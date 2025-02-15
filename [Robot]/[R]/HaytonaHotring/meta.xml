@@ -1,0 +1,41 @@
+<meta>
+	<info gamemodes="race" type="map" racetype="R" name="Haytona Hotring" author="Uguu" version="1.0.2"></info>
+    <map src="Haytona_Hotring.map" dimension="0"></map>
+    <settings>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#respawn" value="[ timelimit ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawntime" value="[ 0 ]"></setting>
+        <setting name="#ghostmode" value="[ false ]"></setting>
+    </settings>
+
+	<script src="Haytona_server.lua" type="server"></script>
+	<script src="Haytona_client.lua" type="client"></script>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+	
+	<file src="files/BigHayBale.col"/>
+	<file src="files/BigHayBale.dff"/>
+	<file src="files/Oval.txd"/>
+	<file src="files/Oval_A.col"/>
+	<file src="files/Oval_A.dff"/>
+	<file src="files/Oval_B.col"/>
+	<file src="files/Oval_B.dff"/>
+	<file src="files/Oval_C.col"/>
+	<file src="files/Oval_C.dff"/>
+	<file src="files/Oval_D.col"/>
+	<file src="files/Oval_D.dff"/>
+	<file src="files/Oval_E.col"/>
+	<file src="files/Oval_E.dff"/>
+	<file src="files/Oval_F.col"/>
+	<file src="files/Oval_F.dff"/>
+
+</meta>

@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (NRG-500) (2)" vehicle="522" interior="0" posX="70" posY="-80" posZ="1.21" rotX="0" rotY="0" rotZ="-90"></spawnpoint>
+    <object id="object (towerlan2) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="4585" scale="1" doublesided="false" collisions="true" frozen="false" posX="80" posY="-80" posZ="-99.5" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="90" posY="-80" posZ="1.21" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (3)" vehicle="522" alpha="255" interior="0" posX="80" posY="-70" posZ="1.21" rotX="0" rotY="0" rotZ="-180"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (4)" vehicle="522" alpha="255" interior="0" posX="80" posY="-90" posZ="1.21" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <object id="gate3" breakable="false" interior="0" alpha="255" dimension="0" model="8210" scale="1" doublesided="false" collisions="true" frozen="false" posX="80" posY="-52.00977" posZ="-57.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="gate4" breakable="false" interior="0" alpha="255" dimension="0" model="8210" scale="1" doublesided="false" collisions="true" frozen="false" posX="107.98047" posY="-80" posZ="-57.1" rotX="0" rotY="0" rotZ="-90"></object>
+    <object id="gate1" breakable="false" interior="0" alpha="255" dimension="0" model="8210" scale="1" doublesided="false" collisions="true" frozen="false" posX="80" posY="-107.96973" posZ="-57.1" rotX="0" rotY="0" rotZ="-180"></object>
+    <object id="gate2" breakable="false" interior="0" alpha="255" dimension="0" model="8210" scale="1" doublesided="false" collisions="true" frozen="false" posX="51.98047" posY="-80" posZ="-57.1" rotX="0" rotY="0" rotZ="90"></object>
+    <checkpoint id="checkpoint () (1)" type="corona" color="#00F9" size="2.25" alpha="255" blipsize="0" interior="0" nextid="checkpoint () (2)" posX="80" posY="-80" posZ="500" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="corona" color="#00F9" size="2.25" alpha="255" blipsize="0" interior="0" nextid="checkpoint () (3)" posX="80" posY="-80" posZ="500" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="corona" color="#00F9" size="2.25" alpha="255" blipsize="0" interior="0" posX="80" posY="-80" posZ="500" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

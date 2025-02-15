@@ -1,0 +1,102 @@
+<meta>
+    <!-- Clean model unloader hook from botder -->
+    <script src="unloader.lua" type="client"></script>
+    <script src="client.lua" type="client"></script>
+    <info gamemodes="race" type="map" racetype="R" name="Bathurst Grand Prix" author="[SKC]" version="1.1" description="Race"></info>
+    <map src="race-bathurst.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 32 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="10:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#gravity" value="[ 0.008 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 2 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#duration" value="[ 600 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+
+    <file src="vehicle-formula/model.dff" />
+    <file src="vehicle-formula/texture.txd" />
+    <script src="vehicle-formula/car.lua" type="client" />
+    <script src="vehicle-formula/handling.lua" type="client" />
+
+	<script src="map-bathurst/models.lua" type="client" />
+	<script src="map-bathurst/clouds.lua" type="client" />
+	<file src="map-bathurst/bld.txd" />
+	<file src="map-bathurst/track.txd" />
+	<file src="map-bathurst/bld_006.dff" />
+	<file src="map-bathurst/bld_006.col" />
+	<file src="map-bathurst/bld_004.dff" />
+	<file src="map-bathurst/bld_004.col" />
+	<file src="map-bathurst/bld_005.dff" />
+	<file src="map-bathurst/bld_005.col" />
+	<file src="map-bathurst/bld_007.dff" />
+	<file src="map-bathurst/bld_007.col" />
+	<file src="map-bathurst/bld_011.dff" />
+	<file src="map-bathurst/bld_011.col" />
+	<file src="map-bathurst/bld_010.dff" />
+	<file src="map-bathurst/bld_010.col" />
+	<file src="map-bathurst/bld_009.dff" />
+	<file src="map-bathurst/bld_009.col" />
+	<file src="map-bathurst/bld_008.dff" />
+	<file src="map-bathurst/bld_008.col" />
+	<file src="map-bathurst/bld_001.dff" />
+	<file src="map-bathurst/bld_001.col" />
+	<file src="map-bathurst/bld_002.dff" />
+	<file src="map-bathurst/bld_002.col" />
+	<file src="map-bathurst/bld_003.dff" />
+	<file src="map-bathurst/bld_003.col" />
+	<file src="map-bathurst/track_001.dff" />
+	<file src="map-bathurst/track_001.col" />
+	<file src="map-bathurst/track_002.dff" />
+	<file src="map-bathurst/track_002.col" />
+	<file src="map-bathurst/track_003.dff" />
+	<file src="map-bathurst/track_003.col" />
+	<file src="map-bathurst/track_004.dff" />
+	<file src="map-bathurst/track_004.col" />
+	<file src="map-bathurst/track_005.dff" />
+	<file src="map-bathurst/track_005.col" />
+	<file src="map-bathurst/track_006.dff" />
+	<file src="map-bathurst/track_006.col" />
+	<file src="map-bathurst/track_007.dff" />
+	<file src="map-bathurst/track_007.col" />
+	<file src="map-bathurst/track_008.dff" />
+	<file src="map-bathurst/track_008.col" />
+	<file src="map-bathurst/track_009.dff" />
+	<file src="map-bathurst/track_009.col" />
+	<file src="map-bathurst/track_010.dff" />
+	<file src="map-bathurst/track_010.col" />
+	<file src="map-bathurst/track_011.dff" />
+	<file src="map-bathurst/track_011.col" />
+	<file src="map-bathurst/track_012.dff" />
+	<file src="map-bathurst/track_012.col" />
+	<file src="map-bathurst/track_013.dff" />
+	<file src="map-bathurst/track_013.col" />
+	<file src="map-bathurst/track_014.dff" />
+	<file src="map-bathurst/track_014.col" />
+	<file src="map-bathurst/track_015.dff" />
+	<file src="map-bathurst/track_015.col" />
+	<file src="map-bathurst/track_016.dff" />
+	<file src="map-bathurst/track_016.col" />
+	<file src="map-bathurst/track_017.dff" />
+	<file src="map-bathurst/track_017.col" />
+	<file src="map-bathurst/track_018.dff" />
+	<file src="map-bathurst/track_018.col" />
+	<file src="map-bathurst/track_022.dff" />
+	<file src="map-bathurst/track_022.col" />
+	<file src="map-bathurst/track_019.dff" />
+	<file src="map-bathurst/track_019.col" />
+	<file src="map-bathurst/track_020.dff" />
+	<file src="map-bathurst/track_020.col" />
+	<file src="map-bathurst/track_023.dff" />
+	<file src="map-bathurst/track_023.col" />
+	<file src="map-bathurst/track_021.dff" />
+	<file src="map-bathurst/track_021.col" />
+</meta>

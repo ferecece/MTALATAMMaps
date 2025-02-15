@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" racetype="R" name="Docki Crane Traffic 1" author="Dockinoke" version="1.1" description="One of most difficult slalom race of ever" />
+    <map src="race-dockicranetraffic1.map" />
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <settings>
+        <setting name="#gamespeed" value="[ 1.0500000 ]" />
+		<setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#respawntime" value="1" />
+        <setting name="#time" value="20:50" />
+        <setting name="#weather" value="9" />
+        <setting name="#locked_time" value="true" />
+        <setting name="#duration" value="600" />
+        <setting name="#respawn" value="timelimit" />
+    </settings>
+	<script src="objectlod.lua" type="client"></script>
+</meta>

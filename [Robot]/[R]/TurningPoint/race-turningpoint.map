@@ -1,0 +1,32 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="560" posX="3000" posY="-1800" posZ="12" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <object id="object (miragebuild07) (1)" doublesided="false" model="7586" interior="0" dimension="0" posX="3000" posY="-1800" posZ="4.7749991416931" rotX="0" rotY="0" rotZ="0.999755859375"></object>
+    <object id="object (miragebuild07) (2)" doublesided="false" model="7586" interior="0" dimension="0" posX="3000" posY="-1800" posZ="4.7749991416931" rotX="0" rotY="0" rotZ="0.9942626953125"></object>
+    <object id="object (cs_roadbridge04) (5)" doublesided="false" model="18450" interior="0" dimension="0" posX="3080" posY="-1720" posZ="10" rotX="0" rotY="0" rotZ="90"></object>
+    <checkpoint id="checkpoint () (1)" type="ring" color="#00F9" size="5" nextid="checkpoint () (2)" posX="3080" posY="-1800" posZ="11" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (3)" posX="3080" posY="-1720" posZ="10" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="ring" color="#00F9" size="5" nextid="checkpoint () (4)" posX="3080" posY="-1640" posZ="11" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (cs_roadbridge04) (8)" doublesided="false" model="18450" interior="0" dimension="0" posX="3000" posY="-1720" posZ="10" rotX="0" rotY="0" rotZ="90"></object>
+    <checkpoint id="checkpoint () (4)" type="ring" color="#00F9" size="5" nextid="checkpoint () (5)" posX="3000" posY="-1640" posZ="11" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (6)" posX="3000" posY="-1720" posZ="10" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="ring" color="#00F9" size="5" nextid="checkpoint () (7)" posX="3000.08984375" posY="-1800" posZ="12" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (cs_roadbridge04) (9)" doublesided="false" model="18450" interior="0" dimension="0" posX="3079.9992675781" posY="-1879.25" posZ="10" rotX="0" rotY="0" rotZ="90"></object>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="5" interior="0" nextid="checkpoint () (9)" posX="3080" posY="-1800" posZ="10" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (cs_roadbridge04) (9)" doublesided="false" model="18450" interior="0" dimension="0" posX="3080" posY="-1880" posZ="35" rotX="0" rotY="0" rotZ="90"></object>
+    <checkpoint id="checkpoint () (8)" type="ring" color="#00F9" size="5" interior="0" nextid="checkpoint () (10)" posX="3080" posY="-1880" posZ="37" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (cs_roadbridge04) (9)" doublesided="false" model="18450" interior="0" dimension="0" posX="3080" posY="-1800" posZ="35" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cs_roadbridge04) (9)" doublesided="false" model="18450" interior="0" dimension="0" posX="3080" posY="-1720" posZ="35" rotX="0" rotY="0" rotZ="90"></object>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="3040" posY="-1800" posZ="11" rotX="0" rotY="0" rotZ="169.19921875"></racepickup>
+    <checkpoint id="checkpoint () (10)" type="ring" color="#00F9" size="5" nextid="checkpoint () (11)" posX="3080" posY="-1800" posZ="36" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (12)" posX="3080" posY="-1720" posZ="35" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (cs_roadbridge04) (9)" doublesided="false" model="18450" interior="0" dimension="0" posX="2989.2580566406" posY="-1704.6389160156" posZ="34.574974060059" rotX="0" rotY="0" rotZ="90"></object>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (13)" posX="3050.2043457031" posY="-1586.4677734375" posZ="35.080837249756" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (14)" posX="3033.4416503906" posY="-1648.0290527344" posZ="35.08048248291" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (15)" posX="3050.2897949219" posY="-1586.6911621094" posZ="38.301322937012" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (16)" posX="2989.6413574219" posY="-1697.5572509766" posZ="34.957122802734" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (landjump2) (1)" doublesided="false" model="1634" interior="0" dimension="0" posX="2989.4858398438" posY="-1738.4801025391" posZ="35.941024780273" rotX="0" rotY="0" rotZ="180"></object>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (9)" posX="2989.3737792969" posY="-1746.5849609375" posZ="40" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (8)" posX="3080" posY="-1880" posZ="11" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (2)" type="repair" vehicle="522" respawn="0" posX="3080" posY="-1888" posZ="36.694755554199" rotX="0" rotY="0" rotZ="68.39990234375"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" interior="0" posX="3080" posY="-1888" posZ="36.694755554199" rotX="0" rotY="0" rotZ="348.66015625"></racepickup>
+</map>

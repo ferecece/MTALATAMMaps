@@ -1,0 +1,36 @@
+<meta>
+    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
+    <script src="speed_client.lua" type="client"></script>
+    <script src="speed_server.lua" type="server"></script>
+    <info gamemodes="race" type="map" racetype="MG" name="Speed" author="Ali_Digitali" version="1.0.0" description='Harry: Alright, pop quiz. 
+
+        Airport, gunman with a hostage. He&apos;s using her for cover. He&apos;s almost to a plane. You&apos;re one hundred feet away. 
+
+        Jack: Shoot the hostage.  
+
+        Harry: What?  
+
+        Jack: Take her out of the equation. Go for the good wound and he can&apos;t get to the plane with her. Clear shot.  
+
+        Harry: You&apos;re deeply nuts, you know that? &quot;Shoot the hostage.&quot;'></info>
+    <map src="MG-Speed.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 5 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;none&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

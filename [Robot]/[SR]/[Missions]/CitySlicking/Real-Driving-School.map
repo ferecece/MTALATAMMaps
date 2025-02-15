@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Super GT) (1)" vehicle="506" posX="-2047.2" posY="-82.8" posZ="34.8" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#FE000099" size="7" nextid="checkpoint () (2)" posX="-1725.2" posY="1292.8" posZ="6.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#FE000099" size="7" posX="-2047.2" posY="-83.6" posZ="34.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

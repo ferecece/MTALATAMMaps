@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="SweetCarSpawn" vehicle="492" posX="2508.084" posY="-1671.1895" posZ="13.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <checkpoint id="GraveyardMarker" type="checkpoint" color="#FE000000" size="2.5" nextid="GroveMarker" posX="799.00977" posY="-1074.0322" posZ="23.0115" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="GroveMarker" type="checkpoint" color="#FE000000" size="2.25" posX="2501.6338" posY="-1674.1309" posZ="12.3689" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

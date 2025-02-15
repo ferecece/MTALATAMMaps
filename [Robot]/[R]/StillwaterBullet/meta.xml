@@ -1,0 +1,115 @@
+<meta>
+    <info gamemodes="race" type="map" racetype="R" name="Stillwater Bullet" author="Johnline" version="1.5.0" description="Custom Track Stillwater Bullet ReShaded" ></info>
+    <map src="stillwaterbullet.map" dimension="0"></map>
+    <settings>
+        <setting name="#respawn" value="timelimit" />
+        <setting name="#respawntime" value="1" />
+        <setting name="#duration" value="600" />
+        <setting name="#minplayers" value="[ 0 ]" />
+        <setting name="#maxplayers" value="[ 64 ]" />
+        <setting name="#weather" value="[ 22 ]" />
+        <setting name="#time" value="00:00" />
+        <setting name="#locked_time" value="[ true ]" />
+        <setting name="#gravity" value="[ 0.008000 ]" />
+        <setting name="#waveheight" value="[ 0 ]" />
+        <setting name="#gamespeed" value="[ 1 ]" />
+	<setting name="#ghostmode" value="true" />
+    </settings>
+    <oop>true</oop>
+    <script src="c_main.lua" type="client" />>  
+    
+    <script src="c_objects.lua" type="client" />
+    <script src="c_shaders.lua" type="client" />
+
+    <script src="line2material3D/c_material3DCom.lua" type="client" />
+    <file src="line2material3D/fx/material3DCom.fx" />
+    
+    <file src="img/stillwater_01.dff" />
+    <file src="img/stillwater_02.dff" />
+    <file src="img/stillwater_03.dff" />
+    <file src="img/stillwater_04.dff" />
+    <file src="img/stillwater_05.dff" />
+    <file src="img/stillwater_06.dff" />
+    <file src="img/stillwater_07.dff" />
+    <file src="img/stillwater_08.dff" />
+    <file src="img/stillwater_09.dff" />
+    <file src="img/stillwater_10.dff" />
+    <file src="img/stillwater_11.dff" />
+    <file src="img/stillwater_12.dff" />
+    <file src="img/stillwater_13.dff" />
+    <file src="img/stillwater_14.dff" />
+    <file src="img/stillwater_15.dff" />
+    <file src="img/stillwater_16.dff" />
+    <file src="img/stillwater_17.dff" />
+    <file src="img/stillwater_18.dff" />
+    <file src="img/stillwater_19.dff" />
+    <file src="img/stillwater_20.dff" />
+    <file src="img/stillwater_21.dff" />
+    <file src="img/stillwater_22.dff" />
+    <file src="img/stillwater_23.dff" />
+    <file src="img/stillwater_24.dff" />
+    <file src="img/stillwater_25.dff" />
+    <file src="img/stillwater_26.dff" />
+    <file src="img/stillwater_27.dff" />
+    <file src="img/stillwater_28.dff" />
+
+    <file src="img/stillwater_01.col" />
+    <file src="img/stillwater_02.col" />
+    <file src="img/stillwater_03.col" />
+    <file src="img/stillwater_04.col" />
+    <file src="img/stillwater_05.col" />
+    <file src="img/stillwater_06.col" />
+    <file src="img/stillwater_07.col" />
+    <file src="img/stillwater_08.col" />
+    <file src="img/stillwater_09.col" />
+    <file src="img/stillwater_10.col" />
+    <file src="img/stillwater_11.col" />
+    <file src="img/stillwater_12.col" />
+    <file src="img/stillwater_13.col" />
+    <file src="img/stillwater_14.col" />
+    <file src="img/stillwater_15.col" />
+    <file src="img/stillwater_16.col" />
+    <file src="img/stillwater_17.col" />
+    <file src="img/stillwater_18.col" />
+    <file src="img/stillwater_19.col" />
+    <file src="img/stillwater_20.col" />
+    <file src="img/stillwater_21.col" />
+    <file src="img/stillwater_22.col" />
+    <file src="img/stillwater_23.col" />
+    <file src="img/stillwater_24.col" />
+    <file src="img/stillwater_25.col" />
+    <file src="img/stillwater_26.col" />
+    <file src="img/stillwater_27.col" />
+    <file src="img/stillwater_28.col" />
+
+    <file src="img/stillwater.txd" />
+    
+    <file src="img/sphere.dff" />
+    <file src="img/sphere.txd" />
+    
+    <file src="tex/skybox.dds" />
+    <file src="fx/nightbox.fx" />   
+
+    <file src="tex/Harimau_1-9.png" />
+    <file src="tex/Auricom_1-9.png" />
+    <file src="tex/AG_Systems1-7.png" />
+    <file src="tex/Piranha_1-9.png" />
+    <file src="tex/Techdera_1-9.png" />
+    <file src="tex/Random_1-6.png" />
+    <file src="tex/Multiadd1.png" />
+    <file src="tex/coronastar.png" />
+    <file src="tex/refbox.dds" />
+
+    <file src="fx/alphaRef.fx" />
+    <file src="fx/disable.fx" />
+    <file src="fx/depthBias.fx" />
+    <file src="fx/vertAdjBlend.fx" />
+    <file src="fx/vertAdjBlendUV.fx" />
+    <file src="fx/vertAdj.fx" />
+    <file src="fx/vertAdjUV.fx" />
+    <file src="fx/vertAdjUVMul.fx" />
+    <file src="fx/vertAdjUVRotRef.fx" />
+    <file src="fx/vertAdjBasic.fx" />
+    <file src="fx/billboard.fx" />
+    <file src="fx/flipbookUV.fx" />
+</meta>

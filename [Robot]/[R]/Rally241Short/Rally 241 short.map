@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map mod="deathmatch">
+  <spawnpoint posX="-210.988129" posY="2595.879395" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint0" />
+  <spawnpoint posX="-212.677216" posY="2595.784180" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint1" />
+  <spawnpoint posX="-214.528839" posY="2595.480469" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint2" />
+  <spawnpoint posX="-216.146103" posY="2595.660889" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint3" />
+  <spawnpoint posX="-218.220169" posY="2595.681885" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint4" />
+  <spawnpoint posX="-220.562119" posY="2595.539063" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint5" />
+  <spawnpoint posX="-222.672562" posY="2595.343018" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint6" />
+  <spawnpoint posX="-224.724075" posY="2595.098145" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint7" />
+  <spawnpoint posX="-227.176788" posY="2595.027588" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint8" />
+  <spawnpoint posX="-229.360565" posY="2594.971680" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint9" />
+  <spawnpoint posX="-232.212265" posY="2594.999756" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint10" />
+  <spawnpoint posX="-234.304871" posY="2595.463623" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint11" />
+  <spawnpoint posX="-237.245895" posY="2595.111572" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint12" />
+  <spawnpoint posX="-240.112061" posY="2594.973877" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint13" />
+  <spawnpoint posX="-208.124298" posY="2594.853271" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint14" />
+  <spawnpoint posX="-204.951401" posY="2594.228760" posZ="62.463123" rotation="185" vehicle="468" id="spawnpoint15" />
+  <checkpoint posX="-230.743622" posY="2524.018311" posZ="28.991795" size="3.950000" id="checkpoint0" nextid="checkpoint1" />
+  <checkpoint posX="-336.923462" posY="2516.613281" posZ="34.373608" size="3.950000" id="checkpoint1" nextid="checkpoint2" />
+  <checkpoint posX="-417.292725" posY="2692.079102" posZ="57.525013" size="1.500000" id="checkpoint2" nextid="checkpoint3" />
+  <checkpoint posX="-346.564880" posY="2670.374512" posZ="63.118549" id="checkpoint3" nextid="checkpoint4" />
+  <checkpoint posX="-237.130432" posY="2663.152832" posZ="72.740868" id="checkpoint4" />
+</map>

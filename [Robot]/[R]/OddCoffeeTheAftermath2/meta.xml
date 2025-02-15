@@ -1,0 +1,30 @@
+<meta>
+    <info gamemodes="race" type="map" racetype="R" name="Odd Coffee - The Aftermath 2" author="LotsOfS" version="1.0.0" description="When the last time the coffee you had tasted a bit odd, you thought it caused you to hallucinate a nut job trying to rig the dam with explosives. Only it wasn&apos;t a hallucination, and the boss nearly fired you. Today, you had coffee again. Lo&apos; and behold: Another nut job showed up. This time you&apos;re not risking it though; hallucination or not, you neutralized the threat and dumped him in the back of your truck. Now dispose of the body.
+	
+Surprisingly fast and not too bad in the corners, if a little slippery, this vehicle and track combination make for an excellent beginner race.
+	
+BOBCAT (422/611) edition of an &quot;a map for every vehicle&quot; challenge."></info>
+    <map src="aveh-422bobcat.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#time" value="18:12"></setting>
+        <setting name="#timeafterfirstfinish" value="[ -1 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#weather" value="[ 17 ]"></setting>
+        <setting name="#hunterminigun" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#countdownduration" value="[ -1 ]"></setting>
+        <setting name="#respawntime" value="[ -1 ]"></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

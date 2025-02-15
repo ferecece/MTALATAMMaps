@@ -1,0 +1,195 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (sphinx01_lvs) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="9076" doublesided="false" scale="1" dimension="0" posX="-235.5" posY="2222.59961" posZ="65.4" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (sphinx02_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="8396" doublesided="false" scale="1" dimension="0" posX="-273.10001" posY="2222.69995" posZ="59.9" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (towerlan2) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="-231.59961" posY="2223.19922" posZ="-47.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (towerlan2) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="-121.5" posY="2222.5" posZ="-42.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (towerlan2) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="-156.09961" posY="2156" posZ="-42.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (towerlan2) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="-158.2998" posY="2288.59961" posZ="-42.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (towerlan2) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="-184.69922" posY="2223.19922" posZ="-47.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (luxorpillar01_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-213.69922" posY="2186.59961" posZ="37.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar01_lvs) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-208.7998" posY="2256.69922" posZ="37.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar01_lvs) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-276.89999" posY="2165.8999" posZ="115.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar01_lvs) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-218.3" posY="2287.6001" posZ="106.3" rotX="6.989" rotY="3.274" rotZ="33.601"></object>
+    <object id="object (luxorpillar04_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3494" doublesided="false" scale="1" dimension="0" posX="-141.7" posY="2308.80005" posZ="61.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar04_lvs) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3494" doublesided="false" scale="1" dimension="0" posX="-174.7" posY="2309.3999" posZ="61.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar04_lvs) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3494" doublesided="false" scale="1" dimension="0" posX="-104" posY="2203" posZ="61.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar04_lvs) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="3494" doublesided="false" scale="1" dimension="0" posX="-105.8" posY="2240.8999" posZ="61.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar04_lvs) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="3494" doublesided="false" scale="1" dimension="0" posX="-139.3" posY="2135.8999" posZ="61.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar04_lvs) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="3494" doublesided="false" scale="1" dimension="0" posX="-170.3" posY="2135.19995" posZ="61.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r01) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-203.09961" posY="2240.5" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (VgsN_nitree_r01) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-203.69922" posY="2205.19922" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (VgsN_nitree_r01) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-214.5" posY="2241" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (VgsN_nitree_r01) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-225.39999" posY="2242.3999" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (VgsN_nitree_r01) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-238.10001" posY="2241.69995" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (VgsN_nitree_r01) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-216.39999" posY="2204.3999" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (VgsN_nitree_r01) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-231.39999" posY="2203.30005" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (VgsN_nitree_r01) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-245.8" posY="2202" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (mafCasGoldBits01) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14580" doublesided="false" scale="1" dimension="0" posX="-210.89999" posY="2222.69995" posZ="56.6" rotX="356.251" rotY="1.002" rotZ="269.816"></object>
+    <object id="object (luxorpillar01_lvs) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-100.9" posY="2272.30005" posZ="123.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar01_lvs) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-96.6" posY="2250.80005" posZ="123.8" rotX="0" rotY="0" rotZ="46"></object>
+    <object id="object (luxorpillar01_lvs) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-181.89999" posY="1888.19995" posZ="121" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (luxorpillar01_lvs) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="19" posY="2223.5" posZ="127" rotX="0" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (NRG-500) (1)" type="vehiclechange" vehicle="439" respawn="0" posX="-201.3" posY="2222.5" posZ="53.6" rotX="0" rotY="0" rotZ="218.52"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="-219.8" posY="2222.3999" posZ="53.6" rotX="0" rotY="0" rotZ="288.36"></racepickup>
+    <object id="object (vgEhshade01_lvs) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-138.8" posY="2189.8999" posZ="55.7" rotX="0" rotY="0" rotZ="90.5"></object>
+    <object id="object (vgEhshade01_lvs) (9)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-131.7" posY="2189.69995" posZ="55.6" rotX="0" rotY="0" rotZ="64.5"></object>
+    <object id="object (vgEhshade01_lvs) (14)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-109.2" posY="2182.30005" posZ="55.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgEhshade01_lvs) (15)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-123.3" posY="2163.1001" posZ="55.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgEhshade01_lvs) (16)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-140" posY="2171.89941" posZ="55.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgEhshade01_lvs) (17)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-120.7" posY="2186" posZ="55.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgEhshade01_lvs) (18)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-139.89999" posY="2257" posZ="55.7" rotX="0" rotY="0" rotZ="93.25"></object>
+    <object id="object (vgEhshade01_lvs) (19)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-116.8" posY="2262.6001" posZ="55.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgEhshade01_lvs) (20)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-130.89999" posY="2281.8999" posZ="55.7" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vgEhshade01_lvs) (21)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-126.6" posY="2255.3999" posZ="55.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgEhshade01_lvs) (22)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-140.8" posY="2274.69995" posZ="55.7" rotX="0" rotY="0" rotZ="179.995"></object>
+    <racepickup id="racepickup (Mountain Bike) (1)" type="vehiclechange" vehicle="510" respawn="0" posX="-193.7" posY="2211.69995" posZ="53.6" rotX="0" rotY="0" rotZ="146.88"></racepickup>
+    <racepickup id="racepickup (DFT-30) (1)" type="vehiclechange" vehicle="522" respawn="0" posX="-193.5" posY="2232.59961" posZ="53.6" rotX="0" rotY="0" rotZ="95.586"></racepickup>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2222.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2219.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2216.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2213.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2210.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2207.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2225.3999" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2228.1001" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2231.1001" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2234.1001" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2237.1001" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142.3" posY="2136.30005" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-144.89999" posY="2136.19995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-147.7" posY="2136.1001" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-150.3" posY="2136" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-153.3" posY="2135.8999" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-156.3" posY="2135.80005" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-159" posY="2135.69995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-161.7" posY="2135.6001" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-164.89999" posY="2135.5" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-167.7" posY="2135.5" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-172" posY="2306.69995" posZ="58.2" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-169.39999" posY="2306.6001" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-166.8" posY="2306.5" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-164.3" posY="2306.3999" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-161.8" posY="2306.30005" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-159.2" posY="2306.19995" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-156.60001" posY="2306.19995" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-153.89999" posY="2306.1001" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-151.10001" posY="2306" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-148.39999" posY="2305.8999" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-145.7" posY="2305.80005" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.7" posY="2141.19995" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.39999" posY="2143.80005" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.60001" posY="2146.3999" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.39999" posY="2149.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.39999" posY="2151.80005" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.8" posY="2154.3999" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.10001" posY="2157.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140" posY="2159.69995" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.3" posY="2162.3999" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.10001" posY="2165.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.7" posY="2168.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.3" posY="2171.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.60001" posY="2174.6001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-108.3" posY="2202.19995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-111" posY="2202.1001" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-113.8" posY="2202.19995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-116.8" posY="2202.1001" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-119.8" posY="2202.30005" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-122.8" posY="2202.19995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-126.1" posY="2202.3999" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-129.3" posY="2202.30005" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-132.59961" posY="2202.5" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-135.60001" posY="2202.3999" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142" posY="2301.3999" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142" posY="2298.6001" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142.10001" posY="2295.69995" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142" posY="2292.5" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.7" posY="2289.80005" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.7" posY="2287" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.39999" posY="2284" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.5" posY="2280.69995" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.10001" posY="2277.5" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.39999" posY="2273.8999" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.5" posY="2270.6001" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2222.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2219.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2216.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2213.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2210.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.7" posY="2207.5" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2225.3999" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2228.1001" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2231.1001" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2234.1001" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-105.9" posY="2237.1001" posZ="58.3" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142.3" posY="2136.30005" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-144.89999" posY="2136.19995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-147.7" posY="2136.1001" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-150.3" posY="2136" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-153.3" posY="2135.8999" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-156.3" posY="2135.80005" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-159" posY="2135.69995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-161.7" posY="2135.6001" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-164.89999" posY="2135.5" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-167.7" posY="2135.5" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-172" posY="2306.69995" posZ="58.2" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-169.39999" posY="2306.6001" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-166.8" posY="2306.5" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-164.3" posY="2306.3999" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-161.8" posY="2306.30005" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-159.2" posY="2306.19995" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-156.60001" posY="2306.19995" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-153.89999" posY="2306.1001" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-151.10001" posY="2306" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-148.39999" posY="2305.8999" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-145.7" posY="2305.80005" posZ="58.2" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.7" posY="2141.19995" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.39999" posY="2143.80005" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.60001" posY="2146.3999" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.39999" posY="2149.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.39999" posY="2151.80005" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.8" posY="2154.3999" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.10001" posY="2157.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140" posY="2159.69995" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.3" posY="2162.3999" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.10001" posY="2165.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.7" posY="2168.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-140.3" posY="2171.1001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-139.60001" posY="2174.6001" posZ="58.2" rotX="0" rotY="0" rotZ="91"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-108.3" posY="2202.19995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-111" posY="2202.1001" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-113.8" posY="2202.19995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-116.8" posY="2202.1001" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-119.8" posY="2202.30005" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-122.8" posY="2202.19995" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-126.1" posY="2202.3999" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-129.3" posY="2202.30005" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-132.59961" posY="2202.5" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-135.60001" posY="2202.3999" posZ="58.2" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142" posY="2301.3999" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142" posY="2298.6001" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142.10001" posY="2295.69995" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-142" posY="2292.5" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.7" posY="2289.80005" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.7" posY="2287" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.39999" posY="2284" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.5" posY="2280.69995" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.10001" posY="2277.5" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.39999" posY="2273.8999" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="439" alpha="255" interior="0" posX="-141.5" posY="2270.6001" posZ="58.2" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <object id="object (vgEhshade01_lvs) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-186.5" posY="2188.69995" posZ="43.6" rotX="0" rotY="335" rotZ="90"></object>
+    <object id="object (vgEhshade01_lvs) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-186.5" posY="2158.5" posZ="29.5" rotX="0" rotY="25" rotZ="270"></object>
+    <object id="object (vgEhshade01_lvs) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-186.5" posY="2128.30005" posZ="15.4" rotX="0" rotY="25" rotZ="270"></object>
+    <object id="object (vgEhshade01_lvs) (16)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-211" posY="2222.19995" posZ="56.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgEhshade01_lvs) (16)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-198.7998" posY="2197.19922" posZ="56.4" rotX="0" rotY="0" rotZ="141.998"></object>
+    <object id="object (vgEhshade01_lvs) (16)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-172.7998" posY="2176.5" posZ="55.6" rotX="0" rotY="357.248" rotZ="140.999"></object>
+    <object id="object (luxorpillar01_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-189" posY="2212.1001" posZ="43.6" rotX="0" rotY="283.706" rotZ="180"></object>
+    <object id="object (luxorpillar01_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-189" posY="2224.30005" posZ="43.6" rotX="0" rotY="283.705" rotZ="179.995"></object>
+    <object id="object (luxorpillar01_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-189" posY="2236.7998" posZ="43.6" rotX="0" rotY="283.705" rotZ="179.995"></object>
+    <object id="object (luxorpillar01_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-169" posY="2227.2998" posZ="43.6" rotX="0" rotY="283.7" rotZ="90"></object>
+    <object id="object (luxorpillar01_lvs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="8397" doublesided="false" scale="1" dimension="0" posX="-169.10001" posY="2217.5" posZ="43.6" rotX="0" rotY="283.7" rotZ="270"></object>
+    <object id="object (vgEhshade01_lvs) (16)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-199.5" posY="2248" posZ="56.4" rotX="0" rotY="0" rotZ="221.502"></object>
+    <object id="object (vgEhshade01_lvs) (16)" breakable="true" interior="0" collisions="true" alpha="255" model="8838" doublesided="false" scale="1" dimension="0" posX="-174.60001" posY="2270" posZ="55.5" rotX="0" rotY="356.998" rotZ="221.502"></object>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" posX="-210.89999" posY="2222.30005" posZ="59.6" rotX="0" rotY="0" rotZ="153.72"></racepickup>
+    <object id="object (VgsN_nitree_r01) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-163.10001" posY="2206" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+    <object id="object (VgsN_nitree_r01) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3509" doublesided="false" scale="1" dimension="0" posX="-164" posY="2241" posZ="52.2" rotX="0" rotY="0" rotZ="135"></object>
+</map>

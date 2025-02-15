@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <file src="files/vortex.dff" />
+    <file src="files/vortex.txd" />
+    <script src="laswateras.lua" type="client" />
+    <info gamemodes="race" type="map" racetype="R" name="Las Venturas Speedboating" author="Puma" version="1.0" description="Custom map" />
+    <map src="R-LasVenturasSpeedboating.map" dimension="0" />
+    <settings>
+    <setting name="#time" value="0:0" />
+    <setting name="#respawn" value="timelimit" />
+    <setting name="#respawntime" value="1" />
+    <setting name="#ghostmode" value='[ &quot;true&quot; ]' />
+    </settings>
+</meta>

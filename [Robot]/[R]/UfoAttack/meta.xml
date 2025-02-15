@@ -1,0 +1,32 @@
+<meta>
+    
+    <script src="UFO.lua" type="client" />
+    <file src="sparrow.txd" />
+    <file src="sparrow.dff" />
+    
+    <script src="triggers.lua" type="client" />
+    
+    <script src="server.lua" type="server" />
+    
+    <min_mta_version server="1.5.8-9.20957"></min_mta_version>
+    <info gamemodes="race" type="map" racetype="R" name="UFO Attack" author="Joshimuz" version="3.1.0" description="Defend San Andreas from the UFO invasion"></info>
+    <map src="UfoAttack.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#gravity" value="[ 0.008 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+    </settings>
+    <script src="newMapEditorScriptingExtension_s.lua" type="server"></script>
+</meta>

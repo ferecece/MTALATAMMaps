@@ -1,0 +1,308 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (pirtehtl02_lvS) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="8421" scale="1" dimension="0" posX="5813.5" posY="-1231.08008" posZ="26.2" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (pirtehtl02_lvS) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="8421" scale="1" dimension="0" posX="5884" posY="-1230.80005" posZ="26.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (waterjumpx2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1655" scale="1" dimension="0" posX="5858.59961" posY="-1231" posZ="50.4" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (waterjumpx2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1655" scale="1" dimension="0" posX="5838.8999" posY="-1230.90002" posZ="50.4" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (pirtehtl02_lvS) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="8421" scale="1" dimension="0" posX="5865" posY="-1196.09998" posZ="26.1" rotX="0" rotY="0" rotZ="10"></object>
+    <object id="object (pirtehtl02_lvS) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="8421" scale="1" dimension="0" posX="5832.59961" posY="-1265.69922" posZ="26.1" rotX="0" rotY="0" rotZ="189.992"></object>
+    <object id="object (pirtehtl02_lvS) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="8421" scale="1" dimension="0" posX="5858.6001" posY="-1275.80005" posZ="26.2" rotX="0" rotY="0" rotZ="279.997"></object>
+    <object id="object (pirtehtl02_lvS) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="8421" scale="1" dimension="0" posX="5839" posY="-1186" posZ="26.2" rotX="0" rotY="0" rotZ="99.998"></object>
+    <object id="object (vgncarshade1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5902.5" posY="-1277" posZ="47.7" rotX="0" rotY="0" rotZ="239.996"></object>
+    <object id="object (vgncarshade1) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5795.2002" posY="-1184.80005" posZ="47.7" rotX="0" rotY="0" rotZ="239.996"></object>
+    <object id="object (vgncarshade1) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5826" posY="-1304" posZ="47.6" rotX="0" rotY="0" rotZ="149.996"></object>
+    <object id="object (vgncarshade1) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5871.7002" posY="-1157.80005" posZ="47.6" rotX="0" rotY="0" rotZ="329.991"></object>
+    <object id="object (vgncarshade1) (6)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5803.39941" posY="-1275.7998" posZ="47.6" rotX="0" rotY="0" rotZ="139.988"></object>
+    <object id="object (vgncarshade1) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5894.2002" posY="-1185.90002" posZ="47.6" rotX="0" rotY="0" rotZ="139.988"></object>
+    <spawnpoint id="spawnpoint (Flash) (1)" vehicle="565" posX="5840.7002" posY="-1312.30005" posZ="49.9" rotX="0" rotY="0" rotZ="60"></spawnpoint>
+    <object id="object (airportgate) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="980" scale="1" dimension="0" posX="5850.39941" posY="-1235.89941" posZ="52.7" rotX="90" rotY="0" rotZ="285.743"></object>
+    <object id="object (airportgate) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="980" scale="1" dimension="0" posX="5847.2002" posY="-1225.7998" posZ="52.7" rotX="90" rotY="0" rotZ="285.738"></object>
+    <spawnpoint id="spawnpoint (Flash) (2)" vehicle="565" alpha="255" interior="0" posX="5833.1001" posY="-1308.19995" posZ="49.9" rotX="0" rotY="0" rotZ="320"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (3)" vehicle="565" alpha="255" interior="0" posX="5808" posY="-1298.5" posZ="49.9" rotX="0" rotY="0" rotZ="329.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (5)" vehicle="565" alpha="255" interior="0" posX="5783.2002" posY="-1259.5" posZ="49.9" rotX="0" rotY="0" rotZ="319.993"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (6)" vehicle="565" alpha="255" interior="0" posX="5797.2998" posY="-1243.40002" posZ="49.9" rotX="0" rotY="0" rotZ="229.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (7)" vehicle="565" alpha="255" interior="0" posX="5786.1001" posY="-1200.30005" posZ="49.9" rotX="0" rotY="0" rotZ="219.982"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (8)" vehicle="565" alpha="255" interior="0" posX="5788.7002" posY="-1196.30005" posZ="49.9" rotX="0" rotY="0" rotZ="329.979"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (9)" vehicle="565" alpha="255" interior="0" posX="5805.7998" posY="-1160.80005" posZ="49.9" rotX="0" rotY="0" rotZ="239.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (11)" vehicle="565" alpha="255" interior="0" posX="5856.2002" posY="-1148.80005" posZ="49.9" rotX="0" rotY="0" rotZ="239.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (12)" vehicle="565" alpha="255" interior="0" posX="5890" posY="-1162.69995" posZ="49.9" rotX="0" rotY="0" rotZ="149.963"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (13)" vehicle="565" alpha="255" interior="0" posX="5886.2002" posY="-1179.19995" posZ="49.9" rotX="0" rotY="0" rotZ="229.963"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (14)" vehicle="565" alpha="255" interior="0" posX="5914" posY="-1202.80005" posZ="49.9" rotX="0" rotY="0" rotZ="139.96"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (15)" vehicle="565" alpha="255" interior="0" posX="5896.2002" posY="-1221.40002" posZ="49.9" rotX="0" rotY="0" rotZ="49.955"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (16)" vehicle="565" alpha="255" interior="0" posX="5911" posY="-1261.69995" posZ="49.9" rotX="0" rotY="0" rotZ="39.949"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (17)" vehicle="565" alpha="255" interior="0" posX="5909.1001" posY="-1265.59998" posZ="49.9" rotX="0" rotY="0" rotZ="149.946"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (18)" vehicle="565" alpha="255" interior="0" posX="5891.8999" posY="-1300.90002" posZ="49.9" rotX="0" rotY="0" rotZ="59.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (19)" vehicle="565" alpha="255" interior="0" posX="5856.8999" posY="-1287.90002" posZ="49.9" rotX="0" rotY="0" rotZ="9.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (20)" vehicle="565" alpha="255" interior="0" posX="5801.8999" posY="-1228.09998" posZ="49.9" rotX="0" rotY="0" rotZ="269.937"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (21)" vehicle="565" alpha="255" interior="0" posX="5839.5" posY="-1174.30005" posZ="49.9" rotX="0" rotY="0" rotZ="189.934"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (22)" vehicle="565" alpha="255" interior="0" posX="5895.5" posY="-1233.80005" posZ="49.9" rotX="0" rotY="0" rotZ="89.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (23)" vehicle="565" alpha="255" interior="0" posX="5895.7002" posY="-1228.30005" posZ="49.9" rotX="0" rotY="0" rotZ="89.929"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (24)" vehicle="565" alpha="255" interior="0" posX="5834.7998" posY="-1175.09998" posZ="49.9" rotX="0" rotY="0" rotZ="189.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (25)" vehicle="565" alpha="255" interior="0" posX="5801.8999" posY="-1233.69995" posZ="49.9" rotX="0" rotY="0" rotZ="269.934"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (26)" vehicle="565" alpha="255" interior="0" posX="5863.6001" posY="-1286.80005" posZ="49.9" rotX="0" rotY="0" rotZ="9.937"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (27)" vehicle="565" alpha="255" interior="0" posX="5839.1001" posY="-1204.5" posZ="49.9" rotX="0" rotY="0" rotZ="279.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (28)" vehicle="565" alpha="255" interior="0" posX="5837.7002" posY="-1197.09998" posZ="49.9" rotX="0" rotY="0" rotZ="279.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (29)" vehicle="565" alpha="255" interior="0" posX="5858.3999" posY="-1257.19995" posZ="49.9" rotX="0" rotY="0" rotZ="99.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (30)" vehicle="565" alpha="255" interior="0" posX="5859.7002" posY="-1264.40002" posZ="49.9" rotX="0" rotY="0" rotZ="99.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (31)" vehicle="565" alpha="255" interior="0" posX="5810.8999" posY="-1300" posZ="49.9" rotX="0" rotY="0" rotZ="329.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (32)" vehicle="565" alpha="255" interior="0" posX="5913.7002" posY="-1259.5" posZ="49.9" rotX="0" rotY="0" rotZ="39.946"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (33)" vehicle="565" alpha="255" interior="0" posX="5886.7998" posY="-1160.80005" posZ="49.9" rotX="0" rotY="0" rotZ="149.963"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (34)" vehicle="565" alpha="255" interior="0" posX="5783.2002" posY="-1202.69995" posZ="49.9" rotX="0" rotY="0" rotZ="219.979"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (35)" vehicle="565" alpha="255" interior="0" posX="5899.7002" posY="-1217.5" posZ="49.9" rotX="0" rotY="0" rotZ="49.949"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (36)" vehicle="565" alpha="255" interior="0" posX="5800.8999" posY="-1239.19995" posZ="49.9" rotX="0" rotY="0" rotZ="229.982"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (37)" vehicle="565" alpha="255" interior="0" posX="5910.7002" posY="-1200.09998" posZ="49.9" rotX="0" rotY="0" rotZ="139.955"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (38)" vehicle="565" alpha="255" interior="0" posX="5861.5" posY="-1151.19922" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (39)" vehicle="565" alpha="255" interior="0" posX="5803.7002" posY="-1164.80005" posZ="49.9" rotX="0" rotY="0" rotZ="239.969"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (40)" vehicle="565" alpha="255" interior="0" posX="5786.1001" posY="-1261.90002" posZ="49.9" rotX="0" rotY="0" rotZ="319.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (41)" vehicle="565" alpha="255" interior="0" posX="5835.7998" posY="-1310.5" posZ="49.9" rotX="0" rotY="0" rotZ="319.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (42)" vehicle="565" alpha="255" interior="0" posX="5893.5" posY="-1297.80005" posZ="49.9" rotX="0" rotY="0" rotZ="59.941"></spawnpoint>
+    <object id="object (pirtehtl02_lvS) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="8421" scale="1" dimension="0" posX="5769.2002" posY="-1239.19922" posZ="26.1" rotX="0" rotY="0" rotZ="139.988"></object>
+    <object id="object (pirtehtl02_lvS) (11)" interior="0" collisions="true" alpha="255" doublesided="false" model="8421" scale="1" dimension="0" posX="5928.1001" posY="-1222.69995" posZ="26.1" rotX="0" rotY="0" rotZ="319.988"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5928.59961" posY="-1258.89941" posZ="47.6" rotX="0" rotY="0" rotZ="179.995"></object>
+    <object id="object (vgncarshade1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5768.7998" posY="-1203" posZ="47.6" rotX="0" rotY="0" rotZ="179.995"></object>
+    <spawnpoint id="spawnpoint (Flash) (43)" vehicle="565" alpha="255" interior="0" posX="5768.2002" posY="-1198.40002" posZ="49.9" rotX="0" rotY="0" rotZ="179.979"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (44)" vehicle="565" alpha="255" interior="0" posX="5764.3999" posY="-1198.40002" posZ="49.9" rotX="0" rotY="0" rotZ="179.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (45)" vehicle="565" alpha="255" interior="0" posX="5728.6001" posY="-1241.5" posZ="49.9" rotX="0" rotY="0" rotZ="279.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (46)" vehicle="565" alpha="255" interior="0" posX="5729.2002" posY="-1244.69995" posZ="49.9" rotX="0" rotY="0" rotZ="279.978"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (47)" vehicle="565" alpha="255" interior="0" posX="5969.1001" posY="-1220.30005" posZ="49.9" rotX="0" rotY="0" rotZ="99.976"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (48)" vehicle="565" alpha="255" interior="0" posX="5968.5" posY="-1216.80005" posZ="49.9" rotX="0" rotY="0" rotZ="99.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (49)" vehicle="565" alpha="255" interior="0" posX="5933.1001" posY="-1263.40002" posZ="49.9" rotX="0" rotY="0" rotZ="359.97"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (50)" vehicle="565" alpha="255" interior="0" posX="5929.1001" posY="-1263.59998" posZ="49.9" rotX="0" rotY="0" rotZ="359.967"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (51)" vehicle="565" alpha="255" interior="0" posX="5945.5" posY="-1259" posZ="49.9" rotX="0" rotY="0" rotZ="89.967"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (52)" vehicle="565" alpha="255" interior="0" posX="5751.89941" posY="-1203" posZ="49.9" rotX="0" rotY="0" rotZ="269.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (53)" vehicle="565" alpha="255" interior="0" posX="5766.8999" posY="-1240" posZ="49.9" rotX="0" rotY="0" rotZ="229.976"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (54)" vehicle="565" alpha="255" interior="0" posX="5927.5" posY="-1225.09998" posZ="49.9" rotX="0" rotY="0" rotZ="49.971"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (55)" vehicle="565" alpha="255" interior="0" posX="5930.2002" posY="-1221.80005" posZ="49.9" rotX="0" rotY="0" rotZ="49.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (56)" vehicle="565" alpha="255" interior="0" posX="5770.2002" posY="-1236.19995" posZ="49.9" rotX="0" rotY="0" rotZ="229.971"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (57)" vehicle="565" alpha="255" interior="0" posX="5879.8999" posY="-1162.40002" posZ="49.9" rotX="0" rotY="0" rotZ="239.963"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (58)" vehicle="565" alpha="255" interior="0" posX="5817.8999" posY="-1298.80005" posZ="49.9" rotX="0" rotY="0" rotZ="59.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (59)" vehicle="565" alpha="255" interior="0" posX="5894.2998" posY="-1291.69995" posZ="49.9" rotX="0" rotY="0" rotZ="149.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (60)" vehicle="565" alpha="255" interior="0" posX="5803.7998" posY="-1170.09998" posZ="49.9" rotX="0" rotY="0" rotZ="329.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (61)" vehicle="565" alpha="255" interior="0" posX="5907.2998" posY="-1196.90002" posZ="49.9" rotX="0" rotY="0" rotZ="229.96"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (63)" vehicle="565" alpha="255" interior="0" posX="5811.2002" posY="-1282.19995" posZ="49.9" rotX="0" rotY="0" rotZ="49.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (64)" vehicle="565" alpha="255" interior="0" posX="5791" posY="-1265.39941" posZ="49.9" rotX="0" rotY="0" rotZ="49.988"></spawnpoint>
+    <object id="object (vgncarshade1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5724.2998" posY="-1220.5" posZ="47.6" rotX="0" rotY="0" rotZ="99.992"></object>
+    <object id="object (vgncarshade1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5738.5" posY="-1203" posZ="47.5" rotX="0" rotY="0" rotZ="359.992"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5973.2002" posY="-1242" posZ="47.6" rotX="0" rotY="0" rotZ="99.994"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5958.2998" posY="-1258.90002" posZ="47.5" rotX="0" rotY="0" rotZ="359.992"></object>
+    <object id="object (vgncarshade1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5738.7998" posY="-1218.19995" posZ="47.5" rotX="0" rotY="0" rotZ="49.992"></object>
+    <object id="object (vgncarshade1) (9)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5958.2998" posY="-1243.30005" posZ="47.5" rotX="0" rotY="0" rotZ="49.992"></object>
+    <object id="object (barrel4) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5863.3999" posY="-1264.40002" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5862.1001" posY="-1256.5" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5835.6001" posY="-1205.5" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (4)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5834.1001" posY="-1197.40002" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5903" posY="-1220.59961" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (6)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5899.5" posY="-1224.59998" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5794.3999" posY="-1241.40002" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5797.8999" posY="-1237.30005" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_y01) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3505" scale="1" dimension="0" posX="5795.7998" posY="-1238.69995" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_y02) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3506" scale="1" dimension="0" posX="5781.7002" posY="-1265.40002" posZ="52.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_g01) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3507" scale="1" dimension="0" posX="5796.2002" posY="-1260.09998" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_g02) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3508" scale="1" dimension="0" posX="5808.1001" posY="-1302.90002" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r01) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3509" scale="1" dimension="0" posX="5832" posY="-1312.59998" posZ="52.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r02) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3510" scale="1" dimension="0" posX="5895.8999" posY="-1301" posZ="52.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_b01) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3511" scale="1" dimension="0" posX="5915.2002" posY="-1263.19995" posZ="52.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_b02) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3512" scale="1" dimension="0" posX="5930.3999" posY="-1267.80005" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_y01) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3505" scale="1" dimension="0" posX="5972.7998" posY="-1217.80005" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_y02) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3506" scale="1" dimension="0" posX="5914.7998" posY="-1198.30005" posZ="52.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_g01) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3507" scale="1" dimension="0" posX="5904.7002" posY="-1202.09998" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_g02) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3508" scale="1" dimension="0" posX="5900.2998" posY="-1222.5" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r01) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3509" scale="1" dimension="0" posX="5890.2998" posY="-1157.90002" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_r02) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3510" scale="1" dimension="0" posX="5865" posY="-1149.59998" posZ="52.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_b01) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3511" scale="1" dimension="0" posX="5800.5" posY="-1160.5" posZ="52.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_b02) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="3512" scale="1" dimension="0" posX="5835" posY="-1202.90002" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_y01) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3505" scale="1" dimension="0" posX="5782.1001" posY="-1199.19995" posZ="52.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_y02) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3506" scale="1" dimension="0" posX="5766.1001" posY="-1194.5" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_g01) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3507" scale="1" dimension="0" posX="5723.8999" posY="-1244.30005" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (VgsN_nitree_g02) (3)" interior="0" collisions="true" alpha="255" doublesided="false" model="3508" scale="1" dimension="0" posX="5862.2998" posY="-1259.09998" posZ="52.6" rotX="0" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (Stuntplane) (1)" type="vehiclechange" vehicle="513" respawn="0" posX="5848.8999" posY="-1231.30005" posZ="57.2" rotX="0" rotY="0" rotZ="148.5"></racepickup>
+    <marker id="marker (arrow) (1)" type="arrow" color="#0000ffff" size="3" interior="0" dimension="0" alpha="255" posX="5848.8999" posY="-1231.30005" posZ="57.7" rotX="0" rotY="0" rotZ="0"></marker>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="5837.5" posY="-1178.69995" posZ="50.6" rotX="0" rotY="0" rotZ="93.24"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" posX="5806.2998" posY="-1231.09998" posZ="50.6" rotX="0" rotY="0" rotZ="343.44"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" posX="5859.6001" posY="-1282.30005" posZ="50.6" rotX="0" rotY="0" rotZ="263.52"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" posX="5890.3999" posY="-1230.40002" posZ="50.6" rotX="0" rotY="0" rotZ="8.46"></racepickup>
+    <spawnpoint id="spawnpoint (Flash) (51)" vehicle="565" alpha="255" interior="0" posX="5973.8999" posY="-1259.30005" posZ="49.9" rotX="0" rotY="0" rotZ="89.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (38)" vehicle="565" alpha="255" interior="0" posX="5865" posY="-1153.59998" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (52)" vehicle="565" alpha="255" interior="0" posX="5726.2998" posY="-1203.5" posZ="49.9" rotX="0" rotY="0" rotZ="269.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (52)" vehicle="565" alpha="255" interior="0" posX="5730" posY="-1228.09998" posZ="49.9" rotX="0" rotY="0" rotZ="319.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (51)" vehicle="565" alpha="255" interior="0" posX="5965.6001" posY="-1233.19995" posZ="49.9" rotX="0" rotY="0" rotZ="139.962"></spawnpoint>
+    <object id="object (vgncarshade1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5884.7002" posY="-1264.19995" posZ="47.7" rotX="0" rotY="0" rotZ="137.996"></object>
+    <object id="object (vgncarshade1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5812.1001" posY="-1198.5" posZ="47.6" rotX="0" rotY="0" rotZ="137.993"></object>
+    <object id="object (landjump2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="5837.6001" posY="-1221.69995" posZ="50.2" rotX="0" rotY="0" rotZ="226.741"></object>
+    <object id="object (landjump2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="5858.7998" posY="-1240.90002" posZ="50.3" rotX="0" rotY="0" rotZ="47.489"></object>
+    <object id="object (airportgate) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="980" scale="1" dimension="0" posX="5831.3999" posY="-1216" posZ="49.1" rotX="90" rotY="180" rotZ="137.738"></object>
+    <object id="object (airportgate) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="980" scale="1" dimension="0" posX="5865.5" posY="-1246.90002" posZ="49.1" rotX="90" rotY="179.995" rotZ="137.736"></object>
+    <object id="object (roofstuff15) (1)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5796.7998" posY="-1188.19995" posZ="48.9" rotX="342" rotY="0" rotZ="280"></object>
+    <object id="object (roofstuff15) (2)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5798.7998" posY="-1183.69995" posZ="48.9" rotX="341.999" rotY="0" rotZ="189.998"></object>
+    <object id="object (roofstuff15) (3)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5744.5" posY="-1206.80005" posZ="48.8" rotX="341.993" rotY="0" rotZ="203.998"></object>
+    <object id="object (roofstuff15) (4)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5724.5" posY="-1205.80005" posZ="48.8" rotX="341.988" rotY="0" rotZ="127.994"></object>
+    <object id="object (roofstuff15) (5)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5727.2998" posY="-1225" posZ="48.8" rotX="341.982" rotY="0" rotZ="67.991"></object>
+    <object id="object (roofstuff15) (6)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5898" posY="-1279" posZ="49" rotX="341.977" rotY="0" rotZ="7.989"></object>
+    <object id="object (roofstuff15) (7)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5899.7998" posY="-1274.30005" posZ="49" rotX="341.977" rotY="0" rotZ="267.987"></object>
+    <object id="object (roofstuff15) (8)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5952.1001" posY="-1255.69995" posZ="48.8" rotX="341.977" rotY="0" rotZ="23.987"></object>
+    <object id="object (roofstuff15) (9)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5972.7002" posY="-1255.80005" posZ="48.8" rotX="341.977" rotY="0" rotZ="313.983"></object>
+    <object id="object (roofstuff15) (10)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5969.2998" posY="-1236" posZ="48.8" rotX="341.977" rotY="0" rotZ="253.978"></object>
+    <object id="object (roofstuff15) (11)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5885.3999" posY="-1176" posZ="48.9" rotX="339.977" rotY="0" rotZ="193.976"></object>
+    <object id="object (roofstuff15) (12)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5882.7998" posY="-1178.69995" posZ="48.9" rotX="339.972" rotY="0" rotZ="273.975"></object>
+    <object id="object (roofstuff15) (13)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5881.7998" posY="-1166" posZ="48.9" rotX="339.966" rotY="0" rotZ="203.972"></object>
+    <object id="object (roofstuff15) (14)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5864.7002" posY="-1155.80005" posZ="48.9" rotX="339.966" rotY="0" rotZ="283.967"></object>
+    <object id="object (roofstuff15) (15)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5858.7998" posY="-1152.59998" posZ="48.9" rotX="339.966" rotY="0" rotZ="193.964"></object>
+    <object id="object (roofstuff15) (16)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5806.3999" posY="-1169.19995" posZ="49" rotX="339.966" rotY="0" rotZ="113.958"></object>
+    <object id="object (roofstuff15) (17)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5788.2998" posY="-1200.30005" posZ="49" rotX="339.966" rotY="0" rotZ="183.956"></object>
+    <object id="object (roofstuff15) (18)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5784.7002" posY="-1204.19995" posZ="48.9" rotX="339.966" rotY="0" rotZ="243.955"></object>
+    <object id="object (roofstuff15) (19)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5770.3999" posY="-1206.19995" posZ="48.9" rotX="339.966" rotY="0" rotZ="133.951"></object>
+    <object id="object (roofstuff15) (20)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5763" posY="-1204.69995" posZ="48.9" rotX="339.966" rotY="0" rotZ="233.951"></object>
+    <object id="object (roofstuff15) (21)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5731" posY="-1239.40002" posZ="48.9" rotX="339.966" rotY="0" rotZ="233.948"></object>
+    <object id="object (roofstuff15) (22)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5814.2002" posY="-1281" posZ="48.9" rotX="339.966" rotY="0" rotZ="273.948"></object>
+    <object id="object (roofstuff15) (23)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5812.7998" posY="-1286.09998" posZ="48.9" rotX="339.966" rotY="0" rotZ="195.944"></object>
+    <object id="object (roofstuff15) (24)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5815.8999" posY="-1295.69995" posZ="48.9" rotX="339.966" rotY="0" rotZ="195.941"></object>
+    <object id="object (roofstuff15) (25)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5833" posY="-1305" posZ="48.9" rotX="339.966" rotY="0" rotZ="275.941"></object>
+    <object id="object (roofstuff15) (26)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5890.2002" posY="-1292.69995" posZ="48.9" rotX="339.966" rotY="0" rotZ="275.938"></object>
+    <object id="object (roofstuff15) (27)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5909.1001" posY="-1261.30005" posZ="48.9" rotX="339.966" rotY="0" rotZ="5.938"></object>
+    <object id="object (roofstuff15) (28)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5927.7002" posY="-1255.40002" posZ="48.9" rotX="339.966" rotY="0" rotZ="315.938"></object>
+    <object id="object (roofstuff15) (29)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5935.7002" posY="-1256.59998" posZ="48.9" rotX="339.966" rotY="0" rotZ="225.934"></object>
+    <object id="object (roofstuff15) (30)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5967.6001" posY="-1222.69995" posZ="48.9" rotX="339.966" rotY="0" rotZ="235.928"></object>
+    <object id="object (roofstuff15) (31)" interior="0" alpha="255" doublesided="false" model="1696" scale="1" dimension="0" posX="5839.2998" posY="-1308" posZ="48.9" rotX="339.966" rotY="0" rotZ="265.926"></object>
+    <racepickup id="racepickup (NRG-500) (5)" type="repair" vehicle="522" respawn="0" posX="5848.8999" posY="-1231.30005" posZ="57.2" rotX="0" rotY="0" rotZ="317.88"></racepickup>
+    <racepickup id="racepickup (NRG-500) (6)" type="nitro" vehicle="522" respawn="0" posX="5848.8999" posY="-1231.19995" posZ="57.2" rotX="0" rotY="0" rotZ="228.78"></racepickup>
+    <object id="object (DYN_GAZ_1) (1)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5719.1001" posY="-1197.5" posZ="47.6" rotX="0" rotY="0" rotZ="280"></object>
+    <object id="object (DYN_GAZ_1) (2)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5717.8999" posY="-1190.90002" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (3)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5721.2002" posY="-1197.19995" posZ="47.6" rotX="0" rotY="0" rotZ="99.998"></object>
+    <object id="object (DYN_GAZ_1) (4)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5720" posY="-1190.59998" posZ="47.6" rotX="0" rotY="0" rotZ="99.992"></object>
+    <object id="object (DYN_GAZ_1) (5)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5718.1001" posY="-1186" posZ="47.6" rotX="0" rotY="0" rotZ="189.992"></object>
+    <object id="object (DYN_GAZ_1) (6)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5717.6001" posY="-1183.19995" posZ="47.6" rotX="0" rotY="0" rotZ="9.987"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5721.5" posY="-1186.90002" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5720.5" posY="-1181.19995" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5714.2002" posY="-1182.40002" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5715.2002" posY="-1188" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (NRG-500) (7)" type="repair" vehicle="522" respawn="10000" posX="5717.7998" posY="-1184.80005" posZ="50.4" rotX="0" rotY="0" rotZ="35.279"></racepickup>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5717.1001" posY="-1194.5" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5722.2002" posY="-1193.69995" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_GAZ_1) (7)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5978.2998" posY="-1265" posZ="47.6" rotX="0" rotY="0" rotZ="99.992"></object>
+    <object id="object (DYN_GAZ_1) (8)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5979.3999" posY="-1271.5" posZ="47.6" rotX="0" rotY="0" rotZ="99.992"></object>
+    <object id="object (DYN_GAZ_1) (9)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5976.2002" posY="-1265.30005" posZ="47.6" rotX="0" rotY="0" rotZ="279.992"></object>
+    <object id="object (DYN_GAZ_1) (10)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5977.2998" posY="-1271.80005" posZ="47.6" rotX="0" rotY="0" rotZ="279.987"></object>
+    <object id="object (DYN_GAZ_1) (11)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5979.2002" posY="-1276.19995" posZ="47.6" rotX="0" rotY="0" rotZ="189.987"></object>
+    <object id="object (DYN_GAZ_1) (12)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5979.7002" posY="-1279.30005" posZ="47.6" rotX="0" rotY="0" rotZ="9.987"></object>
+    <object id="object (barrel4) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5975.7998" posY="-1275.69995" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5976.7998" posY="-1281.09998" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5983" posY="-1279.90002" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5982.2002" posY="-1274.5" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5980" posY="-1268" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (5)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5975.5" posY="-1268.69995" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (NRG-500) (8)" type="repair" vehicle="522" respawn="10000" posX="5979.3999" posY="-1277.80005" posZ="50.4" rotX="0" rotY="0" rotZ="259.74"></racepickup>
+    <object id="object (vgncarshade1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5865.1001" posY="-1205.80005" posZ="47.6" rotX="0" rotY="0" rotZ="57.988"></object>
+    <object id="object (vgncarshade1) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5833.5" posY="-1256.40002" posZ="47.6" rotX="0" rotY="0" rotZ="57.986"></object>
+    <object id="object (landjump2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="5843.3999" posY="-1240.5" posZ="50.3" rotX="0" rotY="0" rotZ="327.488"></object>
+    <object id="object (landjump2) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="1634" scale="1" dimension="0" posX="5855.5" posY="-1221.40002" posZ="50.3" rotX="0" rotY="0" rotZ="147.486"></object>
+    <object id="object (airportgate) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="980" scale="1" dimension="0" posX="5845.7002" posY="-1226.19995" posZ="52.6" rotX="90" rotY="0" rotZ="316.488"></object>
+    <object id="object (airportgate) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="980" scale="1" dimension="0" posX="5851.7998" posY="-1235.59998" posZ="52.6" rotX="90" rotY="0" rotZ="316.483"></object>
+    <object id="object (airportgate) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="980" scale="1" dimension="0" posX="5848.2998" posY="-1233" posZ="52.6" rotX="90" rotY="0" rotZ="236.983"></object>
+    <object id="object (airportgate) (8)" interior="0" collisions="true" alpha="255" doublesided="false" model="980" scale="1" dimension="0" posX="5850.6001" posY="-1228.80005" posZ="52.6" rotX="90" rotY="0" rotZ="236.981"></object>
+    <object id="object (waterjumpx2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1655" scale="1" dimension="0" posX="5854.5" posY="-1250.90002" posZ="50.4" rotX="0" rotY="0" rotZ="16"></object>
+    <object id="object (waterjumpx2) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="1655" scale="1" dimension="0" posX="5843.2002" posY="-1210.80005" posZ="50.4" rotX="0" rotY="0" rotZ="195.996"></object>
+    <object id="object (DYN_GAZ_1) (13)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5716.7002" posY="-1178.30005" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (14)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5715.6001" posY="-1171.80005" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (15)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5714.3999" posY="-1165.19995" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (16)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5713.2002" posY="-1158.59998" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (17)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5712.1001" posY="-1152.09998" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (18)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5710.8999" posY="-1145.5" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (19)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5709.7998" posY="-1138.90002" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (20)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5708.6001" posY="-1132.30005" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (21)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5707.3999" posY="-1125.69995" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (22)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5706.2998" posY="-1119.19995" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (24)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5706.1001" posY="-1117.19995" posZ="47.6" rotX="0" rotY="8" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (25)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5705.6001" posY="-1114.90002" posZ="48.1" rotX="0" rotY="15.998" rotZ="279.992"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5714.5" posY="-1177" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5713.5" posY="-1170.5" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5712.2002" posY="-1163.80005" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5711.1001" posY="-1157.19995" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5710" posY="-1150.90002" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5708.7998" posY="-1144.19995" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5707.6001" posY="-1137.5" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5706.5" posY="-1130.90002" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5705.2998" posY="-1124.30005" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (barrel4) (7)" interior="0" collisions="true" alpha="255" doublesided="false" model="1225" scale="1" dimension="0" posX="5704.2002" posY="-1117.90002" posZ="49.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgncarshade1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5684.1001" posY="-992.20001" posZ="36.6" rotX="0" rotY="0" rotZ="99.994"></object>
+    <object id="object (DYN_GAZ_1) (26)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5729.8999" posY="-1250.40002" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (27)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5731.1001" posY="-1257" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (28)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5732.2998" posY="-1263.5" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (29)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5733.5" posY="-1270" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (30)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5734.7002" posY="-1276.40002" posZ="47.6" rotX="0" rotY="0" rotZ="279.998"></object>
+    <object id="object (DYN_GAZ_1) (31)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5735.5" posY="-1281.30005" posZ="49.9" rotX="84" rotY="0" rotZ="189.998"></object>
+    <racepickup id="racepickup (NRG-500) (9)" type="nitro" vehicle="522" respawn="0" posX="5734.6001" posY="-1276.59998" posZ="50.4" rotX="0" rotY="0" rotZ="314.82"></racepickup>
+    <object id="object (vgncarshade1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5679" posY="-993" posZ="39.3" rotX="58" rotY="0" rotZ="99.992"></object>
+    <object id="object (vgncarshade1) (10)" interior="0" collisions="true" alpha="255" doublesided="false" model="3458" scale="1" dimension="0" posX="5689.1001" posY="-991.29999" posZ="39.3" rotX="57.997" rotY="0" rotZ="279.992"></object>
+    <racepickup id="racepickup (NRG-500) (11)" type="repair" vehicle="522" respawn="0" posX="5680.8999" posY="-973.79999" posZ="39.5" rotX="0" rotY="0" rotZ="178.38"></racepickup>
+    <racepickup id="racepickup (Hunter) (1)" type="vehiclechange" vehicle="425" respawn="0" posX="5679.7998" posY="-969.09998" posZ="39.5" rotX="0" rotY="0" rotZ="58.32"></racepickup>
+    <object id="object (DYN_GAZ_1) (32)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5731.8999" posY="-1247.90002" posZ="47.5" rotX="0" rotY="0" rotZ="239.998"></object>
+    <object id="object (DYN_GAZ_1) (33)" interior="0" alpha="255" doublesided="false" model="1479" scale="1" dimension="0" posX="5728.1001" posY="-1248.90002" posZ="47.5" rotX="0" rotY="0" rotZ="139.996"></object>
+    <spawnpoint id="spawnpoint (Flash) (4)" vehicle="565" alpha="255" interior="0" posX="5860.3999" posY="-1287.3" posZ="49.9" rotX="0" rotY="0" rotZ="9.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (10)" vehicle="565" alpha="255" interior="0" posX="5888.6001" posY="-1294.8" posZ="49.9" rotX="0" rotY="0" rotZ="59.936"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (62)" vehicle="565" alpha="255" interior="0" posX="5886.8999" posY="-1297.6" posZ="49.9" rotX="0" rotY="0" rotZ="59.936"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (65)" vehicle="565" alpha="255" interior="0" posX="5881.7998" posY="-1294.5" posZ="49.9" rotX="0" rotY="0" rotZ="59.936"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (66)" vehicle="565" alpha="255" interior="0" posX="5883.3999" posY="-1291.9" posZ="49.9" rotX="0" rotY="0" rotZ="59.936"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (67)" vehicle="565" alpha="255" interior="0" posX="5878.7002" posY="-1289" posZ="49.9" rotX="0" rotY="0" rotZ="59.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (68)" vehicle="565" alpha="255" interior="0" posX="5876.7002" posY="-1291.3" posZ="49.9" rotX="0" rotY="0" rotZ="59.936"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (69)" vehicle="565" alpha="255" interior="0" posX="5873.1001" posY="-1285.7" posZ="49.9" rotX="0" rotY="0" rotZ="59.936"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (70)" vehicle="565" alpha="255" interior="0" posX="5871.5" posY="-1288.5" posZ="49.9" rotX="0" rotY="0" rotZ="59.936"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (71)" vehicle="565" alpha="255" interior="0" posX="5895.5" posY="-1231.1" posZ="49.9" rotX="0" rotY="0" rotZ="89.929"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (72)" vehicle="565" alpha="255" interior="0" posX="5837" posY="-1174.8" posZ="49.9" rotX="0" rotY="0" rotZ="189.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (73)" vehicle="565" alpha="255" interior="0" posX="5802.1001" posY="-1230.8" posZ="49.9" rotX="0" rotY="0" rotZ="269.934"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (74)" vehicle="565" alpha="255" interior="0" posX="5810.8999" posY="-1293.2" posZ="49.9" rotX="0" rotY="0" rotZ="329.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (75)" vehicle="565" alpha="255" interior="0" posX="5813.7002" posY="-1294.8" posZ="49.9" rotX="0" rotY="0" rotZ="329.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (76)" vehicle="565" alpha="255" interior="0" posX="5816.5" posY="-1289.8" posZ="49.9" rotX="0" rotY="0" rotZ="329.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (77)" vehicle="565" alpha="255" interior="0" posX="5813.7002" posY="-1288.2" posZ="49.9" rotX="0" rotY="0" rotZ="329.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (78)" vehicle="565" alpha="255" interior="0" posX="5819.7998" posY="-1285.3" posZ="49.9" rotX="0" rotY="0" rotZ="329.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (79)" vehicle="565" alpha="255" interior="0" posX="5816.8999" posY="-1283.3" posZ="49.9" rotX="0" rotY="0" rotZ="329.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (80)" vehicle="565" alpha="255" interior="0" posX="5820.1001" posY="-1278.4" posZ="49.9" rotX="0" rotY="0" rotZ="329.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (81)" vehicle="565" alpha="255" interior="0" posX="5822.8999" posY="-1280" posZ="49.9" rotX="0" rotY="0" rotZ="329.996"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (82)" vehicle="565" alpha="255" interior="0" posX="5822.7998" posY="-1271.4" posZ="49.9" rotX="0" rotY="0" rotZ="280"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (83)" vehicle="565" alpha="255" interior="0" posX="5822.2998" posY="-1268.9" posZ="49.9" rotX="0" rotY="0" rotZ="279.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (84)" vehicle="565" alpha="255" interior="0" posX="5821.7998" posY="-1266.2" posZ="49.9" rotX="0" rotY="0" rotZ="279.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (85)" vehicle="565" alpha="255" interior="0" posX="5821.2998" posY="-1263.5" posZ="49.9" rotX="0" rotY="0" rotZ="279.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (86)" vehicle="565" alpha="255" interior="0" posX="5875.1001" posY="-1190.1" posZ="49.9" rotX="0" rotY="0" rotZ="100"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (87)" vehicle="565" alpha="255" interior="0" posX="5875.6001" posY="-1192.5" posZ="49.9" rotX="0" rotY="0" rotZ="99.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (88)" vehicle="565" alpha="255" interior="0" posX="5876.1001" posY="-1194.9" posZ="49.9" rotX="0" rotY="0" rotZ="99.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (89)" vehicle="565" alpha="255" interior="0" posX="5876.7002" posY="-1197.6" posZ="49.9" rotX="0" rotY="0" rotZ="99.998"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (90)" vehicle="565" alpha="255" interior="0" posX="5861.2002" posY="-1157.9" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (91)" vehicle="565" alpha="255" interior="0" posX="5858" posY="-1155.5" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (92)" vehicle="565" alpha="255" interior="0" posX="5854.5" posY="-1159.7" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (93)" vehicle="565" alpha="255" interior="0" posX="5857.5" posY="-1162" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (94)" vehicle="565" alpha="255" interior="0" posX="5853.7002" posY="-1166.4" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (95)" vehicle="565" alpha="255" interior="0" posX="5850.8999" posY="-1164.4" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (96)" vehicle="565" alpha="255" interior="0" posX="5847.2998" posY="-1168.6" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (97)" vehicle="565" alpha="255" interior="0" posX="5850.1001" posY="-1170.6" posZ="49.9" rotX="0" rotY="0" rotZ="139.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (98)" vehicle="565" alpha="255" interior="0" posX="5789.5" posY="-1204.3" posZ="49.9" rotX="0" rotY="0" rotZ="219.979"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (99)" vehicle="565" alpha="255" interior="0" posX="5786.7998" posY="-1206.6" posZ="49.9" rotX="0" rotY="0" rotZ="219.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (100)" vehicle="565" alpha="255" interior="0" posX="5790.3999" posY="-1211.2" posZ="49.9" rotX="0" rotY="0" rotZ="219.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (101)" vehicle="565" alpha="255" interior="0" posX="5792.7002" posY="-1208.9" posZ="49.9" rotX="0" rotY="0" rotZ="219.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (102)" vehicle="565" alpha="255" interior="0" posX="5796.3999" posY="-1213" posZ="49.9" rotX="0" rotY="0" rotZ="219.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (103)" vehicle="565" alpha="255" interior="0" posX="5794" posY="-1215.2" posZ="49.9" rotX="0" rotY="0" rotZ="219.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (104)" vehicle="565" alpha="255" interior="0" posX="5797.6001" posY="-1219.8" posZ="49.9" rotX="0" rotY="0" rotZ="219.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (105)" vehicle="565" alpha="255" interior="0" posX="5799.7002" posY="-1217.7" posZ="49.9" rotX="0" rotY="0" rotZ="219.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (106)" vehicle="565" alpha="255" interior="0" posX="5803.5" posY="-1221.7" posZ="49.9" rotX="0" rotY="0" rotZ="219.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (107)" vehicle="565" alpha="255" interior="0" posX="5801.2998" posY="-1223.8" posZ="49.9" rotX="0" rotY="0" rotZ="219.974"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (108)" vehicle="565" alpha="255" interior="0" posX="5761.6001" posY="-1232.4" posZ="49.9" rotX="0" rotY="0" rotZ="229.971"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (109)" vehicle="565" alpha="255" interior="0" posX="5759.7998" posY="-1234.5" posZ="49.9" rotX="0" rotY="0" rotZ="229.971"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (110)" vehicle="565" alpha="255" interior="0" posX="5763.7002" posY="-1230" posZ="49.9" rotX="0" rotY="0" rotZ="229.971"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (111)" vehicle="565" alpha="255" interior="0" posX="5963.1001" posY="-1218" posZ="49.9" rotX="0" rotY="0" rotZ="99.965"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (112)" vehicle="565" alpha="255" interior="0" posX="5963.7002" posY="-1221.2" posZ="49.9" rotX="0" rotY="0" rotZ="99.965"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (113)" vehicle="565" alpha="255" interior="0" posX="5958.5" posY="-1222" posZ="49.9" rotX="0" rotY="0" rotZ="99.965"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (114)" vehicle="565" alpha="255" interior="0" posX="5957.8999" posY="-1218.8" posZ="49.9" rotX="0" rotY="0" rotZ="99.965"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (115)" vehicle="565" alpha="255" interior="0" posX="5952.5" posY="-1220" posZ="49.9" rotX="0" rotY="0" rotZ="99.965"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (116)" vehicle="565" alpha="255" interior="0" posX="5952.8999" posY="-1223" posZ="49.9" rotX="0" rotY="0" rotZ="99.965"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (117)" vehicle="565" alpha="255" interior="0" posX="5947.3999" posY="-1223.7" posZ="49.9" rotX="0" rotY="0" rotZ="99.965"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (118)" vehicle="565" alpha="255" interior="0" posX="5947" posY="-1220.7" posZ="49.9" rotX="0" rotY="0" rotZ="99.965"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (119)" vehicle="565" alpha="255" interior="0" posX="5933.8999" posY="-1232.9" posZ="49.9" rotX="0" rotY="0" rotZ="49.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (120)" vehicle="565" alpha="255" interior="0" posX="5935.3999" posY="-1230.9" posZ="49.9" rotX="0" rotY="0" rotZ="49.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (121)" vehicle="565" alpha="255" interior="0" posX="5937.1001" posY="-1229" posZ="49.9" rotX="0" rotY="0" rotZ="49.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (122)" vehicle="565" alpha="255" interior="0" posX="5938.8999" posY="-1226.9" posZ="49.9" rotX="0" rotY="0" rotZ="49.966"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (123)" vehicle="565" alpha="255" interior="0" posX="5910.2998" posY="-1255.2" posZ="49.9" rotX="0" rotY="0" rotZ="39.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (124)" vehicle="565" alpha="255" interior="0" posX="5907.7002" posY="-1257.2" posZ="49.9" rotX="0" rotY="0" rotZ="39.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (125)" vehicle="565" alpha="255" interior="0" posX="5904.3999" posY="-1252.8" posZ="49.9" rotX="0" rotY="0" rotZ="39.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (126)" vehicle="565" alpha="255" interior="0" posX="5906.7998" posY="-1251" posZ="49.9" rotX="0" rotY="0" rotZ="39.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (127)" vehicle="565" alpha="255" interior="0" posX="5902.6001" posY="-1246.3" posZ="49.9" rotX="0" rotY="0" rotZ="39.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (128)" vehicle="565" alpha="255" interior="0" posX="5900.2002" posY="-1248.1" posZ="49.9" rotX="0" rotY="0" rotZ="39.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (129)" vehicle="565" alpha="255" interior="0" posX="5896.7002" posY="-1243.9" posZ="49.9" rotX="0" rotY="0" rotZ="39.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (130)" vehicle="565" alpha="255" interior="0" posX="5899.1001" posY="-1242.1" posZ="49.9" rotX="0" rotY="0" rotZ="39.941"></spawnpoint>
+</map>

@@ -1,0 +1,195 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (snpdPESS1_LAS) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="5016" doublesided="false" scale="1" dimension="0" posX="1518.5" posY="-4153.2998" posZ="-0.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (sanpedbeaut) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="4848" doublesided="false" scale="1" dimension="0" posX="1549.3" posY="-4164" posZ="-2.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (snpdPESS1_LAS) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="5016" doublesided="false" scale="1" dimension="0" posX="1580.1" posY="-4174.7002" posZ="-0.5" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vgshseing27) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="8557" doublesided="false" scale="1" dimension="0" posX="1536" posY="-4166.6001" posZ="-0.9" rotX="0" rotY="6" rotZ="0"></object>
+    <object id="object (vgshseing27) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="8557" doublesided="false" scale="1" dimension="0" posX="1562.6" posY="-4161.3999" posZ="-0.9" rotX="0" rotY="5.999" rotZ="180"></object>
+    <spawnpoint id="spawnpoint (Tampa) (6)" vehicle="549" posX="1591.8" posY="-4160.6001" posZ="3.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (5)" vehicle="549" alpha="255" interior="0" posX="1591.8" posY="-4167.1001" posZ="3.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (4)" vehicle="549" alpha="255" interior="0" posX="1591.8" posY="-4173.6001" posZ="3.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (2)" vehicle="549" alpha="255" interior="0" posX="1506.5" posY="-4160.6001" posZ="3.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (3)" vehicle="549" alpha="255" interior="0" posX="1506.5" posY="-4167.1001" posZ="3.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (1)" vehicle="549" alpha="255" interior="0" posX="1506.5" posY="-4154.6001" posZ="3.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (S.W.A.T.) (1)" vehicle="601" alpha="255" interior="0" posX="1520.8" posY="-4138.7998" posZ="2" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Dune) (1)" vehicle="573" alpha="255" interior="0" posX="1577.8" posY="-4189.5" posZ="2.8" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <object id="object (vgncarshade1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="1549.4" posY="-4190.3999" posZ="-0.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vgncarshade1) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3458" doublesided="false" scale="1" dimension="0" posX="1549.4" posY="-4137.7002" posZ="-0.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cuntw_carport2_) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1562.7" posY="-4186" posZ="0.3" rotX="0" rotY="359.5" rotZ="180"></object>
+    <object id="object (cuntw_carport2_) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1558.2" posY="-4186" posZ="-0.1" rotX="0" rotY="358" rotZ="179.995"></object>
+    <object id="object (cuntw_carport2_) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1554.2" posY="-4186" posZ="0" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cuntw_carport2_) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1535.9" posY="-4141.7998" posZ="0.3" rotX="0" rotY="359.495" rotZ="0"></object>
+    <object id="object (cuntw_carport2_) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1540.4" posY="-4141.7998" posZ="-0.1" rotX="0" rotY="357.995" rotZ="0"></object>
+    <object id="object (cuntw_carport2_) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="17037" doublesided="false" scale="1" dimension="0" posX="1544.6" posY="-4141.7998" posZ="0" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (BailBonds2_LAn) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="4176" doublesided="false" scale="1" dimension="0" posX="1568.1" posY="-4105.3999" posZ="-0.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (BailBonds2_LAn) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="4176" doublesided="false" scale="1" dimension="0" posX="1530.7" posY="-4104.8999" posZ="-0.8" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (BailBonds2_LAn) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="4176" doublesided="false" scale="1" dimension="0" posX="1568.1" posY="-4223.2002" posZ="-0.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (BailBonds2_LAn) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="4176" doublesided="false" scale="1" dimension="0" posX="1530.7" posY="-4222.7002" posZ="-0.8" rotX="0" rotY="0" rotZ="179.995"></object>
+    <spawnpoint id="spawnpoint (Bobcat) (19)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4115.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (20)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4112.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (21)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4109.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (22)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4106.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (23)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4103.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (24)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4100.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (25)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4097.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (26)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4094.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (27)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4094.6001" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (28)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4097.6001" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (29)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4100.6001" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (30)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4103.6001" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (31)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4106.6001" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (32)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4109.6001" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (33)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4112.6001" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (34)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4115.6001" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (35)" vehicle="422" alpha="255" interior="0" posX="1531.2" posY="-4097.1001" posZ="1.6" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (36)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4233.5" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (37)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4234" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (38)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4230.5" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (39)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4227.5" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (40)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4224.2998" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (41)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4221.5" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (42)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4218.5" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (43)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4215.2998" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (44)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4212.2998" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (45)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4230.7998" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (46)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4227.7998" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (47)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4224.7998" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (48)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4221.5" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (49)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4218.2998" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (50)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4215.2998" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (51)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4212.5" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (52)" vehicle="422" alpha="255" interior="0" posX="1534.5" posY="-4097.1001" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (53)" vehicle="422" alpha="255" interior="0" posX="1537.8" posY="-4097.1001" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (54)" vehicle="422" alpha="255" interior="0" posX="1541" posY="-4097.1001" posZ="1.6" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (58)" vehicle="422" alpha="255" interior="0" posX="1555.8" posY="-4097.1001" posZ="1.6" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (59)" vehicle="422" alpha="255" interior="0" posX="1559.6" posY="-4097.1001" posZ="1.6" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (60)" vehicle="422" alpha="255" interior="0" posX="1563.3" posY="-4097.1001" posZ="1.6" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (61)" vehicle="422" alpha="255" interior="0" posX="1567" posY="-4097.1001" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (64)" vehicle="422" alpha="255" interior="0" posX="1541.9" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (65)" vehicle="422" alpha="255" interior="0" posX="1538.3" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (66)" vehicle="422" alpha="255" interior="0" posX="1534.8" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (67)" vehicle="422" alpha="255" interior="0" posX="1531.5" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (69)" vehicle="422" alpha="255" interior="0" posX="1556.3" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (70)" vehicle="422" alpha="255" interior="0" posX="1560" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (71)" vehicle="422" alpha="255" interior="0" posX="1563.6" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (72)" vehicle="422" alpha="255" interior="0" posX="1567.1" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <object id="object (garages1_LAn) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="4199" doublesided="false" scale="1" dimension="0" posX="1549.4" posY="-4235.2998" posZ="-1.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (garages1_LAn) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="4199" doublesided="false" scale="1" dimension="0" posX="1549.4" posY="-4092.7" posZ="-1.5" rotX="0" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="1549.5" posY="-4258" posZ="5" rotX="0" rotY="0" rotZ="12.6"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" posX="1549.5" posY="-4069.8" posZ="5.3" rotX="0" rotY="0" rotZ="32.04"></racepickup>
+    <spawnpoint id="spawnpoint (Dune) (2)" vehicle="573" alpha="255" interior="0" posX="1577.8" posY="-4183.1001" posZ="2.8" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (S.W.A.T.) (2)" vehicle="601" alpha="255" interior="0" posX="1520.8" posY="-4144.7002" posZ="2" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <object id="object (ad_jump) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3080" doublesided="false" scale="1" dimension="0" posX="1549.5" posY="-4072" posZ="1.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ad_jump) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3080" doublesided="false" scale="1" dimension="0" posX="1549.5" posY="-4256" posZ="1.7" rotX="0" rotY="0" rotZ="180"></object>
+    <pickup id="pickup (health) (1)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1531.1" posY="-4266.6001" posZ="1" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (2)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1552.2" posY="-4248.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <racepickup id="racepickup (Hunter) (1)" type="vehiclechange" vehicle="425" respawn="0" posX="1549.5" posY="-4426.7998" posZ="2.2" rotX="0" rotY="0" rotZ="317.34"></racepickup>
+    <object id="object (garages1_LAn) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="4199" doublesided="false" scale="1" dimension="0" posX="1549.4" posY="-4394.2998" posZ="-1.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (garages1_LAn) (10)" breakable="true" interior="0" collisions="true" alpha="255" model="4199" doublesided="false" scale="1" dimension="0" posX="1549.4" posY="-4425.8999" posZ="-1.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (garages1_LAn) (11)" breakable="true" interior="0" collisions="true" alpha="255" model="4199" doublesided="false" scale="1" dimension="0" posX="1549.4" posY="-3930.8999" posZ="-1.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (garages1_LAn) (12)" breakable="true" interior="0" collisions="true" alpha="255" model="4199" doublesided="false" scale="1" dimension="0" posX="1549.4" posY="-3899.3999" posZ="-1.5" rotX="0" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (Hunter) (2)" type="vehiclechange" vehicle="425" respawn="0" alpha="255" interior="0" posX="1549.5" posY="-3900.8" posZ="2.2" rotX="0" rotY="0" rotZ="57.6"></racepickup>
+    <object id="object (vgshseing27) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="8557" doublesided="false" scale="1" dimension="0" posX="1539.9" posY="-4248.5" posZ="-0.3" rotX="0" rotY="10" rotZ="0"></object>
+    <object id="object (vgshseing27) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="8557" doublesided="false" scale="1" dimension="0" posX="1539.9" posY="-4079.5" posZ="-0.3" rotX="0" rotY="9.998" rotZ="0"></object>
+    <object id="object (vgshseing27) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="8557" doublesided="false" scale="1" dimension="0" posX="1558.8" posY="-4079.5" posZ="-0.3" rotX="0" rotY="9.998" rotZ="180"></object>
+    <object id="object (vgshseing27) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="8557" doublesided="false" scale="1" dimension="0" posX="1558.8" posY="-4248.5" posZ="-0.3" rotX="0" rotY="9.998" rotZ="179.995"></object>
+    <object id="object (a51_jetdoor) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1515.8" posY="-4246.5" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1515.8" posY="-4237.5" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1582.8" posY="-4237.5" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1582.8" posY="-4246.5" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1582.8" posY="-4081.3999" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1582.8" posY="-4090.3999" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1515.8" posY="-4081.3999" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (a51_jetdoor) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="1515.8" posY="-4090.3999" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_GAZ_1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1536.5" posY="-4173.5" posZ="-0.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (DYN_GAZ_1) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1536.5" posY="-4180" posZ="-0.8" rotX="0" rotY="0" rotZ="270"></object>
+    <racepickup id="racepickup (NRG-500) (3)" type="repair" vehicle="522" respawn="0" posX="1537.3" posY="-4185.3999" posZ="2.4" rotX="0" rotY="0" rotZ="82.8"></racepickup>
+    <object id="object (DYN_GAZ_1) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1561.9" posY="-4154.5" posZ="-0.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DYN_GAZ_1) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1561.9" posY="-4148" posZ="-0.8" rotX="0" rotY="0" rotZ="90"></object>
+    <racepickup id="racepickup (Sanchez) (1)" type="vehiclechange" vehicle="468" respawn="0" alpha="255" interior="0" posX="1561.9" posY="-4137.6001" posZ="2.4" rotX="0" rotY="0" rotZ="255.96"></racepickup>
+    <object id="object (DYN_GAZ_1) (10)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1537.5" posY="-4185.8999" posZ="-0.8" rotX="0" rotY="0" rotZ="290"></object>
+    <object id="object (DYN_GAZ_1) (12)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1539.7" posY="-4192" posZ="-0.8" rotX="0" rotY="0" rotZ="289.995"></object>
+    <object id="object (DYN_GAZ_1) (14)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1542.9" posY="-4196.6001" posZ="-0.8" rotX="0" rotY="0" rotZ="320"></object>
+    <object id="object (DYN_GAZ_1) (15)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1547.8" posY="-4198.6001" posZ="-0.8" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Bobcat) (1)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4248.5" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (8)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4248.5" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (9)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4079.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (12)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4079.6001" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Baggage) (1)" vehicle="485" alpha="255" interior="0" posX="1561.7" posY="-4167.7998" posZ="1.4" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Baggage) (2)" vehicle="485" alpha="255" interior="0" posX="1539.7" posY="-4160.2998" posZ="1.4" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <object id="object (DYN_GAZ_1) (21)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1561.9" posY="-4141.3999" posZ="-0.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DYN_GAZ_1) (22)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1561.9" posY="-4134.8999" posZ="-0.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DYN_GAZ_1) (23)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1561.9" posY="-4128.3999" posZ="-0.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DYN_GAZ_1) (24)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1561.9" posY="-4121.8999" posZ="-0.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (DYN_GAZ_1) (25)" breakable="true" interior="0" collisions="true" alpha="255" model="1479" doublesided="false" scale="1" dimension="0" posX="1561.9" posY="-4115.3999" posZ="-0.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (SW_haybreak02) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3374" doublesided="false" scale="1" dimension="0" posX="1588.4" posY="-4192.3999" posZ="3.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SW_haybreak02) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3374" doublesided="false" scale="1" dimension="0" posX="1588.4" posY="-4188.3999" posZ="3.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SW_haybreak02) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3374" doublesided="false" scale="1" dimension="0" posX="1588.4" posY="-4185" posZ="3.7" rotX="15" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (NRG-500) (5)" type="nitro" vehicle="522" respawn="0" posX="1588.4" posY="-4192.3999" posZ="6.4" rotX="0" rotY="0" rotZ="358.56"></racepickup>
+    <racepickup id="racepickup (Infernus) (1)" type="vehiclechange" vehicle="411" respawn="0" posX="1588.5" posY="-4189.7002" posZ="6.4" rotX="0" rotY="0" rotZ="300.78"></racepickup>
+    <object id="object (a51_ventsouth) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="16644" doublesided="false" scale="1" dimension="0" posX="1586.7" posY="-4204.2002" posZ="3.7" rotX="90" rotY="0" rotZ="90"></object>
+    <racepickup id="racepickup (NRG-500) (6)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="1549.5" posY="-4163.7998" posZ="2.5" rotX="0" rotY="0" rotZ="52.74"></racepickup>
+    <spawnpoint id="spawnpoint (Bobcat) (2)" vehicle="422" alpha="255" interior="0" posX="1531.7" posY="-4214.3999" posZ="1.6" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (3)" vehicle="422" alpha="255" interior="0" posX="1534.7" posY="-4214.3999" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (4)" vehicle="422" alpha="255" interior="0" posX="1538" posY="-4214.3999" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (5)" vehicle="422" alpha="255" interior="0" posX="1541.2" posY="-4214.3999" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (6)" vehicle="422" alpha="255" interior="0" posX="1556.2" posY="-4214.5" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (7)" vehicle="422" alpha="255" interior="0" posX="1559.4" posY="-4214.3999" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (10)" vehicle="422" alpha="255" interior="0" posX="1562.9" posY="-4214.2998" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (11)" vehicle="422" alpha="255" interior="0" posX="1566.6" posY="-4214.2002" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (13)" vehicle="422" alpha="255" interior="0" posX="1553.5" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (14)" vehicle="422" alpha="255" interior="0" posX="1550.8" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (15)" vehicle="422" alpha="255" interior="0" posX="1547.8" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (16)" vehicle="422" alpha="255" interior="0" posX="1544.8" posY="-4230.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (17)" vehicle="422" alpha="255" interior="0" posX="1543.7" posY="-4097" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (18)" vehicle="422" alpha="255" interior="0" posX="1546.7" posY="-4097.2002" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (55)" vehicle="422" alpha="255" interior="0" posX="1549.7" posY="-4097.3999" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (56)" vehicle="422" alpha="255" interior="0" posX="1552.7" posY="-4097.6001" posZ="1.6" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (57)" vehicle="422" alpha="255" interior="0" posX="1531.4" posY="-4113.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (62)" vehicle="422" alpha="255" interior="0" posX="1533.9" posY="-4113.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (63)" vehicle="422" alpha="255" interior="0" posX="1536.7" posY="-4113.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (68)" vehicle="422" alpha="255" interior="0" posX="1539.7" posY="-4113.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (73)" vehicle="422" alpha="255" interior="0" posX="1542.7" posY="-4113.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (74)" vehicle="422" alpha="255" interior="0" posX="1545.7" posY="-4113.6001" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (75)" vehicle="422" alpha="255" interior="0" posX="1567.2" posY="-4113.8999" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (76)" vehicle="422" alpha="255" interior="0" posX="1564.2" posY="-4113.8999" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (77)" vehicle="422" alpha="255" interior="0" posX="1561.2" posY="-4113.8999" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (78)" vehicle="422" alpha="255" interior="0" posX="1558.2" posY="-4113.8999" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (79)" vehicle="422" alpha="255" interior="0" posX="1555.5" posY="-4113.8999" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (80)" vehicle="422" alpha="255" interior="0" posX="1552.5" posY="-4113.8999" posZ="1.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (81)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4091.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (82)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4088.6001" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (83)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4085.8" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (84)" vehicle="422" alpha="255" interior="0" posX="1515" posY="-4082.8" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (85)" vehicle="422" alpha="255" interior="0" posX="1583.7" posY="-4091.8" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (86)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4089.3" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (87)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4086.8" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (88)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4084.3" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (89)" vehicle="422" alpha="255" interior="0" posX="1583.5" posY="-4082" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (90)" vehicle="422" alpha="255" interior="0" posX="1583.6" posY="-4236.7002" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (91)" vehicle="422" alpha="255" interior="0" posX="1583.7" posY="-4239.3999" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (92)" vehicle="422" alpha="255" interior="0" posX="1583.8" posY="-4241.8999" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (93)" vehicle="422" alpha="255" interior="0" posX="1583.6" posY="-4244.3999" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (94)" vehicle="422" alpha="255" interior="0" posX="1583.7" posY="-4246.8999" posZ="5.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (95)" vehicle="422" alpha="255" interior="0" posX="1515.1" posY="-4236" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (96)" vehicle="422" alpha="255" interior="0" posX="1515.2" posY="-4238.5" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (97)" vehicle="422" alpha="255" interior="0" posX="1515.3" posY="-4241" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (98)" vehicle="422" alpha="255" interior="0" posX="1514.8" posY="-4243.5" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (99)" vehicle="422" alpha="255" interior="0" posX="1515.1" posY="-4246.5" posZ="5.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Baggage) (3)" vehicle="485" alpha="255" interior="0" posX="1539.8" posY="-4162.5" posZ="1.4" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Baggage) (4)" vehicle="485" alpha="255" interior="0" posX="1539.7" posY="-4168.7002" posZ="1.4" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Baggage) (5)" vehicle="485" alpha="255" interior="0" posX="1561.8" posY="-4165.2998" posZ="1.4" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (S.W.A.T.) (3)" vehicle="601" alpha="255" interior="0" posX="1521.1" posY="-4141.7998" posZ="2" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Dune) (3)" vehicle="573" alpha="255" interior="0" posX="1577" posY="-4186.2002" posZ="2.8" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (7)" vehicle="549" alpha="255" interior="0" posX="1591.7" posY="-4164.1001" posZ="3.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (8)" vehicle="549" alpha="255" interior="0" posX="1591.6" posY="-4170.2998" posZ="3.7" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (9)" vehicle="549" alpha="255" interior="0" posX="1506.5" posY="-4163.7998" posZ="3.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (10)" vehicle="549" alpha="255" interior="0" posX="1506.4" posY="-4157.5" posZ="3.7" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (100)" vehicle="422" alpha="255" interior="0" posX="1527.6" posY="-4113.3999" posZ="5.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (101)" vehicle="422" alpha="255" interior="0" posX="1571.1" posY="-4114.1001" posZ="5.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (102)" vehicle="422" alpha="255" interior="0" posX="1527.8" posY="-4095.2" posZ="5.7" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (103)" vehicle="422" alpha="255" interior="0" posX="1570.8" posY="-4095.7" posZ="5.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (104)" vehicle="422" alpha="255" interior="0" posX="1525.1" posY="-4113.3999" posZ="5.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (105)" vehicle="422" alpha="255" interior="0" posX="1525.3" posY="-4095.2" posZ="5.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (106)" vehicle="422" alpha="255" interior="0" posX="1573.5" posY="-4095.6001" posZ="5.7" rotX="0" rotY="0" rotZ="179.995"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bobcat) (107)" vehicle="422" alpha="255" interior="0" posX="1573.8" posY="-4114.2002" posZ="5.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+</map>

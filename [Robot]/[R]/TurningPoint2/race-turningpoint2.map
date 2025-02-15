@@ -1,0 +1,34 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (miragebuild07) (2)" doublesided="false" model="7586" interior="0" dimension="0" posX="4000" posY="-1790" posZ="54.5" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Sultan) (1)" vehicle="560" posX="4000" posY="-1790" posZ="62" rotX="0" rotY="0" rotZ="179.99450683594"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (2)" posX="4000" posY="-1885" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (3)" posX="3950" posY="-1970" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (4)" posX="4000" posY="-2066" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (5)" posX="4000" posY="-2180" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="7" interior="0" nextid="checkpoint () (6)" posX="4000" posY="-2066" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (7)" posX="4050" posY="-1970" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="7" interior="0" nextid="checkpoint () (8)" posX="4000" posY="-1885" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (9)" posX="3900" posY="-1790" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#00F9" size="8" nextid="checkpoint () (10)" posX="4000" posY="-1790" posZ="60.991508483887" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (11)" posX="4100" posY="-1790" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (12)" posX="4000" posY="-1690" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" size="8" nextid="checkpoint () (13)" posX="4000" posY="-1790" posZ="60.991508483887" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" size="7" interior="0" nextid="checkpoint () (14)" posX="4000" posY="-1885" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#00F9" size="5" nextid="checkpoint () (15)" posX="4075" posY="-1930" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (16)" posX="3925" posY="-2015" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (17)" posX="4075" posY="-2125" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (18)" posX="3925" posY="-2125" posZ="59.952461242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (18)" type="checkpoint" color="#00F9" size="7" nextid="checkpoint () (6)" posX="4000" posY="-2236" posZ="60.124336242676" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="4000" posY="-1790" posZ="62.304130554199" rotX="0" rotY="0" rotZ="240.1201171875"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="repair" vehicle="522" respawn="0" interior="0" posX="4000" posY="-1790" posZ="62.304130554199" rotX="0" rotY="0" rotZ="236.16015625"></racepickup>
+    <object id="object (miragebuild07) (2)" doublesided="true" model="17007" interior="0" dimension="0" posX="4000" posY="-1885" posZ="59.185752868652" rotX="180" rotY="0" rotZ="0"></object>
+    <object id="object (miragebuild07) (2)" doublesided="true" model="17007" interior="0" dimension="0" posX="4000" posY="-1885" posZ="37.860809326172" rotX="179.99450683594" rotY="0" rotZ="0"></object>
+    <object id="object (miragebuild07) (2)" doublesided="true" model="17007" interior="0" dimension="0" posX="4000" posY="-1885" posZ="16.360809326172" rotX="179.99450683594" rotY="0" rotZ="0"></object>
+    <object id="object (miragebuild07) (2)" doublesided="true" model="17007" interior="0" dimension="0" posX="4000" posY="-2066" posZ="59.610824584961" rotX="179.99450683594" rotY="0" rotZ="0"></object>
+    <object id="object (miragebuild07) (2)" doublesided="true" model="17007" interior="0" dimension="0" posX="4000" posY="-2066" posZ="38.230812072754" rotX="179.99450683594" rotY="0" rotZ="0"></object>
+    <object id="object (miragebuild07) (2)" doublesided="true" model="17007" interior="0" dimension="0" posX="4000" posY="-2066" posZ="16.980812072754" rotX="179.99450683594" rotY="0" rotZ="0"></object>
+    <object id="object (temp_road) (1)" doublesided="false" model="2910" interior="0" dimension="0" posX="4000" posY="-1885" posZ="60" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (temp_road) (2)" doublesided="false" model="2910" interior="0" dimension="0" posX="4000" posY="-2066" posZ="60" rotX="0" rotY="0" rotZ="90"></object>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" posX="4000" posY="-2066" posZ="61.265068054199" rotX="0" rotY="0" rotZ="283.31982421875"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" posX="4000" posY="-1885" posZ="61.265068054199" rotX="0" rotY="0" rotZ="206.8203125"></racepickup>
+</map>

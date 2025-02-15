@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<meta>
+  <info type="map" gamemodes="race" racetype="R" name="Admiral Race" author="Kasha666" />
+  <map src="Admiral Race.map" />
+  <settings>
+    <setting name="#time" value="5:0" />
+    <setting name="#weather" value="2" />
+    <setting name="#respawn" value="timelimit" />
+	<setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
+	<setting name="#respawntime" value="[ 1 ]"></setting>
+  </settings>
+</meta>

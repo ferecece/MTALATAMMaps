@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (ZR-350) (1)" vehicle="477" posX="1556.7" posY="29.2" posZ="23.8" rotX="0" rotY="0" rotZ="10"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (2)" posX="1216.4" posY="-144.3" posZ="38.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (3)" posX="682" posY="-157.3" posZ="22.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (4)" posX="-98.5" posY="-940.09998" posZ="19.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="10" nextid="checkpoint () (5)" posX="-503.5" posY="-877.09998" posZ="52.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#FD010199" size="10" posX="-924.29999" posY="-1721.2" posZ="76.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

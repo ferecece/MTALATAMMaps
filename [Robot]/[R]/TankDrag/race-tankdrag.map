@@ -1,0 +1,37 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Rhino) (1)" vehicle="432" posX="-1899.40002" posY="-1271.09998" posZ="39.6" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#4E392799" size="5" nextid="checkpoint () (2)" posX="-1897.2" posY="-844.29999" posZ="44" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#4E392799" size="5" alpha="255" interior="0" nextid="checkpoint () (3)" posX="-1897.4" posY="-245.3" posZ="37.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#4E392799" size="5" alpha="255" interior="0" nextid="checkpoint () (4)" posX="-1884.6" posY="84.5" posZ="37.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#4E392799" size="5" alpha="255" interior="0" nextid="checkpoint () (5)" posX="-1673.2" posY="527.59998" posZ="37.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#4E392799" size="5" alpha="255" interior="0" nextid="checkpoint () (6)" posX="-1423.8" posY="788.79999" posZ="46.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#4E392799" size="5" alpha="255" interior="0" nextid="checkpoint () (7)" posX="-1132.1" posY="1096.1" posZ="37.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#4E392799" size="5" alpha="255" interior="0" nextid="checkpoint () (8)" posX="-1053.4" posY="1224.1" posZ="38.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#4E392799" size="50" alpha="255" interior="0" posX="-876.79999" posY="1409.2" posZ="10.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <vehicle id="vehicle (Barracks) (1)" paintjob="3" interior="0" alpha="255" model="433" plate="QH4T C9P" dimension="0" posX="-1899.5" posY="-1286.5" posZ="40.1" rotX="0" rotY="0" rotZ="0" color="95,10,21,0,0,0,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Barracks) (2)" paintjob="3" interior="0" alpha="255" model="433" plate="A6T2 KU6" dimension="0" posX="-1881.2" posY="-1244.6" posZ="40.1" rotX="0" rotY="0" rotZ="310" color="95,10,21,0,0,0,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Patriot) (3)" paintjob="3" interior="0" alpha="255" model="470" plate="YN90 9PZ" dimension="0" posX="-1892.4" posY="-1255" posZ="39.6" rotX="0" rotY="0" rotZ="330" color="95,10,21,0,0,0,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Patriot) (4)" paintjob="3" interior="0" alpha="255" model="470" plate="6UX1 S5T" dimension="0" posX="-1869.3" posY="-1238.5" posZ="39.6" rotX="0" rotY="0" rotZ="289.996" color="95,10,21,0,0,0,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Patriot) (5)" paintjob="3" interior="0" alpha="255" model="470" plate="S399 XQP" dimension="0" posX="-1858.2" posY="-1236.8" posZ="39.6" rotX="0" rotY="0" rotZ="269.995" color="95,10,21,0,0,0,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Barracks) (3)" paintjob="3" interior="0" alpha="255" model="433" plate="O0XG M80" dimension="0" posX="-1899.4" posY="-1302.7" posZ="40.1" rotX="0" rotY="0" rotZ="0" color="95,10,21,0,0,0,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Patriot) (6)" paintjob="3" interior="0" alpha="255" model="470" plate="QQBS DGE" dimension="0" posX="-1899.6" posY="-1316.4" posZ="39.6" rotX="0" rotY="0" rotZ="359.996" color="95,10,21,0,0,0,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Patriot) (7)" paintjob="3" interior="0" alpha="255" model="470" plate="6FEG Y8E" dimension="0" posX="-1900" posY="-1330.2" posZ="39.6" rotX="0" rotY="0" rotZ="359.995" color="95,10,21,0,0,0,0,0,0,0,0,0"></vehicle>
+    <ped id="ped (1)" dimension="0" model="287" interior="0" rotZ="0.003" alpha="255" posX="-1902.5" posY="-1269.5" posZ="39.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="287" interior="0" rotZ="0.003" alpha="255" posX="-1896.3" posY="-1269.3" posZ="39.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="287" interior="0" rotZ="0.003" alpha="255" posX="-1902.5" posY="-1272.6" posZ="39.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" dimension="0" model="287" interior="0" rotZ="0.003" alpha="255" posX="-1902.5" posY="-1275.7" posZ="39.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" dimension="0" model="287" interior="0" rotZ="0.003" alpha="255" posX="-1902.5" posY="-1278.8" posZ="39.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" dimension="0" model="287" interior="0" rotZ="0.003" alpha="255" posX="-1896.3" posY="-1272.4" posZ="39.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" dimension="0" model="287" interior="0" rotZ="0.003" alpha="255" posX="-1896.3" posY="-1275.5" posZ="39.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" dimension="0" model="287" interior="0" rotZ="0.003" alpha="255" posX="-1896.3" posY="-1278.6" posZ="39.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (9)" dimension="0" model="287" interior="0" rotZ="290.003" alpha="255" posX="-1848.8" posY="-1233.8" posZ="39.2" rotX="0" rotY="0"></ped>
+    <ped id="ped (10)" dimension="0" model="287" interior="0" rotZ="290.003" alpha="255" posX="-1848.3" posY="-1236.3" posZ="39.2" rotX="0" rotY="0"></ped>
+    <ped id="ped (11)" dimension="0" model="287" interior="0" rotZ="2.003" alpha="255" posX="-1897.5" posY="-1315.3" posZ="39.5" rotX="0" rotY="0"></ped>
+    <ped id="ped (12)" dimension="0" model="287" interior="0" rotZ="0.003" alpha="255" posX="-1902.4" posY="-1315.2" posZ="39.5" rotX="0" rotY="0"></ped>
+    <vehicle id="vehicle (Packer) (1)" paintjob="3" interior="0" alpha="255" model="443" plate="Z8AI J9U" dimension="0" posX="-1902.3" posY="-1345.3" posZ="41" rotX="0" rotY="0" rotZ="350" color="39,47,75,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Hunter) (2)" paintjob="3" interior="0" alpha="255" model="425" plate="39OC TM5" dimension="0" posX="-1954.8" posY="-1269.9" posZ="98.5" rotX="192.337" rotY="28.722" rotZ="226.674" color="95,10,21,0,0,0,0,0,0,0,0,0"></vehicle>
+    <object id="object (circusconstruct07) (1)" breakable="true" interior="0" alpha="0" model="7017" doublesided="false" scale="1" dimension="0" posX="-1904.1" posY="-1231.2" posZ="39.6" rotX="0" rotY="0" rotZ="270"></object>
+    <vehicle id="vehicle (DFT-30) (1)" paintjob="3" interior="0" alpha="255" model="578" plate="0DJ2 151" dimension="0" posX="-833.20001" posY="1434.6" posZ="14.4" rotX="0" rotY="0" rotZ="272" color="245,245,245,245,245,245,0,0,0,0,0,0"></vehicle>
+    <object id="object (mil_samsite) (1)" breakable="true" interior="0" alpha="255" model="3267" doublesided="false" scale="1" dimension="0" posX="-837.29999" posY="1434.5" posZ="13.7" rotX="0" rotY="0" rotZ="110"></object>
+    <ped id="ped (13)" dimension="0" model="30" interior="0" rotZ="110.005" alpha="255" posX="-831.79999" posY="1434.2" posZ="15.1" rotX="0" rotY="0"></ped>
+</map>

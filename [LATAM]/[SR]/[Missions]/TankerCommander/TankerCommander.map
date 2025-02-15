@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Rancher) (1)" vehicle="489" posX="690" posY="-482.29999" posZ="16.6" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (2)" posX="651.5" posY="-559.20001" posZ="15.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#FF000099" size="6" posX="-50.1" posY="-1143.5" posZ="0.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

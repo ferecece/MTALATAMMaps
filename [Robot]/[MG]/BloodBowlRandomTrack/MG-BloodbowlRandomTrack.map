@@ -1,0 +1,110 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (1)" vehicle="504" interior="15" posX="-1513.8" posY="982.59998" posZ="1037.1" rotX="0" rotY="0" rotZ="-70"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (2)" vehicle="504" alpha="255" interior="15" posX="-1514.6" posY="988.79999" posZ="1037.5" rotX="0" rotY="0" rotZ="-80.005"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (3)" vehicle="504" alpha="255" interior="15" posX="-1506" posY="1020.8" posZ="1038" rotX="0" rotY="0" rotZ="-124.008"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (4)" vehicle="504" alpha="255" interior="15" posX="-1515" posY="995.90039" posZ="1037.6" rotX="0" rotY="0" rotZ="-90.011"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (5)" vehicle="504" alpha="255" interior="15" posX="-1514.2002" posY="1002.7998" posZ="1037.7" rotX="0" rotY="0" rotZ="-100.009"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (6)" vehicle="504" alpha="255" interior="15" posX="-1512.2002" posY="1009.2998" posZ="1037.8" rotX="0" rotY="0" rotZ="-110.012"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (7)" vehicle="504" alpha="255" interior="15" posX="-1509.5" posY="1015.2002" posZ="1037.9" rotX="0" rotY="0" rotZ="-116.012"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (8)" vehicle="504" alpha="255" interior="15" posX="-1501.8" posY="1025.8" posZ="1038.1" rotX="0" rotY="0" rotZ="-126.012"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (9)" vehicle="504" alpha="255" interior="15" posX="-1488" posY="1037.8" posZ="1038.3" rotX="0" rotY="0" rotZ="-148.013"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (10)" vehicle="504" alpha="255" interior="15" posX="-1497.7002" posY="1030.4004" posZ="1038.1" rotX="0" rotY="0" rotZ="-132.017"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (11)" vehicle="504" alpha="255" interior="15" posX="-1493.2002" posY="1034.2002" posZ="1038.2" rotX="0" rotY="0" rotZ="-140.015"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (12)" vehicle="504" alpha="255" interior="15" posX="-1470.1" posY="1046.8" posZ="1038.4" rotX="0" rotY="0" rotZ="-158.013"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (13)" vehicle="504" alpha="255" interior="15" posX="-1482.4004" posY="1041" posZ="1038.3" rotX="0" rotY="0" rotZ="-150.018"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (14)" vehicle="504" alpha="255" interior="15" posX="-1476.7002" posY="1044" posZ="1038.3" rotX="0" rotY="0" rotZ="-154.017"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (15)" vehicle="504" alpha="255" interior="15" posX="-1457.3" posY="1051" posZ="1038.4" rotX="0" rotY="0" rotZ="-166.016"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (16)" vehicle="504" alpha="255" interior="15" posX="-1507.8" posY="972.90002" posZ="1037.2" rotX="0" rotY="0" rotZ="-50.005"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (17)" vehicle="504" alpha="255" interior="15" posX="-1510.9004" posY="977.5" posZ="1037.3" rotX="0" rotY="0" rotZ="-60.007"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (18)" vehicle="504" alpha="255" interior="15" posX="-1504.1" posY="968.29999" posZ="1037.1" rotX="0" rotY="0" rotZ="-46.01"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (19)" vehicle="504" alpha="255" interior="15" posX="-1500.1" posY="964" posZ="1037" rotX="0" rotY="0" rotZ="-40.011"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (20)" vehicle="504" alpha="255" interior="15" posX="-1495.8" posY="960.5" posZ="1037" rotX="0" rotY="0" rotZ="-38.012"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (21)" vehicle="504" alpha="255" interior="15" posX="-1482.6" posY="951.29999" posZ="1036.8" rotX="0" rotY="0" rotZ="-28.013"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (22)" vehicle="504" alpha="255" interior="15" posX="-1491.2998" posY="956.7998" posZ="1036.9" rotX="0" rotY="0" rotZ="-32.014"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (23)" vehicle="504" alpha="255" interior="15" posX="-1486.7998" posY="954.09961" posZ="1036.9" rotX="0" rotY="0" rotZ="-30.015"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (24)" vehicle="504" alpha="255" interior="15" posX="-1463.5" posY="1049.2002" posZ="1038.4" rotX="0" rotY="0" rotZ="-162.021"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (25)" vehicle="504" alpha="255" interior="15" posX="-1450.5" posY="1052.6" posZ="1038.4" rotX="0" rotY="0" rotZ="-168.02"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (26)" vehicle="504" alpha="255" interior="15" posX="-1443.5" posY="1054" posZ="1038.4" rotX="0" rotY="0" rotZ="-170.025"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (27)" vehicle="504" alpha="255" interior="15" posX="-1436.6" posY="1055.1" posZ="1038.5" rotX="0" rotY="0" rotZ="-174.03"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (28)" vehicle="504" alpha="255" interior="15" posX="-1422" posY="1056" posZ="1038.4" rotX="0" rotY="0" rotZ="-178.03"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (29)" vehicle="504" alpha="255" interior="15" posX="-1429.4004" posY="1055.7002" posZ="1038.4" rotX="0" rotY="0" rotZ="-174.034"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (30)" vehicle="504" alpha="255" interior="15" posX="-1415" posY="1056.1" posZ="1038.4" rotX="0" rotY="0" rotZ="177.967"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (31)" vehicle="504" alpha="255" interior="15" posX="-1408.1" posY="1055.8" posZ="1038.4" rotX="0" rotY="0" rotZ="179.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (32)" vehicle="504" alpha="255" interior="15" posX="-1396.4" posY="1055.8" posZ="1038.4" rotX="0" rotY="0" rotZ="179.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (33)" vehicle="504" alpha="255" interior="15" posX="-1401.5996" posY="1055.7002" posZ="1038.4" rotX="0" rotY="0" rotZ="179.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (34)" vehicle="504" alpha="255" interior="15" posX="-1386.1" posY="1055.8" posZ="1038.4" rotX="0" rotY="0" rotZ="179.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (35)" vehicle="504" alpha="255" interior="15" posX="-1391.2998" posY="1055.7002" posZ="1038.4" rotX="0" rotY="0" rotZ="179.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (36)" vehicle="504" alpha="255" interior="15" posX="-1381.1" posY="1055.8" posZ="1038.4" rotX="0" rotY="0" rotZ="179.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (37)" vehicle="504" alpha="255" interior="15" posX="-1376.7" posY="1055.8" posZ="1038.4" rotX="0" rotY="0" rotZ="179.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (38)" vehicle="504" alpha="255" interior="15" posX="-1371.6" posY="1055.8" posZ="1038.4" rotX="0" rotY="0" rotZ="179.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (39)" vehicle="504" alpha="255" interior="15" posX="-1366.1" posY="1055.6" posZ="1038.3" rotX="0" rotY="0" rotZ="175.962"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (40)" vehicle="504" alpha="255" interior="15" posX="-1340.7" posY="1051" posZ="1038.2" rotX="0" rotY="0" rotZ="159.957"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (41)" vehicle="504" alpha="255" interior="15" posX="-1360.9004" posY="1055.2002" posZ="1038.3" rotX="0" rotY="0" rotZ="171.953"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (42)" vehicle="504" alpha="255" interior="15" posX="-1355.7002" posY="1054.4004" posZ="1038.3" rotX="0" rotY="0" rotZ="171.953"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (43)" vehicle="504" alpha="255" interior="15" posX="-1350.5" posY="1053.5" posZ="1038.3" rotX="0" rotY="0" rotZ="167.953"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (44)" vehicle="504" alpha="255" interior="15" posX="-1345.5" posY="1052.4004" posZ="1038.3" rotX="0" rotY="0" rotZ="163.954"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (45)" vehicle="504" alpha="255" interior="15" posX="-1336.1" posY="1049.6" posZ="1038.2" rotX="0" rotY="0" rotZ="159.955"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (46)" vehicle="504" alpha="255" interior="15" posX="-1327" posY="1046.1" posZ="1038.1" rotX="0" rotY="0" rotZ="155.955"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (47)" vehicle="504" alpha="255" interior="15" posX="-1331.5" posY="1047.9004" posZ="1038.1" rotX="0" rotY="0" rotZ="155.951"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (48)" vehicle="504" alpha="255" interior="15" posX="-1317" posY="1041.3" posZ="1038" rotX="0" rotY="0" rotZ="151.951"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (49)" vehicle="504" alpha="255" interior="15" posX="-1322.2998" posY="1044" posZ="1038.1" rotX="0" rotY="0" rotZ="153.946"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (50)" vehicle="504" alpha="255" interior="15" posX="-1312.3" posY="1038.6" posZ="1038" rotX="0" rotY="0" rotZ="147.946"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (51)" vehicle="504" alpha="255" interior="15" posX="-1287.2" posY="1010.6" posZ="1037.5" rotX="0" rotY="0" rotZ="111.942"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (52)" vehicle="504" alpha="255" interior="15" posX="-1307" posY="1034.9004" posZ="1037.9" rotX="0" rotY="0" rotZ="141.938"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (53)" vehicle="504" alpha="255" interior="15" posX="-1302.5996" posY="1031.5" posZ="1037.8" rotX="0" rotY="0" rotZ="137.939"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (54)" vehicle="504" alpha="255" interior="15" posX="-1298.0996" posY="1027.2998" posZ="1037.7" rotX="0" rotY="0" rotZ="131.94"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (55)" vehicle="504" alpha="255" interior="15" posX="-1293.7998" posY="1022.4004" posZ="1037.7" rotX="0" rotY="0" rotZ="127.941"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (56)" vehicle="504" alpha="255" interior="15" posX="-1290.0996" posY="1016.5996" posZ="1037.6" rotX="0" rotY="0" rotZ="117.938"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (57)" vehicle="504" alpha="255" interior="15" posX="-1285.2" posY="1004.6" posZ="1037.3" rotX="0" rotY="0" rotZ="101.94"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (58)" vehicle="504" alpha="255" interior="15" posX="-1287.5" posY="979.90002" posZ="1036.9" rotX="0" rotY="0" rotZ="67.937"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (59)" vehicle="504" alpha="255" interior="15" posX="-1284.2998" posY="998.09961" posZ="1037.2" rotX="0" rotY="0" rotZ="93.933"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (60)" vehicle="504" alpha="255" interior="15" posX="-1284.2998" posY="992.40039" posZ="1037.1" rotX="0" rotY="0" rotZ="87.935"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (61)" vehicle="504" alpha="255" interior="15" posX="-1285.5" posY="985.7998" posZ="1037" rotX="0" rotY="0" rotZ="75.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (62)" vehicle="504" alpha="255" interior="15" posX="-1308.5" posY="955" posZ="1036.6" rotX="0" rotY="0" rotZ="35.934"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (63)" vehicle="504" alpha="255" interior="15" posX="-1290.2998" posY="974.5" posZ="1036.9" rotX="0" rotY="0" rotZ="59.93"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (64)" vehicle="504" alpha="255" interior="15" posX="-1293.7998" posY="969.2002" posZ="1036.8" rotX="0" rotY="0" rotZ="51.932"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (65)" vehicle="504" alpha="255" interior="15" posX="-1298.5" posY="963.7998" posZ="1036.7" rotX="0" rotY="0" rotZ="47.933"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (66)" vehicle="504" alpha="255" interior="15" posX="-1303" posY="959.09961" posZ="1036.6" rotX="0" rotY="0" rotZ="41.929"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (67)" vehicle="504" alpha="255" interior="15" posX="-1314.4" posY="951.09998" posZ="1036.5" rotX="0" rotY="0" rotZ="27.931"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (68)" vehicle="504" alpha="255" interior="15" posX="-1350.9" posY="937.40002" posZ="1036.3" rotX="0" rotY="0" rotZ="7.927"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (69)" vehicle="504" alpha="255" interior="15" posX="-1320.2002" posY="948.09961" posZ="1036.5" rotX="0" rotY="0" rotZ="25.922"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (70)" vehicle="504" alpha="255" interior="15" posX="-1326.0996" posY="945.2002" posZ="1036.4" rotX="0" rotY="0" rotZ="21.923"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (71)" vehicle="504" alpha="255" interior="15" posX="-1332.5" posY="942.59961" posZ="1036.4" rotX="0" rotY="0" rotZ="17.924"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (72)" vehicle="504" alpha="255" interior="15" posX="-1338.4004" posY="940.7998" posZ="1036.4" rotX="0" rotY="0" rotZ="15.925"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (73)" vehicle="504" alpha="255" interior="15" posX="-1344.5996" posY="939.09961" posZ="1036.4" rotX="0" rotY="0" rotZ="13.925"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (74)" vehicle="504" alpha="255" interior="15" posX="-1363.7" posY="935.5" posZ="1036.3" rotX="0" rotY="0" rotZ="1.927"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (75)" vehicle="504" alpha="255" interior="15" posX="-1357.5996" posY="936.2998" posZ="1036.3" rotX="0" rotY="0" rotZ="5.922"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (76)" vehicle="504" alpha="255" interior="15" posX="-1424" posY="931.70001" posZ="1036.3" rotX="0" rotY="0" rotZ="-0.327"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (77)" vehicle="504" alpha="255" interior="15" posX="-1443.5" posY="933.40002" posZ="1036.4" rotX="0" rotY="0" rotZ="-6.329"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodcheckpoint Banger) (78)" vehicle="504" alpha="255" interior="15" posX="-1462.1" posY="937.70001" posZ="1036.5" rotX="0" rotY="0" rotZ="-14.334"></spawnpoint>
+    <checkpoint id="check1" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="check2" posX="-1316.5996" posY="1211.7998" posZ="1100" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="check2" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="check3" posX="-1316.5996" posY="1211.7998" posZ="1200" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="check3" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="check4" posX="-1316.5996" posY="1211.7998" posZ="1300" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="check4" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="check5" posX="-1316.5996" posY="1211.7998" posZ="1400" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="check5" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="check6" posX="-1316.5996" posY="1211.7998" posZ="1500" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="check6" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="check7" posX="-1316.5996" posY="1211.7998" posZ="1600" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="check7" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="check8" posX="-1316.5996" posY="1211.7998" posZ="1700" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="check8" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="check9" posX="-1316.5996" posY="1211.7998" posZ="1800" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="check9" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="check10" posX="-1316.5996" posY="1211.7998" posZ="1900" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="check10" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="15" nextid="checkpoint () (1)" posX="-1316.5996" posY="1211.7998" posZ="2000" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (2)" posX="-1316.5996" posY="1211.7998" posZ="2100" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (3)" posX="-1316.5996" posY="1211.7998" posZ="2200" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (4)" posX="-1316.5996" posY="1211.7998" posZ="2300" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (5)" posX="-1316.5996" posY="1211.7998" posZ="2400" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (6)" posX="-1316.5996" posY="1211.7998" posZ="2500" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (7)" posX="-1316.5996" posY="1211.7998" posZ="2600" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (8)" posX="-1316.5996" posY="1211.7998" posZ="2700" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (9)" posX="-1316.5996" posY="1211.7998" posZ="2800" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (10)" posX="-1316.5996" posY="1211.7998" posZ="2900" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (11)" posX="-1316.5996" posY="1211.7998" posZ="3000" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (12)" posX="-1316.5996" posY="1211.7998" posZ="3100" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (13)" posX="-1316.5996" posY="1211.7998" posZ="3200" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (14)" posX="-1316.5996" posY="1211.7998" posZ="3300" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (15)" posX="-1316.5996" posY="1211.7998" posZ="3400" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (16)" posX="-1316.5996" posY="1211.7998" posZ="3500" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (17)" posX="-1316.5996" posY="1211.7998" posZ="3600" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (18)" posX="-1316.5996" posY="1211.7998" posZ="3700" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (18)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (19)" posX="-1316.5996" posY="1211.7998" posZ="3800" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (19)" type="checkpoint" color="#00F9" blipsize="0" size="10" alpha="0" interior="0" nextid="checkpoint () (20)" posX="-1316.5996" posY="1211.7998" posZ="3900" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (20)" type="checkpoint" nextid="none" color="#00F9" vehicle="449" blipsize="0" size="10" alpha="0" interior="0" posX="-1316.5996" posY="1211.7998" posZ="4000" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

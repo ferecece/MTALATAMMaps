@@ -1,0 +1,29 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Mule) (1)" vehicle="414" posX="2476.3999" posY="-1680.1" posZ="13.5" rotX="0" rotY="0" rotZ="68.794"></spawnpoint>
+    <object id="object (arrow) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="1" dimension="0" posX="2395.9688" posY="-1675.5752" posZ="14.18614" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (arrow) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="1" dimension="0" posX="2416.3" posY="-1668.8" posZ="15.74838" rotX="275" rotY="0" rotZ="0"></object>
+    <object id="object (arrow) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="5" dimension="0" posX="2413.3" posY="-2095" posZ="16.24838" rotX="90" rotY="0" rotZ="88.824"></object>
+    <object id="object (arrow) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="2" dimension="0" posX="2304.3" posY="-2112" posZ="14.24838" rotX="90" rotY="270" rotZ="315.588"></object>
+    <checkpoint id="checkpoint (Bike) (1)" type="checkpoint" color="#FF000099" vehicle="509" size="2.25" nextid="checkpoint (Forklift) (1)" posX="2701.8" posY="-2393.8999" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Forklift) (1)" type="checkpoint" color="#FF000099" vehicle="530" size="2.25" nextid="checkpoint () (3)" posX="2784.3999" posY="-2418.1001" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (4)" posX="2793.3" posY="-2417.7" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (5)" posX="2772.1001" posY="-2417.6001" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (6)" posX="2793" posY="-2417.8" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (7)" posX="2769.8999" posY="-2406.6001" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint (Mule) (1)" posX="2777.3999" posY="-2417.7" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint (Mule) (1)" type="checkpoint" color="#FF000099" vehicle="414" size="2.25" nextid="checkpoint () (1)" posX="2767" posY="-2418.3994" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (2)" posX="2720.1001" posY="-2405" posZ="12.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (arrow) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="6" dimension="0" posX="2333.5" posY="-2085.8999" posZ="16.04838" rotX="90" rotY="270" rotZ="0"></object>
+    <object id="object (arrow) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="5" dimension="0" posX="2429.1001" posY="-1997.9" posZ="15.64838" rotX="90" rotY="270" rotZ="0"></object>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="2.25" posX="2454.5" posY="-1972.9" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <object id="object (cardboardbox4) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1221" doublesided="false" scale="1" dimension="0" posX="2797" posY="-2417.1001" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cardboardbox4) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="1221" doublesided="false" scale="1" dimension="0" posX="2798" posY="-2417.1001" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cardboardbox4) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="1221" doublesided="false" scale="1" dimension="0" posX="2797" posY="-2418.2" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cardboardbox4) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="1221" doublesided="false" scale="1" dimension="0" posX="2798" posY="-2418.2" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cardboardbox4) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="1221" doublesided="false" scale="1" dimension="0" posX="2767.3999" posY="-2405" posZ="13.1" rotX="0" rotY="0" rotZ="64.91"></object>
+    <object id="object (cardboardbox4) (8)" breakable="true" interior="0" collisions="true" alpha="255" model="1221" doublesided="false" scale="1" dimension="0" posX="2766.8999" posY="-2406.2" posZ="13.1" rotX="0" rotY="0" rotZ="64.907"></object>
+    <object id="object (arrow) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="1318" doublesided="false" scale="4" dimension="0" posX="2416.3" posY="-1668.8" posZ="15.83039" rotX="270" rotY="0" rotZ="0"></object>
+    <ped id="ped (1)" dimension="0" model="287" interior="0" rotZ="298.511" frozen="true" alpha="255" posX="2773.2" posY="-2426.8999" posZ="13.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (2)" dimension="0" model="287" interior="0" rotZ="247.265" frozen="true" alpha="255" posX="2773.2" posY="-2425.8999" posZ="13.6" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="301" interior="0" rotZ="95.662" frozen="true" alpha="255" posX="2774" posY="-2426.3" posZ="13.6" rotX="0" rotY="0"></ped>
+</map>

@@ -1,0 +1,186 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (towerlan2) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="1912.8" posY="-693.5" posZ="177.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (towerlan2) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="4585" doublesided="false" scale="1" dimension="0" posX="1907.6" posY="328.10001" posZ="108.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker1" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="-519.29999" posZ="23.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker2" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="-339.10001" posZ="143.10001" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker3" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="-626.20001" posZ="112.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker4" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="-215.89999" posZ="7.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker5" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="-178.2" posZ="48.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker6" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="-53.5" posZ="8.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker7" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="-87.7" posZ="101.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker8" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="53.6" posZ="48.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker9" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="146.5" posZ="58.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="marker10" breakable="true" interior="0" collisions="false" alpha="0" model="1337" doublesided="false" scale="1" dimension="0" posX="1905" posY="224.3" posZ="56.4" rotX="0" rotY="0" rotZ="0"></object>
+    <vehicle id="vehicle (Police Ranger) (1)" paintjob="3" interior="0" alpha="255" model="599" plate="KC2UX1X" dimension="0" color="0,0,0,245,245,245,0,0,0,0,0,0" posX="1858.1" posY="-326.5" posZ="40.5" rotX="0" rotY="0" rotZ="320"></vehicle>
+    <vehicle id="vehicle (Elegy) (1)" paintjob="3" interior="0" alpha="255" model="562" plate="2XEYUYR" dimension="0" color="101,106,121,245,245,245,0,0,0,0,0,0" posX="1865.7" posY="-313.60001" posZ="38.3" rotX="0" rotY="0" rotZ="335.5"></vehicle>
+    <vehicle id="vehicle (Manana) (1)" paintjob="3" interior="0" alpha="255" model="410" plate="NXEFBGJ" dimension="0" color="63,62,69,245,245,245,0,0,0,0,0,0" posX="1873" posY="-292.60001" posZ="37.2" rotX="0" rotY="0" rotZ="0"></vehicle>
+    <vehicle id="vehicle (Clover) (1)" paintjob="3" interior="0" alpha="255" model="542" plate="E6UAYZQ" dimension="0" color="91,93,94,71,53,50,0,0,0,0,0,0" posX="1870.6" posY="-257.10001" posZ="38.8" rotX="0" rotY="0" rotZ="26"></vehicle>
+    <vehicle id="vehicle (Cabbie) (1)" paintjob="3" interior="0" alpha="255" model="438" plate="T7TKXK6" dimension="0" color="215,142,16,164,160,150,0,0,0,0,0,0" posX="1857.5" posY="-223.3" posZ="40.9" rotX="0" rotY="0" rotZ="28"></vehicle>
+    <vehicle id="vehicle (Tropic) (1)" paintjob="3" interior="0" alpha="255" model="454" plate="IBQKH4A" dimension="0" color="165,169,167,165,169,167,0,0,0,0,0,0" posX="1895.3" posY="-80.9" posZ="0" rotX="0" rotY="0" rotZ="58"></vehicle>
+    <vehicle id="vehicle (Barracks) (1)" paintjob="3" interior="0" alpha="255" model="433" plate="4T4ZYMJ" dimension="0" color="95,10,21,0,0,0,0,0,0,0,0,0" posX="1870.6" posY="-92.1" posZ="35.4" rotX="0" rotY="0" rotZ="342.25"></vehicle>
+    <vehicle id="vehicle (Barracks) (2)" paintjob="3" interior="0" alpha="255" model="433" plate="SWPY9PM" dimension="0" color="95,10,21,0,0,0,0,0,0,0,0,0" posX="1884.2" posY="-50.8" posZ="35.4" rotX="0" rotY="0" rotZ="342.246"></vehicle>
+    <vehicle id="vehicle (Tanker) (1)" paintjob="3" interior="0" alpha="255" model="514" plate="4TM179N" dimension="0" color="70,89,122,245,245,245,0,0,0,0,0,0" posX="1849.7" posY="-172.39999" posZ="41.8" rotX="0" rotY="0" rotZ="348"></vehicle>
+    <vehicle id="vehicle (Petrol Trailer) (1)" paintjob="3" interior="0" alpha="255" model="584" plate="VA9KNQ9" dimension="0" color="245,245,245,245,245,245,0,0,0,0,0,0" posX="1849.1" posY="-182.60001" posZ="42.8" rotX="0" rotY="0" rotZ="0"></vehicle>
+    <vehicle id="vehicle (Newsvan) (1)" paintjob="3" interior="0" alpha="255" model="582" plate="WRHDOXR" dimension="0" color="127,105,86,71,53,50,0,0,0,0,0,0" posX="1883.8" posY="45.8" posZ="35.4" rotX="0" rotY="0" rotZ="88"></vehicle>
+    <vehicle id="vehicle (Yosemite) (1)" paintjob="3" interior="0" alpha="255" model="554" plate="YFEHS7L" dimension="0" color="142,140,70,132,148,171,0,0,0,0,0,0" posX="1868.5" posY="47.1" posZ="35.7" rotX="0" rotY="0" rotZ="81.25"></vehicle>
+    <vehicle id="vehicle (Combine Harvester) (1)" paintjob="3" interior="0" alpha="255" model="532" plate="TR6LJHF" dimension="0" color="0,0,0,0,0,0,0,0,0,0,0,0" posX="1891.1" posY="206" posZ="34.4" rotX="0" rotY="0" rotZ="248"></vehicle>
+    <vehicle id="vehicle (Combine Harvester) (2)" paintjob="3" interior="0" alpha="255" model="532" plate="KP023QE" dimension="0" color="0,0,0,0,0,0,0,0,0,0,0,0" posX="1869.5996" posY="129.90039" posZ="37" rotX="0" rotY="0" rotZ="0"></vehicle>
+    <vehicle id="vehicle (Hotring Racer 3) (1)" paintjob="3" interior="0" alpha="255" model="502" plate="QOTA1KX" dimension="0" color="14,49,109,102,28,38,0,0,0,0,0,0" posX="1876.7" posY="269.79999" posZ="27" rotX="0" rotY="0" rotZ="100"></vehicle>
+    <vehicle id="vehicle (Hotring Racer 3) (2)" paintjob="3" interior="0" alpha="255" model="502" plate="O5RYPOS" dimension="0" color="14,49,109,102,28,38,0,0,0,0,0,0" posX="1865.2" posY="266.5" posZ="27" rotX="0" rotY="0" rotZ="99.998"></vehicle>
+    <vehicle id="vehicle (Hotring Racer 3) (3)" paintjob="3" interior="0" alpha="255" model="502" plate="JVTZHCU" dimension="0" color="14,49,109,102,28,38,0,0,0,0,0,0" posX="1855.7" posY="278.29999" posZ="27" rotX="0" rotY="0" rotZ="99.998"></vehicle>
+    <vehicle id="vehicle (Hotring Racer 3) (4)" paintjob="3" interior="0" alpha="255" model="502" plate="QLADOJ6" dimension="0" color="14,49,109,102,28,38,0,0,0,0,0,0" posX="1834.9" posY="278.29999" posZ="27" rotX="0" rotY="0" rotZ="99.998"></vehicle>
+    <vehicle id="vehicle (Hotring Racer 3) (5)" paintjob="3" interior="0" alpha="255" model="502" plate="FWSV7MV" dimension="0" color="14,49,109,102,28,38,0,0,0,0,0,0" posX="1819.6" posY="261.10001" posZ="27" rotX="0" rotY="0" rotZ="93.998"></vehicle>
+    <vehicle id="vehicle (Hotring Racer 3) (6)" paintjob="3" interior="0" alpha="255" model="502" plate="LI1U5L1" dimension="0" color="14,49,109,102,28,38,0,0,0,0,0,0" posX="1826.1" posY="268.60001" posZ="27" rotX="0" rotY="0" rotZ="93.994"></vehicle>
+    <vehicle id="vehicle (Hotring Racer 3) (7)" paintjob="3" interior="0" alpha="255" model="502" plate="3JCM0S1" dimension="0" color="14,49,109,102,28,38,0,0,0,0,0,0" posX="1848.3" posY="259" posZ="27" rotX="0" rotY="0" rotZ="93.994"></vehicle>
+    <vehicle id="vehicle (Hotring Racer 3) (8)" paintjob="3" interior="0" alpha="255" model="502" plate="90ULHWL" dimension="0" color="14,49,109,102,28,38,0,0,0,0,0,0" posX="1866.2" posY="291.89999" posZ="27" rotX="0" rotY="0" rotZ="105.744"></vehicle>
+    <vehicle id="vehicle (Hotring Racer 3) (9)" paintjob="3" interior="0" alpha="255" model="502" plate="MU4729I" dimension="0" color="14,49,109,102,28,38,0,0,0,0,0,0" posX="1877.2" posY="281.39999" posZ="27" rotX="0" rotY="0" rotZ="105.743"></vehicle>
+    <ped id="ped (2)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1865.1" posY="-325.70001" posZ="40.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1869.1" posY="-321.70001" posZ="40.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1873.1" posY="-316" posZ="40.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (5)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1876.6" posY="-307.79999" posZ="40.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (6)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1879.8" posY="-300.29999" posZ="40.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1880.8" posY="-289" posZ="40.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1874.5" posY="-253" posZ="40.1" rotX="0" rotY="0"></ped>
+    <ped id="ped (9)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1861" posY="-226" posZ="41.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (10)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1858" posY="-218.5" posZ="41.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (11)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1855.7" posY="-164.39999" posZ="41.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (12)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1863" posY="-141.3" posZ="38.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (13)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1867.3" posY="-127.7" posZ="38.3" rotX="0" rotY="0"></ped>
+    <ped id="ped (14)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1872.1" posY="-106" posZ="37" rotX="0" rotY="0"></ped>
+    <ped id="ped (15)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1897.6" posY="-83.7" posZ="1.2" rotX="0" rotY="0"></ped>
+    <ped id="ped (16)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1872.0996" posY="-106" posZ="37" rotX="0" rotY="0"></ped>
+    <ped id="ped (17)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1899.6" posY="-82" posZ="1.2" rotX="0" rotY="0"></ped>
+    <ped id="ped (18)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1885.7" posY="-45.3" posZ="34.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (19)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1887.2" posY="-43" posZ="34.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (20)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1883.6" posY="41.5" posZ="34.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (21)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1885.1" posY="49.3" posZ="34.9" rotX="0" rotY="0"></ped>
+    <ped id="ped (22)" dimension="0" model="0" interior="0" rotZ="276" frozen="false" alpha="255" posX="1888.7" posY="248.60001" posZ="28" rotX="0" rotY="0"></ped>
+    <spawnpoint id="spawnpoint (RC Baron) (1)" vehicle="464" posX="1906" posY="-590" posZ="38" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (2)" vehicle="464" posX="1906" posY="-585" posZ="40" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (3)" vehicle="464" posX="1906" posY="-580" posZ="42" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (4)" vehicle="464" posX="1906" posY="-575" posZ="44" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (5)" vehicle="464" posX="1906" posY="-570" posZ="46" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (6)" vehicle="464" posX="1906" posY="-565" posZ="48" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (7)" vehicle="464" posX="1906" posY="-560" posZ="50" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (8)" vehicle="464" posX="1906" posY="-555" posZ="52" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (9)" vehicle="464" posX="1906" posY="-550" posZ="54" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (10)" vehicle="464" posX="1906" posY="-545" posZ="56" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (11)" vehicle="464" posX="1906" posY="-540" posZ="58" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (12)" vehicle="464" posX="1906" posY="-535" posZ="60" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (13)" vehicle="464" posX="1906" posY="-530" posZ="62" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (14)" vehicle="464" posX="1906" posY="-525" posZ="64" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (15)" vehicle="464" posX="1906" posY="-520" posZ="66" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (16)" vehicle="464" posX="1906" posY="-515" posZ="68" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (17)" vehicle="464" posX="1906" posY="-510" posZ="70" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (18)" vehicle="464" posX="1906" posY="-505" posZ="72" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (19)" vehicle="464" posX="1906" posY="-500" posZ="74" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (20)" vehicle="464" posX="1906" posY="-495" posZ="76" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (21)" vehicle="464" posX="1906" posY="-485" posZ="78" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (22)" vehicle="464" posX="1906" posY="-480" posZ="80" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (23)" vehicle="464" posX="1906" posY="-475" posZ="82" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (24)" vehicle="464" posX="1906" posY="-470" posZ="84" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (25)" vehicle="464" posX="1906" posY="-465" posZ="86" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (26)" vehicle="464" posX="1906" posY="-460" posZ="88" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (27)" vehicle="464" posX="1906" posY="-455" posZ="90" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (28)" vehicle="464" posX="1906" posY="-450" posZ="92" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (29)" vehicle="464" posX="1906" posY="-445" posZ="94" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (30)" vehicle="464" posX="1906" posY="-440" posZ="96" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (31)" vehicle="464" posX="1906" posY="-435" posZ="98" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (32)" vehicle="464" posX="1906" posY="-430" posZ="100" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (33)" vehicle="464" posX="1906" posY="-425" posZ="102" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (34)" vehicle="464" posX="1906" posY="-420" posZ="104" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (35)" vehicle="464" posX="1906" posY="-415" posZ="106" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (36)" vehicle="464" posX="1906" posY="-410" posZ="108" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (37)" vehicle="464" posX="1906" posY="-405" posZ="110" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (38)" vehicle="464" posX="1906" posY="-400" posZ="74" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (39)" vehicle="464" posX="1906" posY="-395" posZ="76" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (40)" vehicle="464" posX="1906" posY="-385" posZ="78" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (41)" vehicle="464" posX="1906" posY="-380" posZ="80" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (42)" vehicle="464" posX="1906" posY="-375" posZ="82" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (43)" vehicle="464" posX="1906" posY="-370" posZ="84" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (44)" vehicle="464" posX="1906" posY="-365" posZ="86" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (45)" vehicle="464" posX="1906" posY="-360" posZ="88" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (46)" vehicle="464" posX="1906" posY="-355" posZ="90" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (47)" vehicle="464" posX="1906" posY="-350" posZ="92" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (48)" vehicle="464" posX="1906" posY="-345" posZ="94" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (49)" vehicle="464" posX="1906" posY="-340" posZ="96" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (50)" vehicle="464" posX="1906" posY="-335" posZ="98" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (51)" vehicle="464" posX="1906" posY="-330" posZ="100" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (52)" vehicle="464" posX="1906" posY="-325" posZ="102" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (53)" vehicle="464" posX="1906" posY="-320" posZ="104" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (54)" vehicle="464" posX="1906" posY="-315" posZ="106" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (55)" vehicle="464" posX="1906" posY="-310" posZ="108" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (56)" vehicle="464" posX="1906" posY="-305" posZ="110" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (57)" vehicle="464" posX="1906" posY="-300" posZ="74" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (58)" vehicle="464" posX="1906" posY="-295" posZ="76" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (59)" vehicle="464" posX="1906" posY="-285" posZ="78" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (60)" vehicle="464" posX="1906" posY="-280" posZ="80" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (61)" vehicle="464" posX="1906" posY="-275" posZ="82" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (62)" vehicle="464" posX="1906" posY="-270" posZ="84" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (63)" vehicle="464" posX="1906" posY="-265" posZ="86" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (64)" vehicle="464" posX="1906" posY="-260" posZ="88" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (12)" vehicle="464" posX="1906" posY="-535" posZ="38" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (13)" vehicle="464" posX="1906" posY="-530" posZ="40" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (14)" vehicle="464" posX="1906" posY="-525" posZ="42" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (15)" vehicle="464" posX="1906" posY="-520" posZ="44" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (16)" vehicle="464" posX="1906" posY="-515" posZ="46" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (17)" vehicle="464" posX="1906" posY="-510" posZ="48" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (18)" vehicle="464" posX="1906" posY="-505" posZ="50" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (19)" vehicle="464" posX="1906" posY="-500" posZ="52" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (20)" vehicle="464" posX="1906" posY="-495" posZ="54" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (21)" vehicle="464" posX="1906" posY="-485" posZ="56" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (22)" vehicle="464" posX="1906" posY="-480" posZ="58" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (23)" vehicle="464" posX="1906" posY="-475" posZ="60" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (24)" vehicle="464" posX="1906" posY="-470" posZ="62" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (25)" vehicle="464" posX="1906" posY="-465" posZ="64" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (26)" vehicle="464" posX="1906" posY="-460" posZ="66" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (27)" vehicle="464" posX="1906" posY="-455" posZ="68" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (28)" vehicle="464" posX="1906" posY="-450" posZ="70" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (29)" vehicle="464" posX="1906" posY="-445" posZ="72" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (30)" vehicle="464" posX="1906" posY="-440" posZ="74" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (31)" vehicle="464" posX="1906" posY="-435" posZ="78" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (32)" vehicle="464" posX="1906" posY="-430" posZ="80" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (33)" vehicle="464" posX="1906" posY="-425" posZ="82" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (34)" vehicle="464" posX="1906" posY="-420" posZ="84" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (35)" vehicle="464" posX="1906" posY="-415" posZ="86" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (36)" vehicle="464" posX="1906" posY="-410" posZ="88" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (37)" vehicle="464" posX="1906" posY="-405" posZ="90" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (RC Baron) (1)" vehicle="464" posX="1906" posY="-590" posZ="60" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (2)" vehicle="464" posX="1906" posY="-585" posZ="62" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (3)" vehicle="464" posX="1906" posY="-580" posZ="64" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (4)" vehicle="464" posX="1906" posY="-575" posZ="66" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (5)" vehicle="464" posX="1906" posY="-570" posZ="68" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (6)" vehicle="464" posX="1906" posY="-565" posZ="70" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (7)" vehicle="464" posX="1906" posY="-560" posZ="72" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (8)" vehicle="464" posX="1906" posY="-555" posZ="74" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (9)" vehicle="464" posX="1906" posY="-550" posZ="76" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (10)" vehicle="464" posX="1906" posY="-545" posZ="78" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (11)" vehicle="464" posX="1906" posY="-540" posZ="80" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (12)" vehicle="464" posX="1906" posY="-535" posZ="82" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (13)" vehicle="464" posX="1906" posY="-530" posZ="84" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (14)" vehicle="464" posX="1906" posY="-525" posZ="86" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (15)" vehicle="464" posX="1906" posY="-520" posZ="88" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (16)" vehicle="464" posX="1906" posY="-515" posZ="90" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (17)" vehicle="464" posX="1906" posY="-510" posZ="92" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (18)" vehicle="464" posX="1906" posY="-505" posZ="94" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (19)" vehicle="464" posX="1906" posY="-500" posZ="96" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (20)" vehicle="464" posX="1906" posY="-495" posZ="98" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (21)" vehicle="464" posX="1906" posY="-485" posZ="100" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (22)" vehicle="464" posX="1906" posY="-480" posZ="102" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (23)" vehicle="464" posX="1906" posY="-475" posZ="104" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (24)" vehicle="464" posX="1906" posY="-470" posZ="106" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (25)" vehicle="464" posX="1906" posY="-465" posZ="108" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (26)" vehicle="464" posX="1906" posY="-460" posZ="110" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+	<spawnpoint id="spawnpoint (RC Baron) (38)" vehicle="464" posX="1906" posY="-400" posZ="96" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (39)" vehicle="464" posX="1906" posY="-395" posZ="98" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (40)" vehicle="464" posX="1906" posY="-385" posZ="100" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (41)" vehicle="464" posX="1906" posY="-380" posZ="102" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (42)" vehicle="464" posX="1906" posY="-375" posZ="104" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (43)" vehicle="464" posX="1906" posY="-370" posZ="106" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (44)" vehicle="464" posX="1906" posY="-365" posZ="108" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (45)" vehicle="464" posX="1906" posY="-360" posZ="110" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (46)" vehicle="464" posX="1906" posY="-355" posZ="112" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (47)" vehicle="464" posX="1906" posY="-350" posZ="114" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (48)" vehicle="464" posX="1906" posY="-345" posZ="116" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (RC Baron) (49)" vehicle="464" posX="1906" posY="-340" posZ="118" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+</map>

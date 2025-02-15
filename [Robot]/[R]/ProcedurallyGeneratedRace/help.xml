@@ -1,0 +1,15 @@
+<help>Procedurally Generated Race 
+by Discoordination Journey 
+2024 (c) Discoordination Laboratories
+
+Every time you start the map, the script generates a new route for the race! 
+The race includes all vehicles available in the game. 
+The randomizer selects various parameters for the map: type of transport, route, 
+skin, weather, environment and even the size of the moon. 
+There are separate leaderboards available for each vehicle, which are usually accessible by pressing the F5 button. 
+The more you play this map, the more the script learns new points to build future routes. 
+
+Commands:
+/votesave — command to save the map so you can play it later on the 'Player For Generated Races' map
+/voteskip — command to start a vote that skips a checkpoint for all players, if this checkpoint is unattainable
+</help>

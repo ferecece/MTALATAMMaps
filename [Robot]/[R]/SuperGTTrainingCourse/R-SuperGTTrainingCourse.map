@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Super GT) (1)" vehicle="506" interior="0" posX="-2229.8994" posY="251.90039" posZ="35" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Super GT) (2)" vehicle="506" alpha="255" interior="0" posX="-2229.8999" posY="245.2" posZ="35" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <spawnpoint id="spawnpoint (Super GT) (3)" vehicle="506" alpha="255" interior="0" posX="-2229.8999" posY="259.20001" posZ="35" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#87807799" blipsize="2" size="20" interior="0" nextid="checkpoint () (3)" posX="-2654.8999" posY="-210.3" posZ="3.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#87807799" blipsize="2" size="20" interior="0" nextid="checkpoint () (4)" posX="-2560.8" posY="409.89999" posZ="16.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#87807799" blipsize="2" size="20" interior="0" nextid="checkpoint () (5)" posX="-1826.7" posY="1361.4" posZ="6.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#87807799" blipsize="2" size="20" interior="0" nextid="checkpoint () (6)" posX="-1734.6" posY="608.90002" posZ="23.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#87807799" blipsize="2" size="20" interior="0" nextid="checkpoint () (7)" posX="-2145.8999" posY="321.70001" posZ="34.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#87807799" blipsize="2" size="20" interior="0" posX="-2029.8" posY="157.3" posZ="27.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

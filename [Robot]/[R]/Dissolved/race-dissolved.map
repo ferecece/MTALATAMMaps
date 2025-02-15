@@ -1,0 +1,26 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" posX="1947.2" posY="-1883.5" posZ="13.4" rotX="0" rotY="0" rotZ="92"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#1901FD99" size="7" nextid="checkpoint () (2)" posX="1881.2" posY="-1884" posZ="12.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#1604FA99" size="8" nextid="checkpoint () (3)" posX="1689.4" posY="-1777.8" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#0A20F499" size="8" nextid="checkpoint () (4)" posX="1488.1" posY="-1732.2" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <removeWorldObject id="removeWorldObject (lamppost3) (1)" radius="6.6149273" interior="0" model="1226" lodModel="0" posX="1826.8607" posY="-1836.2375" posZ="13.01503" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#0C06F799" size="8" nextid="checkpoint () (5)" posX="1364" posY="-1582.9" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#040AFA99" size="10" nextid="checkpoint () (6)" posX="1200.7" posY="-1381.5" posZ="12.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <removeWorldObject id="removeWorldObject (Streetlamp2) (1)" radius="4.951889" interior="0" model="1231" lodModel="0" posX="1218.4478" posY="-1554.2963" posZ="13.15353" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (aw_streettree1) (1)" radius="6.231205" interior="0" model="792" lodModel="0" posX="1220.0453" posY="-1548.197" posZ="13.10767" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#070CF899" size="10" nextid="checkpoint () (7)" posX="1350" posY="-1126.5" posZ="22.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#1207F899" size="11" nextid="checkpoint () (8)" posX="1360.2" posY="-1003.5" posZ="27.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <removeWorldObject id="removeWorldObject (MTraffic1) (1)" radius="11.08576" interior="0" model="1283" lodModel="0" posX="1373.6425" posY="-1025.9788" posZ="26.16137" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#1207F899" size="11" nextid="checkpoint () (9)" posX="1913.5" posY="-1023.8" posZ="34.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <removeWorldObject id="removeWorldObject (tree_hipoly07) (1)" radius="12.792648" interior="0" model="729" lodModel="0" posX="1839.0156" posY="-1047.5937" posZ="23.89063" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#1308F699" size="10" nextid="checkpoint () (10)" posX="2383.3999" posY="-1155.6" posZ="26.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#0C07F899" size="10" nextid="checkpoint () (11)" posX="2739.3" posY="-1152" posZ="44.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#0A15F499" size="12" nextid="checkpoint () (12)" posX="2724.1001" posY="-1048.4" posZ="57" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#1005F999" size="8" nextid="checkpoint () (13)" posX="2642.3999" posY="-1256.2" posZ="48.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#0808F799" size="10" nextid="checkpoint () (14)" posX="2642.3999" posY="-1622.9" posZ="9.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#0A10F499" size="8" nextid="checkpoint () (15)" posX="2565.3999" posY="-1732.3" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#1F08F699" size="9" nextid="checkpoint () (16)" posX="2414" posY="-1849.1" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#0D18F199" size="8" nextid="checkpoint () (17)" posX="2081.3" posY="-1840.8" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <removeWorldObject id="removeWorldObject (MTraffic1) (2)" radius="11.08576" interior="0" model="1283" lodModel="0" posX="2070.5142" posY="-1818.0027" posZ="13.19623" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <checkpoint id="checkpoint () (17)" type="checkpoint" color="#FF000099" size="10" posX="1959.2" posY="-1812" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>

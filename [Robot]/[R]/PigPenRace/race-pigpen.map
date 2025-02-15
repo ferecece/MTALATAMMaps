@@ -1,0 +1,25 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" posX="2462.8" posY="-1656.6" posZ="13" rotX="0" rotY="0" rotZ="88"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (2)" vehicle="522" alpha="255" interior="0" posX="2462.8999" posY="-1661.2" posZ="13" rotX="0" rotY="0" rotZ="87.995"></spawnpoint>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="2444" posY="-1661.5" posZ="13.9" rotX="0" rotY="0" rotZ="226.62"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" alpha="255" interior="0" posX="2444.1001" posY="-1656.8" posZ="13.9" rotX="0" rotY="0" rotZ="57.24"></racepickup>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (2)" posX="2420.3999" posY="-1659.1" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (3)" posX="2343.3999" posY="-1649.8" posZ="12.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (4)" posX="2342.7" posY="-1578" posZ="22.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (5)" posX="2342.5" posY="-1447.9" posZ="22.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (6)" posX="2370.8999" posY="-1362.7" posZ="22.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#00F9" size="2.25" nextid="checkpoint () (7)" posX="2396" posY="-1255.2" posZ="22.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#00F9" size="4.5" posX="2421.2" posY="-1223.7" posZ="24.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (Broadway) (1)" type="vehiclechange" vehicle="575" respawn="0" posX="2378.5" posY="-1252.3" posZ="24.4" rotX="0" rotY="0" rotZ="291.96"></racepickup>
+    <racepickup id="racepickup (Broadway) (2)" type="vehiclechange" vehicle="575" respawn="0" alpha="255" interior="0" posX="2378.6001" posY="-1254.9" posZ="24.4" rotX="0" rotY="0" rotZ="178.92"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="repair" vehicle="522" respawn="0" posX="2340.6001" posY="-1541.1" posZ="24.4" rotX="0" rotY="0" rotZ="298.26"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="2342.6001" posY="-1541.4" posZ="24.4" rotX="0" rotY="0" rotZ="161.64"></racepickup>
+    <racepickup id="racepickup (NRG-500) (5)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="2345" posY="-1541.3" posZ="24.4" rotX="0" rotY="0" rotZ="356.04"></racepickup>
+    <racepickup id="racepickup (Broadway) (3)" type="nitro" vehicle="575" respawn="0" posX="2378.2" posY="-1253.6" posZ="24.4" rotX="0" rotY="0" rotZ="82.62"></racepickup>
+    <racepickup id="racepickup (Broadway) (4)" type="nitro" vehicle="575" respawn="0" alpha="255" interior="0" posX="2378.2" posY="-1250.7" posZ="24.4" rotX="0" rotY="0" rotZ="351"></racepickup>
+    <racepickup id="racepickup (Broadway) (5)" type="nitro" vehicle="575" respawn="0" alpha="255" interior="0" posX="2378.5" posY="-1256.1" posZ="24.4" rotX="0" rotY="0" rotZ="305.46"></racepickup>
+    <object id="object (CJ_Dump2_LOW) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1372" scale="1" doublesided="false" collisions="true" posX="2330.3" posY="-1662.9" posZ="12.6" rotX="0" rotY="0" rotZ="88"></object>
+    <object id="object (dump1) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1227" scale="1" doublesided="false" collisions="true" posX="2330.1001" posY="-1660.6" posZ="13.4" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (CJ_Dump2_LOW) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1372" scale="1" doublesided="false" collisions="true" posX="2330.3" posY="-1658.3" posZ="12.5" rotX="0" rotY="0" rotZ="87.995"></object>
+    <object id="object (dump1) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1227" scale="1" doublesided="false" collisions="true" posX="2330.3" posY="-1655.9" posZ="13.4" rotX="0" rotY="0" rotZ="90"></object>
+</map>

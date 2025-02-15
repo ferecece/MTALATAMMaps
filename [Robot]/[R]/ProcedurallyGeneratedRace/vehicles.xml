@@ -1,0 +1,227 @@
+<vehicles>
+	<vehicle id="400" maxspeed="140" name="Landstalker" />
+	<vehicle id="401" maxspeed="130" name="Bravura" />
+	<vehicle id="402" maxspeed="168" name="Buffalo" />
+	<vehicle id="403" maxspeed="100" name="Linerunner" />
+	<vehicle id="404" maxspeed="120" name="Perennial" />
+	<vehicle id="405" maxspeed="150" name="Sentinel" />
+	<vehicle id="406" maxspeed="100" name="Dumper" />
+	<vehicle id="407" maxspeed="130" name="Firetruck" />
+	<vehicle id="408" maxspeed="90"  name="Trashmaster" />
+	<vehicle id="409" maxspeed="140" name="Stretch" />
+	<vehicle id="410" maxspeed="118" name="Manana" />
+	<vehicle id="411" maxspeed="200" name="Infernus" />
+	<vehicle id="412" maxspeed="150" name="Voodoo" />
+	<vehicle id="413" maxspeed="100" name="Pony" />
+	<vehicle id="414" maxspeed="92"  name="Mule" />
+	<vehicle id="415" maxspeed="170" name="Cheetah" />
+	<vehicle id="416" maxspeed="140" name="Ambulance" />
+	<vehicle id="418" maxspeed="102" name="Moonbeam" />
+	<vehicle id="419" maxspeed="132" name="Esperanto" />
+	<vehicle id="420" maxspeed="130" name="Taxi" />
+	<vehicle id="421" maxspeed="140" name="Washington" />
+	<vehicle id="422" maxspeed="125" name="Bobcat" />
+	<vehicle id="423" maxspeed="90"  name="Mr. Whoopee" />
+	<vehicle id="424" maxspeed="120" name="BF Injection" />
+	<vehicle id="426" maxspeed="155" name="Premier" />
+	<vehicle id="427" maxspeed="150" name="Enforcer" />
+	<vehicle id="428" maxspeed="140" name="Securicar" />
+	<vehicle id="429" maxspeed="180" name="Banshee" />
+	<vehicle id="431" maxspeed="118" name="Bus" />
+	<vehicle id="432" maxspeed="82"  name="Rhino" />
+	<vehicle id="433" maxspeed="100" name="Barracks" />
+	<vehicle id="434" maxspeed="150" name="Hotknife" />
+	<vehicle id="436" maxspeed="130" name="Previon" />
+	<vehicle id="437" maxspeed="140" name="Coach" />
+	<vehicle id="438" maxspeed="130" name="Cabbie" />
+	<vehicle id="439" maxspeed="150" name="Stallion" />
+	<vehicle id="440" maxspeed="120" name="Rumpo" />
+	<vehicle id="442" maxspeed="122" name="Romero" />
+	<vehicle id="443" maxspeed="110" name="Packer" />
+	<vehicle id="444" maxspeed="100" name="Monster" />
+	<vehicle id="445" maxspeed="150" name="Admiral" />
+	<vehicle id="448" maxspeed="100" name="Pizzaboy" />
+	<vehicle id="451" maxspeed="170" name="Turismo" />
+	<vehicle id="455" maxspeed="140" name="Flatbed" />
+	<vehicle id="456" maxspeed="95"  name="Yankee" />
+	<vehicle id="457" maxspeed="85"  name="Caddy" />
+	<vehicle id="458" maxspeed="140" name="Solair" />
+	<vehicle id="459" maxspeed="120" name="Berkley's RC Van" />
+	<vehicle id="461" maxspeed="140" name="PCJ-600" />
+	<vehicle id="462" maxspeed="100" name="Faggio" />
+	<vehicle id="463" maxspeed="130" name="Freeway" />
+	<vehicle id="466" maxspeed="130" name="Glendale" />
+	<vehicle id="467" maxspeed="128" name="Oceanic" />
+	<vehicle id="468" maxspeed="128" name="Sanchez" />
+	<vehicle id="470" maxspeed="140" name="Patriot" />
+	<vehicle id="471" maxspeed="100" name="Quad Bike" />
+	<vehicle id="474" maxspeed="130" name="Hermes" />
+	<vehicle id="475" maxspeed="155" name="Sabre" />
+	<vehicle id="477" maxspeed="168" name="ZR-350" />
+	<vehicle id="478" maxspeed="105" name="Walton" />
+	<vehicle id="479" maxspeed="125" name="Regina" />
+	<vehicle id="480" maxspeed="165" name="Comet" />
+	<vehicle id="481" maxspeed="85"  name="BMX" />
+	<vehicle id="482" maxspeed="140" name="Burrito" />
+	<vehicle id="483" maxspeed="110" name="Camper" />
+	<vehicle id="485" maxspeed="90"  name="Baggage" />
+	<vehicle id="486" maxspeed="58"  name="Dozer" />
+	<vehicle id="489" maxspeed="125" name="Rancher" />
+	<vehicle id="490" maxspeed="140" name="FBI Rancher" />
+	<vehicle id="491" maxspeed="130" name="Virgo" />
+	<vehicle id="492" maxspeed="125" name="Greenwood" />
+	<vehicle id="494" maxspeed="190" name="Hotring Racer" />
+	<vehicle id="495" maxspeed="160" name="Sandking" />
+	<vehicle id="496" maxspeed="145" name="Blista Compact" />
+	<vehicle id="498" maxspeed="98"  name="Boxville" />
+	<vehicle id="499" maxspeed="110" name="Benson" />
+	<vehicle id="500" maxspeed="125" name="Mesa" />
+	<vehicle id="502" maxspeed="190" name="Hotring Racer A" />
+	<vehicle id="503" maxspeed="190" name="Hotring Racer B" />
+	<vehicle id="504" maxspeed="155" name="Bloodring Banger" />
+	<vehicle id="505" maxspeed="125" name="Rancher Lure" />
+	<vehicle id="506" maxspeed="160" name="Super GT" />
+	<vehicle id="507" maxspeed="150" name="Elegant" />
+	<vehicle id="508" maxspeed="95"  name="Journey" />
+	<vehicle id="509" maxspeed="90"  name="Bike" />
+	<vehicle id="510" maxspeed="115" name="Mountain Bike" />
+	<vehicle id="514" maxspeed="110" name="Tanker" />
+	<vehicle id="515" maxspeed="130" name="Roadtrain" />
+	<vehicle id="516" maxspeed="140" name="Nebula" />
+	<vehicle id="517" maxspeed="140" name="Majestic" />
+	<vehicle id="518" maxspeed="150" name="Buccaneer" />
+	<vehicle id="521" maxspeed="140" name="FCR-900" />
+	<vehicle id="522" maxspeed="160" name="NRG-500" />
+	<vehicle id="523" maxspeed="140" name="HPV1000" />
+	<vehicle id="524" maxspeed="115" name="Cement Truck" />
+	<vehicle id="525" maxspeed="140" name="Towtruck" />
+	<vehicle id="526" maxspeed="140" name="Fortune" />
+	<vehicle id="527" maxspeed="130" name="Cadrona" />
+	<vehicle id="528" maxspeed="160" name="FBI Truck" />
+	<vehicle id="529" maxspeed="130" name="Willard" />
+	<vehicle id="530" maxspeed="55"  name="Forklift" />
+	<vehicle id="531" maxspeed="60"  name="Tractor" />
+	<vehicle id="532" maxspeed="100" name="Combine Harvester" />
+	<vehicle id="533" maxspeed="150" name="Feltzer" />
+	<vehicle id="534" maxspeed="150" name="Remington" />
+	<vehicle id="535" maxspeed="140" name="Slamvan" />
+	<vehicle id="536" maxspeed="155" name="Blade" />
+	<vehicle id="539" maxspeed="90"  name="Vortex" />
+	<vehicle id="540" maxspeed="130" name="Vincent" />
+	<vehicle id="541" maxspeed="180" name="Bullet" />
+	<vehicle id="542" maxspeed="150" name="Clover" />
+	<vehicle id="543" maxspeed="135" name="Sadler" />
+	<vehicle id="544" maxspeed="130" name="Firetruck LA" />
+	<vehicle id="545" maxspeed="130" name="Hustler" />
+	<vehicle id="546" maxspeed="130" name="Intruder" />
+	<vehicle id="547" maxspeed="130" name="Primo" />
+	<vehicle id="549" maxspeed="140" name="Tampa" />
+	<vehicle id="550" maxspeed="130" name="Sunrise" />
+	<vehicle id="551" maxspeed="140" name="Merit" />
+	<vehicle id="552" maxspeed="110" name="Utility Van" />
+	<vehicle id="554" maxspeed="130" name="Yosemite" />
+	<vehicle id="555" maxspeed="140" name="Windsor" />
+	<vehicle id="556" maxspeed="100" name="Monster A" />
+	<vehicle id="557" maxspeed="100" name="Monster B" />
+	<vehicle id="558" maxspeed="140" name="Uranus" />
+	<vehicle id="559" maxspeed="160" name="Jester" />
+	<vehicle id="560" maxspeed="150" name="Sultan" />
+	<vehicle id="561" maxspeed="140" name="Stratum" />
+	<vehicle id="562" maxspeed="160" name="Elegy" />
+	<vehicle id="565" maxspeed="150" name="Flash" />
+	<vehicle id="566" maxspeed="140" name="Tahoma" />
+	<vehicle id="567" maxspeed="155" name="Savanna" />
+	<vehicle id="568" maxspeed="130" name="Bandito" />
+	<vehicle id="571" maxspeed="80"  name="Kart" />
+	<vehicle id="572" maxspeed="50"  name="Mower" />
+	<vehicle id="573" maxspeed="100" name="Dune" />
+	<vehicle id="574" maxspeed="50"  name="Sweeper" />
+	<vehicle id="575" maxspeed="140" name="Broadway" />
+	<vehicle id="576" maxspeed="140" name="Tornado" />
+	<vehicle id="578" maxspeed="115" name="DFT-30" />
+	<vehicle id="579" maxspeed="140" name="Huntley" />
+	<vehicle id="580" maxspeed="140" name="Stafford" />
+	<vehicle id="581" maxspeed="130" name="BF-400" />
+	<vehicle id="582" maxspeed="120" name="Newsvan" />
+	<vehicle id="583" maxspeed="80"  name="Tug" />
+	<vehicle id="585" maxspeed="140" name="Emperor" />
+	<vehicle id="586" maxspeed="125" name="Wayfarer" />
+	<vehicle id="587" maxspeed="150" name="Euros" />
+	<vehicle id="588" maxspeed="95"  name="Hotdog" />
+	<vehicle id="589" maxspeed="145" name="Club" />
+	<vehicle id="596" maxspeed="160" name="Police LS" />
+	<vehicle id="597" maxspeed="160" name="Police SF" />
+	<vehicle id="598" maxspeed="160" name="Police LV" />
+	<vehicle id="599" maxspeed="140" name="Ranger" />
+	<vehicle id="600" maxspeed="135" name="Picador" />
+	<vehicle id="601" maxspeed="100" name="S.W.A.T." />
+	<vehicle id="602" maxspeed="150" name="Alpha" />
+	<vehicle id="603" maxspeed="150" name="Phoenix" />
+	<vehicle id="604" maxspeed="130" name="Glenshit" />
+	<vehicle id="605" maxspeed="135" name="Sadshit" />
+	<vehicle id="609" maxspeed="95"  name="Burglary Van" />
+	
+	<!-- RC Vehicles -->
+	<vehicle id="594" maxspeed="50" name="Flower Pot" />
+	<vehicle id="564" maxspeed="80" name="RC Tiger" />
+	<vehicle id="441" maxspeed="70" name="RC Bandit" />
+	
+	<!-- Trailers -->
+	<vehicle id="606" maxspeed="50" name="Baggage Trailer A" />
+	<vehicle id="607" maxspeed="50" name="Baggage Trailer B" />
+	<vehicle id="608" maxspeed="50" name="Stairs" />
+	<vehicle id="610" maxspeed="50" name="Farm Trailer" />
+	<vehicle id="611" maxspeed="50" name="Utility Trailer" />
+	<vehicle id="584" maxspeed="50" name="Petrol Trailer" />
+	<vehicle id="435" maxspeed="50" name="Box Trailer" />
+	<vehicle id="450" maxspeed="50" name="Cargo Trailer" />
+	<vehicle id="591" maxspeed="50" name="Short Trailer" />
+	
+	<!-- Planes -->
+	<vehicle id="460" maxspeed="125" name="Skimmer" />
+	<vehicle id="464" maxspeed="40"  name="Red Baron" />
+	<vehicle id="476" maxspeed="195" name="Rustler" />
+	<vehicle id="511" maxspeed="120" name="Beagle" />
+	<vehicle id="512" maxspeed="110" name="Cropduster" />
+	<vehicle id="513" maxspeed="135" name="Stuntplane" />
+	<vehicle id="519" maxspeed="240" name="Shamal" />
+	<vehicle id="520" maxspeed="240" name="Hydra" />
+	<vehicle id="553" maxspeed="160" name="Nevada" />
+	<vehicle id="577" maxspeed="240" name="AT-400" />
+	<vehicle id="592" maxspeed="235" name="Andromada" />
+	<vehicle id="593" maxspeed="130" name="Dodo" />
+	
+	<!-- Helicopters -->
+	<vehicle id="417" maxspeed="100" name="Leviathan" />
+	<vehicle id="425" maxspeed="170" name="Hunter" />
+	<vehicle id="447" maxspeed="110" name="Seasparrow" />
+	<vehicle id="465" maxspeed="20"  name="RC Raider" />
+	<vehicle id="469" maxspeed="110" name="Sparrow" />
+	<vehicle id="487" maxspeed="140" name="Maverick" />
+	<vehicle id="488" maxspeed="140" name="News Chopper" />
+	<vehicle id="497" maxspeed="160" name="Police Maverick" />
+	<vehicle id="501" maxspeed="20"  name="RC Goblin" />
+	<vehicle id="548" maxspeed="120" name="Cargobob" />
+	<vehicle id="563" maxspeed="125" name="Raindance" />
+	
+	<!-- Boats -->
+	<!-- Maxspeed changed -->
+	<vehicle id="430" maxspeed="100" name="Predator" />
+	<vehicle id="446" maxspeed="100" name="Squalo" />
+	<vehicle id="452" maxspeed="100" name="Speeder" />
+	<vehicle id="453" maxspeed="120"  name="Reefer" />
+	<vehicle id="454" maxspeed="160" name="Tropic" />
+	<vehicle id="472" maxspeed="130" name="Coastguard" />
+	<vehicle id="473" maxspeed="120"  name="Dinghy" />
+	<vehicle id="484" maxspeed="160"  name="Marquis" />
+	<vehicle id="493" maxspeed="100" name="Jetmax" />
+	<vehicle id="595" maxspeed="100" name="Launch" />
+	
+	<!-- Trains -->
+	<vehicle id="590" maxspeed="100" name="Box" />
+	<vehicle id="538" maxspeed="100" name="Brown Streak" />
+	<vehicle id="570" maxspeed="100" name="Brown Streak Car" />
+	<vehicle id="569" maxspeed="100" name="Flat Freight Car" />
+	<vehicle id="537" maxspeed="100" name="Freight" />
+	<vehicle id="449" maxspeed="100" name="Tram" />
+</vehicles>

@@ -1,0 +1,16 @@
+<map edf:definitions="race,editor_main">
+    <removeWorldObject id="removeWorldObject (DYN_F_R_WOOD_3) (1)" radius="4.4756012" interior="0" model="1460" lodModel="0" posX="2632.5391" posY="-2001.9062" posZ="13.34375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (DYN_F_R_WOOD_3) (2)" radius="4.4756012" interior="0" model="1460" lodModel="0" posX="2632.6484" posY="-1997.3203" posZ="13.34375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (DYN_F_R_WOOD_3) (3)" radius="4.4756012" interior="0" model="1460" lodModel="0" posX="2632.4297" posY="-2006.4844" posZ="13.34375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <spawnpoint id="spawnpoint (Savanna) (1)" vehicle="567" posX="2645.1001" posY="-2042.8" posZ="13.3" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <removeWorldObject id="removeWorldObject (modlas2) (1)" radius="5.8436832" interior="0" model="5340" lodModel="0" posX="2644.8594" posY="-2039.2344" posZ="14.03906" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#C33B9E99" size="2.25" nextid="checkpoint () (2)" posX="2631.2" posY="-2001.4" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#C33B9E99" size="10.25" alpha="255" interior="0" nextid="checkpoint () (3)" posX="2564.8999" posY="-1859.9" posZ="2.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#C33B9E99" size="10.25" alpha="255" interior="0" posX="1800.9" posY="-1894.1" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="2645.3" posY="-2022.4" posZ="14.1" rotX="0" rotY="0" rotZ="258.84"></racepickup>
+    <vehicle id="vehicle (Remington) (1)" sirens="false" landingGearDown="false" plate="QGWX FMB" paintjob="0" dimension="0" interior="0" health="1000" alpha="255" model="534" collisions="true" posX="1785.1" posY="-1917.4" posZ="13.2" rotX="0" rotY="0" rotZ="300" color="199,89,22,70,89,122,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Blade) (1)" sirens="false" landingGearDown="false" plate="K8PI VR5" paintjob="2" dimension="0" interior="0" health="1000" alpha="255" model="536" collisions="true" posX="1794.2" posY="-1917.8" posZ="13.2" rotX="0" rotY="0" rotZ="50" color="45,58,53,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Savanna) (1)" sirens="false" landingGearDown="false" plate="3XUA OTB" paintjob="1" dimension="0" interior="0" health="1000" alpha="255" model="567" collisions="true" posX="1788.6" posY="-1908.3" posZ="13.4" rotX="0" rotY="0" rotZ="190" upgrades="1130" color="171,146,118,68,98,79,0,0,0,0,0,0"></vehicle>
+    <object id="object (MED_SPEAKER_4) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="2232" scale="1" doublesided="false" collisions="true" posX="1784" posY="-1915.2" posZ="13" rotX="0" rotY="0" rotZ="130"></object>
+    <object id="object (MED_SPEAKER_4) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="2232" scale="1" doublesided="false" collisions="true" posX="1786.2998" posY="-1919.4004" posZ="13" rotX="0" rotY="0" rotZ="119.998"></object>
+</map>

@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" posX="-250" posY="-643.5" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-640" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-636.5" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-633.79999" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-629.79999" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-626" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-621" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-617" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-613" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-609.29999" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-604.5" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-600" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-595.5" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (NRG-500) (1)" vehicle="522" alpha="255" interior="0" posX="-250" posY="-590.5" posZ="162" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+</map>

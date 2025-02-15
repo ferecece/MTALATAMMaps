@@ -1,0 +1,12 @@
+<def name="paramedical">
+	<element name="patient" friendlyname="Patient">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<object model="1" position="0,0,0" editorOnly="true" alpha="0"/>
+	</element>
+	<element name="hospital" friendlyname="Hospital">
+		<data name="position" type="coord3d" default="0,0,0" />
+		<data name="rotation" type="coord3d" default="0,0,0" />
+		<object model="1234" position="0,0,0" editorOnly="true" alpha="0"/>
+	</element>
+</def>
