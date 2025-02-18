@@ -1,7 +1,7 @@
 <meta>
     <min_mta_version server="1.5.8-9.20957"></min_mta_version>
     <info gamemodes="race" type="map" racetype="R" name="Mind The Gap" author="S." version="1.0.0" description="Please, mind the gap. Use your balance keys in the air. Classic map that uses one game mechanic for one trick and then fails to deliver on the rest of the map."></info>
-    <map src="race-mindthegap.map" dimension="0"></map>
+    <map src="MindTheGap.map" dimension="0"></map>
     <settings>
         <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
         <setting name="#shufflespawns" value='[ &quot;false&quot; ]'></setting>
