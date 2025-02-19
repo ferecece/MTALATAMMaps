@@ -19,6 +19,7 @@
         <setting name="#duration" value="[ 600 ]"></setting>
         <setting name="#timeafterfirstfinish" value="[ 120 ]"></setting>
         <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+        <setting name="#shufflespawns" value='[ true ]'></setting>
     </settings>
     <script src="mapEditorScriptingExtension_s.lua" type="server" validate="false"></script>
 </meta>
