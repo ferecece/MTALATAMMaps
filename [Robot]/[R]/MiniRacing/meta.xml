@@ -1,6 +1,6 @@
 <meta>
     <min_mta_version server="1.5.8-9.20957"></min_mta_version>
-    <info gamemodes="race" racetype="R" type="map" name="Mini Racing" author="=FoX=Wuzi" version="1.0.0" description="Credits:
+    <info gamemodes="race" type="map" racetype="R" name="Mini Racing" author="=FoX=Wuzi" version="1.0.0" description="Credits:
 Script by Discoordination, ferris wheel spokes (6461) object found by SpeedyFolf"></info>
     <map src="RCRace.map" dimension="0"></map>
     <settings>

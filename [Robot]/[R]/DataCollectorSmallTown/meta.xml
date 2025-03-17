@@ -20,7 +20,7 @@
         <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
     </settings>
     <script src="mapEditorScriptingExtension_s.lua" type="server" validate="false"></script>
-    <script src="vehicles_scoreboard_s.lua" type="server"></script>
-    <script src="force_s.lua" type="server"></script>
+    <script src="vehicles_scoreboard_s.lua" type="server" validate="false"></script>
+    <script src="force_s.lua" type="server" validate="false"></script>
     <script src="vehicles_scoreboard_c.lua" type="client" validate="true"></script>
 </meta>

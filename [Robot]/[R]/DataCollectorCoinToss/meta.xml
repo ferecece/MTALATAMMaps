@@ -1,23 +1,24 @@
 <meta>
     <min_mta_version server="1.5.8-9.20957"></min_mta_version>
-    <info gamemodes="race" type="map" racetype="R" name="Data Collector: San Fierro Hills" author="=FoX=Wuzi, Discoordination" version="1.0.0"></info>
-    <map src="DataCollectorSanFierroHills.map" dimension="0"></map>
+    <info gamemodes="race" type="map" racetype="R" name="Data Collector: Coin Toss" author="misterfolg, but technically S., and Discoordination" version="1.0" description="It's not about the destination, it's about the Journey."></info>
+    <map src="DataCollectorCoinToss.map" dimension="0"></map>
     <settings>
         <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
         <setting name="#maxplayers" value="[ 128 ]"></setting>
         <setting name="#useLODs" value="[ true ]"></setting>
         <setting name="#gamespeed" value="[ 1 ]"></setting>
         <setting name="#ghostmode" value='[ &quot;true&quot; ]'></setting>
-        <setting name="#time" value="12:0"></setting>
+        <setting name="#time" value="23:0"></setting>
         <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
         <setting name="#minplayers" value="[ 0 ]"></setting>
-        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#weather" value="[ 3 ]"></setting>
         <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
         <setting name="#waveheight" value="[ 0 ]"></setting>
-        <setting name="#weather" value="[ 0 ]"></setting>
-        <setting name="#locked_time" value="[ true ]"></setting>
-        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawntime" value="[ 1 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#duration" value="[ 1200 ]"></setting>
         <setting name="#respawn" value='[ &quot;timelimit&quot; ]'></setting>
+        <setting name="#timeafterfirstfinish" value='[ 120 ]'></setting>
     </settings>
     <script src="mapEditorScriptingExtension_s.lua" type="server" validate="false"></script>
     <script src="vehicles_scoreboard_s.lua" type="server" validate="false"></script>
